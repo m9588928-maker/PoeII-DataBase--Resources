@@ -1,0 +1,1101 @@
+{
+  "baseItems": [
+    {
+      "category": "armor",
+      "subKey": "quivers",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Quivers/Basetypes/Broadhead_Quiver.webp",
+      "name": {
+        "zh-Hant": "寬頭箭袋",
+        "zh-Hans": "宽矢箭袋",
+        "en": "Broadhead Quiver"
+      },
+      "type1": {
+        "zh-Hant": "箭袋",
+        "zh-Hans": "箭袋",
+        "en": "Quiver"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [],
+      "affixes": [
+        {
+          "zh-Hant": "攻擊附加1至3物理傷害",
+          "zh-Hans": "攻击附加 1 - 3 物理伤害",
+          "en": "Adds 1 to 3 Physical Damage to Attacks"
+        }
+      ],
+      "level": 1,
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "quivers",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Quivers/Basetypes/Fire_Quiver.webp",
+      "name": {
+        "zh-Hant": "火焰箭袋",
+        "zh-Hans": "火灵箭袋",
+        "en": "Fire Quiver"
+      },
+      "type1": {
+        "zh-Hant": "箭袋",
+        "zh-Hans": "箭袋",
+        "en": "Quiver"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [],
+      "affixes": [
+        {
+          "zh-Hant": "攻擊附加3至5火焰傷害",
+          "zh-Hans": "攻击附加 3 - 5 基础火焰伤害",
+          "en": "Adds 3 to 5 Fire damage to Attacks"
+        }
+      ],
+      "level": 8,
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "quivers",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Quivers/Basetypes/Sacral_Quiver.webp",
+      "name": {
+        "zh-Hant": "聖禮箭袋",
+        "zh-Hans": "圣骨箭袋",
+        "en": "Sacral Quiver"
+      },
+      "type1": {
+        "zh-Hant": "箭袋",
+        "zh-Hans": "箭袋",
+        "en": "Quiver"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [],
+      "affixes": [
+        {
+          "zh-Hant": "攻擊每擊中一名敵人，獲得(2—3)生命",
+          "zh-Hans": "攻击每击中一名敌人获得(2—3)点生命",
+          "en": "Gain (2—3) Life per Enemy Hit with Attacks"
+        }
+      ],
+      "level": 16,
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "quivers",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Quivers/Basetypes/Two-Point_Quiver.webp",
+      "name": {
+        "zh-Hant": "雙尖箭袋",
+        "zh-Hans": "双锋箭袋",
+        "en": "Two-Point Quiver"
+      },
+      "type1": {
+        "zh-Hant": "箭袋",
+        "zh-Hans": "箭袋",
+        "en": "Quiver"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [],
+      "affixes": [
+        {
+          "zh-Hant": "增加(20—30)%命中值",
+          "zh-Hans": "命中值提高 (20—30)%",
+          "en": "(20—30)% increased Accuracy Rating"
+        }
+      ],
+      "level": 24,
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "quivers",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Quivers/Basetypes/QuiverBlunt.webp",
+      "name": {
+        "zh-Hant": "鈍箭袋",
+        "zh-Hans": "钝矢箭袋",
+        "en": "Blunt Quiver"
+      },
+      "type1": {
+        "zh-Hant": "箭袋",
+        "zh-Hans": "箭袋",
+        "en": "Quiver"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [],
+      "affixes": [
+        {
+          "zh-Hant": "增加(25—40)%暈眩累積",
+          "zh-Hans": "晕眩积蓄值提高 (25—40)%",
+          "en": "(25—40)% increased Stun Buildup"
+        }
+      ],
+      "level": 33,
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "quivers",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Quivers/Basetypes/Toxic_Quiver.webp",
+      "name": {
+        "zh-Hant": "劇毒箭袋",
+        "zh-Hans": "淬毒箭袋",
+        "en": "Toxic Quiver"
+      },
+      "type1": {
+        "zh-Hant": "箭袋",
+        "zh-Hans": "箭袋",
+        "en": "Quiver"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [],
+      "affixes": [
+        {
+          "zh-Hant": "攻擊有(20—30)%機率在擊中時造成中毒",
+          "zh-Hans": "攻击击中时有 (20—30)% 的几率使目标中毒",
+          "en": "(20—30)% chance to Poison on Hit with Attacks"
+        }
+      ],
+      "level": 39,
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "quivers",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Quivers/Basetypes/Serrated_Quiver.webp",
+      "name": {
+        "zh-Hant": "鋸齒箭袋",
+        "zh-Hans": "锯齿箭袋",
+        "en": "Serrated Quiver"
+      },
+      "type1": {
+        "zh-Hant": "箭袋",
+        "zh-Hans": "箭袋",
+        "en": "Quiver"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [],
+      "affixes": [
+        {
+          "zh-Hant": "攻擊有(20—30)%機率造成流血",
+          "zh-Hans": "攻击有 (20—30)% 的几率导致流血",
+          "en": "Attacks have (20—30)% chance to cause Bleeding"
+        }
+      ],
+      "level": 44,
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "quivers",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Quivers/Basetypes/Primed_Quiver.webp",
+      "name": {
+        "zh-Hant": "灌注箭袋",
+        "zh-Hans": "精工箭袋",
+        "en": "Primed Quiver"
+      },
+      "type1": {
+        "zh-Hant": "箭袋",
+        "zh-Hans": "箭袋",
+        "en": "Quiver"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [],
+      "affixes": [
+        {
+          "zh-Hant": "增加(7—10)%攻擊速度",
+          "zh-Hans": "攻击速度提高 (7—10)%",
+          "en": "(7—10)% increased Attack Speed"
+        }
+      ],
+      "level": 51,
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "quivers",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Quivers/Basetypes/Penetrating_Quiver.webp",
+      "name": {
+        "zh-Hant": "穿透箭袋",
+        "zh-Hans": "穿射箭袋",
+        "en": "Penetrating Quiver"
+      },
+      "type1": {
+        "zh-Hant": "箭袋",
+        "zh-Hans": "箭袋",
+        "en": "Quiver"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [],
+      "affixes": [
+        {
+          "zh-Hant": "有100%機率穿透一個敵人",
+          "zh-Hans": "100% 的几率穿透一个敌人",
+          "en": "100% chance to Pierce an Enemy"
+        }
+      ],
+      "level": 55,
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "quivers",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Quivers/Basetypes/Volant_Quiver.webp",
+      "name": {
+        "zh-Hant": "速射箭袋",
+        "zh-Hans": "飞矢箭袋",
+        "en": "Volant Quiver"
+      },
+      "type1": {
+        "zh-Hant": "箭袋",
+        "zh-Hans": "箭袋",
+        "en": "Quiver"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [],
+      "affixes": [
+        {
+          "zh-Hant": "增加(20—30)%箭矢速度",
+          "zh-Hans": "箭矢速度提高 (20—30)%",
+          "en": "(20—30)% increased Arrow Speed"
+        }
+      ],
+      "level": 61,
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "quivers",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Quivers/Basetypes/Visceral_Quiver.webp",
+      "name": {
+        "zh-Hant": "內臟箭袋",
+        "zh-Hans": "贯心箭袋",
+        "en": "Visceral Quiver"
+      },
+      "type1": {
+        "zh-Hant": "箭袋",
+        "zh-Hans": "箭袋",
+        "en": "Quiver"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [],
+      "affixes": [
+        {
+          "zh-Hant": "增加(20—30)%攻擊暴擊率",
+          "zh-Hans": "攻击暴击率提高 (20—30)%",
+          "en": "(20—30)% increased Critical Hit Chance for Attacks"
+        }
+      ],
+      "level": 65,
+      "grantedSkillsExtra": []
+    }
+  ],
+  "uniqueItems": [
+    {
+      "category": "armor",
+      "subKey": "quivers",
+      "rarity": "unique",
+      "id": "asphyxias-wrath",
+      "name": {
+        "zh-Hant": "冰靈之吼",
+        "zh-Hans": "冰灵之吼",
+        "en": "Asphyxia's Wrath"
+      },
+      "type1": {
+        "zh-Hant": "箭袋",
+        "zh-Hans": "箭袋",
+        "en": "Quiver"
+      },
+      "type2": {
+        "zh-Hant": "寬頭箭袋",
+        "zh-Hans": "宽矢箭袋",
+        "en": "Broadhead Quiver"
+      },
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Quivers/Uniques/AsphyxiasWrath.webp",
+      "stats": [],
+      "affixes": [
+        {
+          "zh-Hant": "攻擊附加1至3物理傷害",
+          "zh-Hans": "攻击附加 1 - 3 物理伤害",
+          "en": "Adds 1 to 3 Physical Damage to Attacks"
+        },
+        {
+          "zh-Hant": "攻擊附加(3—4)至(5—8)冰冷傷害",
+          "zh-Hans": "攻击附加 (3—4) - (5—8) 基础冰霜伤害",
+          "en": "Adds (3—4) to (5—8) Cold damage to Attacks"
+        },
+        {
+          "zh-Hant": "攻擊獲得等同於傷害(5—10)%的額外冰冷傷害",
+          "zh-Hans": "攻击获得相当于伤害 (5—10)% 的额外冰霜伤害",
+          "en": "Attacks Gain (5—10)% of Damage as Extra Cold Damage"
+        },
+        {
+          "zh-Hant": "增加(5—10)%攻擊速度",
+          "zh-Hans": "攻击速度提高 (5—10)%",
+          "en": "(5—10)% increased Attack Speed"
+        },
+        {
+          "zh-Hant": "+(5—10)%冰冷抗性",
+          "zh-Hans": "冰霜抗性 +(5—10)%",
+          "en": "+(5—10)% to Cold Resistance"
+        },
+        {
+          "zh-Hant": "被你的擊中所冰緩的敵人根據冰緩幅度增加承受傷害",
+          "zh-Hans": "被你的击中冰缓的敌人受到的伤害提高，取决于冰缓强度",
+          "en": "Enemies Chilled by your Hits increase damage taken by Chill Magnitude"
+        }
+      ],
+      "flavor": {
+        "zh-Hant": "如斯霧氣，化為冰霜刺進口鼻\n那是凍原旅人窒息倒地前\n最後一次的呼吸",
+        "zh-Hans": "如斯雾气，化为冰霜刺进口鼻\n那是冻原旅人窒息倒地前\n最后一次的呼吸。",
+        "en": "Mist of breath\nIcing to lips and throat\nAs the warm ones choke and fall\nUpon the frozen wasteland."
+      },
+      "level": 1,
+      "_flavorEnabled": true,
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "quivers",
+      "rarity": "unique",
+      "id": "blackgleam",
+      "name": {
+        "zh-Hant": "黑炎之芒",
+        "zh-Hans": "黑炎之芒",
+        "en": "Blackgleam"
+      },
+      "type1": {
+        "zh-Hant": "箭袋",
+        "zh-Hans": "箭袋",
+        "en": "Quiver"
+      },
+      "type2": {
+        "zh-Hant": "火焰箭袋",
+        "zh-Hans": "火灵箭袋",
+        "en": "Fire Quiver"
+      },
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Quivers/Uniques/Blackgleam.webp",
+      "stats": [],
+      "affixes": [
+        {
+          "zh-Hant": "攻擊附加3至5火焰傷害",
+          "zh-Hans": "攻击附加 3 - 5 基础火焰伤害",
+          "en": "Adds 3 to 5 Fire damage to Attacks"
+        },
+        {
+          "zh-Hant": "攻擊附加(3—5)至(6—9)火焰傷害",
+          "zh-Hans": "攻击附加 (3—5) - (6—9) 基础火焰伤害",
+          "en": "Adds (3—5) to (6—9) Fire damage to Attacks"
+        },
+        {
+          "zh-Hant": "攻擊獲得等同於傷害(5—10)%的額外火焰傷害",
+          "zh-Hans": "攻击获得相当于伤害 (5—10)% 的额外火焰伤害",
+          "en": "Attacks Gain (5—10)% of Damage as Extra Fire Damage"
+        },
+        {
+          "zh-Hant": "+(30—50)最大魔力",
+          "zh-Hans": "+(30—50) 魔力上限",
+          "en": "+(30—50) to maximum Mana"
+        },
+        {
+          "zh-Hant": "增加50%易燃幅度",
+          "zh-Hans": "易燃强度提高 50%",
+          "en": "50% increased Flammability Magnitude"
+        },
+        {
+          "zh-Hant": "投射物會穿透所有被點燃的敵人",
+          "zh-Hans": "投射物穿透所有点燃的敌人",
+          "en": "Projectiles Pierce all Ignited enemies"
+        }
+      ],
+      "flavor": {
+        "zh-Hant": "熾羽疾馳化濁影，\n烈矢奔騰照光明。",
+        "zh-Hans": "炽羽疾驰化浊影，\n烈矢奔腾照光明。",
+        "en": "Molten feathers, veiled spark,\nHissing arrows from the dark."
+      },
+      "level": 8,
+      "_flavorEnabled": true,
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "quivers",
+      "rarity": "unique",
+      "id": "beyond-reach",
+      "name": {
+        "zh-Hant": "無法到達",
+        "zh-Hans": "望而不及",
+        "en": "Beyond Reach"
+      },
+      "type1": {
+        "zh-Hant": "箭袋",
+        "zh-Hans": "箭袋",
+        "en": "Quiver"
+      },
+      "type2": {
+        "zh-Hant": "內臟箭袋",
+        "zh-Hans": "贯心箭袋",
+        "en": "Visceral Quiver"
+      },
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Quivers/Uniques/BreachQuiver.webp",
+      "stats": [],
+      "affixes": [
+        {
+          "zh-Hant": "增加(20—30)%攻擊暴擊率",
+          "zh-Hans": "攻击暴击率提高 (20—30)%",
+          "en": "(20—30)% increased Critical Hit Chance for Attacks"
+        },
+        {
+          "zh-Hant": "減少(10—15)%攻擊速度",
+          "zh-Hans": "攻击速度降低 (10—15)%",
+          "en": "(10—15)% reduced Attack Speed"
+        },
+        {
+          "zh-Hant": "攻擊獲得等同於物理傷害(10—20)%的額外混沌傷害",
+          "zh-Hans": "攻击获得相当于物理伤害 (10—20)% 的额外混沌伤害",
+          "en": "Attacks Gain (10—20)% of Physical Damage as extra Chaos Damage"
+        },
+        {
+          "zh-Hant": "擊中的混沌傷害也會貢獻至冰凍累積",
+          "zh-Hans": "击中造成的混沌伤害也会作用于冻结积蓄",
+          "en": "Chaos Damage from Hits also Contributes to Freeze Buildup"
+        },
+        {
+          "zh-Hant": "擊中的混沌傷害也會貢獻至觸電累積",
+          "zh-Hans": "击中混沌伤害同时作用于触电积蓄",
+          "en": "Chaos Damage from Hits also Contributes to Electrocute Buildup"
+        }
+      ],
+      "flavor": {
+        "zh-Hant": "認知的邊界，是一道保護我們\n免於自我毀滅的屏障。",
+        "zh-Hans": "知识的局限是一道屏障，\n让我们不被自己所害。",
+        "en": "The limit of our knowledge is a barrier\nthat protects us from ourselves."
+      },
+      "level": 65,
+      "_flavorEnabled": true,
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "quivers",
+      "rarity": "unique",
+      "id": "the-lethal-draw",
+      "name": {
+        "zh-Hant": "致命抽取",
+        "zh-Hans": "攫命",
+        "en": "The Lethal Draw"
+      },
+      "type1": {
+        "zh-Hant": "箭袋",
+        "zh-Hans": "箭袋",
+        "en": "Quiver"
+      },
+      "type2": {
+        "zh-Hant": "聖禮箭袋",
+        "zh-Hans": "圣骨箭袋",
+        "en": "Sacral Quiver"
+      },
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Quivers/Uniques/TheLethalDraw.webp",
+      "stats": [],
+      "affixes": [
+        {
+          "zh-Hant": "攻擊每擊中一名敵人，獲得(2—3)生命",
+          "zh-Hans": "攻击每击中一名敌人获得(2—3)点生命",
+          "en": "Gain (2—3) Life per Enemy Hit with Attacks"
+        },
+        {
+          "zh-Hant": "增加(5—10)%攻擊速度",
+          "zh-Hans": "攻击速度提高 (5—10)%",
+          "en": "(5—10)% increased Attack Speed"
+        },
+        {
+          "zh-Hant": "攻擊每擊中一名敵人，獲得5生命",
+          "zh-Hans": "攻击每击中一名敌人获得5点生命",
+          "en": "Gain 5 Life per Enemy Hit with Attacks"
+        },
+        {
+          "zh-Hant": "有(15—25)%機率穿透一個敵人",
+          "zh-Hans": "(15—25)% 的几率穿透一个敌人",
+          "en": "(15—25)% chance to Pierce an Enemy"
+        },
+        {
+          "zh-Hant": "情況許可時，弓的攻擊會消耗你所擁有最大生命藥劑充能的10%，造成等同於藥劑生命恢復量(5—10)%的附加物理傷害",
+          "zh-Hans": "弓类攻击尽量消耗生命上限药剂充能的 10%，附加相当于药剂生命回复量 (5—10)% 的物理伤害",
+          "en": "Bow Attacks consume 10% of your maximum Life Flask Charges if possible to deal added Physical damage equal to (5—10)% of Flask's Life Recovery amount"
+        }
+      ],
+      "flavor": {
+        "zh-Hant": "流溢的汁液既是生命，也是死亡。",
+        "zh-Hans": "生死同源，承自一脉。",
+        "en": "Life and death ooze from the same sap."
+      },
+      "level": 16,
+      "_flavorEnabled": true,
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "quivers",
+      "rarity": "unique",
+      "id": "rearguard",
+      "name": {
+        "zh-Hant": "寒鋒之衛",
+        "zh-Hans": "寒锋之卫",
+        "en": "Rearguard"
+      },
+      "type1": {
+        "zh-Hant": "箭袋",
+        "zh-Hans": "箭袋",
+        "en": "Quiver"
+      },
+      "type2": {
+        "zh-Hant": "鈍箭袋",
+        "zh-Hans": "钝矢箭袋",
+        "en": "Blunt Quiver"
+      },
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Quivers/Uniques/Rearguard.webp",
+      "stats": [],
+      "affixes": [
+        {
+          "zh-Hant": "增加(25—40)%暈眩累積",
+          "zh-Hans": "晕眩积蓄值提高 (25—40)%",
+          "en": "(25—40)% increased Stun Buildup"
+        },
+        {
+          "zh-Hant": "攻擊附加(7—11)至(14—20)物理傷害",
+          "zh-Hans": "攻击附加 (7—11) - (14—20) 物理伤害",
+          "en": "Adds (7—11) to (14—20) Physical Damage to Attacks"
+        },
+        {
+          "zh-Hant": "+(150—200)護甲值",
+          "zh-Hans": "+(150—200) 护甲",
+          "en": "+(150—200) to Armour"
+        },
+        {
+          "zh-Hant": "增加(20—30)%投射物速度",
+          "zh-Hans": "投射物速度提高 (20—30)%",
+          "en": "(20—30)% increased Projectile Speed"
+        },
+        {
+          "zh-Hant": "+(15—25)%至格擋率",
+          "zh-Hans": "格挡几率 +(15—25)%",
+          "en": "+(15—25)% to Block chance"
+        }
+      ],
+      "flavor": {
+        "zh-Hant": "\"背後有眼的人極其罕見。\"\n- 瓦爾弓箭手奇拉維",
+        "zh-Hans": "“很少人能像背后生出双眼一般地感应空气的流动。”\n——瓦尔箭术师奇拉维",
+        "en": "\"It's a rare man that has eyes in the back of his head.\"\n- Kiravi, Vaal Archer"
+      },
+      "level": 33,
+      "_flavorEnabled": true,
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "quivers",
+      "rarity": "unique",
+      "id": "rearguard-cultivated",
+      "name": {
+        "zh-Hant": "寒鋒之衛",
+        "zh-Hans": "寒锋之卫",
+        "en": "Rearguard"
+      },
+      "type1": {
+        "zh-Hant": "箭袋",
+        "zh-Hans": "箭袋",
+        "en": "Quiver"
+      },
+      "type2": {
+        "zh-Hant": "鈍箭袋",
+        "zh-Hans": "钝矢箭袋",
+        "en": "Blunt Quiver"
+      },
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Quivers/Uniques/Rearguard.webp",
+      "stats": [],
+      "affixes": [
+        {
+          "zh-Hant": "增加(25—40)%暈眩累積",
+          "zh-Hans": "晕眩积蓄值提高 (25—40)%",
+          "en": "(25—40)% increased Stun Buildup"
+        },
+        {
+          "zh-Hant": "攻擊附加(7—11)至(14—20)物理傷害",
+          "zh-Hans": "攻击附加 (7—11) - (14—20) 物理伤害",
+          "en": "Adds (7—11) to (14—20) Physical Damage to Attacks"
+        },
+        {
+          "zh-Hant": "+(150—200)護甲值",
+          "zh-Hans": "+(150—200) 护甲",
+          "en": "+(150—200) to Armour"
+        },
+        {
+          "zh-Hant": "增加(20—30)%投射物速度",
+          "zh-Hans": "投射物速度提高 (20—30)%",
+          "en": "(20—30)% increased Projectile Speed"
+        },
+        {
+          "zh-Hant": "+(15—25)%至格擋率",
+          "zh-Hans": "格挡几率 +(15—25)%",
+          "en": "+(15—25)% to Block chance"
+        },
+        {
+          "zh-Hant": "+(50—150)閃避值",
+          "zh-Hans": "+(50—150) 点闪避值",
+          "en": "+(50—150) to Evasion Rating",
+          "_cultivated": true
+        },
+        {
+          "zh-Hant": "增加(20—30)%被包圍的範圍效果",
+          "zh-Hans": "被包围效果范围提高 (20—30)%",
+          "en": "(20—30)% increased Surrounded Area of Effect",
+          "_cultivated": true
+        },
+        {
+          "zh-Hant": "增加25%攻擊速度",
+          "zh-Hans": "攻击速度提高 25%",
+          "en": "25% increased Attack Speed",
+          "_cultivated": true
+        },
+        {
+          "zh-Hant": "增加(15—25)%偏斜值",
+          "zh-Hans": "偏转值提高 (15—25)%",
+          "en": "(15—25)% increased Deflection Rating",
+          "_cultivated": true
+        }
+      ],
+      "flavor": {
+        "zh-Hant": "\"背後有眼的人極其罕見。\"\n- 瓦爾弓箭手奇拉維",
+        "zh-Hans": "“很少人能像背后生出双眼一般地感应空气的流动。”\n——瓦尔箭术师奇拉维",
+        "en": "\"It's a rare man that has eyes in the back of his head.\"\n- Kiravi, Vaal Archer"
+      },
+      "level": 33,
+      "_flavorEnabled": true,
+      "grantedSkillsExtra": [],
+      "variantOf": "rearguard",
+      "variantKind": "cultivated",
+      "variantLabel": {
+        "zh-Hant": "栽培",
+        "zh-Hans": "培育",
+        "en": "Cultivated"
+      }
+    },
+    {
+      "category": "armor",
+      "subKey": "quivers",
+      "rarity": "unique",
+      "id": "murkshaft",
+      "name": {
+        "zh-Hant": "陰暗通道",
+        "zh-Hans": "沉郁之棍",
+        "en": "Murkshaft"
+      },
+      "type1": {
+        "zh-Hant": "箭袋",
+        "zh-Hans": "箭袋",
+        "en": "Quiver"
+      },
+      "type2": {
+        "zh-Hant": "劇毒箭袋",
+        "zh-Hans": "淬毒箭袋",
+        "en": "Toxic Quiver"
+      },
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Quivers/Uniques/Murkshaft.webp",
+      "stats": [],
+      "grantedSkill": {
+        "name": {
+          "zh-Hant": "爆發沼地蟾蜍",
+          "zh-Hans": "爆裂沼蟾",
+          "en": "Bursting Fen Toad"
+        },
+        "level": 10,
+        "icon": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Quivers/SkillIcons/Murkshaft.webp",
+        "skillRef": "Bursting_Fen_Toad",
+        "_activeTab": 0
+      },
+      "affixes": [
+        {
+          "zh-Hant": "攻擊有(20—30)%機率在擊中時造成中毒",
+          "zh-Hans": "攻击击中时有 (20—30)% 的几率使目标中毒",
+          "en": "(20—30)% chance to Poison on Hit with Attacks"
+        },
+        {
+          "zh-Hant": "攻擊附加(6—10)至(13—17)物理傷害",
+          "zh-Hans": "攻击附加 (6—10) - (13—17) 物理伤害",
+          "en": "Adds (6—10) to (13—17) Physical Damage to Attacks"
+        },
+        {
+          "zh-Hant": "每個被擊殺的敵人，獲得(10—15)魔力",
+          "zh-Hans": "每击败一名敌人获得 (10—15) 点魔力",
+          "en": "Gain (10—15) Mana per enemy killed"
+        },
+        {
+          "zh-Hant": "增加(10—20)%中毒持續時間",
+          "zh-Hans": "中毒持续时间提高 (10—20)%",
+          "en": "(10—20)% increased Poison Duration"
+        },
+        {
+          "zh-Hant": "攻擊有(20—30)%機率在擊中時造成中毒",
+          "zh-Hans": "攻击击中时有 (20—30)% 的几率使目标中毒",
+          "en": "(20—30)% chance to Poison on Hit with Attacks"
+        },
+        {
+          "zh-Hant": "對目標施加中毒時，對其致盲",
+          "zh-Hans": "使目标中毒时还会使其致盲",
+          "en": "Blind Targets when you Poison them"
+        }
+      ],
+      "flavor": {
+        "zh-Hant": "\"燉蛙不是為了法術，那是對知識的汙辱。\n真正目的是為了煉毒。\"\n- 漆黑沼地的瑟菈席",
+        "zh-Hans": "“水煮青蛙不是为了施法，亲爱的。那是\n歹毒的谣传。这其实是用来制备毒药的。”\n——黑沼的瑟莱西",
+        "en": "\"Boiling frogs isn't for spells, dear. That's a disgusting\nrumour. They're actually for brewing poisons.\"\n- Selassie of the Black Fen"
+      },
+      "level": 39,
+      "_flavorEnabled": true,
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "quivers",
+      "rarity": "unique",
+      "id": "cadiros-gambit",
+      "name": {
+        "zh-Hant": "卡迪羅的詭計",
+        "zh-Hans": "卡迪罗的赌局",
+        "en": "Cadiro's Gambit"
+      },
+      "type1": {
+        "zh-Hant": "箭袋",
+        "zh-Hans": "箭袋",
+        "en": "Quiver"
+      },
+      "type2": {
+        "zh-Hant": "灌注箭袋",
+        "zh-Hans": "精工箭袋",
+        "en": "Primed Quiver"
+      },
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Quivers/Uniques/PerandusTurnstile.webp",
+      "stats": [],
+      "affixes": [
+        {
+          "zh-Hant": "增加(7—10)%攻擊速度",
+          "zh-Hans": "攻击速度提高 (7—10)%",
+          "en": "(7—10)% increased Attack Speed"
+        },
+        {
+          "zh-Hant": "每支射出的箭矢為逐漸增強、碎片、倒轉、鑽石、貪婪，或重擊箭矢",
+          "zh-Hans": "每支射出的箭都是渐强、裂片、回转、金刚、贪婪或钝击箭矢",
+          "en": "Each Arrow fired is a Crescendo, Splinter, Reversing, Diamond, Covetous, or Blunt Arrow"
+        }
+      ],
+      "flavor": {
+        "zh-Hant": "\"人無法克服機運，但只要操縱得當，\n所有結果都能有其裨益……\"\n- 卡迪羅．普蘭德斯",
+        "zh-Hans": "“无论如何抹除，世间总有机遇。\n只要机制得当，一切果效都能转为己用……”\n——卡迪罗·佩兰德斯",
+        "en": "\"One can never fully eliminate Chance, but with the right\nmachinations, all the outcomes may be turned in your favour...\"\n- Cadiro Perandus"
+      },
+      "level": 66,
+      "_flavorEnabled": true,
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "quivers",
+      "rarity": "unique",
+      "id": "drillneck",
+      "name": {
+        "zh-Hant": "穿心",
+        "zh-Hans": "穿心",
+        "en": "Drillneck"
+      },
+      "type1": {
+        "zh-Hant": "箭袋",
+        "zh-Hans": "箭袋",
+        "en": "Quiver"
+      },
+      "type2": {
+        "zh-Hant": "穿透箭袋",
+        "zh-Hans": "穿射箭袋",
+        "en": "Penetrating Quiver"
+      },
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Quivers/Uniques/Drillneck.webp",
+      "stats": [],
+      "affixes": [
+        {
+          "zh-Hant": "有100%機率穿透一個敵人",
+          "zh-Hans": "100% 的几率穿透一个敌人",
+          "en": "100% chance to Pierce an Enemy"
+        },
+        {
+          "zh-Hant": "+(60—90)最大生命",
+          "zh-Hans": "+(60—90) 生命上限",
+          "en": "+(60—90) to maximum Life"
+        },
+        {
+          "zh-Hant": "增加(8—12)%攻擊速度",
+          "zh-Hans": "攻击速度提高 (8—12)%",
+          "en": "(8—12)% increased Attack Speed"
+        },
+        {
+          "zh-Hant": "獲得等同(24—32)%閃避值的偏斜值",
+          "zh-Hans": "获得相当于闪避值 (24—32)% 的偏转值",
+          "en": "Gain Deflection Rating equal to (24—32)% of Evasion Rating"
+        },
+        {
+          "zh-Hant": "攻擊投射物會在穿透(2—4)次後返回",
+          "zh-Hans": "攻击投射物会在穿透至少 (2—4) 次后归返",
+          "en": "Attack Projectiles Return if they Pierced at least (2—4) times"
+        },
+        {
+          "zh-Hant": "投射物每穿透1次，增加(42—64)%暴擊機率",
+          "zh-Hans": "投射物每穿透一次，暴击几率提高 (42—64)%",
+          "en": "Projectiles have (42—64)% increased Critical Hit chance for each time they have Pierced"
+        },
+        {
+          "zh-Hant": "投射物每穿透1次，增加(42—64)%造成的擊中傷害",
+          "zh-Hans": "投射物每穿透一次，造成的击中伤害提高 (42—64)%",
+          "en": "Projectiles deal (42—64)% increased Damage with Hits for each time they have Pierced"
+        }
+      ],
+      "flavor": {
+        "zh-Hant": "\"為何要浪費此等上好箭矢在一人身上？\"\n- 瓦爾箭術師．奇拉維",
+        "zh-Hans": "“何须为这一人耗费如此良箭？”\n——瓦尔箭术师奇拉维",
+        "en": "\"Why waste such a fine arrow on just one man?\"\n- Kiravi, Vaal Archer"
+      },
+      "level": 55,
+      "_flavorEnabled": true,
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "quivers",
+      "rarity": "unique",
+      "id": "drillneck-cultivated",
+      "name": {
+        "zh-Hant": "穿心",
+        "zh-Hans": "穿心",
+        "en": "Drillneck"
+      },
+      "type1": {
+        "zh-Hant": "箭袋",
+        "zh-Hans": "箭袋",
+        "en": "Quiver"
+      },
+      "type2": {
+        "zh-Hant": "穿透箭袋",
+        "zh-Hans": "穿射箭袋",
+        "en": "Penetrating Quiver"
+      },
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Quivers/Uniques/Drillneck.webp",
+      "stats": [],
+      "affixes": [
+        {
+          "zh-Hant": "有100%機率穿透一個敵人",
+          "zh-Hans": "100% 的几率穿透一个敌人",
+          "en": "100% chance to Pierce an Enemy"
+        },
+        {
+          "zh-Hant": "+(60—90)最大生命",
+          "zh-Hans": "+(60—90) 生命上限",
+          "en": "+(60—90) to maximum Life"
+        },
+        {
+          "zh-Hant": "增加(8—12)%攻擊速度",
+          "zh-Hans": "攻击速度提高 (8—12)%",
+          "en": "(8—12)% increased Attack Speed"
+        },
+        {
+          "zh-Hant": "獲得等同(24—32)%閃避值的偏斜值",
+          "zh-Hans": "获得相当于闪避值 (24—32)% 的偏转值",
+          "en": "Gain Deflection Rating equal to (24—32)% of Evasion Rating"
+        },
+        {
+          "zh-Hant": "攻擊投射物會在穿透(2—4)次後返回",
+          "zh-Hans": "攻击投射物会在穿透至少 (2—4) 次后归返",
+          "en": "Attack Projectiles Return if they Pierced at least (2—4) times"
+        },
+        {
+          "zh-Hant": "投射物每穿透1次，增加(42—64)%暴擊機率",
+          "zh-Hans": "投射物每穿透一次，暴击几率提高 (42—64)%",
+          "en": "Projectiles have (42—64)% increased Critical Hit chance for each time they have Pierced"
+        },
+        {
+          "zh-Hant": "投射物每穿透1次，增加(42—64)%造成的擊中傷害",
+          "zh-Hans": "投射物每穿透一次，造成的击中伤害提高 (42—64)%",
+          "en": "Projectiles deal (42—64)% increased Damage with Hits for each time they have Pierced"
+        },
+        {
+          "zh-Hant": "增加(16—24)%投射物速度",
+          "zh-Hans": "投射物速度提高 (16—24)%",
+          "en": "(16—24)% increased Projectile Speed",
+          "_cultivated": true
+        },
+        {
+          "zh-Hant": "衝刺期間增加(100—150)%閃避值",
+          "zh-Hans": "奔跑时闪避值提高 (100—150)%",
+          "en": "(100—150)% increased Evasion Rating while Sprinting",
+          "_cultivated": true
+        },
+        {
+          "zh-Hant": "箭矢會穿透額外1名目標",
+          "zh-Hans": "箭矢会穿透 1 个额外目标",
+          "en": "Arrows Pierce 1 additional Targets",
+          "_cultivated": true
+        }
+      ],
+      "flavor": {
+        "zh-Hant": "\"為何要浪費此等上好箭矢在一人身上？\"\n- 瓦爾箭術師．奇拉維",
+        "zh-Hans": "“何须为这一人耗费如此良箭？”\n——瓦尔箭术师奇拉维",
+        "en": "\"Why waste such a fine arrow on just one man?\"\n- Kiravi, Vaal Archer"
+      },
+      "level": 55,
+      "_flavorEnabled": true,
+      "grantedSkillsExtra": [],
+      "variantOf": "drillneck",
+      "variantKind": "cultivated",
+      "variantLabel": {
+        "zh-Hant": "栽培",
+        "zh-Hans": "培育",
+        "en": "Cultivated"
+      }
+    }
+  ],
+  "skillLibrary": {
+    "Bursting_Fen_Toad": {
+      "info": [
+        {
+          "zh-Hant": "攻擊",
+          "zh-Hans": "攻击",
+          "en": "Attack"
+        },
+        {
+          "zh-Hant": "範圍效果, 觸發, 物理, 混沌",
+          "zh-Hans": "效果区域, 触发, 物理, 混沌",
+          "en": "AoE, Trigger, Physical, Chaos"
+        },
+        {
+          "zh-Hant": "等級: 1 ~ 20",
+          "zh-Hans": "等级: 1 ~ 20",
+          "en": "Level: 1 ~ 20"
+        },
+        {
+          "zh-Hant": "消耗: 0 魔力",
+          "zh-Hans": "消耗: 0 点魔力",
+          "en": "Cost: 0 Mana"
+        },
+        {
+          "zh-Hant": "暴擊率: 5.00 %",
+          "zh-Hans": "暴击率: 5.00 %",
+          "en": "Critical Hit Chance: 5.00 %"
+        },
+        {
+          "zh-Hant": "攻擊傷害: 基礎的 225 ~ 702 %",
+          "zh-Hans": "攻击伤害: 225 ~ 702 % 基础",
+          "en": "Attack Damage: 225 ~ 702 % of base"
+        },
+        {
+          "zh-Hant": "需求: 等級 1 ~ 90",
+          "zh-Hans": "需求： 等级 1 ~ 90",
+          "en": "Requires: Level 1 ~ 90"
+        },
+        {
+          "zh-Hant": "此技能會創造一隻會短暫四處跳躍並爆炸的劇毒蟾蜍，對一片區域造成攻擊傷害並施加中毒。此技能所造成的傷害不會基於你的武器。",
+          "zh-Hans": "创造一只短暂跳跃的蟾蜍，随后蟾蜍会爆炸，对范围内造成攻击伤害并施加中毒。该技能造成的伤害不基于你的武器。",
+          "en": "This skill creates a toad that jumps around briefly, the toad then explodes, dealing Attack damage in an area and inflicting Poison. Damage you deal with this skill is not based on your Weapon."
+        },
+        {
+          "zh-Hant": "來自品質的額外效果",
+          "zh-Hans": "品质额外效果",
+          "en": "Additional Effects From Quality:"
+        },
+        {
+          "zh-Hant": "擊殺時有 0 ~ 10 % 機率觸發此技能",
+          "zh-Hans": "击败时有 0 ~ 10 % 的几率触发此技能",
+          "en": "0 ~ 10 % chance to Trigger this Skill on Kill"
+        }
+      ],
+      "tabs": [
+        {
+          "name": {
+            "zh-Hant": "說明",
+            "zh-Hans": "说明",
+            "en": "Info"
+          },
+          "lines": [
+            {
+              "zh-Hant": "擊殺時有 25 % 機率觸發此技能",
+              "zh-Hans": "击败时有 25 % 的几率触发此技能",
+              "en": "25 % chance to Trigger this Skill on Kill"
+            },
+            {
+              "zh-Hant": "蟾蜍爆炸範圍為 2.5 公尺",
+              "zh-Hans": "蟾蜍引爆范围为 2.5 米",
+              "en": "Toad Explosion radius is 2.5 metres"
+            },
+            {
+              "zh-Hant": "擊中有 100 % 機率使敵人中毒",
+              "zh-Hans": "击中时有 100 % 的几率使目标中毒",
+              "en": "100 % chance to Poison on Hit"
+            },
+            {
+              "zh-Hant": "6 ~ 171 至 9 ~ 256 基礎物理傷害",
+              "zh-Hans": "6 ~ 171 - 9 ~ 256 基础物理伤害",
+              "en": "6 ~ 171 to 9 ~ 256 Base Physical Damage"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

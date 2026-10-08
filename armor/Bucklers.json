@@ -1,0 +1,5276 @@
+{
+  "baseItems": [
+    {
+      "category": "armor",
+      "subKey": "bucklers",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/Basetypes/Leather_Buckler.webp",
+      "name": {
+        "zh-Hant": "皮革輕盾",
+        "zh-Hans": "皮制轻盾",
+        "en": "Leather Buckler"
+      },
+      "type1": {
+        "zh-Hant": "輕盾",
+        "zh-Hans": "轻盾",
+        "en": "Buckler"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [
+        {
+          "label": {
+            "zh-Hant": "格擋機率",
+            "zh-Hans": "格挡几率",
+            "en": "Block chance"
+          },
+          "value": "20%"
+        },
+        {
+          "label": {
+            "zh-Hant": "閃避值",
+            "zh-Hans": "闪避值",
+            "en": "Evasion Rating"
+          },
+          "value": "10"
+        }
+      ],
+      "grantedSkill": {
+        "name": {
+          "zh-Hant": "招架",
+          "zh-Hans": "招架",
+          "en": "Parry"
+        },
+        "icon": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/SkillIcons/HuntressBucklerParry.webp",
+        "skillRef": "Parry",
+        "_activeTab": 0
+      },
+      "level": 1,
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "bucklers",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/Basetypes/Wooden_Buckler.webp",
+      "name": {
+        "zh-Hant": "木頭輕盾",
+        "zh-Hans": "木制轻盾",
+        "en": "Wooden Buckler"
+      },
+      "type1": {
+        "zh-Hant": "輕盾",
+        "zh-Hans": "轻盾",
+        "en": "Buckler"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [
+        {
+          "label": {
+            "zh-Hant": "格擋機率",
+            "zh-Hans": "格挡几率",
+            "en": "Block chance"
+          },
+          "value": "20%"
+        },
+        {
+          "label": {
+            "zh-Hant": "閃避值",
+            "zh-Hans": "闪避值",
+            "en": "Evasion Rating"
+          },
+          "value": "18"
+        }
+      ],
+      "grantedSkill": {
+        "name": {
+          "zh-Hant": "招架",
+          "zh-Hans": "招架",
+          "en": "Parry"
+        },
+        "icon": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/SkillIcons/HuntressBucklerParry.webp",
+        "skillRef": "Parry",
+        "_activeTab": 0
+      },
+      "level": 5,
+      "requirements": {
+        "dex": 10
+      },
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "bucklers",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/Basetypes/Plated_Buckler.webp",
+      "name": {
+        "zh-Hant": "鋼板輕盾",
+        "zh-Hans": "嵌板轻盾",
+        "en": "Plated Buckler"
+      },
+      "type1": {
+        "zh-Hant": "輕盾",
+        "zh-Hans": "轻盾",
+        "en": "Buckler"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [
+        {
+          "label": {
+            "zh-Hant": "格擋機率",
+            "zh-Hans": "格挡几率",
+            "en": "Block chance"
+          },
+          "value": "20%"
+        },
+        {
+          "label": {
+            "zh-Hant": "閃避值",
+            "zh-Hans": "闪避值",
+            "en": "Evasion Rating"
+          },
+          "value": "31"
+        }
+      ],
+      "grantedSkill": {
+        "name": {
+          "zh-Hant": "招架",
+          "zh-Hans": "招架",
+          "en": "Parry"
+        },
+        "icon": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/SkillIcons/HuntressBucklerParry.webp",
+        "skillRef": "Parry",
+        "_activeTab": 0
+      },
+      "level": 11,
+      "requirements": {
+        "dex": 18
+      },
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "bucklers",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/Basetypes/Iron_Buckler.webp",
+      "name": {
+        "zh-Hant": "鍛鐵輕盾",
+        "zh-Hans": "锻铁轻盾",
+        "en": "Iron Buckler"
+      },
+      "type1": {
+        "zh-Hant": "輕盾",
+        "zh-Hans": "轻盾",
+        "en": "Buckler"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [
+        {
+          "label": {
+            "zh-Hant": "格擋機率",
+            "zh-Hans": "格挡几率",
+            "en": "Block chance"
+          },
+          "value": "20%"
+        },
+        {
+          "label": {
+            "zh-Hant": "閃避值",
+            "zh-Hans": "闪避值",
+            "en": "Evasion Rating"
+          },
+          "value": "42"
+        }
+      ],
+      "grantedSkill": {
+        "name": {
+          "zh-Hant": "招架",
+          "zh-Hans": "招架",
+          "en": "Parry"
+        },
+        "icon": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/SkillIcons/HuntressBucklerParry.webp",
+        "skillRef": "Parry",
+        "_activeTab": 0
+      },
+      "level": 16,
+      "requirements": {
+        "dex": 25
+      },
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "bucklers",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/Basetypes/Ridged_Buckler.webp",
+      "name": {
+        "zh-Hant": "脊狀輕盾",
+        "zh-Hans": "凸脊轻盾",
+        "en": "Ridged Buckler"
+      },
+      "type1": {
+        "zh-Hant": "輕盾",
+        "zh-Hans": "轻盾",
+        "en": "Buckler"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [
+        {
+          "label": {
+            "zh-Hant": "格擋機率",
+            "zh-Hans": "格挡几率",
+            "en": "Block chance"
+          },
+          "value": "20%"
+        },
+        {
+          "label": {
+            "zh-Hant": "閃避值",
+            "zh-Hans": "闪避值",
+            "en": "Evasion Rating"
+          },
+          "value": "55"
+        }
+      ],
+      "grantedSkill": {
+        "name": {
+          "zh-Hant": "招架",
+          "zh-Hans": "招架",
+          "en": "Parry"
+        },
+        "icon": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/SkillIcons/HuntressBucklerParry.webp",
+        "skillRef": "Parry",
+        "_activeTab": 0
+      },
+      "level": 22,
+      "requirements": {
+        "dex": 33
+      },
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "bucklers",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/Basetypes/Spiked_Buckler.webp",
+      "name": {
+        "zh-Hant": "尖刺輕盾",
+        "zh-Hans": "尖刺轻盾",
+        "en": "Spiked Buckler"
+      },
+      "type1": {
+        "zh-Hant": "輕盾",
+        "zh-Hans": "轻盾",
+        "en": "Buckler"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [
+        {
+          "label": {
+            "zh-Hant": "格擋機率",
+            "zh-Hans": "格挡几率",
+            "en": "Block chance"
+          },
+          "value": "20%"
+        },
+        {
+          "label": {
+            "zh-Hant": "閃避值",
+            "zh-Hans": "闪避值",
+            "en": "Evasion Rating"
+          },
+          "value": "64"
+        }
+      ],
+      "grantedSkill": {
+        "name": {
+          "zh-Hant": "招架",
+          "zh-Hans": "招架",
+          "en": "Parry"
+        },
+        "icon": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/SkillIcons/HuntressBucklerParry.webp",
+        "skillRef": "Parry",
+        "_activeTab": 0
+      },
+      "level": 26,
+      "requirements": {
+        "dex": 38
+      },
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "bucklers",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/Basetypes/Ringed_Buckler.webp",
+      "name": {
+        "zh-Hant": "環紋輕盾",
+        "zh-Hans": "环锁轻盾",
+        "en": "Ringed Buckler"
+      },
+      "type1": {
+        "zh-Hant": "輕盾",
+        "zh-Hans": "轻盾",
+        "en": "Buckler"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [
+        {
+          "label": {
+            "zh-Hant": "格擋機率",
+            "zh-Hans": "格挡几率",
+            "en": "Block chance"
+          },
+          "value": "20%"
+        },
+        {
+          "label": {
+            "zh-Hant": "閃避值",
+            "zh-Hans": "闪避值",
+            "en": "Evasion Rating"
+          },
+          "value": "79"
+        }
+      ],
+      "grantedSkill": {
+        "name": {
+          "zh-Hant": "招架",
+          "zh-Hans": "招架",
+          "en": "Parry"
+        },
+        "icon": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/SkillIcons/HuntressBucklerParry.webp",
+        "skillRef": "Parry",
+        "_activeTab": 0
+      },
+      "level": 33,
+      "requirements": {
+        "dex": 48
+      },
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "bucklers",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/Basetypes/Edged_Buckler.webp",
+      "name": {
+        "zh-Hant": "刃緣輕盾",
+        "zh-Hans": "锋缘轻盾",
+        "en": "Edged Buckler"
+      },
+      "type1": {
+        "zh-Hant": "輕盾",
+        "zh-Hans": "轻盾",
+        "en": "Buckler"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [
+        {
+          "label": {
+            "zh-Hant": "格擋機率",
+            "zh-Hans": "格挡几率",
+            "en": "Block chance"
+          },
+          "value": "20%"
+        },
+        {
+          "label": {
+            "zh-Hant": "閃避值",
+            "zh-Hans": "闪避值",
+            "en": "Evasion Rating"
+          },
+          "value": "92"
+        }
+      ],
+      "grantedSkill": {
+        "name": {
+          "zh-Hant": "招架",
+          "zh-Hans": "招架",
+          "en": "Parry"
+        },
+        "icon": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/SkillIcons/HuntressBucklerParry.webp",
+        "skillRef": "Parry",
+        "_activeTab": 0
+      },
+      "level": 39,
+      "requirements": {
+        "dex": 56
+      },
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "bucklers",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/Basetypes/Laminate_Buckler.webp",
+      "name": {
+        "zh-Hant": "層壓輕盾",
+        "zh-Hans": "合板轻盾",
+        "en": "Laminate Buckler"
+      },
+      "type1": {
+        "zh-Hant": "輕盾",
+        "zh-Hans": "轻盾",
+        "en": "Buckler"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [
+        {
+          "label": {
+            "zh-Hant": "格擋機率",
+            "zh-Hans": "格挡几率",
+            "en": "Block chance"
+          },
+          "value": "20%"
+        },
+        {
+          "label": {
+            "zh-Hant": "閃避值",
+            "zh-Hans": "闪避值",
+            "en": "Evasion Rating"
+          },
+          "value": "105"
+        }
+      ],
+      "grantedSkill": {
+        "name": {
+          "zh-Hant": "招架",
+          "zh-Hans": "招架",
+          "en": "Parry"
+        },
+        "icon": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/SkillIcons/HuntressBucklerParry.webp",
+        "skillRef": "Parry",
+        "_activeTab": 0
+      },
+      "level": 45,
+      "requirements": {
+        "dex": 64
+      },
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "bucklers",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/Basetypes/Pearl_Buckler.webp",
+      "name": {
+        "zh-Hant": "珍珠輕盾",
+        "zh-Hans": "珠光轻盾",
+        "en": "Pearl Buckler"
+      },
+      "type1": {
+        "zh-Hant": "輕盾",
+        "zh-Hans": "轻盾",
+        "en": "Buckler"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [
+        {
+          "label": {
+            "zh-Hant": "格擋機率",
+            "zh-Hans": "格挡几率",
+            "en": "Block chance"
+          },
+          "value": "20%"
+        },
+        {
+          "label": {
+            "zh-Hant": "閃避值",
+            "zh-Hans": "闪避值",
+            "en": "Evasion Rating"
+          },
+          "value": "116"
+        }
+      ],
+      "grantedSkill": {
+        "name": {
+          "zh-Hant": "招架",
+          "zh-Hans": "招架",
+          "en": "Parry"
+        },
+        "icon": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/SkillIcons/HuntressBucklerParry.webp",
+        "skillRef": "Parry",
+        "_activeTab": 0
+      },
+      "level": 50,
+      "requirements": {
+        "dex": 71
+      },
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "bucklers",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/Basetypes/Ornate_Buckler.webp",
+      "name": {
+        "zh-Hant": "華麗輕盾",
+        "zh-Hans": "华丽轻盾",
+        "en": "Ornate Buckler"
+      },
+      "type1": {
+        "zh-Hant": "輕盾",
+        "zh-Hans": "轻盾",
+        "en": "Buckler"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [
+        {
+          "label": {
+            "zh-Hant": "格擋機率",
+            "zh-Hans": "格挡几率",
+            "en": "Block chance"
+          },
+          "value": "20%"
+        },
+        {
+          "label": {
+            "zh-Hant": "閃避值",
+            "zh-Hans": "闪避值",
+            "en": "Evasion Rating"
+          },
+          "value": "120"
+        }
+      ],
+      "grantedSkill": {
+        "name": {
+          "zh-Hant": "招架",
+          "zh-Hans": "招架",
+          "en": "Parry"
+        },
+        "icon": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/SkillIcons/HuntressBucklerParry.webp",
+        "skillRef": "Parry",
+        "_activeTab": 0
+      },
+      "level": 52,
+      "requirements": {
+        "dex": 74
+      },
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "bucklers",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/Basetypes/Array_Buckler.webp",
+      "name": {
+        "zh-Hant": "排列輕盾",
+        "zh-Hans": "阵列轻盾",
+        "en": "Array Buckler"
+      },
+      "type1": {
+        "zh-Hant": "輕盾",
+        "zh-Hans": "轻盾",
+        "en": "Buckler"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [
+        {
+          "label": {
+            "zh-Hant": "格擋機率",
+            "zh-Hans": "格挡几率",
+            "en": "Block chance"
+          },
+          "value": "20%"
+        },
+        {
+          "label": {
+            "zh-Hant": "閃避值",
+            "zh-Hans": "闪避值",
+            "en": "Evasion Rating"
+          },
+          "value": "126"
+        }
+      ],
+      "grantedSkill": {
+        "name": {
+          "zh-Hant": "招架",
+          "zh-Hans": "招架",
+          "en": "Parry"
+        },
+        "icon": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/SkillIcons/HuntressBucklerParry.webp",
+        "skillRef": "Parry",
+        "_activeTab": 0
+      },
+      "level": 55,
+      "requirements": {
+        "dex": 78
+      },
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "bucklers",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/Basetypes/Aegis_Buckler.webp",
+      "name": {
+        "zh-Hant": "神禦輕盾",
+        "zh-Hans": "神佑轻盾",
+        "en": "Aegis Buckler"
+      },
+      "type1": {
+        "zh-Hant": "輕盾",
+        "zh-Hans": "轻盾",
+        "en": "Buckler"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [
+        {
+          "label": {
+            "zh-Hant": "格擋機率",
+            "zh-Hans": "格挡几率",
+            "en": "Block chance"
+          },
+          "value": "20%"
+        },
+        {
+          "label": {
+            "zh-Hant": "閃避值",
+            "zh-Hans": "闪避值",
+            "en": "Evasion Rating"
+          },
+          "value": "148"
+        }
+      ],
+      "grantedSkill": {
+        "name": {
+          "zh-Hant": "招架",
+          "zh-Hans": "招架",
+          "en": "Parry"
+        },
+        "icon": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/SkillIcons/HuntressBucklerParry.webp",
+        "skillRef": "Parry",
+        "_activeTab": 0
+      },
+      "level": 65,
+      "requirements": {
+        "dex": 91
+      },
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "bucklers",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/Basetypes/Oak_Buckler.webp",
+      "name": {
+        "zh-Hant": "橡木輕盾",
+        "zh-Hans": "橡木轻盾",
+        "en": "Oak Buckler"
+      },
+      "type1": {
+        "zh-Hant": "輕盾",
+        "zh-Hans": "轻盾",
+        "en": "Buckler"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [
+        {
+          "label": {
+            "zh-Hant": "格擋機率",
+            "zh-Hans": "格挡几率",
+            "en": "Block chance"
+          },
+          "value": "20%"
+        },
+        {
+          "label": {
+            "zh-Hant": "閃避值",
+            "zh-Hans": "闪避值",
+            "en": "Evasion Rating"
+          },
+          "value": "105"
+        }
+      ],
+      "grantedSkill": {
+        "name": {
+          "zh-Hant": "招架",
+          "zh-Hans": "招架",
+          "en": "Parry"
+        },
+        "icon": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/SkillIcons/HuntressBucklerParry.webp",
+        "skillRef": "Parry",
+        "_activeTab": 0
+      },
+      "level": 45,
+      "requirements": {
+        "dex": 64
+      },
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "bucklers",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/Basetypes/Painted_Buckler.webp",
+      "name": {
+        "zh-Hant": "彩繪輕盾",
+        "zh-Hans": "彩绘轻盾",
+        "en": "Painted Buckler"
+      },
+      "type1": {
+        "zh-Hant": "輕盾",
+        "zh-Hans": "轻盾",
+        "en": "Buckler"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [
+        {
+          "label": {
+            "zh-Hant": "格擋機率",
+            "zh-Hans": "格挡几率",
+            "en": "Block chance"
+          },
+          "value": "20%"
+        },
+        {
+          "label": {
+            "zh-Hant": "閃避值",
+            "zh-Hans": "闪避值",
+            "en": "Evasion Rating"
+          },
+          "value": "111"
+        }
+      ],
+      "grantedSkill": {
+        "name": {
+          "zh-Hant": "招架",
+          "zh-Hans": "招架",
+          "en": "Parry"
+        },
+        "icon": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/SkillIcons/HuntressBucklerParry.webp",
+        "skillRef": "Parry",
+        "_activeTab": 0
+      },
+      "level": 48,
+      "requirements": {
+        "dex": 69
+      },
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "bucklers",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/Basetypes/Coiled_Buckler.webp",
+      "name": {
+        "zh-Hant": "盤繞輕盾",
+        "zh-Hans": "盘曲轻盾",
+        "en": "Coiled Buckler"
+      },
+      "type1": {
+        "zh-Hant": "輕盾",
+        "zh-Hans": "轻盾",
+        "en": "Buckler"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [
+        {
+          "label": {
+            "zh-Hant": "格擋機率",
+            "zh-Hans": "格挡几率",
+            "en": "Block chance"
+          },
+          "value": "20%"
+        },
+        {
+          "label": {
+            "zh-Hant": "閃避值",
+            "zh-Hans": "闪避值",
+            "en": "Evasion Rating"
+          },
+          "value": "118"
+        }
+      ],
+      "grantedSkill": {
+        "name": {
+          "zh-Hant": "招架",
+          "zh-Hans": "招架",
+          "en": "Parry"
+        },
+        "icon": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/SkillIcons/HuntressBucklerParry.webp",
+        "skillRef": "Parry",
+        "_activeTab": 0
+      },
+      "level": 51,
+      "requirements": {
+        "dex": 73
+      },
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "bucklers",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/Basetypes/Spikeward_Buckler.webp",
+      "name": {
+        "zh-Hant": "尖衛輕盾",
+        "zh-Hans": "尖刺守护轻盾",
+        "en": "Spikeward Buckler"
+      },
+      "type1": {
+        "zh-Hant": "輕盾",
+        "zh-Hans": "轻盾",
+        "en": "Buckler"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [
+        {
+          "label": {
+            "zh-Hant": "格擋機率",
+            "zh-Hans": "格挡几率",
+            "en": "Block chance"
+          },
+          "value": "20%"
+        },
+        {
+          "label": {
+            "zh-Hant": "閃避值",
+            "zh-Hans": "闪避值",
+            "en": "Evasion Rating"
+          },
+          "value": "124"
+        }
+      ],
+      "grantedSkill": {
+        "name": {
+          "zh-Hant": "招架",
+          "zh-Hans": "招架",
+          "en": "Parry"
+        },
+        "icon": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/SkillIcons/HuntressBucklerParry.webp",
+        "skillRef": "Parry",
+        "_activeTab": 0
+      },
+      "level": 54,
+      "requirements": {
+        "dex": 77
+      },
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "bucklers",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/Basetypes/Jingling_Buckler.webp",
+      "name": {
+        "zh-Hant": "響聲輕盾",
+        "zh-Hans": "铃鸣轻盾",
+        "en": "Jingling Buckler"
+      },
+      "type1": {
+        "zh-Hant": "輕盾",
+        "zh-Hans": "轻盾",
+        "en": "Buckler"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [
+        {
+          "label": {
+            "zh-Hant": "格擋機率",
+            "zh-Hans": "格挡几率",
+            "en": "Block chance"
+          },
+          "value": "20%"
+        },
+        {
+          "label": {
+            "zh-Hant": "閃避值",
+            "zh-Hans": "闪避值",
+            "en": "Evasion Rating"
+          },
+          "value": "135"
+        }
+      ],
+      "grantedSkill": {
+        "name": {
+          "zh-Hant": "招架",
+          "zh-Hans": "招架",
+          "en": "Parry"
+        },
+        "icon": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/SkillIcons/HuntressBucklerParry.webp",
+        "skillRef": "Parry",
+        "_activeTab": 0
+      },
+      "level": 59,
+      "requirements": {
+        "dex": 83
+      },
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "bucklers",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/Basetypes/Bladeguard_Buckler.webp",
+      "name": {
+        "zh-Hant": "刃衛輕盾",
+        "zh-Hans": "刀刃守护轻盾",
+        "en": "Bladeguard Buckler"
+      },
+      "type1": {
+        "zh-Hant": "輕盾",
+        "zh-Hans": "轻盾",
+        "en": "Buckler"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [
+        {
+          "label": {
+            "zh-Hant": "格擋機率",
+            "zh-Hans": "格挡几率",
+            "en": "Block chance"
+          },
+          "value": "20%"
+        },
+        {
+          "label": {
+            "zh-Hant": "閃避值",
+            "zh-Hans": "闪避值",
+            "en": "Evasion Rating"
+          },
+          "value": "139"
+        }
+      ],
+      "grantedSkill": {
+        "name": {
+          "zh-Hant": "招架",
+          "zh-Hans": "招架",
+          "en": "Parry"
+        },
+        "icon": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/SkillIcons/HuntressBucklerParry.webp",
+        "skillRef": "Parry",
+        "_activeTab": 0
+      },
+      "level": 61,
+      "requirements": {
+        "dex": 86
+      },
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "bucklers",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/Basetypes/Ornate_Buckler_2.webp",
+      "name": {
+        "zh-Hant": "華麗輕盾",
+        "zh-Hans": "华丽轻盾",
+        "en": "Ornate Buckler"
+      },
+      "type1": {
+        "zh-Hant": "輕盾",
+        "zh-Hans": "轻盾",
+        "en": "Buckler"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [
+        {
+          "label": {
+            "zh-Hant": "格擋機率",
+            "zh-Hans": "格挡几率",
+            "en": "Block chance"
+          },
+          "value": "20%"
+        },
+        {
+          "label": {
+            "zh-Hant": "閃避值",
+            "zh-Hans": "闪避值",
+            "en": "Evasion Rating"
+          },
+          "value": "148"
+        }
+      ],
+      "grantedSkill": {
+        "name": {
+          "zh-Hant": "招架",
+          "zh-Hans": "招架",
+          "en": "Parry"
+        },
+        "icon": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/SkillIcons/HuntressBucklerParry.webp",
+        "skillRef": "Parry",
+        "_activeTab": 0
+      },
+      "level": 65,
+      "requirements": {
+        "dex": 91
+      },
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "bucklers",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/Basetypes/Gutspike_Buckler.webp",
+      "name": {
+        "zh-Hant": "挑腸輕盾",
+        "zh-Hans": "肠刺轻盾",
+        "en": "Gutspike Buckler"
+      },
+      "type1": {
+        "zh-Hant": "輕盾",
+        "zh-Hans": "轻盾",
+        "en": "Buckler"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [
+        {
+          "label": {
+            "zh-Hant": "格擋機率",
+            "zh-Hans": "格挡几率",
+            "en": "Block chance"
+          },
+          "value": "20%"
+        },
+        {
+          "label": {
+            "zh-Hant": "閃避值",
+            "zh-Hans": "闪避值",
+            "en": "Evasion Rating"
+          },
+          "value": "163"
+        }
+      ],
+      "grantedSkill": {
+        "name": {
+          "zh-Hant": "招架",
+          "zh-Hans": "招架",
+          "en": "Parry"
+        },
+        "icon": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/SkillIcons/HuntressBucklerParry.webp",
+        "skillRef": "Parry",
+        "_activeTab": 0
+      },
+      "level": 70,
+      "requirements": {
+        "dex": 99
+      },
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "bucklers",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/Basetypes/Ancient_Buckler.webp",
+      "name": {
+        "zh-Hant": "遠古輕盾",
+        "zh-Hans": "远古轻盾",
+        "en": "Ancient Buckler"
+      },
+      "type1": {
+        "zh-Hant": "輕盾",
+        "zh-Hans": "轻盾",
+        "en": "Buckler"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [
+        {
+          "label": {
+            "zh-Hant": "格擋機率",
+            "zh-Hans": "格挡几率",
+            "en": "Block chance"
+          },
+          "value": "20%"
+        },
+        {
+          "label": {
+            "zh-Hant": "閃避值",
+            "zh-Hans": "闪避值",
+            "en": "Evasion Rating"
+          },
+          "value": "178"
+        }
+      ],
+      "grantedSkill": {
+        "name": {
+          "zh-Hant": "招架",
+          "zh-Hans": "招架",
+          "en": "Parry"
+        },
+        "icon": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/SkillIcons/HuntressBucklerParry.webp",
+        "skillRef": "Parry",
+        "_activeTab": 0
+      },
+      "level": 75,
+      "requirements": {
+        "dex": 107
+      },
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "bucklers",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/Basetypes/Desert_Buckler.webp",
+      "name": {
+        "zh-Hant": "沙漠輕盾",
+        "zh-Hans": "沙漠轻盾",
+        "en": "Desert Buckler"
+      },
+      "type1": {
+        "zh-Hant": "輕盾",
+        "zh-Hans": "轻盾",
+        "en": "Buckler"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [
+        {
+          "label": {
+            "zh-Hant": "格擋機率",
+            "zh-Hans": "格挡几率",
+            "en": "Block chance"
+          },
+          "value": "20%"
+        },
+        {
+          "label": {
+            "zh-Hant": "閃避值",
+            "zh-Hans": "闪避值",
+            "en": "Evasion Rating"
+          },
+          "value": "192"
+        }
+      ],
+      "grantedSkill": {
+        "name": {
+          "zh-Hant": "招架",
+          "zh-Hans": "招架",
+          "en": "Parry"
+        },
+        "icon": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/SkillIcons/HuntressBucklerParry.webp",
+        "skillRef": "Parry",
+        "_activeTab": 0
+      },
+      "level": 80,
+      "requirements": {
+        "dex": 115
+      },
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "bucklers",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/Basetypes/Runeforged_Leather_Buckler.webp",
+      "name": {
+        "zh-Hant": "符鍛皮革輕盾",
+        "zh-Hans": "符文皮制轻盾",
+        "en": "Runeforged Leather Buckler"
+      },
+      "type1": {
+        "zh-Hant": "輕盾",
+        "zh-Hans": "轻盾",
+        "en": "Buckler"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [
+        {
+          "label": {
+            "zh-Hant": "格擋機率",
+            "zh-Hans": "格挡几率",
+            "en": "Block chance"
+          },
+          "value": "20%"
+        },
+        {
+          "label": {
+            "zh-Hant": "閃避值",
+            "zh-Hans": "闪避值",
+            "en": "Evasion Rating"
+          },
+          "value": "10"
+        },
+        {
+          "label": {
+            "zh-Hant": "保護",
+            "zh-Hans": "符文结界",
+            "en": "Runic Ward"
+          },
+          "value": "10"
+        }
+      ],
+      "grantedSkill": {
+        "name": {
+          "zh-Hant": "招架",
+          "zh-Hans": "招架",
+          "en": "Parry"
+        },
+        "icon": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/SkillIcons/HuntressBucklerParry.webp",
+        "skillRef": "Parry",
+        "_activeTab": 0
+      },
+      "level": 1,
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "bucklers",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/Basetypes/Runeforged_Wooden_Buckler.webp",
+      "name": {
+        "zh-Hant": "符鍛木頭輕盾",
+        "zh-Hans": "符文木制轻盾",
+        "en": "Runeforged Wooden Buckler"
+      },
+      "type1": {
+        "zh-Hant": "輕盾",
+        "zh-Hans": "轻盾",
+        "en": "Buckler"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [
+        {
+          "label": {
+            "zh-Hant": "格擋機率",
+            "zh-Hans": "格挡几率",
+            "en": "Block chance"
+          },
+          "value": "20%"
+        },
+        {
+          "label": {
+            "zh-Hant": "閃避值",
+            "zh-Hans": "闪避值",
+            "en": "Evasion Rating"
+          },
+          "value": "18"
+        },
+        {
+          "label": {
+            "zh-Hant": "保護",
+            "zh-Hans": "符文结界",
+            "en": "Runic Ward"
+          },
+          "value": "11"
+        }
+      ],
+      "grantedSkill": {
+        "name": {
+          "zh-Hant": "招架",
+          "zh-Hans": "招架",
+          "en": "Parry"
+        },
+        "icon": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/SkillIcons/HuntressBucklerParry.webp",
+        "skillRef": "Parry",
+        "_activeTab": 0
+      },
+      "level": 5,
+      "requirements": {
+        "dex": 10
+      },
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "bucklers",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/Basetypes/Runeforged_Plated_Buckler.webp",
+      "name": {
+        "zh-Hant": "符鍛鋼板輕盾",
+        "zh-Hans": "符文嵌板轻盾",
+        "en": "Runeforged Plated Buckler"
+      },
+      "type1": {
+        "zh-Hant": "輕盾",
+        "zh-Hans": "轻盾",
+        "en": "Buckler"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [
+        {
+          "label": {
+            "zh-Hant": "格擋機率",
+            "zh-Hans": "格挡几率",
+            "en": "Block chance"
+          },
+          "value": "20%"
+        },
+        {
+          "label": {
+            "zh-Hant": "閃避值",
+            "zh-Hans": "闪避值",
+            "en": "Evasion Rating"
+          },
+          "value": "31"
+        },
+        {
+          "label": {
+            "zh-Hant": "保護",
+            "zh-Hans": "符文结界",
+            "en": "Runic Ward"
+          },
+          "value": "14"
+        }
+      ],
+      "grantedSkill": {
+        "name": {
+          "zh-Hant": "招架",
+          "zh-Hans": "招架",
+          "en": "Parry"
+        },
+        "icon": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/SkillIcons/HuntressBucklerParry.webp",
+        "skillRef": "Parry",
+        "_activeTab": 0
+      },
+      "level": 11,
+      "requirements": {
+        "dex": 18
+      },
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "bucklers",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/Basetypes/Runeforged_Iron_Buckler.webp",
+      "name": {
+        "zh-Hant": "符鍛鍛鐵輕盾",
+        "zh-Hans": "符文锻铁轻盾",
+        "en": "Runeforged Iron Buckler"
+      },
+      "type1": {
+        "zh-Hant": "輕盾",
+        "zh-Hans": "轻盾",
+        "en": "Buckler"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [
+        {
+          "label": {
+            "zh-Hant": "格擋機率",
+            "zh-Hans": "格挡几率",
+            "en": "Block chance"
+          },
+          "value": "20%"
+        },
+        {
+          "label": {
+            "zh-Hant": "閃避值",
+            "zh-Hans": "闪避值",
+            "en": "Evasion Rating"
+          },
+          "value": "42"
+        },
+        {
+          "label": {
+            "zh-Hant": "保護",
+            "zh-Hans": "符文结界",
+            "en": "Runic Ward"
+          },
+          "value": "17"
+        }
+      ],
+      "grantedSkill": {
+        "name": {
+          "zh-Hant": "招架",
+          "zh-Hans": "招架",
+          "en": "Parry"
+        },
+        "icon": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/SkillIcons/HuntressBucklerParry.webp",
+        "skillRef": "Parry",
+        "_activeTab": 0
+      },
+      "level": 16,
+      "requirements": {
+        "dex": 25
+      },
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "bucklers",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/Basetypes/Runeforged_Ridged_Buckler.webp",
+      "name": {
+        "zh-Hant": "符鍛脊狀輕盾",
+        "zh-Hans": "符文凸脊轻盾",
+        "en": "Runeforged Ridged Buckler"
+      },
+      "type1": {
+        "zh-Hant": "輕盾",
+        "zh-Hans": "轻盾",
+        "en": "Buckler"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [
+        {
+          "label": {
+            "zh-Hant": "格擋機率",
+            "zh-Hans": "格挡几率",
+            "en": "Block chance"
+          },
+          "value": "20%"
+        },
+        {
+          "label": {
+            "zh-Hant": "閃避值",
+            "zh-Hans": "闪避值",
+            "en": "Evasion Rating"
+          },
+          "value": "55"
+        },
+        {
+          "label": {
+            "zh-Hant": "保護",
+            "zh-Hans": "符文结界",
+            "en": "Runic Ward"
+          },
+          "value": "21"
+        }
+      ],
+      "grantedSkill": {
+        "name": {
+          "zh-Hant": "招架",
+          "zh-Hans": "招架",
+          "en": "Parry"
+        },
+        "icon": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/SkillIcons/HuntressBucklerParry.webp",
+        "skillRef": "Parry",
+        "_activeTab": 0
+      },
+      "level": 22,
+      "requirements": {
+        "dex": 33
+      },
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "bucklers",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/Basetypes/Runeforged_Spiked_Buckler.webp",
+      "name": {
+        "zh-Hant": "符鍛尖刺輕盾",
+        "zh-Hans": "符文尖刺轻盾",
+        "en": "Runeforged Spiked Buckler"
+      },
+      "type1": {
+        "zh-Hant": "輕盾",
+        "zh-Hans": "轻盾",
+        "en": "Buckler"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [
+        {
+          "label": {
+            "zh-Hant": "格擋機率",
+            "zh-Hans": "格挡几率",
+            "en": "Block chance"
+          },
+          "value": "20%"
+        },
+        {
+          "label": {
+            "zh-Hant": "閃避值",
+            "zh-Hans": "闪避值",
+            "en": "Evasion Rating"
+          },
+          "value": "64"
+        },
+        {
+          "label": {
+            "zh-Hant": "保護",
+            "zh-Hans": "符文结界",
+            "en": "Runic Ward"
+          },
+          "value": "20"
+        }
+      ],
+      "grantedSkill": {
+        "name": {
+          "zh-Hant": "招架",
+          "zh-Hans": "招架",
+          "en": "Parry"
+        },
+        "icon": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/SkillIcons/HuntressBucklerParry.webp",
+        "skillRef": "Parry",
+        "_activeTab": 0
+      },
+      "level": 26,
+      "requirements": {
+        "dex": 38
+      },
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "bucklers",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/Basetypes/Runeforged_Ringed_Buckler.webp",
+      "name": {
+        "zh-Hant": "符鍛環紋輕盾",
+        "zh-Hans": "符文环锁轻盾",
+        "en": "Runeforged Ringed Buckler"
+      },
+      "type1": {
+        "zh-Hant": "輕盾",
+        "zh-Hans": "轻盾",
+        "en": "Buckler"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [
+        {
+          "label": {
+            "zh-Hant": "格擋機率",
+            "zh-Hans": "格挡几率",
+            "en": "Block chance"
+          },
+          "value": "20%"
+        },
+        {
+          "label": {
+            "zh-Hant": "閃避值",
+            "zh-Hans": "闪避值",
+            "en": "Evasion Rating"
+          },
+          "value": "79"
+        },
+        {
+          "label": {
+            "zh-Hant": "保護",
+            "zh-Hans": "符文结界",
+            "en": "Runic Ward"
+          },
+          "value": "24"
+        }
+      ],
+      "grantedSkill": {
+        "name": {
+          "zh-Hant": "招架",
+          "zh-Hans": "招架",
+          "en": "Parry"
+        },
+        "icon": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/SkillIcons/HuntressBucklerParry.webp",
+        "skillRef": "Parry",
+        "_activeTab": 0
+      },
+      "level": 33,
+      "requirements": {
+        "dex": 48
+      },
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "bucklers",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/Basetypes/Runeforged_Edged_Buckler.webp",
+      "name": {
+        "zh-Hant": "符鍛刃緣輕盾",
+        "zh-Hans": "符文锋缘轻盾",
+        "en": "Runeforged Edged Buckler"
+      },
+      "type1": {
+        "zh-Hant": "輕盾",
+        "zh-Hans": "轻盾",
+        "en": "Buckler"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [
+        {
+          "label": {
+            "zh-Hant": "格擋機率",
+            "zh-Hans": "格挡几率",
+            "en": "Block chance"
+          },
+          "value": "20%"
+        },
+        {
+          "label": {
+            "zh-Hant": "閃避值",
+            "zh-Hans": "闪避值",
+            "en": "Evasion Rating"
+          },
+          "value": "92"
+        },
+        {
+          "label": {
+            "zh-Hant": "保護",
+            "zh-Hans": "符文结界",
+            "en": "Runic Ward"
+          },
+          "value": "28"
+        }
+      ],
+      "grantedSkill": {
+        "name": {
+          "zh-Hant": "招架",
+          "zh-Hans": "招架",
+          "en": "Parry"
+        },
+        "icon": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/SkillIcons/HuntressBucklerParry.webp",
+        "skillRef": "Parry",
+        "_activeTab": 0
+      },
+      "level": 39,
+      "requirements": {
+        "dex": 56
+      },
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "bucklers",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/Basetypes/Runeforged_Laminate_Buckler.webp",
+      "name": {
+        "zh-Hant": "符鍛層壓輕盾",
+        "zh-Hans": "符文合板轻盾",
+        "en": "Runeforged Laminate Buckler"
+      },
+      "type1": {
+        "zh-Hant": "輕盾",
+        "zh-Hans": "轻盾",
+        "en": "Buckler"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [
+        {
+          "label": {
+            "zh-Hant": "格擋機率",
+            "zh-Hans": "格挡几率",
+            "en": "Block chance"
+          },
+          "value": "20%"
+        },
+        {
+          "label": {
+            "zh-Hant": "閃避值",
+            "zh-Hans": "闪避值",
+            "en": "Evasion Rating"
+          },
+          "value": "105"
+        },
+        {
+          "label": {
+            "zh-Hant": "保護",
+            "zh-Hans": "符文结界",
+            "en": "Runic Ward"
+          },
+          "value": "29"
+        }
+      ],
+      "grantedSkill": {
+        "name": {
+          "zh-Hant": "招架",
+          "zh-Hans": "招架",
+          "en": "Parry"
+        },
+        "icon": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/SkillIcons/HuntressBucklerParry.webp",
+        "skillRef": "Parry",
+        "_activeTab": 0
+      },
+      "level": 45,
+      "requirements": {
+        "dex": 64
+      },
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "bucklers",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/Basetypes/Runeforged_Pearl_Buckler.webp",
+      "name": {
+        "zh-Hant": "符鍛珍珠輕盾",
+        "zh-Hans": "符文珠光轻盾",
+        "en": "Runeforged Pearl Buckler"
+      },
+      "type1": {
+        "zh-Hant": "輕盾",
+        "zh-Hans": "轻盾",
+        "en": "Buckler"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [
+        {
+          "label": {
+            "zh-Hant": "格擋機率",
+            "zh-Hans": "格挡几率",
+            "en": "Block chance"
+          },
+          "value": "20%"
+        },
+        {
+          "label": {
+            "zh-Hant": "閃避值",
+            "zh-Hans": "闪避值",
+            "en": "Evasion Rating"
+          },
+          "value": "116"
+        },
+        {
+          "label": {
+            "zh-Hant": "保護",
+            "zh-Hans": "符文结界",
+            "en": "Runic Ward"
+          },
+          "value": "29"
+        }
+      ],
+      "grantedSkill": {
+        "name": {
+          "zh-Hant": "招架",
+          "zh-Hans": "招架",
+          "en": "Parry"
+        },
+        "icon": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/SkillIcons/HuntressBucklerParry.webp",
+        "skillRef": "Parry",
+        "_activeTab": 0
+      },
+      "level": 50,
+      "requirements": {
+        "dex": 71
+      },
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "bucklers",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/Basetypes/Runeforged_Ornate_Buckler.webp",
+      "name": {
+        "zh-Hant": "符鍛華麗輕盾",
+        "zh-Hans": "符文华丽轻盾",
+        "en": "Runeforged Ornate Buckler"
+      },
+      "type1": {
+        "zh-Hant": "輕盾",
+        "zh-Hans": "轻盾",
+        "en": "Buckler"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [
+        {
+          "label": {
+            "zh-Hant": "格擋機率",
+            "zh-Hans": "格挡几率",
+            "en": "Block chance"
+          },
+          "value": "20%"
+        },
+        {
+          "label": {
+            "zh-Hant": "保護",
+            "zh-Hans": "符文结界",
+            "en": "Runic Ward"
+          },
+          "value": "117"
+        }
+      ],
+      "grantedSkill": {
+        "name": {
+          "zh-Hant": "招架",
+          "zh-Hans": "招架",
+          "en": "Parry"
+        },
+        "icon": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/SkillIcons/HuntressBucklerParry.webp",
+        "skillRef": "Parry",
+        "_activeTab": 0
+      },
+      "level": 52,
+      "requirements": {
+        "dex": 74
+      },
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "bucklers",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/Basetypes/Runeforged_Array_Buckler.webp",
+      "name": {
+        "zh-Hant": "符鍛排列輕盾",
+        "zh-Hans": "符文阵列轻盾",
+        "en": "Runeforged Array Buckler"
+      },
+      "type1": {
+        "zh-Hant": "輕盾",
+        "zh-Hans": "轻盾",
+        "en": "Buckler"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [
+        {
+          "label": {
+            "zh-Hant": "格擋機率",
+            "zh-Hans": "格挡几率",
+            "en": "Block chance"
+          },
+          "value": "20%"
+        },
+        {
+          "label": {
+            "zh-Hant": "保護",
+            "zh-Hans": "符文结界",
+            "en": "Runic Ward"
+          },
+          "value": "122"
+        }
+      ],
+      "grantedSkill": {
+        "name": {
+          "zh-Hant": "招架",
+          "zh-Hans": "招架",
+          "en": "Parry"
+        },
+        "icon": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/SkillIcons/HuntressBucklerParry.webp",
+        "skillRef": "Parry",
+        "_activeTab": 0
+      },
+      "level": 55,
+      "requirements": {
+        "dex": 78
+      },
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "bucklers",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/Basetypes/Runeforged_Aegis_Buckler.webp",
+      "name": {
+        "zh-Hant": "符鍛神禦輕盾",
+        "zh-Hans": "符文神佑轻盾",
+        "en": "Runeforged Aegis Buckler"
+      },
+      "type1": {
+        "zh-Hant": "輕盾",
+        "zh-Hans": "轻盾",
+        "en": "Buckler"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [
+        {
+          "label": {
+            "zh-Hant": "格擋機率",
+            "zh-Hans": "格挡几率",
+            "en": "Block chance"
+          },
+          "value": "20%"
+        },
+        {
+          "label": {
+            "zh-Hant": "保護",
+            "zh-Hans": "符文结界",
+            "en": "Runic Ward"
+          },
+          "value": "141"
+        }
+      ],
+      "grantedSkill": {
+        "name": {
+          "zh-Hant": "招架",
+          "zh-Hans": "招架",
+          "en": "Parry"
+        },
+        "icon": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/SkillIcons/HuntressBucklerParry.webp",
+        "skillRef": "Parry",
+        "_activeTab": 0
+      },
+      "level": 65,
+      "requirements": {
+        "dex": 91
+      },
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "bucklers",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/Basetypes/Runeforged_Spikeward_Buckler.webp",
+      "name": {
+        "zh-Hant": "符鍛尖衛輕盾",
+        "zh-Hans": "符文尖刺守护轻盾",
+        "en": "Runeforged Spikeward Buckler"
+      },
+      "type1": {
+        "zh-Hant": "輕盾",
+        "zh-Hans": "轻盾",
+        "en": "Buckler"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [
+        {
+          "label": {
+            "zh-Hant": "格擋機率",
+            "zh-Hans": "格挡几率",
+            "en": "Block chance"
+          },
+          "value": "20%"
+        },
+        {
+          "label": {
+            "zh-Hant": "閃避值",
+            "zh-Hans": "闪避值",
+            "en": "Evasion Rating"
+          },
+          "value": "104"
+        },
+        {
+          "label": {
+            "zh-Hant": "保護",
+            "zh-Hans": "符文结界",
+            "en": "Runic Ward"
+          },
+          "value": "42"
+        }
+      ],
+      "grantedSkill": {
+        "name": {
+          "zh-Hant": "招架",
+          "zh-Hans": "招架",
+          "en": "Parry"
+        },
+        "icon": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/SkillIcons/HuntressBucklerParry.webp",
+        "skillRef": "Parry",
+        "_activeTab": 0
+      },
+      "level": 54,
+      "requirements": {
+        "dex": 77
+      },
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "bucklers",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/Basetypes/Runeforged_Jingling_Buckler.webp",
+      "name": {
+        "zh-Hant": "符鍛響聲輕盾",
+        "zh-Hans": "符文铃鸣轻盾",
+        "en": "Runeforged Jingling Buckler"
+      },
+      "type1": {
+        "zh-Hant": "輕盾",
+        "zh-Hans": "轻盾",
+        "en": "Buckler"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [
+        {
+          "label": {
+            "zh-Hant": "格擋機率",
+            "zh-Hans": "格挡几率",
+            "en": "Block chance"
+          },
+          "value": "20%"
+        },
+        {
+          "label": {
+            "zh-Hant": "閃避值",
+            "zh-Hans": "闪避值",
+            "en": "Evasion Rating"
+          },
+          "value": "124"
+        },
+        {
+          "label": {
+            "zh-Hant": "保護",
+            "zh-Hans": "符文结界",
+            "en": "Runic Ward"
+          },
+          "value": "32"
+        }
+      ],
+      "grantedSkill": {
+        "name": {
+          "zh-Hant": "招架",
+          "zh-Hans": "招架",
+          "en": "Parry"
+        },
+        "icon": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/SkillIcons/HuntressBucklerParry.webp",
+        "skillRef": "Parry",
+        "_activeTab": 0
+      },
+      "level": 59,
+      "requirements": {
+        "dex": 83
+      },
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "bucklers",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/Basetypes/Runeforged_Bladeguard_Buckler.webp",
+      "name": {
+        "zh-Hant": "符鍛刃衛輕盾",
+        "zh-Hans": "符文刀刃守护轻盾",
+        "en": "Runeforged Bladeguard Buckler"
+      },
+      "type1": {
+        "zh-Hant": "輕盾",
+        "zh-Hans": "轻盾",
+        "en": "Buckler"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [
+        {
+          "label": {
+            "zh-Hant": "格擋機率",
+            "zh-Hans": "格挡几率",
+            "en": "Block chance"
+          },
+          "value": "20%"
+        },
+        {
+          "label": {
+            "zh-Hant": "閃避值",
+            "zh-Hans": "闪避值",
+            "en": "Evasion Rating"
+          },
+          "value": "111"
+        },
+        {
+          "label": {
+            "zh-Hant": "保護",
+            "zh-Hans": "符文结界",
+            "en": "Runic Ward"
+          },
+          "value": "47"
+        }
+      ],
+      "grantedSkill": {
+        "name": {
+          "zh-Hant": "招架",
+          "zh-Hans": "招架",
+          "en": "Parry"
+        },
+        "icon": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/SkillIcons/HuntressBucklerParry.webp",
+        "skillRef": "Parry",
+        "_activeTab": 0
+      },
+      "level": 61,
+      "requirements": {
+        "dex": 86
+      },
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "bucklers",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/Basetypes/Runeforged_Ornate_Buckler_2.webp",
+      "name": {
+        "zh-Hant": "符鍛華麗輕盾",
+        "zh-Hans": "符文华丽轻盾",
+        "en": "Runeforged Ornate Buckler"
+      },
+      "type1": {
+        "zh-Hant": "輕盾",
+        "zh-Hans": "轻盾",
+        "en": "Buckler"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [
+        {
+          "label": {
+            "zh-Hant": "格擋機率",
+            "zh-Hans": "格挡几率",
+            "en": "Block chance"
+          },
+          "value": "20%"
+        },
+        {
+          "label": {
+            "zh-Hant": "閃避值",
+            "zh-Hans": "闪避值",
+            "en": "Evasion Rating"
+          },
+          "value": "141"
+        },
+        {
+          "label": {
+            "zh-Hant": "保護",
+            "zh-Hans": "符文结界",
+            "en": "Runic Ward"
+          },
+          "value": "35"
+        }
+      ],
+      "grantedSkill": {
+        "name": {
+          "zh-Hant": "招架",
+          "zh-Hans": "招架",
+          "en": "Parry"
+        },
+        "icon": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/SkillIcons/HuntressBucklerParry.webp",
+        "skillRef": "Parry",
+        "_activeTab": 0
+      },
+      "level": 65,
+      "requirements": {
+        "dex": 91
+      },
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "bucklers",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/Basetypes/Runeforged_Gutspike_Buckler.webp",
+      "name": {
+        "zh-Hant": "符鍛挑腸輕盾",
+        "zh-Hans": "符文肠刺轻盾",
+        "en": "Runeforged Gutspike Buckler"
+      },
+      "type1": {
+        "zh-Hant": "輕盾",
+        "zh-Hans": "轻盾",
+        "en": "Buckler"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [
+        {
+          "label": {
+            "zh-Hant": "格擋機率",
+            "zh-Hans": "格挡几率",
+            "en": "Block chance"
+          },
+          "value": "20%"
+        },
+        {
+          "label": {
+            "zh-Hant": "閃避值",
+            "zh-Hans": "闪避值",
+            "en": "Evasion Rating"
+          },
+          "value": "114"
+        },
+        {
+          "label": {
+            "zh-Hant": "保護",
+            "zh-Hans": "符文结界",
+            "en": "Runic Ward"
+          },
+          "value": "85"
+        }
+      ],
+      "grantedSkill": {
+        "name": {
+          "zh-Hant": "招架",
+          "zh-Hans": "招架",
+          "en": "Parry"
+        },
+        "icon": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/SkillIcons/HuntressBucklerParry.webp",
+        "skillRef": "Parry",
+        "_activeTab": 0
+      },
+      "level": 70,
+      "requirements": {
+        "dex": 99
+      },
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "bucklers",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/Basetypes/Runeforged_Ancient_Buckler.webp",
+      "name": {
+        "zh-Hant": "符鍛遠古輕盾",
+        "zh-Hans": "符文远古轻盾",
+        "en": "Runeforged Ancient Buckler"
+      },
+      "type1": {
+        "zh-Hant": "輕盾",
+        "zh-Hans": "轻盾",
+        "en": "Buckler"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [
+        {
+          "label": {
+            "zh-Hant": "格擋機率",
+            "zh-Hans": "格挡几率",
+            "en": "Block chance"
+          },
+          "value": "20%"
+        },
+        {
+          "label": {
+            "zh-Hant": "閃避值",
+            "zh-Hans": "闪避值",
+            "en": "Evasion Rating"
+          },
+          "value": "155"
+        },
+        {
+          "label": {
+            "zh-Hant": "保護",
+            "zh-Hans": "符文结界",
+            "en": "Runic Ward"
+          },
+          "value": "35"
+        }
+      ],
+      "grantedSkill": {
+        "name": {
+          "zh-Hant": "招架",
+          "zh-Hans": "招架",
+          "en": "Parry"
+        },
+        "icon": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/SkillIcons/HuntressBucklerParry.webp",
+        "skillRef": "Parry",
+        "_activeTab": 0
+      },
+      "level": 75,
+      "requirements": {
+        "dex": 107
+      },
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "bucklers",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/Basetypes/Runeforged_Desert_Buckler.webp",
+      "name": {
+        "zh-Hant": "符鍛沙漠輕盾",
+        "zh-Hans": "符文沙漠轻盾",
+        "en": "Runeforged Desert Buckler"
+      },
+      "type1": {
+        "zh-Hant": "輕盾",
+        "zh-Hans": "轻盾",
+        "en": "Buckler"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [
+        {
+          "label": {
+            "zh-Hant": "格擋機率",
+            "zh-Hans": "格挡几率",
+            "en": "Block chance"
+          },
+          "value": "20%"
+        },
+        {
+          "label": {
+            "zh-Hant": "閃避值",
+            "zh-Hans": "闪避值",
+            "en": "Evasion Rating"
+          },
+          "value": "87"
+        },
+        {
+          "label": {
+            "zh-Hant": "保護",
+            "zh-Hans": "符文结界",
+            "en": "Runic Ward"
+          },
+          "value": "134"
+        }
+      ],
+      "grantedSkill": {
+        "name": {
+          "zh-Hant": "招架",
+          "zh-Hans": "招架",
+          "en": "Parry"
+        },
+        "icon": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/SkillIcons/HuntressBucklerParry.webp",
+        "skillRef": "Parry",
+        "_activeTab": 0
+      },
+      "level": 80,
+      "requirements": {
+        "dex": 115
+      },
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "bucklers",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/Basetypes/Runemastered_Leather_Buckler.webp",
+      "name": {
+        "zh-Hant": "符煉皮革輕盾",
+        "zh-Hans": "符文师匠皮制轻盾",
+        "en": "Runemastered Leather Buckler"
+      },
+      "type1": {
+        "zh-Hant": "輕盾",
+        "zh-Hans": "轻盾",
+        "en": "Buckler"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [
+        {
+          "label": {
+            "zh-Hant": "格擋機率",
+            "zh-Hans": "格挡几率",
+            "en": "Block chance"
+          },
+          "value": "20%"
+        },
+        {
+          "label": {
+            "zh-Hant": "閃避值",
+            "zh-Hans": "闪避值",
+            "en": "Evasion Rating"
+          },
+          "value": "108"
+        },
+        {
+          "label": {
+            "zh-Hant": "保護",
+            "zh-Hans": "符文结界",
+            "en": "Runic Ward"
+          },
+          "value": "36"
+        }
+      ],
+      "grantedSkill": {
+        "name": {
+          "zh-Hant": "招架",
+          "zh-Hans": "招架",
+          "en": "Parry"
+        },
+        "icon": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/SkillIcons/HuntressBucklerParry.webp",
+        "skillRef": "Parry",
+        "_activeTab": 0
+      },
+      "level": 38,
+      "requirements": {
+        "dex": 54
+      },
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "bucklers",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/Basetypes/Runemastered_Wooden_Buckler.webp",
+      "name": {
+        "zh-Hant": "符煉木頭輕盾",
+        "zh-Hans": "符文师匠木制轻盾",
+        "en": "Runemastered Wooden Buckler"
+      },
+      "type1": {
+        "zh-Hant": "輕盾",
+        "zh-Hans": "轻盾",
+        "en": "Buckler"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [
+        {
+          "label": {
+            "zh-Hant": "格擋機率",
+            "zh-Hans": "格挡几率",
+            "en": "Block chance"
+          },
+          "value": "20%"
+        },
+        {
+          "label": {
+            "zh-Hant": "閃避值",
+            "zh-Hans": "闪避值",
+            "en": "Evasion Rating"
+          },
+          "value": "90"
+        },
+        {
+          "label": {
+            "zh-Hant": "保護",
+            "zh-Hans": "符文结界",
+            "en": "Runic Ward"
+          },
+          "value": "18"
+        }
+      ],
+      "grantedSkill": {
+        "name": {
+          "zh-Hant": "招架",
+          "zh-Hans": "招架",
+          "en": "Parry"
+        },
+        "icon": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/SkillIcons/HuntressBucklerParry.webp",
+        "skillRef": "Parry",
+        "_activeTab": 0
+      },
+      "level": 38,
+      "requirements": {
+        "dex": 54
+      },
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "bucklers",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/Basetypes/Runemastered_Plated_Buckler.webp",
+      "name": {
+        "zh-Hant": "符煉鋼板輕盾",
+        "zh-Hans": "符文师匠嵌板轻盾",
+        "en": "Runemastered Plated Buckler"
+      },
+      "type1": {
+        "zh-Hant": "輕盾",
+        "zh-Hans": "轻盾",
+        "en": "Buckler"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [
+        {
+          "label": {
+            "zh-Hant": "格擋機率",
+            "zh-Hans": "格挡几率",
+            "en": "Block chance"
+          },
+          "value": "20%"
+        },
+        {
+          "label": {
+            "zh-Hant": "閃避值",
+            "zh-Hans": "闪避值",
+            "en": "Evasion Rating"
+          },
+          "value": "67"
+        },
+        {
+          "label": {
+            "zh-Hant": "保護",
+            "zh-Hans": "符文结界",
+            "en": "Runic Ward"
+          },
+          "value": "23"
+        }
+      ],
+      "grantedSkill": {
+        "name": {
+          "zh-Hant": "招架",
+          "zh-Hans": "招架",
+          "en": "Parry"
+        },
+        "icon": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/SkillIcons/HuntressBucklerParry.webp",
+        "skillRef": "Parry",
+        "_activeTab": 0
+      },
+      "level": 38,
+      "requirements": {
+        "dex": 54
+      },
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "bucklers",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/Basetypes/Runemastered_Iron_Buckler.webp",
+      "name": {
+        "zh-Hant": "符煉鍛鐵輕盾",
+        "zh-Hans": "符文师匠锻铁轻盾",
+        "en": "Runemastered Iron Buckler"
+      },
+      "type1": {
+        "zh-Hant": "輕盾",
+        "zh-Hans": "轻盾",
+        "en": "Buckler"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [
+        {
+          "label": {
+            "zh-Hant": "格擋機率",
+            "zh-Hans": "格挡几率",
+            "en": "Block chance"
+          },
+          "value": "20%"
+        },
+        {
+          "label": {
+            "zh-Hant": "閃避值",
+            "zh-Hans": "闪避值",
+            "en": "Evasion Rating"
+          },
+          "value": "45"
+        },
+        {
+          "label": {
+            "zh-Hant": "保護",
+            "zh-Hans": "符文结界",
+            "en": "Runic Ward"
+          },
+          "value": "45"
+        }
+      ],
+      "grantedSkill": {
+        "name": {
+          "zh-Hant": "招架",
+          "zh-Hans": "招架",
+          "en": "Parry"
+        },
+        "icon": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/SkillIcons/HuntressBucklerParry.webp",
+        "skillRef": "Parry",
+        "_activeTab": 0
+      },
+      "level": 38,
+      "requirements": {
+        "dex": 54
+      },
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "bucklers",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/Basetypes/Runemastered_Ridged_Buckler.webp",
+      "name": {
+        "zh-Hant": "符煉脊狀輕盾",
+        "zh-Hans": "符文师匠凸脊轻盾",
+        "en": "Runemastered Ridged Buckler"
+      },
+      "type1": {
+        "zh-Hant": "輕盾",
+        "zh-Hans": "轻盾",
+        "en": "Buckler"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [
+        {
+          "label": {
+            "zh-Hant": "格擋機率",
+            "zh-Hans": "格挡几率",
+            "en": "Block chance"
+          },
+          "value": "20%"
+        },
+        {
+          "label": {
+            "zh-Hant": "閃避值",
+            "zh-Hans": "闪避值",
+            "en": "Evasion Rating"
+          },
+          "value": "66"
+        },
+        {
+          "label": {
+            "zh-Hant": "保護",
+            "zh-Hans": "符文结界",
+            "en": "Runic Ward"
+          },
+          "value": "28"
+        }
+      ],
+      "grantedSkill": {
+        "name": {
+          "zh-Hant": "招架",
+          "zh-Hans": "招架",
+          "en": "Parry"
+        },
+        "icon": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/SkillIcons/HuntressBucklerParry.webp",
+        "skillRef": "Parry",
+        "_activeTab": 0
+      },
+      "level": 40,
+      "requirements": {
+        "dex": 58
+      },
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "bucklers",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/Basetypes/Runemastered_Spiked_Buckler.webp",
+      "name": {
+        "zh-Hant": "符煉尖刺輕盾",
+        "zh-Hans": "符文师匠尖刺轻盾",
+        "en": "Runemastered Spiked Buckler"
+      },
+      "type1": {
+        "zh-Hant": "輕盾",
+        "zh-Hans": "轻盾",
+        "en": "Buckler"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [
+        {
+          "label": {
+            "zh-Hant": "格擋機率",
+            "zh-Hans": "格挡几率",
+            "en": "Block chance"
+          },
+          "value": "20%"
+        },
+        {
+          "label": {
+            "zh-Hant": "閃避值",
+            "zh-Hans": "闪避值",
+            "en": "Evasion Rating"
+          },
+          "value": "61"
+        },
+        {
+          "label": {
+            "zh-Hant": "保護",
+            "zh-Hans": "符文结界",
+            "en": "Runic Ward"
+          },
+          "value": "33"
+        }
+      ],
+      "grantedSkill": {
+        "name": {
+          "zh-Hant": "招架",
+          "zh-Hans": "招架",
+          "en": "Parry"
+        },
+        "icon": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/SkillIcons/HuntressBucklerParry.webp",
+        "skillRef": "Parry",
+        "_activeTab": 0
+      },
+      "level": 40,
+      "requirements": {
+        "dex": 58
+      },
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "bucklers",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/Basetypes/Runemastered_Ornate_Buckler.webp",
+      "name": {
+        "zh-Hant": "符煉華麗輕盾",
+        "zh-Hans": "符文师匠华丽轻盾",
+        "en": "Runemastered Ornate Buckler"
+      },
+      "type1": {
+        "zh-Hant": "輕盾",
+        "zh-Hans": "轻盾",
+        "en": "Buckler"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [
+        {
+          "label": {
+            "zh-Hant": "格擋機率",
+            "zh-Hans": "格挡几率",
+            "en": "Block chance"
+          },
+          "value": "20%"
+        },
+        {
+          "label": {
+            "zh-Hant": "閃避值",
+            "zh-Hans": "闪避值",
+            "en": "Evasion Rating"
+          },
+          "value": "114"
+        },
+        {
+          "label": {
+            "zh-Hant": "保護",
+            "zh-Hans": "符文结界",
+            "en": "Runic Ward"
+          },
+          "value": "12"
+        }
+      ],
+      "grantedSkill": {
+        "name": {
+          "zh-Hant": "招架",
+          "zh-Hans": "招架",
+          "en": "Parry"
+        },
+        "icon": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/SkillIcons/HuntressBucklerParry.webp",
+        "skillRef": "Parry",
+        "_activeTab": 0
+      },
+      "level": 55,
+      "requirements": {
+        "dex": 78
+      },
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "bucklers",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/Basetypes/Runemastered_Array_Buckler.webp",
+      "name": {
+        "zh-Hant": "符煉排列輕盾",
+        "zh-Hans": "符文师匠阵列轻盾",
+        "en": "Runemastered Array Buckler"
+      },
+      "type1": {
+        "zh-Hant": "輕盾",
+        "zh-Hans": "轻盾",
+        "en": "Buckler"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [
+        {
+          "label": {
+            "zh-Hant": "格擋機率",
+            "zh-Hans": "格挡几率",
+            "en": "Block chance"
+          },
+          "value": "20%"
+        },
+        {
+          "label": {
+            "zh-Hant": "閃避值",
+            "zh-Hans": "闪避值",
+            "en": "Evasion Rating"
+          },
+          "value": "103"
+        },
+        {
+          "label": {
+            "zh-Hant": "保護",
+            "zh-Hans": "符文结界",
+            "en": "Runic Ward"
+          },
+          "value": "33"
+        }
+      ],
+      "grantedSkill": {
+        "name": {
+          "zh-Hant": "招架",
+          "zh-Hans": "招架",
+          "en": "Parry"
+        },
+        "icon": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/SkillIcons/HuntressBucklerParry.webp",
+        "skillRef": "Parry",
+        "_activeTab": 0
+      },
+      "level": 60,
+      "requirements": {
+        "dex": 85
+      },
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "bucklers",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/Basetypes/Runemastered_Venerable_Defender.webp",
+      "name": {
+        "zh-Hant": "符煉古老護衛盾",
+        "zh-Hans": "符文师匠庄严护卫",
+        "en": "Runemastered Venerable Defender"
+      },
+      "type1": {
+        "zh-Hant": "輕盾",
+        "zh-Hans": "轻盾",
+        "en": "Buckler"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [
+        {
+          "label": {
+            "zh-Hant": "格擋機率",
+            "zh-Hans": "格挡几率",
+            "en": "Block chance"
+          },
+          "value": "20%"
+        },
+        {
+          "label": {
+            "zh-Hant": "閃避值",
+            "zh-Hans": "闪避值",
+            "en": "Evasion Rating"
+          },
+          "value": "148"
+        },
+        {
+          "label": {
+            "zh-Hant": "保護",
+            "zh-Hans": "符文结界",
+            "en": "Runic Ward"
+          },
+          "value": "42"
+        }
+      ],
+      "grantedSkill": {
+        "name": {
+          "zh-Hant": "展開護盾",
+          "zh-Hans": "架盾",
+          "en": "Raise Shield"
+        },
+        "icon": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/SkillIcons/BruteShieldBlock.webp",
+        "skillRef": "Raise_Shield",
+        "_activeTab": 0
+      },
+      "level": 65,
+      "requirements": {
+        "dex": 107
+      },
+      "grantedSkillsExtra": []
+    }
+  ],
+  "uniqueItems": [
+    {
+      "category": "armor",
+      "subKey": "bucklers",
+      "rarity": "unique",
+      "id": "dunkelhalt",
+      "name": {
+        "zh-Hant": "唐克哈特",
+        "zh-Hans": "黑暗止步",
+        "en": "Dunkelhalt"
+      },
+      "type1": {
+        "zh-Hant": "輕盾",
+        "zh-Hans": "轻盾",
+        "en": "Buckler"
+      },
+      "type2": {
+        "zh-Hant": "皮革輕盾",
+        "zh-Hans": "皮制轻盾",
+        "en": "Leather Buckler"
+      },
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/Uniques/Dunkelhalt.webp",
+      "stats": [
+        {
+          "label": {
+            "zh-Hant": "格擋機率",
+            "zh-Hans": "格挡几率",
+            "en": "Block chance"
+          },
+          "value": "20%"
+        },
+        {
+          "label": {
+            "zh-Hant": "閃避值",
+            "zh-Hans": "闪避值",
+            "en": "Evasion Rating"
+          },
+          "value": "10"
+        }
+      ],
+      "grantedSkill": {
+        "name": {
+          "zh-Hant": "招架",
+          "zh-Hans": "招架",
+          "en": "Parry"
+        },
+        "icon": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/SkillIcons/Dunkelhalt.webp",
+        "skillRef": "Parry",
+        "_activeTab": 0
+      },
+      "affixes": [
+        {
+          "zh-Hant": "增加(20—30)%格擋率",
+          "zh-Hans": "格挡几率提高 (20—30)%",
+          "en": "(20—30)% increased Block chance"
+        },
+        {
+          "zh-Hant": "+(20—30)閃避值",
+          "zh-Hans": "+(20—30) 点闪避值",
+          "en": "+(20—30) to Evasion Rating"
+        },
+        {
+          "zh-Hant": "你受到來自格擋擊中的50%傷害",
+          "zh-Hans": "击中被格挡时，你承受伤害的 50%",
+          "en": "You take 50% of damage from Blocked Hits"
+        },
+        {
+          "zh-Hant": "增加50%受招架減益效果的幅度",
+          "zh-Hans": "被招架减益状态强度提高 50%",
+          "en": "50% increased Parried Debuff Magnitude"
+        }
+      ],
+      "flavor": {
+        "zh-Hant": "\"如黑夜裡的盜賊，德雷文潛行其中，\n趁著家家戶戶熟睡，強擄掠奪，高高在上。\n他自認聰明，直到他的孩子付出了代價。\n惡徒啊，報應不爽，沒人會獨自流血受難。\"",
+        "zh-Hans": "“卑鄙的德莱文深夜来袭，\n沉睡的人们被俘获受刑。\n他自诩聪明却遗祸后代，\n谁又能躲避手上的血债。”",
+        "en": "\"A thief in the night, Draven did creep,\nfamilies asleep, taken, held on high.\nClever, he thought, 'til his children paid.\nNay, villain, a man never bleeds alone.\""
+      },
+      "level": 1,
+      "_flavorEnabled": true,
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "bucklers",
+      "rarity": "unique",
+      "id": "dunkelhalt-runeforge-1",
+      "name": {
+        "zh-Hant": "唐克哈特",
+        "zh-Hans": "黑暗止步",
+        "en": "Dunkelhalt"
+      },
+      "type1": {
+        "zh-Hant": "輕盾",
+        "zh-Hans": "轻盾",
+        "en": "Buckler"
+      },
+      "type2": {
+        "zh-Hant": "符煉皮革輕盾",
+        "zh-Hans": "符文师匠皮制轻盾",
+        "en": "Runemastered Leather Buckler"
+      },
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/Uniques/Dunkelhalt.webp",
+      "stats": [
+        {
+          "label": {
+            "zh-Hant": "格擋機率",
+            "zh-Hans": "格挡几率",
+            "en": "Block chance"
+          },
+          "value": "20%"
+        },
+        {
+          "label": {
+            "zh-Hant": "閃避值",
+            "zh-Hans": "闪避值",
+            "en": "Evasion Rating"
+          },
+          "value": "108",
+          "_rf": 2
+        },
+        {
+          "label": {
+            "zh-Hant": "保護",
+            "zh-Hans": "符文结界",
+            "en": "Runic Ward"
+          },
+          "value": "36",
+          "_rf": 2
+        }
+      ],
+      "grantedSkill": {
+        "name": {
+          "zh-Hant": "招架",
+          "zh-Hans": "招架",
+          "en": "Parry"
+        },
+        "icon": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/SkillIcons/Dunkelhalt.webp",
+        "skillRef": "Parry",
+        "_activeTab": 0
+      },
+      "affixes": [
+        {
+          "zh-Hant": "增加(20—30)%格擋率",
+          "zh-Hans": "格挡几率提高 (20—30)%",
+          "en": "(20—30)% increased Block chance"
+        },
+        {
+          "zh-Hant": "+(20—30)閃避值",
+          "zh-Hans": "+(20—30) 点闪避值",
+          "en": "+(20—30) to Evasion Rating"
+        },
+        {
+          "zh-Hant": "你受到來自格擋擊中的50%傷害",
+          "zh-Hans": "击中被格挡时，你承受伤害的 50%",
+          "en": "You take 50% of damage from Blocked Hits"
+        },
+        {
+          "zh-Hant": "增加50%受招架減益效果的幅度",
+          "zh-Hans": "被招架减益状态强度提高 50%",
+          "en": "50% increased Parried Debuff Magnitude"
+        }
+      ],
+      "flavor": {
+        "zh-Hant": "\"如黑夜裡的盜賊，德雷文潛行其中，\n趁著家家戶戶熟睡，強擄掠奪，高高在上。\n他自認聰明，直到他的孩子付出了代價。\n惡徒啊，報應不爽，沒人會獨自流血受難。\"",
+        "zh-Hans": "“卑鄙的德莱文深夜来袭，\n沉睡的人们被俘获受刑。\n他自诩聪明却遗祸后代，\n谁又能躲避手上的血债。”",
+        "en": "\"A thief in the night, Draven did creep,\nfamilies asleep, taken, held on high.\nClever, he thought, 'til his children paid.\nNay, villain, a man never bleeds alone.\""
+      },
+      "level": 38,
+      "_flavorEnabled": true,
+      "grantedSkillsExtra": [],
+      "variantOf": "dunkelhalt",
+      "variantKind": "runeforged",
+      "variantLabel": {
+        "zh-Hant": "符鍛 1",
+        "zh-Hans": "重铸 1",
+        "en": "Runeforge 1"
+      },
+      "requirements": {
+        "dex": 54
+      },
+      "runeforge": {
+        "mode": "random",
+        "index": 1,
+        "total": 1,
+        "step": {
+          "zh-Hant": "1",
+          "zh-Hans": "1",
+          "en": "1"
+        },
+        "cost": [
+          {
+            "kind": "item",
+            "slug": "Dunkelhalt",
+            "name": {
+              "zh-Hant": "唐克哈特",
+              "zh-Hans": "黑暗止步",
+              "en": "Dunkelhalt"
+            },
+            "base": {
+              "zh-Hant": "皮革輕盾",
+              "zh-Hans": "皮制轻盾",
+              "en": "Leather Buckler"
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/Uniques/Dunkelhalt.webp"
+          },
+          {
+            "kind": "currency",
+            "slug": "Verisium",
+            "name": {
+              "zh-Hant": "維里西姆",
+              "zh-Hans": "维金",
+              "en": "Verisium"
+            },
+            "count": 240,
+            "icon": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/Runeforge/Verisium.webp",
+            "iconSrc": "https://cdn.poe2db.tw/image/Art/2DItems/Currency/Expedition2/RefinedVerisium.webp"
+          },
+          {
+            "kind": "currency",
+            "slug": "Medveds_Crest_of_the_Circle",
+            "name": {
+              "zh-Hant": "梅德偉的圓環之徽",
+              "zh-Hans": "梅德维德的圆环徽记",
+              "en": "Medved's Crest of the Circle"
+            },
+            "count": 1,
+            "icon": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/Runeforge/Medveds_Crest_of_the_Circle.webp",
+            "iconSrc": "https://cdn.poe2db.tw/image/Art/2DItems/Currency/Expedition2/UhtredCrest.webp"
+          }
+        ],
+        "changed": {
+          "type2": 1,
+          "level": 1,
+          "dex": 1
+        }
+      }
+    },
+    {
+      "category": "armor",
+      "subKey": "bucklers",
+      "rarity": "unique",
+      "id": "calgyras-arc",
+      "name": {
+        "zh-Hant": "凱爾捷拉之弧",
+        "zh-Hans": "凯尔格拉的弧光",
+        "en": "Calgyra's Arc"
+      },
+      "type1": {
+        "zh-Hant": "輕盾",
+        "zh-Hans": "轻盾",
+        "en": "Buckler"
+      },
+      "type2": {
+        "zh-Hant": "華麗輕盾",
+        "zh-Hans": "华丽轻盾",
+        "en": "Ornate Buckler"
+      },
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/Uniques/Calgyras_Arc.webp",
+      "stats": [
+        {
+          "label": {
+            "zh-Hant": "格擋機率",
+            "zh-Hans": "格挡几率",
+            "en": "Block chance"
+          },
+          "value": "20%"
+        },
+        {
+          "label": {
+            "zh-Hant": "閃避值",
+            "zh-Hans": "闪避值",
+            "en": "Evasion Rating"
+          },
+          "value": "120"
+        }
+      ],
+      "grantedSkill": {
+        "name": {
+          "zh-Hant": "招架",
+          "zh-Hans": "招架",
+          "en": "Parry"
+        },
+        "icon": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/SkillIcons/Calgyras_Arc.webp",
+        "skillRef": "Parry",
+        "_activeTab": 0
+      },
+      "affixes": [
+        {
+          "zh-Hant": "增加(60—100)%閃避值",
+          "zh-Hans": "闪避值提高 (60—100)%",
+          "en": "(60—100)% increased Evasion Rating"
+        },
+        {
+          "zh-Hant": "+(60—100)最大魔力",
+          "zh-Hans": "+(60—100) 魔力上限",
+          "en": "+(60—100) to maximum Mana"
+        },
+        {
+          "zh-Hant": "+(10—20)點智慧",
+          "zh-Hans": "+(10—20) 智慧",
+          "en": "+(10—20) to Intelligence"
+        },
+        {
+          "zh-Hant": "招架沒有範圍限制",
+          "zh-Hans": "无限招架范围",
+          "en": "Infinite Parry Range"
+        },
+        {
+          "zh-Hant": "增加50%受招架減益效果持續時間",
+          "zh-Hans": "被招架减益状态的持续时间提高 50%",
+          "en": "50% increased Parried Debuff Duration"
+        }
+      ],
+      "flavor": {
+        "zh-Hant": "\"無論到何處，你都躲不過我的復仇。\"",
+        "zh-Hans": "“就算逃到天涯海角，也躲不开我的复仇。”",
+        "en": "\"There is nowhere my vengeance cannot find you.\""
+      },
+      "level": 52,
+      "_flavorEnabled": true,
+      "grantedSkillsExtra": [],
+      "requirements": {
+        "dex": 74
+      }
+    },
+    {
+      "category": "armor",
+      "subKey": "bucklers",
+      "rarity": "unique",
+      "id": "calgyras-arc-runeforge-1",
+      "name": {
+        "zh-Hant": "凱爾捷拉之弧",
+        "zh-Hans": "凯尔格拉的弧光",
+        "en": "Calgyra's Arc"
+      },
+      "type1": {
+        "zh-Hant": "輕盾",
+        "zh-Hans": "轻盾",
+        "en": "Buckler"
+      },
+      "type2": {
+        "zh-Hant": "符煉華麗輕盾",
+        "zh-Hans": "符文师匠华丽轻盾",
+        "en": "Runemastered Ornate Buckler"
+      },
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/Uniques/Calgyras_Arc.webp",
+      "stats": [
+        {
+          "label": {
+            "zh-Hant": "格擋機率",
+            "zh-Hans": "格挡几率",
+            "en": "Block chance"
+          },
+          "value": "20%"
+        },
+        {
+          "label": {
+            "zh-Hant": "閃避值",
+            "zh-Hans": "闪避值",
+            "en": "Evasion Rating"
+          },
+          "value": "114",
+          "_rf": 2
+        },
+        {
+          "label": {
+            "zh-Hant": "保護",
+            "zh-Hans": "符文结界",
+            "en": "Runic Ward"
+          },
+          "value": "12",
+          "_rf": 2
+        }
+      ],
+      "grantedSkill": {
+        "name": {
+          "zh-Hant": "招架",
+          "zh-Hans": "招架",
+          "en": "Parry"
+        },
+        "icon": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/SkillIcons/Calgyras_Arc.webp",
+        "skillRef": "Parry",
+        "_activeTab": 0
+      },
+      "affixes": [
+        {
+          "zh-Hant": "增加(60—100)%閃避值",
+          "zh-Hans": "闪避值提高 (60—100)%",
+          "en": "(60—100)% increased Evasion Rating"
+        },
+        {
+          "zh-Hant": "+(60—100)最大魔力",
+          "zh-Hans": "+(60—100) 魔力上限",
+          "en": "+(60—100) to maximum Mana"
+        },
+        {
+          "zh-Hant": "+(10—20)點智慧",
+          "zh-Hans": "+(10—20) 智慧",
+          "en": "+(10—20) to Intelligence"
+        },
+        {
+          "zh-Hant": "招架沒有範圍限制",
+          "zh-Hans": "无限招架范围",
+          "en": "Infinite Parry Range"
+        },
+        {
+          "zh-Hant": "增加50%受招架減益效果持續時間",
+          "zh-Hans": "被招架减益状态的持续时间提高 50%",
+          "en": "50% increased Parried Debuff Duration"
+        }
+      ],
+      "flavor": {
+        "zh-Hant": "\"無論到何處，你都躲不過我的復仇。\"",
+        "zh-Hans": "“就算逃到天涯海角，也躲不开我的复仇。”",
+        "en": "\"There is nowhere my vengeance cannot find you.\""
+      },
+      "level": 55,
+      "_flavorEnabled": true,
+      "grantedSkillsExtra": [],
+      "requirements": {
+        "dex": 78
+      },
+      "variantOf": "calgyras-arc",
+      "variantKind": "runeforged",
+      "variantLabel": {
+        "zh-Hant": "符鍛 1",
+        "zh-Hans": "重铸 1",
+        "en": "Runeforge 1"
+      },
+      "runeforge": {
+        "mode": "random",
+        "index": 1,
+        "total": 1,
+        "step": {
+          "zh-Hant": "1",
+          "zh-Hans": "1",
+          "en": "1"
+        },
+        "cost": [
+          {
+            "kind": "item",
+            "slug": "Ornate_Buckler",
+            "name": {
+              "zh-Hant": "華麗輕盾",
+              "zh-Hans": "华丽轻盾",
+              "en": "Ornate Buckler"
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/Runeforge/Ornate_Buckler.webp",
+            "iconSrc": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Buckler03.webp"
+          },
+          {
+            "kind": "currency",
+            "slug": "Verisium",
+            "name": {
+              "zh-Hant": "維里西姆",
+              "zh-Hans": "维金",
+              "en": "Verisium"
+            },
+            "count": 1000,
+            "icon": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/Runeforge/Verisium.webp",
+            "iconSrc": "https://cdn.poe2db.tw/image/Art/2DItems/Currency/Expedition2/RefinedVerisium.webp"
+          },
+          {
+            "kind": "currency",
+            "slug": "Voranas_Crest_of_the_Scythe",
+            "name": {
+              "zh-Hant": "沃拉娜的鐮刀之徽",
+              "zh-Hans": "沃拉娜的镰刀徽记",
+              "en": "Vorana's Crest of the Scythe"
+            },
+            "count": 1,
+            "icon": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/Runeforge/Voranas_Crest_of_the_Scythe.webp",
+            "iconSrc": "https://cdn.poe2db.tw/image/Art/2DItems/Currency/Expedition2/VoranaCrest.webp"
+          }
+        ],
+        "changed": {
+          "type2": 1,
+          "level": 1,
+          "dex": 1
+        }
+      }
+    },
+    {
+      "category": "armor",
+      "subKey": "bucklers",
+      "rarity": "unique",
+      "id": "sunsplinter",
+      "name": {
+        "zh-Hant": "烈日碎片",
+        "zh-Hans": "烈阳残片",
+        "en": "Sunsplinter"
+      },
+      "type1": {
+        "zh-Hant": "輕盾",
+        "zh-Hans": "轻盾",
+        "en": "Buckler"
+      },
+      "type2": {
+        "zh-Hant": "排列輕盾",
+        "zh-Hans": "阵列轻盾",
+        "en": "Array Buckler"
+      },
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/Uniques/Sunsplinter.webp",
+      "stats": [
+        {
+          "label": {
+            "zh-Hant": "格擋機率",
+            "zh-Hans": "格挡几率",
+            "en": "Block chance"
+          },
+          "value": "20%"
+        },
+        {
+          "label": {
+            "zh-Hant": "閃避值",
+            "zh-Hans": "闪避值",
+            "en": "Evasion Rating"
+          },
+          "value": "126"
+        }
+      ],
+      "grantedSkill": {
+        "name": {
+          "zh-Hant": "招架",
+          "zh-Hans": "招架",
+          "en": "Parry"
+        },
+        "icon": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/SkillIcons/Sunsplinter.webp",
+        "skillRef": "Parry",
+        "_activeTab": 0
+      },
+      "affixes": [
+        {
+          "zh-Hant": "增加(100—300)%閃避值",
+          "zh-Hans": "闪避值提高 (100—300)%",
+          "en": "(100—300)% increased Evasion Rating"
+        },
+        {
+          "zh-Hant": "所有火焰技能的等級+1",
+          "zh-Hans": "所有火焰技能等级 +1",
+          "en": "+1 to Level of all Fire Skills"
+        },
+        {
+          "zh-Hant": "全部冰冷技能等級+2",
+          "zh-Hans": "所有冰霜技能等级 +2",
+          "en": "+2 to Level of all Cold Skills"
+        },
+        {
+          "zh-Hant": "全部閃電技能等級+3",
+          "zh-Hans": "所有闪电技能等级 +3",
+          "en": "+3 to Level of all Lightning Skills"
+        },
+        {
+          "zh-Hant": "+1%最大火焰抗性",
+          "zh-Hans": "+1% 火焰抗性上限",
+          "en": "+1% to Maximum Fire Resistance"
+        },
+        {
+          "zh-Hant": "+2%最大冰冷抗性",
+          "zh-Hans": "+2% 冰霜抗性上限",
+          "en": "+2% to Maximum Cold Resistance"
+        },
+        {
+          "zh-Hant": "+3%最大閃電抗性",
+          "zh-Hans": "+3%闪电抗性上限",
+          "en": "+3% to Maximum Lightning Resistance"
+        }
+      ],
+      "flavor": {
+        "zh-Hant": "\"倫達的堅守讓敵人徒勞無功，索拉萊則躍向天際、劈裂蒼穹。\n世界的凜冬隨著她武器所至之處化為無形。\"\n- 瓦希達血脈的說書女阮珈",
+        "zh-Hans": "“兰拉阻挡众人之际，索瑞腾空击碎了天穹。\n凭此一击，世界之冬终于走到了尽头。”\n——乌兰嘉，瓦希达阿卡拉的说书人",
+        "en": "\"Lundara held back the hordes, while Solerai rose to split the sky.\nWith a single stroke, she ended the Winter of the World.\"\n- Wranga, tale-woman of the Wahida akhara"
+      },
+      "level": 55,
+      "_flavorEnabled": true,
+      "grantedSkillsExtra": [],
+      "requirements": {
+        "dex": 78
+      }
+    },
+    {
+      "category": "armor",
+      "subKey": "bucklers",
+      "rarity": "unique",
+      "id": "sunsplinter-runeforge-1",
+      "name": {
+        "zh-Hant": "烈日碎片",
+        "zh-Hans": "烈阳残片",
+        "en": "Sunsplinter"
+      },
+      "type1": {
+        "zh-Hant": "輕盾",
+        "zh-Hans": "轻盾",
+        "en": "Buckler"
+      },
+      "type2": {
+        "zh-Hant": "符煉排列輕盾",
+        "zh-Hans": "符文师匠阵列轻盾",
+        "en": "Runemastered Array Buckler"
+      },
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/Uniques/Sunsplinter.webp",
+      "stats": [
+        {
+          "label": {
+            "zh-Hant": "格擋機率",
+            "zh-Hans": "格挡几率",
+            "en": "Block chance"
+          },
+          "value": "20%"
+        },
+        {
+          "label": {
+            "zh-Hant": "閃避值",
+            "zh-Hans": "闪避值",
+            "en": "Evasion Rating"
+          },
+          "value": "103",
+          "_rf": 2
+        },
+        {
+          "label": {
+            "zh-Hant": "保護",
+            "zh-Hans": "符文结界",
+            "en": "Runic Ward"
+          },
+          "value": "33",
+          "_rf": 2
+        }
+      ],
+      "grantedSkill": {
+        "name": {
+          "zh-Hant": "招架",
+          "zh-Hans": "招架",
+          "en": "Parry"
+        },
+        "icon": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/SkillIcons/Sunsplinter.webp",
+        "skillRef": "Parry",
+        "_activeTab": 0
+      },
+      "affixes": [
+        {
+          "zh-Hant": "增加(100—300)%閃避值",
+          "zh-Hans": "闪避值提高 (100—300)%",
+          "en": "(100—300)% increased Evasion Rating"
+        },
+        {
+          "zh-Hant": "所有火焰技能的等級+1",
+          "zh-Hans": "所有火焰技能等级 +1",
+          "en": "+1 to Level of all Fire Skills"
+        },
+        {
+          "zh-Hant": "全部冰冷技能等級+2",
+          "zh-Hans": "所有冰霜技能等级 +2",
+          "en": "+2 to Level of all Cold Skills"
+        },
+        {
+          "zh-Hant": "全部閃電技能等級+3",
+          "zh-Hans": "所有闪电技能等级 +3",
+          "en": "+3 to Level of all Lightning Skills"
+        },
+        {
+          "zh-Hant": "+1%最大火焰抗性",
+          "zh-Hans": "+1% 火焰抗性上限",
+          "en": "+1% to Maximum Fire Resistance"
+        },
+        {
+          "zh-Hant": "+2%最大冰冷抗性",
+          "zh-Hans": "+2% 冰霜抗性上限",
+          "en": "+2% to Maximum Cold Resistance"
+        },
+        {
+          "zh-Hant": "+3%最大閃電抗性",
+          "zh-Hans": "+3%闪电抗性上限",
+          "en": "+3% to Maximum Lightning Resistance"
+        }
+      ],
+      "flavor": {
+        "zh-Hant": "\"倫達的堅守讓敵人徒勞無功，索拉萊則躍向天際、劈裂蒼穹。\n世界的凜冬隨著她武器所至之處化為無形。\"\n- 瓦希達血脈的說書女阮珈",
+        "zh-Hans": "“兰拉阻挡众人之际，索瑞腾空击碎了天穹。\n凭此一击，世界之冬终于走到了尽头。”\n——乌兰嘉，瓦希达阿卡拉的说书人",
+        "en": "\"Lundara held back the hordes, while Solerai rose to split the sky.\nWith a single stroke, she ended the Winter of the World.\"\n- Wranga, tale-woman of the Wahida akhara"
+      },
+      "level": 60,
+      "_flavorEnabled": true,
+      "grantedSkillsExtra": [],
+      "requirements": {
+        "dex": 85
+      },
+      "variantOf": "sunsplinter",
+      "variantKind": "runeforged",
+      "variantLabel": {
+        "zh-Hant": "符鍛 1",
+        "zh-Hans": "重铸 1",
+        "en": "Runeforge 1"
+      },
+      "runeforge": {
+        "mode": "random",
+        "index": 1,
+        "total": 1,
+        "step": {
+          "zh-Hant": "1",
+          "zh-Hans": "1",
+          "en": "1"
+        },
+        "cost": [
+          {
+            "kind": "item",
+            "slug": "Sunsplinter",
+            "name": {
+              "zh-Hant": "烈日碎片",
+              "zh-Hans": "烈阳残片",
+              "en": "Sunsplinter"
+            },
+            "base": {
+              "zh-Hant": "排列輕盾",
+              "zh-Hans": "阵列轻盾",
+              "en": "Array Buckler"
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/Uniques/Sunsplinter.webp"
+          },
+          {
+            "kind": "currency",
+            "slug": "Verisium",
+            "name": {
+              "zh-Hant": "維里西姆",
+              "zh-Hans": "维金",
+              "en": "Verisium"
+            },
+            "count": 1500,
+            "icon": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/Runeforge/Verisium.webp",
+            "iconSrc": "https://cdn.poe2db.tw/image/Art/2DItems/Currency/Expedition2/RefinedVerisium.webp"
+          },
+          {
+            "kind": "currency",
+            "slug": "Voranas_Crest_of_the_Scythe",
+            "name": {
+              "zh-Hant": "沃拉娜的鐮刀之徽",
+              "zh-Hans": "沃拉娜的镰刀徽记",
+              "en": "Vorana's Crest of the Scythe"
+            },
+            "count": 1,
+            "icon": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/Runeforge/Voranas_Crest_of_the_Scythe.webp",
+            "iconSrc": "https://cdn.poe2db.tw/image/Art/2DItems/Currency/Expedition2/VoranaCrest.webp"
+          }
+        ],
+        "changed": {
+          "type2": 1,
+          "level": 1,
+          "dex": 1
+        }
+      }
+    },
+    {
+      "category": "armor",
+      "subKey": "bucklers",
+      "rarity": "unique",
+      "id": "nocturne",
+      "name": {
+        "zh-Hant": "夜曲",
+        "zh-Hans": "夜曲",
+        "en": "Nocturne"
+      },
+      "type1": {
+        "zh-Hant": "輕盾",
+        "zh-Hans": "轻盾",
+        "en": "Buckler"
+      },
+      "type2": {
+        "zh-Hant": "木頭輕盾",
+        "zh-Hans": "木制轻盾",
+        "en": "Wooden Buckler"
+      },
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/Uniques/Nocturne.webp",
+      "stats": [
+        {
+          "label": {
+            "zh-Hant": "格擋機率",
+            "zh-Hans": "格挡几率",
+            "en": "Block chance"
+          },
+          "value": "20%"
+        },
+        {
+          "label": {
+            "zh-Hant": "閃避值",
+            "zh-Hans": "闪避值",
+            "en": "Evasion Rating"
+          },
+          "value": "18"
+        }
+      ],
+      "grantedSkill": {
+        "name": {
+          "zh-Hant": "招架",
+          "zh-Hans": "招架",
+          "en": "Parry"
+        },
+        "icon": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/SkillIcons/Nocturne.webp",
+        "skillRef": "Parry",
+        "_activeTab": 0
+      },
+      "affixes": [
+        {
+          "zh-Hant": "+(60—80)最大魔力",
+          "zh-Hans": "+(60—80) 魔力上限",
+          "en": "+(60—80) to maximum Mana"
+        },
+        {
+          "zh-Hant": "+(10—15)%全元素抗性",
+          "zh-Hans": "所有元素抗性 +(10—15)%",
+          "en": "+(10—15)% to all Elemental Resistances"
+        },
+        {
+          "zh-Hant": "增加20%命中值",
+          "zh-Hans": "命中值提高 20%",
+          "en": "20% increased Accuracy Rating"
+        },
+        {
+          "zh-Hant": "受招架敵人承受更多法術傷害，而非更多攻擊傷害",
+          "zh-Hans": "被招架的敌人受到的法术伤害总增，而非攻击伤害",
+          "en": "Parried enemies take more Spell Damage instead of more Attack Damage"
+        },
+        {
+          "zh-Hant": "增加100%受招架減益效果持續時間",
+          "zh-Hans": "被招架减益状态的持续时间提高 100%",
+          "en": "100% increased Parried Debuff Duration"
+        }
+      ],
+      "flavor": {
+        "zh-Hant": "光與影追逐著彼此，\n卻也從未得知對方長存於世……",
+        "zh-Hans": "光影在永恒的追逐中纠缠，\n却根本不知道彼此的存在。",
+        "en": "Light and shadow chase eternal,\nbut neither knows the other exists..."
+      },
+      "level": 5,
+      "_flavorEnabled": true,
+      "grantedSkillsExtra": [],
+      "requirements": {
+        "dex": 10
+      }
+    },
+    {
+      "category": "armor",
+      "subKey": "bucklers",
+      "rarity": "unique",
+      "id": "nocturne-runeforge-1",
+      "name": {
+        "zh-Hant": "夜曲",
+        "zh-Hans": "夜曲",
+        "en": "Nocturne"
+      },
+      "type1": {
+        "zh-Hant": "輕盾",
+        "zh-Hans": "轻盾",
+        "en": "Buckler"
+      },
+      "type2": {
+        "zh-Hant": "符煉木頭輕盾",
+        "zh-Hans": "符文师匠木制轻盾",
+        "en": "Runemastered Wooden Buckler"
+      },
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/Uniques/Nocturne.webp",
+      "stats": [
+        {
+          "label": {
+            "zh-Hant": "格擋機率",
+            "zh-Hans": "格挡几率",
+            "en": "Block chance"
+          },
+          "value": "20%"
+        },
+        {
+          "label": {
+            "zh-Hant": "閃避值",
+            "zh-Hans": "闪避值",
+            "en": "Evasion Rating"
+          },
+          "value": "90",
+          "_rf": 2
+        },
+        {
+          "label": {
+            "zh-Hant": "保護",
+            "zh-Hans": "符文结界",
+            "en": "Runic Ward"
+          },
+          "value": "18",
+          "_rf": 2
+        }
+      ],
+      "grantedSkill": {
+        "name": {
+          "zh-Hant": "招架",
+          "zh-Hans": "招架",
+          "en": "Parry"
+        },
+        "icon": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/SkillIcons/Nocturne.webp",
+        "skillRef": "Parry",
+        "_activeTab": 0
+      },
+      "affixes": [
+        {
+          "zh-Hant": "+(60—80)最大魔力",
+          "zh-Hans": "+(60—80) 魔力上限",
+          "en": "+(60—80) to maximum Mana"
+        },
+        {
+          "zh-Hant": "+(10—15)%全元素抗性",
+          "zh-Hans": "所有元素抗性 +(10—15)%",
+          "en": "+(10—15)% to all Elemental Resistances"
+        },
+        {
+          "zh-Hant": "增加20%命中值",
+          "zh-Hans": "命中值提高 20%",
+          "en": "20% increased Accuracy Rating"
+        },
+        {
+          "zh-Hant": "受招架敵人承受更多法術傷害，而非更多攻擊傷害",
+          "zh-Hans": "被招架的敌人受到的法术伤害总增，而非攻击伤害",
+          "en": "Parried enemies take more Spell Damage instead of more Attack Damage"
+        },
+        {
+          "zh-Hant": "增加100%受招架減益效果持續時間",
+          "zh-Hans": "被招架减益状态的持续时间提高 100%",
+          "en": "100% increased Parried Debuff Duration"
+        }
+      ],
+      "flavor": {
+        "zh-Hant": "光與影追逐著彼此，\n卻也從未得知對方長存於世……",
+        "zh-Hans": "光影在永恒的追逐中纠缠，\n却根本不知道彼此的存在。",
+        "en": "Light and shadow chase eternal,\nbut neither knows the other exists..."
+      },
+      "level": 38,
+      "_flavorEnabled": true,
+      "grantedSkillsExtra": [],
+      "requirements": {
+        "dex": 54
+      },
+      "variantOf": "nocturne",
+      "variantKind": "runeforged",
+      "variantLabel": {
+        "zh-Hant": "符鍛 1",
+        "zh-Hans": "重铸 1",
+        "en": "Runeforge 1"
+      },
+      "runeforge": {
+        "mode": "random",
+        "index": 1,
+        "total": 1,
+        "step": {
+          "zh-Hant": "1",
+          "zh-Hans": "1",
+          "en": "1"
+        },
+        "cost": [
+          {
+            "kind": "item",
+            "slug": "Nocturne",
+            "name": {
+              "zh-Hant": "夜曲",
+              "zh-Hans": "夜曲",
+              "en": "Nocturne"
+            },
+            "base": {
+              "zh-Hant": "木頭輕盾",
+              "zh-Hans": "木制轻盾",
+              "en": "Wooden Buckler"
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/Uniques/Nocturne.webp"
+          },
+          {
+            "kind": "currency",
+            "slug": "Verisium",
+            "name": {
+              "zh-Hant": "維里西姆",
+              "zh-Hans": "维金",
+              "en": "Verisium"
+            },
+            "count": 240,
+            "icon": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/Runeforge/Verisium.webp",
+            "iconSrc": "https://cdn.poe2db.tw/image/Art/2DItems/Currency/Expedition2/RefinedVerisium.webp"
+          },
+          {
+            "kind": "currency",
+            "slug": "Medveds_Crest_of_the_Circle",
+            "name": {
+              "zh-Hant": "梅德偉的圓環之徽",
+              "zh-Hans": "梅德维德的圆环徽记",
+              "en": "Medved's Crest of the Circle"
+            },
+            "count": 1,
+            "icon": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/Runeforge/Medveds_Crest_of_the_Circle.webp",
+            "iconSrc": "https://cdn.poe2db.tw/image/Art/2DItems/Currency/Expedition2/UhtredCrest.webp"
+          }
+        ],
+        "changed": {
+          "type2": 1,
+          "level": 1,
+          "dex": 1
+        }
+      }
+    },
+    {
+      "category": "armor",
+      "subKey": "bucklers",
+      "rarity": "unique",
+      "id": "rondel-de-ezo",
+      "name": {
+        "zh-Hant": "隆德爾．德．艾佐",
+        "zh-Hans": "艾佐的诗篇",
+        "en": "Rondel de Ezo"
+      },
+      "type1": {
+        "zh-Hant": "輕盾",
+        "zh-Hans": "轻盾",
+        "en": "Buckler"
+      },
+      "type2": {
+        "zh-Hant": "鋼板輕盾",
+        "zh-Hans": "嵌板轻盾",
+        "en": "Plated Buckler"
+      },
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/Uniques/Rondel_de_Ezo.webp",
+      "stats": [
+        {
+          "label": {
+            "zh-Hant": "格擋機率",
+            "zh-Hans": "格挡几率",
+            "en": "Block chance"
+          },
+          "value": "20%"
+        },
+        {
+          "label": {
+            "zh-Hant": "閃避值",
+            "zh-Hans": "闪避值",
+            "en": "Evasion Rating"
+          },
+          "value": "31"
+        }
+      ],
+      "grantedSkill": {
+        "name": {
+          "zh-Hant": "招架",
+          "zh-Hans": "招架",
+          "en": "Parry"
+        },
+        "icon": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/SkillIcons/Rondel_de_Ezo.webp",
+        "skillRef": "Parry",
+        "_activeTab": 0
+      },
+      "affixes": [
+        {
+          "zh-Hant": "增加(50—150)%閃避值",
+          "zh-Hans": "闪避值提高 (50—150)%",
+          "en": "(50—150)% increased Evasion Rating"
+        },
+        {
+          "zh-Hant": "+(10—20)點敏捷",
+          "zh-Hans": "+(10—20) 敏捷",
+          "en": "+(10—20) to Dexterity"
+        },
+        {
+          "zh-Hant": "5每秒生命回復",
+          "zh-Hans": "生命每秒再生 5",
+          "en": "5 Life Regeneration per second"
+        },
+        {
+          "zh-Hant": "增加100%投射物的格擋率",
+          "zh-Hans": "对投射物的格挡几率提高 100%",
+          "en": "100% increased Block chance against Projectiles"
+        },
+        {
+          "zh-Hant": "格擋時，會對敵人施加衰弱衰弱詛咒",
+          "zh-Hans": "格挡时对敌人附加衰弱诅咒",
+          "en": "Curse Enemies with Enfeeble on Block"
+        }
+      ],
+      "flavor": {
+        "zh-Hant": "\"反抗的力量持續得夠久，\n威壓的鐵腕也會放出一道自由。\"",
+        "zh-Hans": "“只要坚持抵抗，暴君终会灰心。\n那便是胜利的日子。”",
+        "en": "\"Resist for long enough, and your oppressor\nwill lose his will. Then, you've won.\""
+      },
+      "level": 11,
+      "_flavorEnabled": true,
+      "grantedSkillsExtra": [],
+      "requirements": {
+        "dex": 18
+      }
+    },
+    {
+      "category": "armor",
+      "subKey": "bucklers",
+      "rarity": "unique",
+      "id": "rondel-de-ezo-runeforge-1",
+      "name": {
+        "zh-Hant": "隆德爾．德．艾佐",
+        "zh-Hans": "艾佐的诗篇",
+        "en": "Rondel de Ezo"
+      },
+      "type1": {
+        "zh-Hant": "輕盾",
+        "zh-Hans": "轻盾",
+        "en": "Buckler"
+      },
+      "type2": {
+        "zh-Hant": "符煉鋼板輕盾",
+        "zh-Hans": "符文师匠嵌板轻盾",
+        "en": "Runemastered Plated Buckler"
+      },
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/Uniques/Rondel_de_Ezo.webp",
+      "stats": [
+        {
+          "label": {
+            "zh-Hant": "格擋機率",
+            "zh-Hans": "格挡几率",
+            "en": "Block chance"
+          },
+          "value": "20%"
+        },
+        {
+          "label": {
+            "zh-Hant": "閃避值",
+            "zh-Hans": "闪避值",
+            "en": "Evasion Rating"
+          },
+          "value": "67",
+          "_rf": 2
+        },
+        {
+          "label": {
+            "zh-Hant": "保護",
+            "zh-Hans": "符文结界",
+            "en": "Runic Ward"
+          },
+          "value": "23",
+          "_rf": 2
+        }
+      ],
+      "grantedSkill": {
+        "name": {
+          "zh-Hant": "招架",
+          "zh-Hans": "招架",
+          "en": "Parry"
+        },
+        "icon": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/SkillIcons/Rondel_de_Ezo.webp",
+        "skillRef": "Parry",
+        "_activeTab": 0
+      },
+      "affixes": [
+        {
+          "zh-Hant": "增加(50—150)%閃避值",
+          "zh-Hans": "闪避值提高 (50—150)%",
+          "en": "(50—150)% increased Evasion Rating"
+        },
+        {
+          "zh-Hant": "+(10—20)點敏捷",
+          "zh-Hans": "+(10—20) 敏捷",
+          "en": "+(10—20) to Dexterity"
+        },
+        {
+          "zh-Hant": "5每秒生命回復",
+          "zh-Hans": "生命每秒再生 5",
+          "en": "5 Life Regeneration per second"
+        },
+        {
+          "zh-Hant": "增加100%投射物的格擋率",
+          "zh-Hans": "对投射物的格挡几率提高 100%",
+          "en": "100% increased Block chance against Projectiles"
+        },
+        {
+          "zh-Hant": "格擋時，會對敵人施加衰弱衰弱詛咒",
+          "zh-Hans": "格挡时对敌人附加衰弱诅咒",
+          "en": "Curse Enemies with Enfeeble on Block"
+        }
+      ],
+      "flavor": {
+        "zh-Hant": "\"反抗的力量持續得夠久，\n威壓的鐵腕也會放出一道自由。\"",
+        "zh-Hans": "“只要坚持抵抗，暴君终会灰心。\n那便是胜利的日子。”",
+        "en": "\"Resist for long enough, and your oppressor\nwill lose his will. Then, you've won.\""
+      },
+      "level": 38,
+      "_flavorEnabled": true,
+      "grantedSkillsExtra": [],
+      "requirements": {
+        "dex": 54
+      },
+      "variantOf": "rondel-de-ezo",
+      "variantKind": "runeforged",
+      "variantLabel": {
+        "zh-Hant": "符鍛 1",
+        "zh-Hans": "重铸 1",
+        "en": "Runeforge 1"
+      },
+      "runeforge": {
+        "mode": "random",
+        "index": 1,
+        "total": 1,
+        "step": {
+          "zh-Hant": "1",
+          "zh-Hans": "1",
+          "en": "1"
+        },
+        "cost": [
+          {
+            "kind": "item",
+            "slug": "Rondel_de_Ezo",
+            "name": {
+              "zh-Hant": "隆德爾．德．艾佐",
+              "zh-Hans": "艾佐的诗篇",
+              "en": "Rondel de Ezo"
+            },
+            "base": {
+              "zh-Hant": "鋼板輕盾",
+              "zh-Hans": "嵌板轻盾",
+              "en": "Plated Buckler"
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/Uniques/Rondel_de_Ezo.webp"
+          },
+          {
+            "kind": "currency",
+            "slug": "Verisium",
+            "name": {
+              "zh-Hant": "維里西姆",
+              "zh-Hans": "维金",
+              "en": "Verisium"
+            },
+            "count": 240,
+            "icon": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/Runeforge/Verisium.webp",
+            "iconSrc": "https://cdn.poe2db.tw/image/Art/2DItems/Currency/Expedition2/RefinedVerisium.webp"
+          },
+          {
+            "kind": "currency",
+            "slug": "Medveds_Crest_of_the_Circle",
+            "name": {
+              "zh-Hant": "梅德偉的圓環之徽",
+              "zh-Hans": "梅德维德的圆环徽记",
+              "en": "Medved's Crest of the Circle"
+            },
+            "count": 1,
+            "icon": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/Runeforge/Medveds_Crest_of_the_Circle.webp",
+            "iconSrc": "https://cdn.poe2db.tw/image/Art/2DItems/Currency/Expedition2/UhtredCrest.webp"
+          }
+        ],
+        "changed": {
+          "type2": 1,
+          "level": 1,
+          "dex": 1
+        }
+      }
+    },
+    {
+      "category": "armor",
+      "subKey": "bucklers",
+      "rarity": "unique",
+      "id": "bloodbarrier",
+      "name": {
+        "zh-Hant": "鮮血屏障",
+        "zh-Hans": "血垒障壁",
+        "en": "Bloodbarrier"
+      },
+      "type1": {
+        "zh-Hant": "輕盾",
+        "zh-Hans": "轻盾",
+        "en": "Buckler"
+      },
+      "type2": {
+        "zh-Hant": "鍛鐵輕盾",
+        "zh-Hans": "锻铁轻盾",
+        "en": "Iron Buckler"
+      },
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/Uniques/Bloodbarrier.webp",
+      "stats": [
+        {
+          "label": {
+            "zh-Hant": "格擋機率",
+            "zh-Hans": "格挡几率",
+            "en": "Block chance"
+          },
+          "value": "20%"
+        },
+        {
+          "label": {
+            "zh-Hant": "閃避值",
+            "zh-Hans": "闪避值",
+            "en": "Evasion Rating"
+          },
+          "value": "42"
+        }
+      ],
+      "grantedSkill": {
+        "name": {
+          "zh-Hant": "招架",
+          "zh-Hans": "招架",
+          "en": "Parry"
+        },
+        "icon": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/SkillIcons/Bloodbarrier.webp",
+        "skillRef": "Parry",
+        "_activeTab": 0
+      },
+      "affixes": [
+        {
+          "zh-Hant": "增加(10—15)%格擋率",
+          "zh-Hans": "格挡几率提高 (10—15)%",
+          "en": "(10—15)% increased Block chance"
+        },
+        {
+          "zh-Hant": "+(13—17)%混沌抗性",
+          "zh-Hans": "混沌抗性 +(13—17)%",
+          "en": "+(13—17)% to Chaos Resistance"
+        },
+        {
+          "zh-Hant": "(5—10)每秒生命回復",
+          "zh-Hans": "生命每秒再生 (5—10)",
+          "en": "(5—10) Life Regeneration per second"
+        },
+        {
+          "zh-Hant": "格擋時對目標造成持續5秒的腐化之血 每秒造成等同於你最大生命50%的物理傷害",
+          "zh-Hans": "格挡时施加腐化之血，持续 5 秒， 每秒造成相当于你生命上限 50% 的物理伤害",
+          "en": "Inflict Corrupted Blood for 5 seconds on Block, dealing 50% of your maximum Life as Physical damage per second"
+        }
+      ],
+      "flavor": {
+        "zh-Hant": "一扇通往紅色國度的門，\n夾雜著永無止境的哭喊聲……",
+        "zh-Hans": "通往赤红领域的窗户，\n无数个声音齐声哀嚎……",
+        "en": "A window onto a realm of red,\nwhere countless voices scream..."
+      },
+      "level": 16,
+      "_flavorEnabled": true,
+      "grantedSkillsExtra": [],
+      "requirements": {
+        "dex": 25
+      }
+    },
+    {
+      "category": "armor",
+      "subKey": "bucklers",
+      "rarity": "unique",
+      "id": "bloodbarrier-runeforge-1",
+      "name": {
+        "zh-Hant": "鮮血屏障",
+        "zh-Hans": "血垒障壁",
+        "en": "Bloodbarrier"
+      },
+      "type1": {
+        "zh-Hant": "輕盾",
+        "zh-Hans": "轻盾",
+        "en": "Buckler"
+      },
+      "type2": {
+        "zh-Hant": "符煉鍛鐵輕盾",
+        "zh-Hans": "符文师匠锻铁轻盾",
+        "en": "Runemastered Iron Buckler"
+      },
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/Uniques/Bloodbarrier.webp",
+      "stats": [
+        {
+          "label": {
+            "zh-Hant": "格擋機率",
+            "zh-Hans": "格挡几率",
+            "en": "Block chance"
+          },
+          "value": "20%"
+        },
+        {
+          "label": {
+            "zh-Hant": "閃避值",
+            "zh-Hans": "闪避值",
+            "en": "Evasion Rating"
+          },
+          "value": "45",
+          "_rf": 2
+        },
+        {
+          "label": {
+            "zh-Hant": "保護",
+            "zh-Hans": "符文结界",
+            "en": "Runic Ward"
+          },
+          "value": "45",
+          "_rf": 2
+        }
+      ],
+      "grantedSkill": {
+        "name": {
+          "zh-Hant": "招架",
+          "zh-Hans": "招架",
+          "en": "Parry"
+        },
+        "icon": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/SkillIcons/Bloodbarrier.webp",
+        "skillRef": "Parry",
+        "_activeTab": 0
+      },
+      "affixes": [
+        {
+          "zh-Hant": "增加(10—15)%格擋率",
+          "zh-Hans": "格挡几率提高 (10—15)%",
+          "en": "(10—15)% increased Block chance"
+        },
+        {
+          "zh-Hant": "+(13—17)%混沌抗性",
+          "zh-Hans": "混沌抗性 +(13—17)%",
+          "en": "+(13—17)% to Chaos Resistance"
+        },
+        {
+          "zh-Hant": "(5—10)每秒生命回復",
+          "zh-Hans": "生命每秒再生 (5—10)",
+          "en": "(5—10) Life Regeneration per second"
+        },
+        {
+          "zh-Hant": "格擋時對目標造成持續5秒的腐化之血 每秒造成等同於你最大生命50%的物理傷害",
+          "zh-Hans": "格挡时施加腐化之血，持续 5 秒， 每秒造成相当于你生命上限 50% 的物理伤害",
+          "en": "Inflict Corrupted Blood for 5 seconds on Block, dealing 50% of your maximum Life as Physical damage per second"
+        }
+      ],
+      "flavor": {
+        "zh-Hant": "一扇通往紅色國度的門，\n夾雜著永無止境的哭喊聲……",
+        "zh-Hans": "通往赤红领域的窗户，\n无数个声音齐声哀嚎……",
+        "en": "A window onto a realm of red,\nwhere countless voices scream..."
+      },
+      "level": 38,
+      "_flavorEnabled": true,
+      "grantedSkillsExtra": [],
+      "requirements": {
+        "dex": 54
+      },
+      "variantOf": "bloodbarrier",
+      "variantKind": "runeforged",
+      "variantLabel": {
+        "zh-Hant": "符鍛 1",
+        "zh-Hans": "重铸 1",
+        "en": "Runeforge 1"
+      },
+      "runeforge": {
+        "mode": "random",
+        "index": 1,
+        "total": 1,
+        "step": {
+          "zh-Hant": "1",
+          "zh-Hans": "1",
+          "en": "1"
+        },
+        "cost": [
+          {
+            "kind": "item",
+            "slug": "Bloodbarrier",
+            "name": {
+              "zh-Hant": "鮮血屏障",
+              "zh-Hans": "血垒障壁",
+              "en": "Bloodbarrier"
+            },
+            "base": {
+              "zh-Hant": "鍛鐵輕盾",
+              "zh-Hans": "锻铁轻盾",
+              "en": "Iron Buckler"
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/Uniques/Bloodbarrier.webp"
+          },
+          {
+            "kind": "currency",
+            "slug": "Verisium",
+            "name": {
+              "zh-Hant": "維里西姆",
+              "zh-Hans": "维金",
+              "en": "Verisium"
+            },
+            "count": 240,
+            "icon": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/Runeforge/Verisium.webp",
+            "iconSrc": "https://cdn.poe2db.tw/image/Art/2DItems/Currency/Expedition2/RefinedVerisium.webp"
+          },
+          {
+            "kind": "currency",
+            "slug": "Medveds_Crest_of_the_Circle",
+            "name": {
+              "zh-Hant": "梅德偉的圓環之徽",
+              "zh-Hans": "梅德维德的圆环徽记",
+              "en": "Medved's Crest of the Circle"
+            },
+            "count": 1,
+            "icon": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/Runeforge/Medveds_Crest_of_the_Circle.webp",
+            "iconSrc": "https://cdn.poe2db.tw/image/Art/2DItems/Currency/Expedition2/UhtredCrest.webp"
+          }
+        ],
+        "changed": {
+          "type2": 1,
+          "level": 1,
+          "dex": 1
+        }
+      }
+    },
+    {
+      "category": "armor",
+      "subKey": "bucklers",
+      "rarity": "unique",
+      "id": "bloodbarrier-cultivated",
+      "name": {
+        "zh-Hant": "鮮血屏障",
+        "zh-Hans": "血垒障壁",
+        "en": "Bloodbarrier"
+      },
+      "type1": {
+        "zh-Hant": "輕盾",
+        "zh-Hans": "轻盾",
+        "en": "Buckler"
+      },
+      "type2": {
+        "zh-Hant": "鍛鐵輕盾",
+        "zh-Hans": "锻铁轻盾",
+        "en": "Iron Buckler"
+      },
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/Uniques/Bloodbarrier.webp",
+      "stats": [
+        {
+          "label": {
+            "zh-Hant": "格擋機率",
+            "zh-Hans": "格挡几率",
+            "en": "Block chance"
+          },
+          "value": "20%"
+        },
+        {
+          "label": {
+            "zh-Hant": "閃避值",
+            "zh-Hans": "闪避值",
+            "en": "Evasion Rating"
+          },
+          "value": "42"
+        }
+      ],
+      "grantedSkill": {
+        "name": {
+          "zh-Hant": "招架",
+          "zh-Hans": "招架",
+          "en": "Parry"
+        },
+        "icon": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/SkillIcons/Bloodbarrier.webp",
+        "skillRef": "Parry",
+        "_activeTab": 0
+      },
+      "affixes": [
+        {
+          "zh-Hant": "增加(10—15)%格擋率",
+          "zh-Hans": "格挡几率提高 (10—15)%",
+          "en": "(10—15)% increased Block chance"
+        },
+        {
+          "zh-Hant": "+(13—17)%混沌抗性",
+          "zh-Hans": "混沌抗性 +(13—17)%",
+          "en": "+(13—17)% to Chaos Resistance"
+        },
+        {
+          "zh-Hant": "(5—10)每秒生命回復",
+          "zh-Hans": "生命每秒再生 (5—10)",
+          "en": "(5—10) Life Regeneration per second"
+        },
+        {
+          "zh-Hant": "格擋時對目標造成持續5秒的腐化之血 每秒造成等同於你最大生命50%的物理傷害",
+          "zh-Hans": "格挡时施加腐化之血，持续 5 秒， 每秒造成相当于你生命上限 50% 的物理伤害",
+          "en": "Inflict Corrupted Blood for 5 seconds on Block, dealing 50% of your maximum Life as Physical damage per second"
+        },
+        {
+          "zh-Hant": "增加(20—30)%暈眩門檻",
+          "zh-Hans": "晕眩阈值提高 (20—30)%",
+          "en": "(20—30)% increased Stun Threshold",
+          "_cultivated": true
+        },
+        {
+          "zh-Hant": "承受的(5—10)%傷害補償為生命",
+          "zh-Hans": "将所受伤害的(5—10)%吸纳为生命",
+          "en": "(5—10)% of Damage taken Recouped as Life",
+          "_cultivated": true
+        },
+        {
+          "zh-Hant": "增加(5—10)%最大生命",
+          "zh-Hans": "生命上限提高 (5—10)%",
+          "en": "(5—10)% increased maximum Life",
+          "_cultivated": true
+        }
+      ],
+      "flavor": {
+        "zh-Hant": "一扇通往紅色國度的門，\n夾雜著永無止境的哭喊聲……",
+        "zh-Hans": "通往赤红领域的窗户，\n无数个声音齐声哀嚎……",
+        "en": "A window onto a realm of red,\nwhere countless voices scream..."
+      },
+      "level": 16,
+      "_flavorEnabled": true,
+      "grantedSkillsExtra": [],
+      "requirements": {
+        "dex": 25
+      },
+      "variantOf": "bloodbarrier",
+      "variantKind": "cultivated",
+      "variantLabel": {
+        "zh-Hant": "栽培",
+        "zh-Hans": "培育",
+        "en": "Cultivated"
+      }
+    },
+    {
+      "category": "armor",
+      "subKey": "bucklers",
+      "rarity": "unique",
+      "id": "kaltenhalt",
+      "name": {
+        "zh-Hant": "冰霜之鏡",
+        "zh-Hans": "冰霜之镜",
+        "en": "Kaltenhalt"
+      },
+      "type1": {
+        "zh-Hant": "輕盾",
+        "zh-Hans": "轻盾",
+        "en": "Buckler"
+      },
+      "type2": {
+        "zh-Hant": "脊狀輕盾",
+        "zh-Hans": "凸脊轻盾",
+        "en": "Ridged Buckler"
+      },
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/Uniques/Kaltenhalt.webp",
+      "stats": [
+        {
+          "label": {
+            "zh-Hant": "格擋機率",
+            "zh-Hans": "格挡几率",
+            "en": "Block chance"
+          },
+          "value": "20%"
+        },
+        {
+          "label": {
+            "zh-Hant": "閃避值",
+            "zh-Hans": "闪避值",
+            "en": "Evasion Rating"
+          },
+          "value": "55"
+        }
+      ],
+      "grantedSkill": {
+        "name": {
+          "zh-Hant": "招架",
+          "zh-Hans": "招架",
+          "en": "Parry"
+        },
+        "icon": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/SkillIcons/Kaltenhalt.webp",
+        "skillRef": "Parry",
+        "_activeTab": 0
+      },
+      "affixes": [
+        {
+          "zh-Hant": "增加(80—120)%閃避值",
+          "zh-Hans": "闪避值提高 (80—120)%",
+          "en": "(80—120)% increased Evasion Rating"
+        },
+        {
+          "zh-Hant": "+5%最大冰冷抗性",
+          "zh-Hans": "+5% 冰霜抗性上限",
+          "en": "+5% to Maximum Cold Resistance"
+        },
+        {
+          "zh-Hant": "+40%冰冷抗性",
+          "zh-Hans": "冰霜抗性 +40%",
+          "en": "+40% to Cold Resistance"
+        },
+        {
+          "zh-Hant": "招架的暈眩累積加成改為套用至冰凍累積",
+          "zh-Hans": "招架时，晕眩积蓄的修正改为作用于冻结积蓄",
+          "en": "Modifiers to Stun Buildup apply to Freeze Buildup instead for Parry"
+        },
+        {
+          "zh-Hant": "100%的招架物理傷害轉換為冰冷傷害",
+          "zh-Hans": "招架物理伤害的 100% 转化为冰霜伤害",
+          "en": "100% of Parry Physical Damage Converted to Cold Damage"
+        },
+        {
+          "zh-Hant": "25至35點冰冷荊棘傷害",
+          "zh-Hans": "25 - 35 冰霜荆棘伤害",
+          "en": "25 to 35 Cold Thorns damage"
+        }
+      ],
+      "flavor": {
+        "zh-Hant": "冰冷、悲慘、無人過問，但一息尚存。",
+        "zh-Hans": "冰冷，悲惨，无人过问，但一息尚存。",
+        "en": "Cold, miserable and alone... but alive."
+      },
+      "level": 22,
+      "_flavorEnabled": true,
+      "grantedSkillsExtra": [],
+      "requirements": {
+        "dex": 33
+      }
+    },
+    {
+      "category": "armor",
+      "subKey": "bucklers",
+      "rarity": "unique",
+      "id": "kaltenhalt-runeforge-1",
+      "name": {
+        "zh-Hant": "冰霜之鏡",
+        "zh-Hans": "冰霜之镜",
+        "en": "Kaltenhalt"
+      },
+      "type1": {
+        "zh-Hant": "輕盾",
+        "zh-Hans": "轻盾",
+        "en": "Buckler"
+      },
+      "type2": {
+        "zh-Hant": "符煉脊狀輕盾",
+        "zh-Hans": "符文师匠凸脊轻盾",
+        "en": "Runemastered Ridged Buckler"
+      },
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/Uniques/Kaltenhalt.webp",
+      "stats": [
+        {
+          "label": {
+            "zh-Hant": "格擋機率",
+            "zh-Hans": "格挡几率",
+            "en": "Block chance"
+          },
+          "value": "20%"
+        },
+        {
+          "label": {
+            "zh-Hant": "閃避值",
+            "zh-Hans": "闪避值",
+            "en": "Evasion Rating"
+          },
+          "value": "66",
+          "_rf": 2
+        },
+        {
+          "label": {
+            "zh-Hant": "保護",
+            "zh-Hans": "符文结界",
+            "en": "Runic Ward"
+          },
+          "value": "28",
+          "_rf": 2
+        }
+      ],
+      "grantedSkill": {
+        "name": {
+          "zh-Hant": "招架",
+          "zh-Hans": "招架",
+          "en": "Parry"
+        },
+        "icon": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/SkillIcons/Kaltenhalt.webp",
+        "skillRef": "Parry",
+        "_activeTab": 0
+      },
+      "affixes": [
+        {
+          "zh-Hant": "增加(80—120)%閃避值",
+          "zh-Hans": "闪避值提高 (80—120)%",
+          "en": "(80—120)% increased Evasion Rating"
+        },
+        {
+          "zh-Hant": "+5%最大冰冷抗性",
+          "zh-Hans": "+5% 冰霜抗性上限",
+          "en": "+5% to Maximum Cold Resistance"
+        },
+        {
+          "zh-Hant": "+40%冰冷抗性",
+          "zh-Hans": "冰霜抗性 +40%",
+          "en": "+40% to Cold Resistance"
+        },
+        {
+          "zh-Hant": "招架的暈眩累積加成改為套用至冰凍累積",
+          "zh-Hans": "招架时，晕眩积蓄的修正改为作用于冻结积蓄",
+          "en": "Modifiers to Stun Buildup apply to Freeze Buildup instead for Parry"
+        },
+        {
+          "zh-Hant": "100%的招架物理傷害轉換為冰冷傷害",
+          "zh-Hans": "招架物理伤害的 100% 转化为冰霜伤害",
+          "en": "100% of Parry Physical Damage Converted to Cold Damage"
+        },
+        {
+          "zh-Hant": "25至35點冰冷荊棘傷害",
+          "zh-Hans": "25 - 35 冰霜荆棘伤害",
+          "en": "25 to 35 Cold Thorns damage"
+        }
+      ],
+      "flavor": {
+        "zh-Hant": "冰冷、悲慘、無人過問，但一息尚存。",
+        "zh-Hans": "冰冷，悲惨，无人过问，但一息尚存。",
+        "en": "Cold, miserable and alone... but alive."
+      },
+      "level": 40,
+      "_flavorEnabled": true,
+      "grantedSkillsExtra": [],
+      "requirements": {
+        "dex": 58
+      },
+      "variantOf": "kaltenhalt",
+      "variantKind": "runeforged",
+      "variantLabel": {
+        "zh-Hant": "符鍛 1",
+        "zh-Hans": "重铸 1",
+        "en": "Runeforge 1"
+      },
+      "runeforge": {
+        "mode": "random",
+        "index": 1,
+        "total": 1,
+        "step": {
+          "zh-Hant": "1",
+          "zh-Hans": "1",
+          "en": "1"
+        },
+        "cost": [
+          {
+            "kind": "item",
+            "slug": "Kaltenhalt",
+            "name": {
+              "zh-Hant": "冰霜之鏡",
+              "zh-Hans": "冰霜之镜",
+              "en": "Kaltenhalt"
+            },
+            "base": {
+              "zh-Hant": "脊狀輕盾",
+              "zh-Hans": "凸脊轻盾",
+              "en": "Ridged Buckler"
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/Uniques/Kaltenhalt.webp"
+          },
+          {
+            "kind": "currency",
+            "slug": "Verisium",
+            "name": {
+              "zh-Hant": "維里西姆",
+              "zh-Hans": "维金",
+              "en": "Verisium"
+            },
+            "count": 240,
+            "icon": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/Runeforge/Verisium.webp",
+            "iconSrc": "https://cdn.poe2db.tw/image/Art/2DItems/Currency/Expedition2/RefinedVerisium.webp"
+          },
+          {
+            "kind": "currency",
+            "slug": "Medveds_Crest_of_the_Circle",
+            "name": {
+              "zh-Hant": "梅德偉的圓環之徽",
+              "zh-Hans": "梅德维德的圆环徽记",
+              "en": "Medved's Crest of the Circle"
+            },
+            "count": 1,
+            "icon": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/Runeforge/Medveds_Crest_of_the_Circle.webp",
+            "iconSrc": "https://cdn.poe2db.tw/image/Art/2DItems/Currency/Expedition2/UhtredCrest.webp"
+          }
+        ],
+        "changed": {
+          "type2": 1,
+          "level": 1,
+          "dex": 1
+        }
+      }
+    },
+    {
+      "category": "armor",
+      "subKey": "bucklers",
+      "rarity": "unique",
+      "id": "silverthorne",
+      "name": {
+        "zh-Hant": "銀白索恩",
+        "zh-Hans": "银芒荆棘",
+        "en": "Silverthorne"
+      },
+      "type1": {
+        "zh-Hant": "輕盾",
+        "zh-Hans": "轻盾",
+        "en": "Buckler"
+      },
+      "type2": {
+        "zh-Hant": "尖刺輕盾",
+        "zh-Hans": "尖刺轻盾",
+        "en": "Spiked Buckler"
+      },
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/Uniques/Silverthorne.webp",
+      "stats": [
+        {
+          "label": {
+            "zh-Hant": "格擋機率",
+            "zh-Hans": "格挡几率",
+            "en": "Block chance"
+          },
+          "value": "20%"
+        },
+        {
+          "label": {
+            "zh-Hant": "閃避值",
+            "zh-Hans": "闪避值",
+            "en": "Evasion Rating"
+          },
+          "value": "64"
+        }
+      ],
+      "grantedSkill": {
+        "name": {
+          "zh-Hant": "招架",
+          "zh-Hans": "招架",
+          "en": "Parry"
+        },
+        "icon": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/SkillIcons/Silverthorne.webp",
+        "skillRef": "Parry",
+        "_activeTab": 0
+      },
+      "affixes": [
+        {
+          "zh-Hant": "增加(60—100)%閃避值",
+          "zh-Hans": "闪避值提高 (60—100)%",
+          "en": "(60—100)% increased Evasion Rating"
+        },
+        {
+          "zh-Hant": "+(10—15)%全元素抗性",
+          "zh-Hans": "所有元素抗性 +(10—15)%",
+          "en": "+(10—15)% to all Elemental Resistances"
+        },
+        {
+          "zh-Hant": "招架時施加10層暴擊弱點",
+          "zh-Hans": "招架施加 10 层暴击弱点",
+          "en": "Parrying applies 10 Stacks of Critical Weakness"
+        },
+        {
+          "zh-Hant": "增加100%招架傷害",
+          "zh-Hans": "招架伤害提高 100%",
+          "en": "100% increased Parry Damage"
+        }
+      ],
+      "flavor": {
+        "zh-Hant": "在孩童時期，德瑞索便在競技場中\n學會如何佯裝軟弱來給出致命一擊。",
+        "zh-Hans": "青年的德瑞索踏上了竞技场，\n学会了示敌以弱，扮猪吃虎。",
+        "en": "As a boy, in the arena, Daresso learned to\nfeign weakness to open up a lethal blow."
+      },
+      "level": 26,
+      "_flavorEnabled": true,
+      "grantedSkillsExtra": [],
+      "requirements": {
+        "dex": 38
+      }
+    },
+    {
+      "category": "armor",
+      "subKey": "bucklers",
+      "rarity": "unique",
+      "id": "silverthorne-runeforge-1",
+      "name": {
+        "zh-Hant": "銀白索恩",
+        "zh-Hans": "银芒荆棘",
+        "en": "Silverthorne"
+      },
+      "type1": {
+        "zh-Hant": "輕盾",
+        "zh-Hans": "轻盾",
+        "en": "Buckler"
+      },
+      "type2": {
+        "zh-Hant": "符煉尖刺輕盾",
+        "zh-Hans": "符文师匠尖刺轻盾",
+        "en": "Runemastered Spiked Buckler"
+      },
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/Uniques/Silverthorne.webp",
+      "stats": [
+        {
+          "label": {
+            "zh-Hant": "格擋機率",
+            "zh-Hans": "格挡几率",
+            "en": "Block chance"
+          },
+          "value": "20%"
+        },
+        {
+          "label": {
+            "zh-Hant": "閃避值",
+            "zh-Hans": "闪避值",
+            "en": "Evasion Rating"
+          },
+          "value": "61",
+          "_rf": 2
+        },
+        {
+          "label": {
+            "zh-Hant": "保護",
+            "zh-Hans": "符文结界",
+            "en": "Runic Ward"
+          },
+          "value": "33",
+          "_rf": 2
+        }
+      ],
+      "grantedSkill": {
+        "name": {
+          "zh-Hant": "招架",
+          "zh-Hans": "招架",
+          "en": "Parry"
+        },
+        "icon": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/SkillIcons/Silverthorne.webp",
+        "skillRef": "Parry",
+        "_activeTab": 0
+      },
+      "affixes": [
+        {
+          "zh-Hant": "增加(60—100)%閃避值",
+          "zh-Hans": "闪避值提高 (60—100)%",
+          "en": "(60—100)% increased Evasion Rating"
+        },
+        {
+          "zh-Hant": "+(10—15)%全元素抗性",
+          "zh-Hans": "所有元素抗性 +(10—15)%",
+          "en": "+(10—15)% to all Elemental Resistances"
+        },
+        {
+          "zh-Hant": "招架時施加10層暴擊弱點",
+          "zh-Hans": "招架施加 10 层暴击弱点",
+          "en": "Parrying applies 10 Stacks of Critical Weakness"
+        },
+        {
+          "zh-Hant": "增加100%招架傷害",
+          "zh-Hans": "招架伤害提高 100%",
+          "en": "100% increased Parry Damage"
+        }
+      ],
+      "flavor": {
+        "zh-Hant": "在孩童時期，德瑞索便在競技場中\n學會如何佯裝軟弱來給出致命一擊。",
+        "zh-Hans": "青年的德瑞索踏上了竞技场，\n学会了示敌以弱，扮猪吃虎。",
+        "en": "As a boy, in the arena, Daresso learned to\nfeign weakness to open up a lethal blow."
+      },
+      "level": 40,
+      "_flavorEnabled": true,
+      "grantedSkillsExtra": [],
+      "requirements": {
+        "dex": 58
+      },
+      "variantOf": "silverthorne",
+      "variantKind": "runeforged",
+      "variantLabel": {
+        "zh-Hant": "符鍛 1",
+        "zh-Hans": "重铸 1",
+        "en": "Runeforge 1"
+      },
+      "runeforge": {
+        "mode": "random",
+        "index": 1,
+        "total": 1,
+        "step": {
+          "zh-Hant": "1",
+          "zh-Hans": "1",
+          "en": "1"
+        },
+        "cost": [
+          {
+            "kind": "item",
+            "slug": "Silverthorne",
+            "name": {
+              "zh-Hant": "銀白索恩",
+              "zh-Hans": "银芒荆棘",
+              "en": "Silverthorne"
+            },
+            "base": {
+              "zh-Hant": "尖刺輕盾",
+              "zh-Hans": "尖刺轻盾",
+              "en": "Spiked Buckler"
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Bucklers/Uniques/Silverthorne.webp"
+          },
+          {
+            "kind": "currency",
+            "slug": "Verisium",
+            "name": {
+              "zh-Hant": "維里西姆",
+              "zh-Hans": "维金",
+              "en": "Verisium"
+            },
+            "count": 430,
+            "icon": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/Runeforge/Verisium.webp",
+            "iconSrc": "https://cdn.poe2db.tw/image/Art/2DItems/Currency/Expedition2/RefinedVerisium.webp"
+          },
+          {
+            "kind": "currency",
+            "slug": "Medveds_Crest_of_the_Circle",
+            "name": {
+              "zh-Hant": "梅德偉的圓環之徽",
+              "zh-Hans": "梅德维德的圆环徽记",
+              "en": "Medved's Crest of the Circle"
+            },
+            "count": 1,
+            "icon": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/Runeforge/Medveds_Crest_of_the_Circle.webp",
+            "iconSrc": "https://cdn.poe2db.tw/image/Art/2DItems/Currency/Expedition2/UhtredCrest.webp"
+          }
+        ],
+        "changed": {
+          "type2": 1,
+          "level": 1,
+          "dex": 1
+        }
+      }
+    }
+  ],
+  "skillLibrary": {
+    "Parry": {
+      "info": [
+        {
+          "zh-Hant": "攻擊",
+          "zh-Hans": "攻击",
+          "en": "Attack"
+        },
+        {
+          "zh-Hant": "近戰, 物理, 持續時間, 引導",
+          "zh-Hans": "近战, 物理, 持续时间, 吟唱",
+          "en": "Melee, Physical, Duration, Channelling"
+        },
+        {
+          "zh-Hant": "消耗: 0 魔力 每秒 0 魔力",
+          "zh-Hans": "消耗: 0 点魔力 魔力每秒 0 点",
+          "en": "Cost: 0 Mana 0 Mana per second"
+        },
+        {
+          "zh-Hant": "攻擊時間: 0.75 秒",
+          "zh-Hans": "攻击时间: 0.75 秒",
+          "en": "Attack Time: 0.75 sec"
+        },
+        {
+          "zh-Hant": "暴擊率: 5.00 %",
+          "zh-Hans": "暴击率: 5.00 %",
+          "en": "Critical Hit Chance: 5.00 %"
+        },
+        {
+          "zh-Hant": "攻擊傷害: 基礎的 65 %",
+          "zh-Hans": "攻击伤害: 65 % 基础",
+          "en": "Attack Damage: 65 % of base"
+        },
+        {
+          "zh-Hant": "需求: 等級 1 | 輕盾",
+          "zh-Hans": "需求： 等级 1 | 轻盾",
+          "en": "Requires: Level 1 | Bucklers"
+        },
+        {
+          "zh-Hant": "備妥你的輕盾來招架即將承受的下一次擊中，格擋該次擊中，並還以一次會使敵人失衡的快速揮掃，在短時間內大幅增加其承受的攻擊傷害。招架會使你獲得沉重暈眩累積。你無法閃避可招架的擊中，但閃避會賦予同等的機率來避免該沉重暈眩累積。",
+          "zh-Hans": "举起轻盾招架下一次击中，格挡该次击中，并以迅猛的横扫进行反击，使敌人失去平衡，使其在短时间内受到的攻击伤害大幅提高。招架会使你获得重度晕眩积蓄。你无法闪避可招架的击中，但闪避使你有同等的几率避免产生重度晕眩积蓄。",
+          "en": "Ready your Buckler to parry the next Hit you would take, Blocking the Hit and retaliating with a quick sweep that leaves enemies off balance, causing them to take massively increased Attack damage for a short duration. Parrying causes you to accumulate Heavy Stun buildup. You cannot Evade a Hit you could parry, but Evasion instead grants an equal chance to avoid this Heavy Stun buildup."
+        }
+      ],
+      "tabs": [
+        {
+          "name": {
+            "zh-Hant": "說明",
+            "zh-Hans": "说明",
+            "en": "Info"
+          },
+          "lines": [
+            {
+              "zh-Hant": "不能被閃避",
+              "zh-Hans": "无法被闪避",
+              "en": "Can't be Evaded"
+            },
+            {
+              "zh-Hant": "400 % 更少暈眩累積",
+              "zh-Hans": "晕眩积蓄总增 400 %",
+              "en": "400 % more Stun buildup"
+            },
+            {
+              "zh-Hant": "可以格擋 1 公尺內敵人的傷害",
+              "zh-Hans": "可以格挡来自 1 米内敌人的伤害",
+              "en": "Can Block Damage from enemies within 1 metre"
+            },
+            {
+              "zh-Hant": "可以格檔距離 1.5 公尺內的敵人投射物傷害",
+              "zh-Hans": "可以格挡来自 1.5 米内敌人的投射物击中",
+              "en": "Can Block Projectile Damage from enemies within 1.5 metres"
+            },
+            {
+              "zh-Hant": "受招架減益效果使目標承受 50 % 更多攻擊傷害",
+              "zh-Hans": "被招架减益状态使目标受到的攻击伤害总增 50 %",
+              "en": "Parried Debuff makes targets take 50 % more Attack Damage"
+            },
+            {
+              "zh-Hant": "受招架減益效果持續時間為 2 秒",
+              "zh-Hans": "被招架减益持续时间为 2 秒",
+              "en": "Parried Debuff duration is 2 seconds"
+            },
+            {
+              "zh-Hant": "輕盾每擁有 5 閃避值，附加 3 到 4 物理傷害",
+              "zh-Hans": "轻盾上每有 5 点闪避值，附加 3 - 4 物理伤害",
+              "en": "3 to 4 Added Physical Damage per 5 Evasion Rating on Buckler"
+            }
+          ]
+        }
+      ]
+    },
+    "Raise_Shield": {
+      "info": [
+        {
+          "zh-Hant": "攻擊",
+          "zh-Hans": "攻击",
+          "en": "Attack"
+        },
+        {
+          "zh-Hant": "範圍效果, 近戰, 物理, 引導",
+          "zh-Hans": "效果区域, 近战, 物理, 吟唱",
+          "en": "AoE, Melee, Physical, Channelling"
+        },
+        {
+          "zh-Hant": "消耗: 0 魔力 每秒 0 魔力",
+          "zh-Hans": "消耗: 0 点魔力 魔力每秒 0 点",
+          "en": "Cost: 0 Mana 0 Mana per second"
+        },
+        {
+          "zh-Hant": "攻擊時間: 0.55 秒",
+          "zh-Hans": "攻击时间: 0.55 秒",
+          "en": "Attack Time: 0.55 sec"
+        },
+        {
+          "zh-Hant": "暴擊率: 5.00 %",
+          "zh-Hans": "暴击率: 5.00 %",
+          "en": "Critical Hit Chance: 5.00 %"
+        },
+        {
+          "zh-Hant": "攻擊傷害: 基礎的 80 %",
+          "zh-Hans": "攻击伤害: 80 % 基础",
+          "en": "Attack Damage: 80 % of base"
+        },
+        {
+          "zh-Hant": "需求: 等級 1 | 裝甲盾牌",
+          "zh-Hans": "需求： 等级 1 | 护甲盾牌",
+          "en": "Requires: Level 1 | Armoured Shield"
+        },
+        {
+          "zh-Hant": "舉起你的盾牌來格擋所有來襲的可格擋擊中。當附近有敵人時，在格擋後立即釋放以使出一次盾牌重擊，對敵人造成傷害並使其暈眩。當你舉起盾牌且成功格擋擊中時，不會因其被輕微暈眩，但格擋過多傷害可能會導致你被沉重暈眩。當你舉起盾牌時無法閃避，但閃避會賦予同等的機率來避免該沉重暈眩累積。",
+          "zh-Hans": "举起盾牌，格挡所有来袭的可格挡击中。在敌人靠近时格挡后立即释放以进行盾牌猛击，对敌人造成伤害并施加晕眩。当你举起盾牌时，格挡的击中不会对你造成轻度晕眩，但格挡过多伤害可能会使你重度晕眩。你举起盾牌时无法闪避，但闪避会提供同等的几率避免产生重度晕眩积蓄。",
+          "en": "Raise your Shield to Block all incoming Blockable hits. Release immediately after Blocking when an enemy is close to perform a Shield Bash, damaging and Stunning enemies. While your Shield is raised you cannot be Light Stunned by hits you Block, but Blocking too much damage may Heavy Stun you. You cannot Evade while your Shield is raised, but Evasion instead grants an equal chance to avoid this Heavy Stun buildup."
+        }
+      ],
+      "tabs": [
+        {
+          "name": {
+            "zh-Hant": "說明",
+            "zh-Hans": "说明",
+            "en": "Info"
+          },
+          "lines": [
+            {
+              "zh-Hant": "盾襲造成 600 % 更多沉重暈眩累積",
+              "zh-Hans": "盾牌猛击造成的重度晕眩累积总增 600 %",
+              "en": "Shield Bash causes 600 % more Heavy Stun buildup"
+            },
+            {
+              "zh-Hant": "盾襲必定會造成輕微暈眩，若持有塔盾，盾襲會造成目眩",
+              "zh-Hans": "盾牌猛击总是造成轻度晕眩，持有塔盾时盾牌猛击造成恍惚",
+              "en": "Shield Bash always Light Stuns Shield Bash Dazes if holding a Tower Shield"
+            },
+            {
+              "zh-Hant": "盾襲無法被閃避",
+              "zh-Hans": "盾牌猛击无法被闪避",
+              "en": "Shield Bash can't be Evaded"
+            },
+            {
+              "zh-Hant": "盾牌每有 5 點護甲值，盾襲就會造成 3 至 4 物理傷害",
+              "zh-Hans": "盾牌上每有 5 点护甲，盾牌猛击造成 3 到 4 点物理伤害",
+              "en": "Shield Bash deals 3 to 4 Physical Damage per 5 Armour on Shield"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,3090 @@
+{
+  "baseItems": [
+    {
+      "category": "armor",
+      "subKey": "belts",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Belts/Basetypes/Demibelt1.webp",
+      "name": {
+        "zh-Hant": "金羽腰帶",
+        "zh-Hans": "金羽腰带",
+        "en": "Golden Obi"
+      },
+      "type1": {
+        "zh-Hant": "腰帶",
+        "zh-Hans": "腰带",
+        "en": "Belt"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [],
+      "affixes": [
+        {
+          "zh-Hant": "有(1—3)個護符欄位",
+          "zh-Hans": "具有 (1—3) 个咒符位",
+          "en": "Has (1—3) Charm Slots"
+        },
+        {
+          "zh-Hant": "增加(20—30)%找到的物品稀有度",
+          "zh-Hans": "物品稀有度提高 (20—30)%",
+          "en": "(20—30)% increased Rarity of Items found"
+        }
+      ],
+      "level": 12,
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "belts",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Belts/Basetypes/Belt01.webp",
+      "name": {
+        "zh-Hant": "生皮腰帶",
+        "zh-Hans": "生皮腰带",
+        "en": "Rawhide Belt"
+      },
+      "type1": {
+        "zh-Hant": "腰帶",
+        "zh-Hans": "腰带",
+        "en": "Belt"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [],
+      "affixes": [
+        {
+          "zh-Hant": "有(1—3)個護符欄位",
+          "zh-Hans": "具有 (1—3) 个咒符位",
+          "en": "Has (1—3) Charm Slots"
+        },
+        {
+          "zh-Hant": "增加(20—30)%藥劑的生命恢復",
+          "zh-Hans": "药剂的生命回复提高 (20—30)%",
+          "en": "(20—30)% increased Life Recovery from Flasks"
+        }
+      ],
+      "level": 1,
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "belts",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Belts/Basetypes/Belt02.webp",
+      "name": {
+        "zh-Hant": "麻布腰帶",
+        "zh-Hans": "亚麻腰带",
+        "en": "Linen Belt"
+      },
+      "type1": {
+        "zh-Hant": "腰帶",
+        "zh-Hans": "腰带",
+        "en": "Belt"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [],
+      "affixes": [
+        {
+          "zh-Hant": "有(1—3)個護符欄位",
+          "zh-Hans": "具有 (1—3) 个咒符位",
+          "en": "Has (1—3) Charm Slots"
+        },
+        {
+          "zh-Hant": "增加(20—30)%藥劑的魔力恢復",
+          "zh-Hans": "药剂的魔力回复提高 (20—30)%",
+          "en": "(20—30)% increased Mana Recovery from Flasks"
+        }
+      ],
+      "level": 1,
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "belts",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Belts/Basetypes/Belt03.webp",
+      "name": {
+        "zh-Hant": "寬大腰帶",
+        "zh-Hans": "宽大腰带",
+        "en": "Wide Belt"
+      },
+      "type1": {
+        "zh-Hant": "腰帶",
+        "zh-Hans": "腰带",
+        "en": "Belt"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [],
+      "affixes": [
+        {
+          "zh-Hant": "有(1—3)個護符欄位",
+          "zh-Hans": "具有 (1—3) 个咒符位",
+          "en": "Has (1—3) Charm Slots"
+        },
+        {
+          "zh-Hant": "增加(20—30)%藥劑充能獲取",
+          "zh-Hans": "获得的药剂充能提高 (20—30)%",
+          "en": "(20—30)% increased Flask Charges gained"
+        }
+      ],
+      "level": 14,
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "belts",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Belts/Basetypes/Belt04.webp",
+      "name": {
+        "zh-Hant": "長腰帶",
+        "zh-Hans": "加长腰带",
+        "en": "Long Belt"
+      },
+      "type1": {
+        "zh-Hant": "腰帶",
+        "zh-Hans": "腰带",
+        "en": "Belt"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [],
+      "affixes": [
+        {
+          "zh-Hant": "有(1—3)個護符欄位",
+          "zh-Hans": "具有 (1—3) 个咒符位",
+          "en": "Has (1—3) Charm Slots"
+        },
+        {
+          "zh-Hant": "增加(15—20)%護符效果持續時間",
+          "zh-Hans": "咒符效果的持续时间提高 (15—20)%",
+          "en": "(15—20)% increased Charm Effect Duration"
+        }
+      ],
+      "level": 20,
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "belts",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Belts/Basetypes/Belt05.webp",
+      "name": {
+        "zh-Hant": "板甲腰帶",
+        "zh-Hans": "嵌板腰带",
+        "en": "Plate Belt"
+      },
+      "type1": {
+        "zh-Hant": "腰帶",
+        "zh-Hans": "腰带",
+        "en": "Belt"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [],
+      "affixes": [
+        {
+          "zh-Hant": "有(1—3)個護符欄位",
+          "zh-Hans": "具有 (1—3) 个咒符位",
+          "en": "Has (1—3) Charm Slots"
+        },
+        {
+          "zh-Hant": "+(140—180)護甲值",
+          "zh-Hans": "+(140—180) 护甲",
+          "en": "+(140—180) to Armour"
+        }
+      ],
+      "level": 25,
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "belts",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Belts/Basetypes/Belt06.webp",
+      "name": {
+        "zh-Hant": "華麗腰帶",
+        "zh-Hans": "华丽腰带",
+        "en": "Ornate Belt"
+      },
+      "type1": {
+        "zh-Hant": "腰帶",
+        "zh-Hans": "腰带",
+        "en": "Belt"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [],
+      "affixes": [
+        {
+          "zh-Hant": "有(1—3)個護符欄位",
+          "zh-Hans": "具有 (1—3) 个咒符位",
+          "en": "Has (1—3) Charm Slots"
+        },
+        {
+          "zh-Hant": "減少(10—15)%護符充能使用",
+          "zh-Hans": "使用的咒符充能降低 (10—15)%",
+          "en": "(10—15)% reduced Charm Charges used"
+        }
+      ],
+      "level": 31,
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "belts",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Belts/Basetypes/Belt07.webp",
+      "name": {
+        "zh-Hant": "鎖甲腰帶",
+        "zh-Hans": "环锁腰带",
+        "en": "Mail Belt"
+      },
+      "type1": {
+        "zh-Hant": "腰帶",
+        "zh-Hans": "腰带",
+        "en": "Belt"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [],
+      "affixes": [
+        {
+          "zh-Hant": "有(1—3)個護符欄位",
+          "zh-Hans": "具有 (1—3) 个咒符位",
+          "en": "Has (1—3) Charm Slots"
+        },
+        {
+          "zh-Hant": "減少(10—15)%藥劑充能使用",
+          "zh-Hans": "使用的药剂充能降低 (10—15)%",
+          "en": "(10—15)% reduced Flask Charges used"
+        }
+      ],
+      "level": 40,
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "belts",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Belts/Basetypes/Belt08.webp",
+      "name": {
+        "zh-Hant": "雙層腰帶",
+        "zh-Hans": "双重腰带",
+        "en": "Double Belt"
+      },
+      "type1": {
+        "zh-Hant": "腰帶",
+        "zh-Hans": "腰带",
+        "en": "Belt"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [],
+      "affixes": [
+        {
+          "zh-Hant": "有(1—3)個護符欄位",
+          "zh-Hans": "具有 (1—3) 个咒符位",
+          "en": "Has (1—3) Charm Slots"
+        },
+        {
+          "zh-Hant": "增加(20—30)%護符充能獲取",
+          "zh-Hans": "获得的咒符充能提高 (20—30)%",
+          "en": "(20—30)% increased Charm Charges gained"
+        }
+      ],
+      "level": 44,
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "belts",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Belts/Basetypes/Belt09.webp",
+      "name": {
+        "zh-Hant": "重革腰帶",
+        "zh-Hans": "重革腰带",
+        "en": "Heavy Belt"
+      },
+      "type1": {
+        "zh-Hant": "腰帶",
+        "zh-Hans": "腰带",
+        "en": "Belt"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [],
+      "affixes": [
+        {
+          "zh-Hant": "有(1—3)個護符欄位",
+          "zh-Hans": "具有 (1—3) 个咒符位",
+          "en": "Has (1—3) Charm Slots"
+        },
+        {
+          "zh-Hant": "增加(20—30)%暈眩門檻",
+          "zh-Hans": "晕眩阈值提高 (20—30)%",
+          "en": "(20—30)% increased Stun Threshold"
+        }
+      ],
+      "level": 50,
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "belts",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Belts/Basetypes/Belt09.webp",
+      "name": {
+        "zh-Hant": "符煉重革腰帶",
+        "zh-Hans": "符文师匠重革腰带",
+        "en": "Runemastered Heavy Belt"
+      },
+      "type1": {
+        "zh-Hant": "腰帶",
+        "zh-Hans": "腰带",
+        "en": "Belt"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [],
+      "affixes": [
+        {
+          "zh-Hant": "有(1—3)個護符欄位",
+          "zh-Hans": "具有 (1—3) 个咒符位",
+          "en": "Has (1—3) Charm Slots"
+        },
+        {
+          "zh-Hant": "增加(20—30)%暈眩門檻",
+          "zh-Hans": "晕眩阈值提高 (20—30)%",
+          "en": "(20—30)% increased Stun Threshold"
+        },
+        {
+          "zh-Hant": "來自藥劑的(15—25)%生命回復會套用至符文保護",
+          "zh-Hans": "药剂的 (15—25)% 生命回复效果也作用于符文结界",
+          "en": "(15—25)% Life Recovery from Flasks also applies to Runic Ward"
+        }
+      ],
+      "level": 65,
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "belts",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Belts/Basetypes/Belt09.webp",
+      "name": {
+        "zh-Hant": "符煉重革腰帶",
+        "zh-Hans": "符文师匠重革腰带",
+        "en": "Runemastered Heavy Belt"
+      },
+      "type1": {
+        "zh-Hant": "腰帶",
+        "zh-Hans": "腰带",
+        "en": "Belt"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [],
+      "affixes": [
+        {
+          "zh-Hant": "有(1—3)個護符欄位",
+          "zh-Hans": "具有 (1—3) 个咒符位",
+          "en": "Has (1—3) Charm Slots"
+        },
+        {
+          "zh-Hant": "增加(20—30)%暈眩門檻",
+          "zh-Hans": "晕眩阈值提高 (20—30)%",
+          "en": "(20—30)% increased Stun Threshold"
+        },
+        {
+          "zh-Hant": "增加(20—40)%符文保護回復率",
+          "zh-Hans": "符文结界再生率提高 (20—40)%",
+          "en": "(20—40)% increased Runic Ward Regeneration Rate"
+        }
+      ],
+      "level": 65,
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "belts",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Belts/Basetypes/Belt09.webp",
+      "name": {
+        "zh-Hant": "符煉重革腰帶",
+        "zh-Hans": "符文师匠重革腰带",
+        "en": "Runemastered Heavy Belt"
+      },
+      "type1": {
+        "zh-Hant": "腰帶",
+        "zh-Hans": "腰带",
+        "en": "Belt"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [],
+      "affixes": [
+        {
+          "zh-Hant": "有(1—3)個護符欄位",
+          "zh-Hans": "具有 (1—3) 个咒符位",
+          "en": "Has (1—3) Charm Slots"
+        },
+        {
+          "zh-Hant": "增加(20—30)%暈眩門檻",
+          "zh-Hans": "晕眩阈值提高 (20—30)%",
+          "en": "(20—30)% increased Stun Threshold"
+        },
+        {
+          "zh-Hant": "符文保護恢復可以溢出最大符文保護",
+          "zh-Hans": "符文结界回复可溢出符文结界上限",
+          "en": "Runic Ward recovery can Overflow maximum Runic Ward"
+        }
+      ],
+      "level": 65,
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "belts",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Belts/Basetypes/Belt09.webp",
+      "name": {
+        "zh-Hant": "符煉重革腰帶",
+        "zh-Hans": "符文师匠重革腰带",
+        "en": "Runemastered Heavy Belt"
+      },
+      "type1": {
+        "zh-Hant": "腰帶",
+        "zh-Hans": "腰带",
+        "en": "Belt"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [],
+      "affixes": [
+        {
+          "zh-Hant": "有(1—3)個護符欄位",
+          "zh-Hans": "具有 (1—3) 个咒符位",
+          "en": "Has (1—3) Charm Slots"
+        },
+        {
+          "zh-Hant": "增加(20—30)%暈眩門檻",
+          "zh-Hans": "晕眩阈值提高 (20—30)%",
+          "en": "(20—30)% increased Stun Threshold"
+        },
+        {
+          "zh-Hant": "藥劑每秒獲得(0.5—1)充能",
+          "zh-Hans": "药剂每秒获得 (0.5—1) 次充能",
+          "en": "Flasks gain (0.5—1) charges per Second"
+        }
+      ],
+      "level": 65,
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "belts",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Belts/Basetypes/Belt10.webp",
+      "name": {
+        "zh-Hant": "實用腰帶",
+        "zh-Hans": "万用腰带",
+        "en": "Utility Belt"
+      },
+      "type1": {
+        "zh-Hant": "腰帶",
+        "zh-Hans": "腰带",
+        "en": "Belt"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [],
+      "affixes": [
+        {
+          "zh-Hant": "有(1—3)個護符欄位",
+          "zh-Hans": "具有 (1—3) 个咒符位",
+          "en": "Has (1—3) Charm Slots"
+        },
+        {
+          "zh-Hant": "20%的藥劑回復立即生效",
+          "zh-Hans": "20% 的药剂回复量立即生效",
+          "en": "20% of Flask Recovery applied Instantly"
+        }
+      ],
+      "level": 55,
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "belts",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Belts/Basetypes/Belt11.webp",
+      "name": {
+        "zh-Hant": "精良腰帶",
+        "zh-Hans": "精致腰带",
+        "en": "Fine Belt"
+      },
+      "type1": {
+        "zh-Hant": "腰帶",
+        "zh-Hans": "腰带",
+        "en": "Belt"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [],
+      "affixes": [
+        {
+          "zh-Hant": "有(1—3)個護符欄位",
+          "zh-Hans": "具有 (1—3) 个咒符位",
+          "en": "Has (1—3) Charm Slots"
+        },
+        {
+          "zh-Hant": "藥劑每秒獲得0.17充能",
+          "zh-Hans": "药剂每秒获得 0.17 次充能",
+          "en": "Flasks gain 0.17 charges per Second"
+        }
+      ],
+      "level": 62,
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "belts",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Belts/Basetypes/StalkingBelt.webp",
+      "name": {
+        "zh-Hant": "獵跡腰帶",
+        "zh-Hans": "追踪腰带",
+        "en": "Stalking Belt"
+      },
+      "type1": {
+        "zh-Hant": "腰帶",
+        "zh-Hans": "腰带",
+        "en": "Belt"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [],
+      "affixes": [
+        {
+          "zh-Hant": "有(1—3)個護符欄位",
+          "zh-Hans": "具有 (1—3) 个咒符位",
+          "en": "Has (1—3) Charm Slots"
+        },
+        {
+          "zh-Hant": "有1個護符欄位",
+          "zh-Hans": "具有 1 个咒符位",
+          "en": "Has 1 Charm Slots"
+        },
+        {
+          "zh-Hant": "此物品會被視為長靴，自插槽中的物品獲得加成",
+          "zh-Hans": "此物品可作为鞋子获得镶嵌物的加成",
+          "en": "This item gains bonuses from Socketed Items as though it was Boots"
+        }
+      ],
+      "level": 50,
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "belts",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Belts/Basetypes/InvokingBelt.webp",
+      "name": {
+        "zh-Hant": "祈喚腰帶",
+        "zh-Hans": "祈求腰带",
+        "en": "Invoking Belt"
+      },
+      "type1": {
+        "zh-Hant": "腰帶",
+        "zh-Hans": "腰带",
+        "en": "Belt"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [],
+      "affixes": [
+        {
+          "zh-Hant": "有(1—3)個護符欄位",
+          "zh-Hans": "具有 (1—3) 个咒符位",
+          "en": "Has (1—3) Charm Slots"
+        },
+        {
+          "zh-Hant": "有1個護符欄位",
+          "zh-Hans": "具有 1 个咒符位",
+          "en": "Has 1 Charm Slots"
+        },
+        {
+          "zh-Hant": "增加(8—12)%施法速度",
+          "zh-Hans": "施法速度提高 (8—12)%",
+          "en": "(8—12)% increased Cast Speed"
+        }
+      ],
+      "level": 32,
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "belts",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Belts/Basetypes/SinewBelt.webp",
+      "name": {
+        "zh-Hant": "韌筋腰帶",
+        "zh-Hans": "肌力腰带",
+        "en": "Sinew Belt"
+      },
+      "type1": {
+        "zh-Hant": "腰帶",
+        "zh-Hans": "腰带",
+        "en": "Belt"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [],
+      "affixes": [
+        {
+          "zh-Hant": "有(1—3)個護符欄位",
+          "zh-Hans": "具有 (1—3) 个咒符位",
+          "en": "Has (1—3) Charm Slots"
+        },
+        {
+          "zh-Hant": "有1個護符欄位",
+          "zh-Hans": "具有 1 个咒符位",
+          "en": "Has 1 Charm Slots"
+        },
+        {
+          "zh-Hant": "+(15—20)點力量",
+          "zh-Hans": "+(15—20) 力量",
+          "en": "+(15—20) to Strength"
+        }
+      ],
+      "level": 32,
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "belts",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Belts/Basetypes/ForkingBelt.webp",
+      "name": {
+        "zh-Hant": "歧路腰帶",
+        "zh-Hans": "分叉腰带",
+        "en": "Forking Belt"
+      },
+      "type1": {
+        "zh-Hant": "腰帶",
+        "zh-Hans": "腰带",
+        "en": "Belt"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [],
+      "affixes": [
+        {
+          "zh-Hant": "有(1—3)個護符欄位",
+          "zh-Hans": "具有 (1—3) 个咒符位",
+          "en": "Has (1—3) Charm Slots"
+        },
+        {
+          "zh-Hant": "有1個護符欄位",
+          "zh-Hans": "具有 1 个咒符位",
+          "en": "Has 1 Charm Slots"
+        },
+        {
+          "zh-Hant": "攻擊附加1至(20—30)閃電傷害",
+          "zh-Hans": "攻击附加 1 - (20—30) 基础闪电伤害",
+          "en": "Adds 1 to (20—30) Lightning damage to Attacks"
+        }
+      ],
+      "level": 32,
+      "grantedSkillsExtra": []
+    }
+  ],
+  "uniqueItems": [
+    {
+      "category": "armor",
+      "subKey": "belts",
+      "rarity": "unique",
+      "id": "meginords-girdle",
+      "name": {
+        "zh-Hant": "梅吉諾德的力量泉源",
+        "zh-Hans": "梅吉诺德的力量泉源",
+        "en": "Meginord's Girdle"
+      },
+      "type1": {
+        "zh-Hant": "腰帶",
+        "zh-Hans": "腰带",
+        "en": "Belt"
+      },
+      "type2": {
+        "zh-Hant": "生皮腰帶",
+        "zh-Hans": "生皮腰带",
+        "en": "Rawhide Belt"
+      },
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Belts/Uniques/MeginordsGirdle.webp",
+      "stats": [],
+      "affixes": [
+        {
+          "zh-Hant": "有(1—3)個護符欄位",
+          "zh-Hans": "具有 (1—3) 个咒符位",
+          "en": "Has (1—3) Charm Slots"
+        },
+        {
+          "zh-Hant": "增加(20—30)%藥劑的生命恢復",
+          "zh-Hans": "药剂的生命回复提高 (20—30)%",
+          "en": "(20—30)% increased Life Recovery from Flasks"
+        },
+        {
+          "zh-Hant": "+(40—50)點力量",
+          "zh-Hans": "+(40—50) 力量",
+          "en": "+(40—50) to Strength"
+        },
+        {
+          "zh-Hant": "+(10—15)%冰冷抗性",
+          "zh-Hans": "冰霜抗性 +(10—15)%",
+          "en": "+(10—15)% to Cold Resistance"
+        },
+        {
+          "zh-Hant": "增加50%藥劑充能使用",
+          "zh-Hans": "使用的药剂充能提高 50%",
+          "en": "50% increased Flask Charges used"
+        },
+        {
+          "zh-Hant": "增加100%藥劑充能獲取",
+          "zh-Hans": "获得的药剂充能提高 100%",
+          "en": "100% increased Flask Charges gained"
+        }
+      ],
+      "flavor": {
+        "zh-Hant": "岡姆的勇猛威震天下，\n唯有北方的梅吉諾德能與他一較高下。",
+        "zh-Hans": "冈姆的勇猛威震天下，\n唯有北方的梅吉诺德能与他一较高下。",
+        "en": "Kaom's strength was rivaled only by\nthe great Meginord of the north."
+      },
+      "level": 1,
+      "_flavorEnabled": true,
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "belts",
+      "rarity": "unique",
+      "id": "goregirdle",
+      "name": {
+        "zh-Hant": "血肉束腰",
+        "zh-Hans": "残血束腰",
+        "en": "Goregirdle"
+      },
+      "type1": {
+        "zh-Hant": "腰帶",
+        "zh-Hans": "腰带",
+        "en": "Belt"
+      },
+      "type2": {
+        "zh-Hant": "板甲腰帶",
+        "zh-Hans": "嵌板腰带",
+        "en": "Plate Belt"
+      },
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Belts/Uniques/Goregirdle.webp",
+      "stats": [],
+      "affixes": [
+        {
+          "zh-Hant": "有(1—3)個護符欄位",
+          "zh-Hans": "具有 (1—3) 个咒符位",
+          "en": "Has (1—3) Charm Slots"
+        },
+        {
+          "zh-Hant": "+(140—180)護甲值",
+          "zh-Hans": "+(140—180) 护甲",
+          "en": "+(140—180) to Armour"
+        },
+        {
+          "zh-Hant": "+(20—30)點力量",
+          "zh-Hans": "+(20—30) 力量",
+          "en": "+(20—30) to Strength"
+        },
+        {
+          "zh-Hant": "(10—20)每秒生命回復",
+          "zh-Hans": "生命每秒再生 (10—20)",
+          "en": "(10—20) Life Regeneration per second"
+        },
+        {
+          "zh-Hant": "以200%護甲值防禦",
+          "zh-Hans": "以 200% 的护甲防御",
+          "en": "Defend with 200% of Armour"
+        },
+        {
+          "zh-Hant": "最大物理傷害減免為50%",
+          "zh-Hans": "物理伤害上限减免为 50%",
+          "en": "Maximum Physical Damage Reduction is 50%"
+        }
+      ],
+      "flavor": {
+        "zh-Hant": "會流血只代表你還活著。",
+        "zh-Hans": "流淌的殷红正是你活着的象征。",
+        "en": "Bleeding just means you're still alive."
+      },
+      "level": 24,
+      "_flavorEnabled": true,
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "belts",
+      "rarity": "unique",
+      "id": "ryslathas-coil",
+      "name": {
+        "zh-Hant": "瑞斯拉薩之纏",
+        "zh-Hans": "瑞斯拉萨的线圈",
+        "en": "Ryslatha's Coil"
+      },
+      "type1": {
+        "zh-Hant": "腰帶",
+        "zh-Hans": "腰带",
+        "en": "Belt"
+      },
+      "type2": {
+        "zh-Hant": "華麗腰帶",
+        "zh-Hans": "华丽腰带",
+        "en": "Ornate Belt"
+      },
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Belts/Uniques/RyslathasCoil.webp",
+      "stats": [],
+      "affixes": [
+        {
+          "zh-Hant": "有(1—3)個護符欄位",
+          "zh-Hans": "具有 (1—3) 个咒符位",
+          "en": "Has (1—3) Charm Slots"
+        },
+        {
+          "zh-Hant": "減少(10—15)%護符充能使用",
+          "zh-Hans": "使用的咒符充能降低 (10—15)%",
+          "en": "(10—15)% reduced Charm Charges used"
+        },
+        {
+          "zh-Hant": "+(80—100)最大生命",
+          "zh-Hans": "+(80—100) 生命上限",
+          "en": "+(80—100) to maximum Life"
+        },
+        {
+          "zh-Hant": "增加(30—50)%藥劑生命恢復率",
+          "zh-Hans": "药剂生命回复速度提高 (30—50)%",
+          "en": "(30—50)% increased Flask Life Recovery rate"
+        },
+        {
+          "zh-Hant": "(30—40)%更多最大物理攻擊傷害",
+          "zh-Hans": "物理攻击伤害上限总增 (30—40)%",
+          "en": "(30—40)% more maximum Physical Attack Damage"
+        },
+        {
+          "zh-Hant": "(30—40)%更少最小物理攻擊傷害",
+          "zh-Hans": "物理攻击伤害下限总降 (30—40)%",
+          "en": "(30—40)% less minimum Physical Attack Damage"
+        }
+      ],
+      "flavor": {
+        "zh-Hant": "一切生物皆有潛力成就偉業，\n當然失敗的潛力也不在話下。",
+        "zh-Hans": "所有生物都有干成大事或是贻笑大方的潜质。",
+        "en": "All creatures have the potential for greatness or unequivocal failure."
+      },
+      "level": 31,
+      "_flavorEnabled": true,
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "belts",
+      "rarity": "unique",
+      "id": "soul-tether",
+      "name": {
+        "zh-Hant": "靈魂束縛",
+        "zh-Hans": "灵魂羁绊",
+        "en": "Soul Tether"
+      },
+      "type1": {
+        "zh-Hant": "腰帶",
+        "zh-Hans": "腰带",
+        "en": "Belt"
+      },
+      "type2": {
+        "zh-Hant": "長腰帶",
+        "zh-Hans": "加长腰带",
+        "en": "Long Belt"
+      },
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Belts/Uniques/SoulTether.webp",
+      "stats": [],
+      "affixes": [
+        {
+          "zh-Hant": "有(1—3)個護符欄位",
+          "zh-Hans": "具有 (1—3) 个咒符位",
+          "en": "Has (1—3) Charm Slots"
+        },
+        {
+          "zh-Hant": "增加(15—20)%護符效果持續時間",
+          "zh-Hans": "咒符效果的持续时间提高 (15—20)%",
+          "en": "(15—20)% increased Charm Effect Duration"
+        },
+        {
+          "zh-Hant": "+(40—60)最大能量護盾",
+          "zh-Hans": "+(40—60) 能量护盾上限",
+          "en": "+(40—60) to maximum Energy Shield"
+        },
+        {
+          "zh-Hant": "+(20—30)點智慧",
+          "zh-Hans": "+(20—30) 智慧",
+          "en": "+(20—30) to Intelligence"
+        },
+        {
+          "zh-Hant": "你每秒失去5%最大能量護盾",
+          "zh-Hans": "每秒失去 5% 能量护盾",
+          "en": "You lose 5% of maximum Energy Shield per second"
+        },
+        {
+          "zh-Hant": "偷取的多餘生命恢復會套用至能量護盾",
+          "zh-Hans": "偷取的溢出生命回复效果作用于能量护盾",
+          "en": "Excess Life Recovery from Leech is applied to Energy Shield"
+        }
+      ],
+      "flavor": {
+        "zh-Hant": "瓦爾血祭師，知識的先行者。\n靈魂竭盡其能，依偎於任何生命。\n正是由血祭師們所發現。",
+        "zh-Hans": "瓦尔赤红先师是史料可考的最早的知识分子。\n他们最先发现刚脱离的躯壳之灵会不顾一切地附身在其他生命形式上。",
+        "en": "Vaal bloodpriests were among the earliest intellectuals on record.\nIt was they who found that a newly freed soul would\ndesperately cling to any other source of life."
+      },
+      "level": 20,
+      "_flavorEnabled": true,
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "belts",
+      "rarity": "unique",
+      "id": "waistgate",
+      "name": {
+        "zh-Hant": "腰閥",
+        "zh-Hans": "腰际之门",
+        "en": "Waistgate"
+      },
+      "type1": {
+        "zh-Hant": "腰帶",
+        "zh-Hans": "腰带",
+        "en": "Belt"
+      },
+      "type2": {
+        "zh-Hant": "重革腰帶",
+        "zh-Hans": "重革腰带",
+        "en": "Heavy Belt"
+      },
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Belts/Uniques/Waistgate.webp",
+      "stats": [],
+      "affixes": [
+        {
+          "zh-Hant": "有(1—3)個護符欄位",
+          "zh-Hans": "具有 (1—3) 个咒符位",
+          "en": "Has (1—3) Charm Slots"
+        },
+        {
+          "zh-Hant": "增加(20—30)%暈眩門檻",
+          "zh-Hans": "晕眩阈值提高 (20—30)%",
+          "en": "(20—30)% increased Stun Threshold"
+        },
+        {
+          "zh-Hant": "+(50—80)最大生命",
+          "zh-Hans": "+(50—80) 生命上限",
+          "en": "+(50—80) to maximum Life"
+        },
+        {
+          "zh-Hant": "+(50—80)最大魔力",
+          "zh-Hans": "+(50—80) 魔力上限",
+          "en": "+(50—80) to maximum Mana"
+        },
+        {
+          "zh-Hant": "增加(20—30)%藥劑生命恢復率",
+          "zh-Hans": "药剂生命回复速度提高 (20—30)%",
+          "en": "(20—30)% increased Flask Life Recovery rate"
+        },
+        {
+          "zh-Hant": "增加(20—30)%藥劑魔力恢復率",
+          "zh-Hans": "药剂魔力回复速度提高 (20—30)%",
+          "en": "(20—30)% increased Flask Mana Recovery rate"
+        },
+        {
+          "zh-Hant": "生命和魔力藥劑可裝備於任一欄位",
+          "zh-Hans": "生命和魔力药剂可装备于任意药剂栏位内",
+          "en": "Life and Mana Flasks can be equipped in either slot"
+        }
+      ],
+      "flavor": {
+        "zh-Hant": "巧秒之技並非總是錯綜複雜。",
+        "zh-Hans": "奇谋妙计不应该费尽心机。",
+        "en": "Clever artifice is not always complex."
+      },
+      "level": 50,
+      "_flavorEnabled": true,
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "belts",
+      "rarity": "unique",
+      "id": "waistgate-runeforge-1",
+      "name": {
+        "zh-Hant": "腰閥",
+        "zh-Hans": "腰际之门",
+        "en": "Waistgate"
+      },
+      "type1": {
+        "zh-Hant": "腰帶",
+        "zh-Hans": "腰带",
+        "en": "Belt"
+      },
+      "type2": {
+        "zh-Hant": "符煉重革腰帶",
+        "zh-Hans": "符文师匠重革腰带",
+        "en": "Runemastered Heavy Belt"
+      },
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Belts/Uniques/Waistgate.webp",
+      "stats": [],
+      "affixes": [
+        {
+          "zh-Hant": "有(1—3)個護符欄位",
+          "zh-Hans": "具有 (1—3) 个咒符位",
+          "en": "Has (1—3) Charm Slots"
+        },
+        {
+          "zh-Hant": "增加(20—30)%暈眩門檻",
+          "zh-Hans": "晕眩阈值提高 (20—30)%",
+          "en": "(20—30)% increased Stun Threshold"
+        },
+        {
+          "zh-Hant": "來自藥劑的(15—25)%生命回復會套用至符文保護",
+          "zh-Hans": "药剂的 (15—25)% 生命回复效果也作用于符文结界",
+          "en": "(15—25)% Life Recovery from Flasks also applies to Runic Ward",
+          "_runeforged": true
+        },
+        {
+          "zh-Hant": "+(50—80)最大生命",
+          "zh-Hans": "+(50—80) 生命上限",
+          "en": "+(50—80) to maximum Life"
+        },
+        {
+          "zh-Hant": "+(50—80)最大魔力",
+          "zh-Hans": "+(50—80) 魔力上限",
+          "en": "+(50—80) to maximum Mana"
+        },
+        {
+          "zh-Hant": "增加(20—30)%藥劑生命恢復率",
+          "zh-Hans": "药剂生命回复速度提高 (20—30)%",
+          "en": "(20—30)% increased Flask Life Recovery rate"
+        },
+        {
+          "zh-Hant": "增加(20—30)%藥劑魔力恢復率",
+          "zh-Hans": "药剂魔力回复速度提高 (20—30)%",
+          "en": "(20—30)% increased Flask Mana Recovery rate"
+        },
+        {
+          "zh-Hant": "生命和魔力藥劑可裝備於任一欄位",
+          "zh-Hans": "生命和魔力药剂可装备于任意药剂栏位内",
+          "en": "Life and Mana Flasks can be equipped in either slot"
+        }
+      ],
+      "flavor": {
+        "zh-Hant": "巧秒之技並非總是錯綜複雜。",
+        "zh-Hans": "奇谋妙计不应该费尽心机。",
+        "en": "Clever artifice is not always complex."
+      },
+      "level": 65,
+      "_flavorEnabled": true,
+      "grantedSkillsExtra": [],
+      "variantOf": "waistgate",
+      "variantKind": "runeforged",
+      "variantLabel": {
+        "zh-Hant": "符鍛 1",
+        "zh-Hans": "重铸 1",
+        "en": "Runeforge 1"
+      },
+      "runeforge": {
+        "mode": "random",
+        "index": 1,
+        "total": 4,
+        "step": {
+          "zh-Hant": "1",
+          "zh-Hans": "1",
+          "en": "1"
+        },
+        "cost": [
+          {
+            "kind": "item",
+            "slug": "Waistgate",
+            "name": {
+              "zh-Hant": "腰閥",
+              "zh-Hans": "腰际之门",
+              "en": "Waistgate"
+            },
+            "base": {
+              "zh-Hant": "重革腰帶",
+              "zh-Hans": "重革腰带",
+              "en": "Heavy Belt"
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Belts/Uniques/Waistgate.webp"
+          },
+          {
+            "kind": "currency",
+            "slug": "Exceptional_Verisium",
+            "name": {
+              "zh-Hant": "卓越維里西姆",
+              "zh-Hans": "卓越维金",
+              "en": "Exceptional Verisium"
+            },
+            "count": 25,
+            "icon": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/Runeforge/Exceptional_Verisium.webp",
+            "iconSrc": "https://cdn.poe2db.tw/image/Art/2DItems/Currency/Expedition2/PerfectVerisium.webp"
+          },
+          {
+            "kind": "currency",
+            "slug": "Olroths_Crest_of_the_Sun",
+            "name": {
+              "zh-Hant": "奧爾羅斯的烈陽之徽",
+              "zh-Hans": "欧罗什的太阳徽记",
+              "en": "Olroth's Crest of the Sun"
+            },
+            "count": 1,
+            "icon": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/Runeforge/Olroths_Crest_of_the_Sun.webp",
+            "iconSrc": "https://cdn.poe2db.tw/image/Art/2DItems/Currency/Expedition2/OlrothCrest.webp"
+          }
+        ],
+        "changed": {
+          "type2": 1,
+          "level": 1
+        }
+      }
+    },
+    {
+      "category": "armor",
+      "subKey": "belts",
+      "rarity": "unique",
+      "id": "waistgate-runeforge-2",
+      "name": {
+        "zh-Hant": "腰閥",
+        "zh-Hans": "腰际之门",
+        "en": "Waistgate"
+      },
+      "type1": {
+        "zh-Hant": "腰帶",
+        "zh-Hans": "腰带",
+        "en": "Belt"
+      },
+      "type2": {
+        "zh-Hant": "符煉重革腰帶",
+        "zh-Hans": "符文师匠重革腰带",
+        "en": "Runemastered Heavy Belt"
+      },
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Belts/Uniques/Waistgate.webp",
+      "stats": [],
+      "affixes": [
+        {
+          "zh-Hant": "有(1—3)個護符欄位",
+          "zh-Hans": "具有 (1—3) 个咒符位",
+          "en": "Has (1—3) Charm Slots"
+        },
+        {
+          "zh-Hant": "增加(20—30)%暈眩門檻",
+          "zh-Hans": "晕眩阈值提高 (20—30)%",
+          "en": "(20—30)% increased Stun Threshold"
+        },
+        {
+          "zh-Hant": "增加(20—40)%符文保護回復率",
+          "zh-Hans": "符文结界再生率提高 (20—40)%",
+          "en": "(20—40)% increased Runic Ward Regeneration Rate",
+          "_runeforged": true
+        },
+        {
+          "zh-Hant": "+(50—80)最大生命",
+          "zh-Hans": "+(50—80) 生命上限",
+          "en": "+(50—80) to maximum Life"
+        },
+        {
+          "zh-Hant": "+(50—80)最大魔力",
+          "zh-Hans": "+(50—80) 魔力上限",
+          "en": "+(50—80) to maximum Mana"
+        },
+        {
+          "zh-Hant": "增加(20—30)%藥劑生命恢復率",
+          "zh-Hans": "药剂生命回复速度提高 (20—30)%",
+          "en": "(20—30)% increased Flask Life Recovery rate"
+        },
+        {
+          "zh-Hant": "增加(20—30)%藥劑魔力恢復率",
+          "zh-Hans": "药剂魔力回复速度提高 (20—30)%",
+          "en": "(20—30)% increased Flask Mana Recovery rate"
+        },
+        {
+          "zh-Hant": "生命和魔力藥劑可裝備於任一欄位",
+          "zh-Hans": "生命和魔力药剂可装备于任意药剂栏位内",
+          "en": "Life and Mana Flasks can be equipped in either slot"
+        }
+      ],
+      "flavor": {
+        "zh-Hant": "巧秒之技並非總是錯綜複雜。",
+        "zh-Hans": "奇谋妙计不应该费尽心机。",
+        "en": "Clever artifice is not always complex."
+      },
+      "level": 65,
+      "_flavorEnabled": true,
+      "grantedSkillsExtra": [],
+      "variantOf": "waistgate",
+      "variantKind": "runeforged",
+      "variantLabel": {
+        "zh-Hant": "符鍛 2",
+        "zh-Hans": "重铸 2",
+        "en": "Runeforge 2"
+      },
+      "runeforge": {
+        "mode": "random",
+        "index": 2,
+        "total": 4,
+        "step": {
+          "zh-Hant": "2",
+          "zh-Hans": "2",
+          "en": "2"
+        },
+        "cost": [
+          {
+            "kind": "item",
+            "slug": "Waistgate",
+            "name": {
+              "zh-Hant": "腰閥",
+              "zh-Hans": "腰际之门",
+              "en": "Waistgate"
+            },
+            "base": {
+              "zh-Hant": "重革腰帶",
+              "zh-Hans": "重革腰带",
+              "en": "Heavy Belt"
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Belts/Uniques/Waistgate.webp"
+          },
+          {
+            "kind": "currency",
+            "slug": "Exceptional_Verisium",
+            "name": {
+              "zh-Hant": "卓越維里西姆",
+              "zh-Hans": "卓越维金",
+              "en": "Exceptional Verisium"
+            },
+            "count": 25,
+            "icon": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/Runeforge/Exceptional_Verisium.webp",
+            "iconSrc": "https://cdn.poe2db.tw/image/Art/2DItems/Currency/Expedition2/PerfectVerisium.webp"
+          },
+          {
+            "kind": "currency",
+            "slug": "Olroths_Crest_of_the_Sun",
+            "name": {
+              "zh-Hant": "奧爾羅斯的烈陽之徽",
+              "zh-Hans": "欧罗什的太阳徽记",
+              "en": "Olroth's Crest of the Sun"
+            },
+            "count": 1,
+            "icon": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/Runeforge/Olroths_Crest_of_the_Sun.webp",
+            "iconSrc": "https://cdn.poe2db.tw/image/Art/2DItems/Currency/Expedition2/OlrothCrest.webp"
+          }
+        ],
+        "changed": {
+          "type2": 1,
+          "level": 1
+        }
+      }
+    },
+    {
+      "category": "armor",
+      "subKey": "belts",
+      "rarity": "unique",
+      "id": "waistgate-runeforge-3",
+      "name": {
+        "zh-Hant": "腰閥",
+        "zh-Hans": "腰际之门",
+        "en": "Waistgate"
+      },
+      "type1": {
+        "zh-Hant": "腰帶",
+        "zh-Hans": "腰带",
+        "en": "Belt"
+      },
+      "type2": {
+        "zh-Hant": "符煉重革腰帶",
+        "zh-Hans": "符文师匠重革腰带",
+        "en": "Runemastered Heavy Belt"
+      },
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Belts/Uniques/Waistgate.webp",
+      "stats": [],
+      "affixes": [
+        {
+          "zh-Hant": "有(1—3)個護符欄位",
+          "zh-Hans": "具有 (1—3) 个咒符位",
+          "en": "Has (1—3) Charm Slots"
+        },
+        {
+          "zh-Hant": "增加(20—30)%暈眩門檻",
+          "zh-Hans": "晕眩阈值提高 (20—30)%",
+          "en": "(20—30)% increased Stun Threshold"
+        },
+        {
+          "zh-Hant": "符文保護恢復可以溢出最大符文保護",
+          "zh-Hans": "符文结界回复可溢出符文结界上限",
+          "en": "Runic Ward recovery can Overflow maximum Runic Ward",
+          "_runeforged": true
+        },
+        {
+          "zh-Hant": "+(50—80)最大生命",
+          "zh-Hans": "+(50—80) 生命上限",
+          "en": "+(50—80) to maximum Life"
+        },
+        {
+          "zh-Hant": "+(50—80)最大魔力",
+          "zh-Hans": "+(50—80) 魔力上限",
+          "en": "+(50—80) to maximum Mana"
+        },
+        {
+          "zh-Hant": "增加(20—30)%藥劑生命恢復率",
+          "zh-Hans": "药剂生命回复速度提高 (20—30)%",
+          "en": "(20—30)% increased Flask Life Recovery rate"
+        },
+        {
+          "zh-Hant": "增加(20—30)%藥劑魔力恢復率",
+          "zh-Hans": "药剂魔力回复速度提高 (20—30)%",
+          "en": "(20—30)% increased Flask Mana Recovery rate"
+        },
+        {
+          "zh-Hant": "生命和魔力藥劑可裝備於任一欄位",
+          "zh-Hans": "生命和魔力药剂可装备于任意药剂栏位内",
+          "en": "Life and Mana Flasks can be equipped in either slot"
+        }
+      ],
+      "flavor": {
+        "zh-Hant": "巧秒之技並非總是錯綜複雜。",
+        "zh-Hans": "奇谋妙计不应该费尽心机。",
+        "en": "Clever artifice is not always complex."
+      },
+      "level": 65,
+      "_flavorEnabled": true,
+      "grantedSkillsExtra": [],
+      "variantOf": "waistgate",
+      "variantKind": "runeforged",
+      "variantLabel": {
+        "zh-Hant": "符鍛 3",
+        "zh-Hans": "重铸 3",
+        "en": "Runeforge 3"
+      },
+      "runeforge": {
+        "mode": "random",
+        "index": 3,
+        "total": 4,
+        "step": {
+          "zh-Hant": "3",
+          "zh-Hans": "3",
+          "en": "3"
+        },
+        "cost": [
+          {
+            "kind": "item",
+            "slug": "Waistgate",
+            "name": {
+              "zh-Hant": "腰閥",
+              "zh-Hans": "腰际之门",
+              "en": "Waistgate"
+            },
+            "base": {
+              "zh-Hant": "重革腰帶",
+              "zh-Hans": "重革腰带",
+              "en": "Heavy Belt"
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Belts/Uniques/Waistgate.webp"
+          },
+          {
+            "kind": "currency",
+            "slug": "Exceptional_Verisium",
+            "name": {
+              "zh-Hant": "卓越維里西姆",
+              "zh-Hans": "卓越维金",
+              "en": "Exceptional Verisium"
+            },
+            "count": 25,
+            "icon": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/Runeforge/Exceptional_Verisium.webp",
+            "iconSrc": "https://cdn.poe2db.tw/image/Art/2DItems/Currency/Expedition2/PerfectVerisium.webp"
+          },
+          {
+            "kind": "currency",
+            "slug": "Olroths_Crest_of_the_Sun",
+            "name": {
+              "zh-Hant": "奧爾羅斯的烈陽之徽",
+              "zh-Hans": "欧罗什的太阳徽记",
+              "en": "Olroth's Crest of the Sun"
+            },
+            "count": 1,
+            "icon": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/Runeforge/Olroths_Crest_of_the_Sun.webp",
+            "iconSrc": "https://cdn.poe2db.tw/image/Art/2DItems/Currency/Expedition2/OlrothCrest.webp"
+          }
+        ],
+        "changed": {
+          "type2": 1,
+          "level": 1
+        }
+      }
+    },
+    {
+      "category": "armor",
+      "subKey": "belts",
+      "rarity": "unique",
+      "id": "waistgate-runeforge-4",
+      "name": {
+        "zh-Hant": "腰閥",
+        "zh-Hans": "腰际之门",
+        "en": "Waistgate"
+      },
+      "type1": {
+        "zh-Hant": "腰帶",
+        "zh-Hans": "腰带",
+        "en": "Belt"
+      },
+      "type2": {
+        "zh-Hant": "符煉重革腰帶",
+        "zh-Hans": "符文师匠重革腰带",
+        "en": "Runemastered Heavy Belt"
+      },
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Belts/Uniques/Waistgate.webp",
+      "stats": [],
+      "affixes": [
+        {
+          "zh-Hant": "有(1—3)個護符欄位",
+          "zh-Hans": "具有 (1—3) 个咒符位",
+          "en": "Has (1—3) Charm Slots"
+        },
+        {
+          "zh-Hant": "增加(20—30)%暈眩門檻",
+          "zh-Hans": "晕眩阈值提高 (20—30)%",
+          "en": "(20—30)% increased Stun Threshold"
+        },
+        {
+          "zh-Hant": "藥劑每秒獲得(0.5—1)充能",
+          "zh-Hans": "药剂每秒获得 (0.5—1) 次充能",
+          "en": "Flasks gain (0.5—1) charges per Second",
+          "_runeforged": true
+        },
+        {
+          "zh-Hant": "+(50—80)最大生命",
+          "zh-Hans": "+(50—80) 生命上限",
+          "en": "+(50—80) to maximum Life"
+        },
+        {
+          "zh-Hant": "+(50—80)最大魔力",
+          "zh-Hans": "+(50—80) 魔力上限",
+          "en": "+(50—80) to maximum Mana"
+        },
+        {
+          "zh-Hant": "增加(20—30)%藥劑生命恢復率",
+          "zh-Hans": "药剂生命回复速度提高 (20—30)%",
+          "en": "(20—30)% increased Flask Life Recovery rate"
+        },
+        {
+          "zh-Hant": "增加(20—30)%藥劑魔力恢復率",
+          "zh-Hans": "药剂魔力回复速度提高 (20—30)%",
+          "en": "(20—30)% increased Flask Mana Recovery rate"
+        },
+        {
+          "zh-Hant": "生命和魔力藥劑可裝備於任一欄位",
+          "zh-Hans": "生命和魔力药剂可装备于任意药剂栏位内",
+          "en": "Life and Mana Flasks can be equipped in either slot"
+        }
+      ],
+      "flavor": {
+        "zh-Hant": "巧秒之技並非總是錯綜複雜。",
+        "zh-Hans": "奇谋妙计不应该费尽心机。",
+        "en": "Clever artifice is not always complex."
+      },
+      "level": 65,
+      "_flavorEnabled": true,
+      "grantedSkillsExtra": [],
+      "variantOf": "waistgate",
+      "variantKind": "runeforged",
+      "variantLabel": {
+        "zh-Hant": "符鍛 4",
+        "zh-Hans": "重铸 4",
+        "en": "Runeforge 4"
+      },
+      "runeforge": {
+        "mode": "random",
+        "index": 4,
+        "total": 4,
+        "step": {
+          "zh-Hant": "4",
+          "zh-Hans": "4",
+          "en": "4"
+        },
+        "cost": [
+          {
+            "kind": "item",
+            "slug": "Waistgate",
+            "name": {
+              "zh-Hant": "腰閥",
+              "zh-Hans": "腰际之门",
+              "en": "Waistgate"
+            },
+            "base": {
+              "zh-Hant": "重革腰帶",
+              "zh-Hans": "重革腰带",
+              "en": "Heavy Belt"
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Belts/Uniques/Waistgate.webp"
+          },
+          {
+            "kind": "currency",
+            "slug": "Exceptional_Verisium",
+            "name": {
+              "zh-Hant": "卓越維里西姆",
+              "zh-Hans": "卓越维金",
+              "en": "Exceptional Verisium"
+            },
+            "count": 25,
+            "icon": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/Runeforge/Exceptional_Verisium.webp",
+            "iconSrc": "https://cdn.poe2db.tw/image/Art/2DItems/Currency/Expedition2/PerfectVerisium.webp"
+          },
+          {
+            "kind": "currency",
+            "slug": "Olroths_Crest_of_the_Sun",
+            "name": {
+              "zh-Hant": "奧爾羅斯的烈陽之徽",
+              "zh-Hans": "欧罗什的太阳徽记",
+              "en": "Olroth's Crest of the Sun"
+            },
+            "count": 1,
+            "icon": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/Runeforge/Olroths_Crest_of_the_Sun.webp",
+            "iconSrc": "https://cdn.poe2db.tw/image/Art/2DItems/Currency/Expedition2/OlrothCrest.webp"
+          }
+        ],
+        "changed": {
+          "type2": 1,
+          "level": 1
+        }
+      }
+    },
+    {
+      "category": "armor",
+      "subKey": "belts",
+      "rarity": "unique",
+      "id": "headhunter",
+      "name": {
+        "zh-Hant": "獵首",
+        "zh-Hans": "猎首",
+        "en": "Headhunter"
+      },
+      "type1": {
+        "zh-Hant": "腰帶",
+        "zh-Hans": "腰带",
+        "en": "Belt"
+      },
+      "type2": {
+        "zh-Hant": "重革腰帶",
+        "zh-Hans": "重革腰带",
+        "en": "Heavy Belt"
+      },
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Belts/Uniques/Headhunter.webp",
+      "stats": [],
+      "affixes": [
+        {
+          "zh-Hant": "有(1—3)個護符欄位",
+          "zh-Hans": "具有 (1—3) 个咒符位",
+          "en": "Has (1—3) Charm Slots"
+        },
+        {
+          "zh-Hant": "增加(20—30)%暈眩門檻",
+          "zh-Hans": "晕眩阈值提高 (20—30)%",
+          "en": "(20—30)% increased Stun Threshold"
+        },
+        {
+          "zh-Hant": "+(40—60)最大生命",
+          "zh-Hans": "+(40—60) 生命上限",
+          "en": "+(40—60) to maximum Life"
+        },
+        {
+          "zh-Hant": "+(20—40)點力量",
+          "zh-Hans": "+(20—40) 力量",
+          "en": "+(20—40) to Strength"
+        },
+        {
+          "zh-Hant": "+(20—40)點敏捷",
+          "zh-Hans": "+(20—40) 敏捷",
+          "en": "+(20—40) to Dexterity"
+        },
+        {
+          "zh-Hant": "當你殺死一個稀有怪物時，獲得其詞綴，持續60秒",
+          "zh-Hans": "当你击败稀有怪物时，获得它的词缀，持续 60 秒",
+          "en": "When you kill a Rare monster, you gain its Modifiers for 60 seconds"
+        }
+      ],
+      "flavor": {
+        "zh-Hant": "\"骨骼是靈魂的居所，\n血肉是精神和世界交流的窗口， 推動一切的力量就在心窩。\n即使有了這些，失去了頭腦就沒有自我。\"\n- 岡姆軍師拉維安加",
+        "zh-Hans": "“骨骼是灵魂的居所，\n血肉是精神和世界交流的窗口，推动一切的力量就在心窝。\n即使有了这些，失去了头脑就没有自我。”\n——冈姆军师拉维安加",
+        "en": "\"A man's soul rules from a cavern of bone, learns and\njudges through flesh-born windows. The heart is meat.\nThe head is where the Man is.\"\n- Lavianga, Advisor to Kaom"
+      },
+      "level": 50,
+      "_flavorEnabled": true,
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "belts",
+      "rarity": "unique",
+      "id": "cat-o-nine-tails",
+      "name": {
+        "zh-Hant": "九尾貓",
+        "zh-Hans": "九尾灵猫",
+        "en": "Cat O' Nine Tails"
+      },
+      "type1": {
+        "zh-Hant": "腰帶",
+        "zh-Hans": "腰带",
+        "en": "Belt"
+      },
+      "type2": {
+        "zh-Hant": "實用腰帶",
+        "zh-Hans": "万用腰带",
+        "en": "Utility Belt"
+      },
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Belts/Uniques/CatONineTails.webp",
+      "stats": [],
+      "affixes": [
+        {
+          "zh-Hant": "有(1—3)個護符欄位",
+          "zh-Hans": "具有 (1—3) 个咒符位",
+          "en": "Has (1—3) Charm Slots"
+        },
+        {
+          "zh-Hant": "20%的藥劑回復立即生效",
+          "zh-Hans": "20% 的药剂回复量立即生效",
+          "en": "20% of Flask Recovery applied Instantly"
+        },
+        {
+          "zh-Hant": "+(120—200)最大生命",
+          "zh-Hans": "+(120—200) 生命上限",
+          "en": "+(120—200) to maximum Life"
+        },
+        {
+          "zh-Hant": "若你近期被擊中，每秒回復5%最大生命",
+          "zh-Hans": "若你近期内被击中，则每秒回复 5% 生命",
+          "en": "Regenerate 5% of maximum Life per second if you have been Hit Recently"
+        },
+        {
+          "zh-Hant": "增加(25—50)%生命恢復率",
+          "zh-Hans": "生命回复率提高 (25—50)%",
+          "en": "(25—50)% increased Life Recovery rate"
+        },
+        {
+          "zh-Hant": "藥劑以外的生命恢復無法使生命恢復到高於貧血狀態",
+          "zh-Hans": "除药剂外的生命回复无法将生命回复至低血以上",
+          "en": "Life Recovery other than Flasks cannot Recover Life to above Low Life"
+        },
+        {
+          "zh-Hant": "獲得等同於最大生命8%-12%的物理荊棘傷害",
+          "zh-Hans": "获得相当于生命上限 8% - 12% 的 物理荆棘伤害",
+          "en": "Gain Physical Thorns damage equal to 8% - 12% of maximum Life"
+        }
+      ],
+      "flavor": {
+        "zh-Hant": "聖殿騎士每鞭打別人十下，\n就鞭打自己一下，便以為自己正義。",
+        "zh-Hans": "圣堂武僧觉得自己很正义，\n因为他每施加十下鞭刑，就会鞭打自己一下。",
+        "en": "A Templar thinks he's righteous for flogging\nhimself once for every ten lashings he gives."
+      },
+      "level": 55,
+      "_flavorEnabled": true,
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "belts",
+      "rarity": "unique",
+      "id": "midnight-braid",
+      "name": {
+        "zh-Hant": "午夜護鏈",
+        "zh-Hans": "午夜穗带",
+        "en": "Midnight Braid"
+      },
+      "type1": {
+        "zh-Hant": "腰帶",
+        "zh-Hans": "腰带",
+        "en": "Belt"
+      },
+      "type2": {
+        "zh-Hant": "生皮腰帶",
+        "zh-Hans": "生皮腰带",
+        "en": "Rawhide Belt"
+      },
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Belts/Uniques/MidnightBraid.webp",
+      "stats": [],
+      "affixes": [
+        {
+          "zh-Hant": "有(1—3)個護符欄位",
+          "zh-Hans": "具有 (1—3) 个咒符位",
+          "en": "Has (1—3) Charm Slots"
+        },
+        {
+          "zh-Hant": "增加(20—30)%藥劑的生命恢復",
+          "zh-Hans": "药剂的生命回复提高 (20—30)%",
+          "en": "(20—30)% increased Life Recovery from Flasks"
+        },
+        {
+          "zh-Hant": "+(30—50)最大魔力",
+          "zh-Hans": "+(30—50) 魔力上限",
+          "en": "+(30—50) to maximum Mana"
+        },
+        {
+          "zh-Hant": "+(5—10)%全元素抗性",
+          "zh-Hans": "所有元素抗性 +(5—10)%",
+          "en": "+(5—10)% to all Elemental Resistances"
+        },
+        {
+          "zh-Hant": "承受的50%傷害補償為魔力",
+          "zh-Hans": "将所受伤害的50%吸纳为魔力",
+          "en": "50% of Damage taken Recouped as Mana"
+        }
+      ],
+      "flavor": {
+        "zh-Hant": "逆境是滋養毅力成長的土壤。",
+        "zh-Hans": "以逆境为沃土，\n便可培育毅力。",
+        "en": "Adversity is the soil in\nwhich persistence grows."
+      },
+      "level": 1,
+      "_flavorEnabled": true,
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "belts",
+      "rarity": "unique",
+      "id": "shavronnes-satchel",
+      "name": {
+        "zh-Hant": "薛朗的背包",
+        "zh-Hans": "薛朗的背包",
+        "en": "Shavronne's Satchel"
+      },
+      "type1": {
+        "zh-Hant": "腰帶",
+        "zh-Hans": "腰带",
+        "en": "Belt"
+      },
+      "type2": {
+        "zh-Hant": "精良腰帶",
+        "zh-Hans": "精致腰带",
+        "en": "Fine Belt"
+      },
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Belts/Uniques/ShavronnesSatchel.webp",
+      "stats": [],
+      "affixes": [
+        {
+          "zh-Hant": "有(1—3)個護符欄位",
+          "zh-Hans": "具有 (1—3) 个咒符位",
+          "en": "Has (1—3) Charm Slots"
+        },
+        {
+          "zh-Hant": "藥劑每秒獲得0.17充能",
+          "zh-Hans": "药剂每秒获得 0.17 次充能",
+          "en": "Flasks gain 0.17 charges per Second"
+        },
+        {
+          "zh-Hant": "減少(20—30)%藥劑生命恢復率",
+          "zh-Hans": "药剂生命回复速度降低 (20—30)%",
+          "en": "(20—30)% reduced Flask Life Recovery rate"
+        },
+        {
+          "zh-Hant": "+(20—30)點智慧",
+          "zh-Hans": "+(20—30) 智慧",
+          "en": "+(20—30) to Intelligence"
+        },
+        {
+          "zh-Hant": "增加(20—30)%藥劑充能獲取",
+          "zh-Hans": "获得的药剂充能提高 (20—30)%",
+          "en": "(20—30)% increased Flask Charges gained"
+        },
+        {
+          "zh-Hant": "藥劑的生命恢復同時套用至能量護盾",
+          "zh-Hans": "药剂的生命回复效果也作用于能量护盾",
+          "en": "Life Recovery from Flasks also applies to Energy Shield"
+        }
+      ],
+      "flavor": {
+        "zh-Hant": "讓神祕躍然於世。循環往復。",
+        "zh-Hans": "一次又一次，令生命萌生谜团。",
+        "en": "Bring mystery to life. Again and again."
+      },
+      "level": 62,
+      "_flavorEnabled": true,
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "belts",
+      "rarity": "unique",
+      "id": "keelhaul",
+      "name": {
+        "zh-Hant": "船拖刑",
+        "zh-Hans": "罪罚拖绳",
+        "en": "Keelhaul"
+      },
+      "type1": {
+        "zh-Hant": "腰帶",
+        "zh-Hans": "腰带",
+        "en": "Belt"
+      },
+      "type2": {
+        "zh-Hant": "麻布腰帶",
+        "zh-Hans": "亚麻腰带",
+        "en": "Linen Belt"
+      },
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Belts/Uniques/Keelhaul.webp",
+      "stats": [],
+      "affixes": [
+        {
+          "zh-Hant": "有(1—3)個護符欄位",
+          "zh-Hans": "具有 (1—3) 个咒符位",
+          "en": "Has (1—3) Charm Slots"
+        },
+        {
+          "zh-Hant": "增加(20—30)%藥劑的魔力恢復",
+          "zh-Hans": "药剂的魔力回复提高 (20—30)%",
+          "en": "(20—30)% increased Mana Recovery from Flasks"
+        },
+        {
+          "zh-Hant": "減少(-25—25)%藥劑生命恢復率",
+          "zh-Hans": "药剂生命回复速度降低 (-25—25)%",
+          "en": "(-25—25)% reduced Flask Life Recovery rate"
+        },
+        {
+          "zh-Hant": "減少(-25—25)%藥劑魔力恢復率",
+          "zh-Hans": "药剂魔力回复速度降低 (-25—25)%",
+          "en": "(-25—25)% reduced Flask Mana Recovery rate"
+        },
+        {
+          "zh-Hant": "生命藥劑每秒獲得0.25充能",
+          "zh-Hans": "生命药剂每秒获得 0.25 次充能",
+          "en": "Life Flasks gain 0.25 charges per Second"
+        },
+        {
+          "zh-Hant": "魔力藥劑每秒獲得0.25充能",
+          "zh-Hans": "魔力药剂每秒获得 0.25 次充能",
+          "en": "Mana Flasks gain 0.25 charges per Second"
+        }
+      ],
+      "flavor": {
+        "zh-Hant": "在眾生萬物之下，\n存在著一股流轉不息的力量……",
+        "zh-Hans": "众生之下，\n皆有涓流……",
+        "en": "Below all living things,\nthere exists a flow..."
+      },
+      "level": 1,
+      "_flavorEnabled": true,
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "belts",
+      "rarity": "unique",
+      "id": "umbilicus-immortalis",
+      "name": {
+        "zh-Hant": "不朽繫命",
+        "zh-Hans": "不朽系命",
+        "en": "Umbilicus Immortalis"
+      },
+      "type1": {
+        "zh-Hant": "腰帶",
+        "zh-Hans": "腰带",
+        "en": "Belt"
+      },
+      "type2": {
+        "zh-Hant": "麻布腰帶",
+        "zh-Hans": "亚麻腰带",
+        "en": "Linen Belt"
+      },
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Belts/Uniques/UmbilicusImmortalis.webp",
+      "stats": [],
+      "affixes": [
+        {
+          "zh-Hant": "有(1—3)個護符欄位",
+          "zh-Hans": "具有 (1—3) 个咒符位",
+          "en": "Has (1—3) Charm Slots"
+        },
+        {
+          "zh-Hant": "增加(20—30)%藥劑的魔力恢復",
+          "zh-Hans": "药剂的魔力回复提高 (20—30)%",
+          "en": "(20—30)% increased Mana Recovery from Flasks"
+        },
+        {
+          "zh-Hant": "減少(30—40)%藥劑效果持續時間",
+          "zh-Hans": "药剂效果的持续时间降低 (30—40)%",
+          "en": "(30—40)% reduced Flask Effect Duration"
+        },
+        {
+          "zh-Hant": "+(20—30)點智慧",
+          "zh-Hans": "+(20—30) 智慧",
+          "en": "+(20—30) to Intelligence"
+        },
+        {
+          "zh-Hant": "召喚物增加(20—30)%最大生命",
+          "zh-Hans": "召唤生物的生命上限提高 (20—30)%",
+          "en": "Minions have (20—30)% increased maximum Life"
+        },
+        {
+          "zh-Hant": "你的生命藥劑同時作用於你的召喚物",
+          "zh-Hans": "你的生命药剂同样作用于你的召唤生物",
+          "en": "Your Life Flask also applies to your Minions"
+        },
+        {
+          "zh-Hant": "在生命藥劑作用期間召喚物將不會死亡",
+          "zh-Hans": "受到生命药剂影响时召唤生物不会被击败",
+          "en": "Minions cannot Die while affected by a Life Flask"
+        },
+        {
+          "zh-Hant": "增加(20—30)%藥劑充能獲取",
+          "zh-Hans": "获得的药剂充能提高 (20—30)%",
+          "en": "(20—30)% increased Flask Charges gained"
+        }
+      ],
+      "flavor": {
+        "zh-Hant": "\"重生之力堪比長生不老。\"\n- 伊席厄斯．普蘭德斯，古物收藏家，物品編號 3",
+        "zh-Hans": "“不曾锈蚀绝不代表纯净。”\n——伊席厄斯·普兰德斯，《珍奇古玩大典》，第3号物品",
+        "en": "\"The power of rebirth rivals that of immortality.\"\n- Icius Perandus, Antiquities Collection, Item 3"
+      },
+      "level": 24,
+      "_flavorEnabled": true,
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "belts",
+      "rarity": "unique",
+      "id": "birthright-buckle",
+      "name": {
+        "zh-Hant": "天生權利扣環",
+        "zh-Hans": "天赋扣带",
+        "en": "Birthright Buckle"
+      },
+      "type1": {
+        "zh-Hant": "腰帶",
+        "zh-Hans": "腰带",
+        "en": "Belt"
+      },
+      "type2": {
+        "zh-Hant": "寬大腰帶",
+        "zh-Hans": "宽大腰带",
+        "en": "Wide Belt"
+      },
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Belts/Uniques/BirthrightBuckle.webp",
+      "stats": [],
+      "affixes": [
+        {
+          "zh-Hant": "有(1—3)個護符欄位",
+          "zh-Hans": "具有 (1—3) 个咒符位",
+          "en": "Has (1—3) Charm Slots"
+        },
+        {
+          "zh-Hant": "增加(20—30)%藥劑充能獲取",
+          "zh-Hans": "获得的药剂充能提高 (20—30)%",
+          "en": "(20—30)% increased Flask Charges gained"
+        },
+        {
+          "zh-Hant": "+(100—150)護甲值",
+          "zh-Hans": "+(100—150) 护甲",
+          "en": "+(100—150) to Armour"
+        },
+        {
+          "zh-Hant": "減少(10—15)%藥劑充能使用",
+          "zh-Hans": "使用的药剂充能降低 (10—15)%",
+          "en": "(10—15)% reduced Flask Charges used"
+        },
+        {
+          "zh-Hant": "增加(20—30)%藥劑充能獲取",
+          "zh-Hans": "获得的药剂充能提高 (20—30)%",
+          "en": "(20—30)% increased Flask Charges gained"
+        },
+        {
+          "zh-Hant": "貧血狀態下使用生命藥劑會立即恢復生命",
+          "zh-Hans": "低血时使用生命药剂立即回复",
+          "en": "Life Flasks used while on Low Life apply Recovery Instantly"
+        },
+        {
+          "zh-Hant": "貧魔狀態下使用魔力藥劑會立即恢復",
+          "zh-Hans": "低魔时使用魔力药剂立即回复",
+          "en": "Mana Flasks used while on Low Mana apply Recovery Instantly"
+        }
+      ],
+      "flavor": {
+        "zh-Hant": "有些家族，擁有極其奇特的……天賦。",
+        "zh-Hans": "有些家族的礼物属实诡异……",
+        "en": "Some families have peculiar gifts..."
+      },
+      "level": 14,
+      "_flavorEnabled": true,
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "belts",
+      "rarity": "unique",
+      "id": "cowards-legacy",
+      "name": {
+        "zh-Hant": "懦夫的遺產",
+        "zh-Hans": "懦夫之遗",
+        "en": "Coward's Legacy"
+      },
+      "type1": {
+        "zh-Hant": "腰帶",
+        "zh-Hans": "腰带",
+        "en": "Belt"
+      },
+      "type2": {
+        "zh-Hant": "鎖甲腰帶",
+        "zh-Hans": "环锁腰带",
+        "en": "Mail Belt"
+      },
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Belts/Uniques/CowardsLegacy.webp",
+      "stats": [],
+      "affixes": [
+        {
+          "zh-Hant": "有(1—3)個護符欄位",
+          "zh-Hans": "具有 (1—3) 个咒符位",
+          "en": "Has (1—3) Charm Slots"
+        },
+        {
+          "zh-Hant": "減少(10—15)%藥劑充能使用",
+          "zh-Hans": "使用的药剂充能降低 (10—15)%",
+          "en": "(10—15)% reduced Flask Charges used"
+        },
+        {
+          "zh-Hant": "(-20—-10)點力量",
+          "zh-Hans": "(-20—-10) 力量",
+          "en": "(-20—-10) to Strength"
+        },
+        {
+          "zh-Hant": "+(20—30)點敏捷",
+          "zh-Hans": "+(20—30) 敏捷",
+          "en": "+(20—30) to Dexterity"
+        },
+        {
+          "zh-Hant": "增加(30—40)%藥劑的生命和魔力恢復",
+          "zh-Hans": "药剂的生命和魔力回复提高 (30—40)%",
+          "en": "(30—40)% increased Life and Mana Recovery from Flasks"
+        },
+        {
+          "zh-Hant": "你處於最大生命的75%或更低時，會視為貧血狀態",
+          "zh-Hans": "达到或低于生命上限的 75% 时将你视作低血",
+          "en": "You are considered on Low Life while at 75% of maximum Life or below instead"
+        }
+      ],
+      "flavor": {
+        "zh-Hant": "死亡是你最重要的任務。\n接受它，或是永世詛咒你的血繼。",
+        "zh-Hans": "死亡是你的最高职责。\n拥抱它，或是为你的血脉降下万世诅咒。",
+        "en": "Death is your most important duty.\nFace it, or curse your bloodline for all eternity."
+      },
+      "level": 40,
+      "_flavorEnabled": true,
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "belts",
+      "rarity": "unique",
+      "id": "zerphis-genesis",
+      "name": {
+        "zh-Hant": "澤佛伊的創世紀",
+        "zh-Hans": "泽佛伊的本源",
+        "en": "Zerphi's Genesis"
+      },
+      "type1": {
+        "zh-Hant": "腰帶",
+        "zh-Hans": "腰带",
+        "en": "Belt"
+      },
+      "type2": {
+        "zh-Hant": "重革腰帶",
+        "zh-Hans": "重革腰带",
+        "en": "Heavy Belt"
+      },
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Belts/Uniques/ZerphisGenesis.webp",
+      "stats": [],
+      "affixes": [
+        {
+          "zh-Hant": "有(1—3)個護符欄位",
+          "zh-Hans": "具有 (1—3) 个咒符位",
+          "en": "Has (1—3) Charm Slots"
+        },
+        {
+          "zh-Hant": "增加(20—30)%暈眩門檻",
+          "zh-Hans": "晕眩阈值提高 (20—30)%",
+          "en": "(20—30)% increased Stun Threshold"
+        },
+        {
+          "zh-Hant": "增加(25—50)%已污染護符效果持續時間",
+          "zh-Hans": "被腐化咒符的效果持续时间提高 (25—50)%",
+          "en": "(25—50)% increased Corrupted Charms effect duration"
+        },
+        {
+          "zh-Hant": "使用護符所消耗充能的50%會充能你的生命藥劑",
+          "zh-Hans": "使用咒符时消耗充能的 50% 会赋予你的生命药剂",
+          "en": "50% of Charges consumed by used Charms are granted to your Life Flasks"
+        },
+        {
+          "zh-Hant": "使用生命藥劑所消耗充能的50%會充能你的護符",
+          "zh-Hans": "使用生命药剂时消耗充能的 50% 会赋予你的咒符",
+          "en": "50% of Charges consumed by used Life Flasks are granted to your Charms"
+        },
+        {
+          "zh-Hant": "+(10—30)點力量",
+          "zh-Hans": "+(10—30) 力量",
+          "en": "+(10—30) to Strength"
+        },
+        {
+          "zh-Hant": "任何藥劑效果期間增加(15—25)%已污染寶石技能的消耗效能",
+          "zh-Hans": "在任何药剂效果期间，被腐化宝石的技能消耗效能提高 (15—25)%",
+          "en": "Skills from Corrupted Gems have (15—25)% increased Cost Efficiency during any Flask Effect"
+        },
+        {
+          "zh-Hant": "無法對你造成腐化之血",
+          "zh-Hans": "腐化之血无法施加于你",
+          "en": "Corrupted Blood cannot be inflicted on you"
+        }
+      ],
+      "flavor": {
+        "zh-Hant": "最可怕的想法往往始於簡單的創新。",
+        "zh-Hans": "最恐怖的创意，往往诞生于一个简单的创新。",
+        "en": "The most horrifying ideas often begin with a simple innovation."
+      },
+      "level": 56,
+      "_flavorEnabled": true,
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "belts",
+      "rarity": "unique",
+      "id": "byrnabas",
+      "name": {
+        "zh-Hant": "布萊納巴斯",
+        "zh-Hans": "伯纳巴斯",
+        "en": "Byrnabas"
+      },
+      "type1": {
+        "zh-Hant": "腰帶",
+        "zh-Hans": "腰带",
+        "en": "Belt"
+      },
+      "type2": {
+        "zh-Hant": "寬大腰帶",
+        "zh-Hans": "宽大腰带",
+        "en": "Wide Belt"
+      },
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Belts/Uniques/Byrnabas.webp",
+      "stats": [],
+      "affixes": [
+        {
+          "zh-Hant": "有(1—3)個護符欄位",
+          "zh-Hans": "具有 (1—3) 个咒符位",
+          "en": "Has (1—3) Charm Slots"
+        },
+        {
+          "zh-Hant": "增加(20—30)%藥劑充能獲取",
+          "zh-Hans": "获得的药剂充能提高 (20—30)%",
+          "en": "(20—30)% increased Flask Charges gained"
+        },
+        {
+          "zh-Hant": "+(40—60)最大魔力",
+          "zh-Hans": "+(40—60) 魔力上限",
+          "en": "+(40—60) to maximum Mana"
+        },
+        {
+          "zh-Hant": "+(30—40)%閃電抗性",
+          "zh-Hans": "闪电抗性 +(30—40)%",
+          "en": "+(30—40)% to Lightning Resistance"
+        },
+        {
+          "zh-Hant": "(7—12)每秒生命回復",
+          "zh-Hans": "生命每秒再生 (7—12)",
+          "en": "(7—12) Life Regeneration per second"
+        },
+        {
+          "zh-Hant": "不會被感電",
+          "zh-Hans": "无法被感电",
+          "en": "Cannot be Shocked"
+        }
+      ],
+      "flavor": {
+        "zh-Hant": "布琳洛特無懼風暴揚帆起航。",
+        "zh-Hans": "布林洛特的水手们不惧风暴。",
+        "en": "The Brinerot sail without fear of storms."
+      },
+      "level": 14,
+      "_flavorEnabled": true,
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "belts",
+      "rarity": "unique",
+      "id": "ingenuity",
+      "name": {
+        "zh-Hant": "獨創",
+        "zh-Hans": "奇思妙想",
+        "en": "Ingenuity"
+      },
+      "type1": {
+        "zh-Hant": "腰帶",
+        "zh-Hans": "腰带",
+        "en": "Belt"
+      },
+      "type2": {
+        "zh-Hant": "實用腰帶",
+        "zh-Hans": "万用腰带",
+        "en": "Utility Belt"
+      },
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Belts/Uniques/Ingenuity.webp",
+      "stats": [],
+      "affixes": [
+        {
+          "zh-Hant": "有(1—3)個護符欄位",
+          "zh-Hans": "具有 (1—3) 个咒符位",
+          "en": "Has (1—3) Charm Slots"
+        },
+        {
+          "zh-Hant": "20%的藥劑回復立即生效",
+          "zh-Hans": "20% 的药剂回复量立即生效",
+          "en": "20% of Flask Recovery applied Instantly"
+        },
+        {
+          "zh-Hant": "減少(-20—20)%護符充能獲取",
+          "zh-Hans": "获得的咒符充能降低 (-20—20)%",
+          "en": "(-20—20)% reduced Charm Charges gained"
+        },
+        {
+          "zh-Hant": "減少(-10—10)%護符充能使用",
+          "zh-Hans": "使用的咒符充能降低 (-10—10)%",
+          "en": "(-10—10)% reduced Charm Charges used"
+        },
+        {
+          "zh-Hant": "增加(20—30)%自已裝備左手戒指獲得的加成",
+          "zh-Hans": "装备左边戒指获得的加成提高 (20—30)%",
+          "en": "(20—30)% increased bonuses gained from left Equipped Ring"
+        },
+        {
+          "zh-Hant": "增加(20—30)%自已裝備右手戒指獲得的加成",
+          "zh-Hans": "装备右边戒指获得的加成提高 (20—30)%",
+          "en": "(20—30)% increased bonuses gained from right Equipped Ring"
+        }
+      ],
+      "flavor": {
+        "zh-Hant": "對地占術的實驗教會了\n聖賢始料未及的結果。",
+        "zh-Hans": "众贤尝试地术，\n收获远超预想。",
+        "en": "Experiments with geomancy taught\nthe Maji more than they ever expected."
+      },
+      "level": 55,
+      "_flavorEnabled": true,
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "belts",
+      "rarity": "unique",
+      "id": "the-gnashing-sash",
+      "name": {
+        "zh-Hant": "憤恨飾帶",
+        "zh-Hans": "狂獠饰带",
+        "en": "The Gnashing Sash"
+      },
+      "type1": {
+        "zh-Hant": "腰帶",
+        "zh-Hans": "腰带",
+        "en": "Belt"
+      },
+      "type2": {
+        "zh-Hant": "寬大腰帶",
+        "zh-Hans": "宽大腰带",
+        "en": "Wide Belt"
+      },
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Belts/Uniques/The_Gnashing_Sash.webp",
+      "stats": [],
+      "affixes": [
+        {
+          "zh-Hant": "有(1—3)個護符欄位",
+          "zh-Hans": "具有 (1—3) 个咒符位",
+          "en": "Has (1—3) Charm Slots"
+        },
+        {
+          "zh-Hant": "增加(20—30)%藥劑充能獲取",
+          "zh-Hans": "获得的药剂充能提高 (20—30)%",
+          "en": "(20—30)% increased Flask Charges gained"
+        },
+        {
+          "zh-Hant": "增加(15—35)%藥劑生命恢復率",
+          "zh-Hans": "药剂生命回复速度提高 (15—35)%",
+          "en": "(15—35)% increased Flask Life Recovery rate"
+        },
+        {
+          "zh-Hant": "+(17—23)%混沌抗性",
+          "zh-Hans": "混沌抗性 +(17—23)%",
+          "en": "+(17—23)% to Chaos Resistance"
+        },
+        {
+          "zh-Hant": "每秒失去5%最大生命",
+          "zh-Hans": "每秒失去生命上限的 5%",
+          "en": "Lose 5% of maximum Life per second"
+        },
+        {
+          "zh-Hant": "來自藥劑的生命回復可以使最大生命溢出",
+          "zh-Hans": "药剂的生命回复可以溢出生命上限",
+          "en": "Life Recovery from Flasks can Overflow Maximum Life"
+        }
+      ],
+      "flavor": {
+        "zh-Hant": "\"饑餓是戈沃的本質，尋求著無盡的獻祭。\n吞噬一切是它帶給眾生的啟迪！\"\n- 一名聖堂武僧囚犯的隨筆，第十四頁",
+        "zh-Hans": "“咕尔欲壑难填，一心纵情饕餮。\n它将吞噬所有生灵，乃至万物！”\n— 圣堂囚犯的胡言，第十四页",
+        "en": "\"Ghorr knows only hunger, only ravenous feasting.\nIt will consume all that lives, and more!\"\n- Rantings of a Templar prisoner, page fourteen"
+      },
+      "level": 60,
+      "_flavorEnabled": true,
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "belts",
+      "rarity": "unique",
+      "id": "bijouborne",
+      "name": {
+        "zh-Hant": "寶石之源",
+        "zh-Hans": "珠宝承载者",
+        "en": "Bijouborne"
+      },
+      "type1": {
+        "zh-Hant": "腰帶",
+        "zh-Hans": "腰带",
+        "en": "Belt"
+      },
+      "type2": {
+        "zh-Hant": "雙層腰帶",
+        "zh-Hans": "双重腰带",
+        "en": "Double Belt"
+      },
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Belts/Uniques/Bijouborne.webp",
+      "stats": [],
+      "grantedSkill": {
+        "name": {
+          "zh-Hant": "使用護符時施放",
+          "zh-Hans": "使用咒符时施放",
+          "en": "Cast on Charm Use"
+        },
+        "level": 11,
+        "icon": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Belts/SkillIcons/CastOnCharm.webp",
+        "skillRef": "Cast_on_Charm_Use",
+        "_activeTab": 0
+      },
+      "affixes": [
+        {
+          "zh-Hant": "有(1—3)個護符欄位",
+          "zh-Hans": "具有 (1—3) 个咒符位",
+          "en": "Has (1—3) Charm Slots"
+        },
+        {
+          "zh-Hant": "增加(20—30)%護符充能獲取",
+          "zh-Hans": "获得的咒符充能提高 (20—30)%",
+          "en": "(20—30)% increased Charm Charges gained"
+        },
+        {
+          "zh-Hant": "+(50—100)最大魔力",
+          "zh-Hans": "+(50—100) 魔力上限",
+          "en": "+(50—100) to maximum Mana"
+        },
+        {
+          "zh-Hant": "減少(10—50)%護符效果持續時間",
+          "zh-Hans": "咒符效果的持续时间降低 (10—50)%",
+          "en": "(10—50)% reduced Charm Effect Duration"
+        },
+        {
+          "zh-Hant": "+2護符欄位",
+          "zh-Hans": "咒符栏 +2",
+          "en": "+2 Charm Slots"
+        },
+        {
+          "zh-Hant": "+(15—25)點敏捷",
+          "zh-Hans": "+(15—25) 敏捷",
+          "en": "+(15—25) to Dexterity"
+        },
+        {
+          "zh-Hant": "增加(20—30)%護符充能獲取",
+          "zh-Hans": "获得的咒符充能提高 (20—30)%",
+          "en": "(20—30)% increased Charm Charges gained"
+        }
+      ],
+      "flavor": {
+        "zh-Hant": "切莫招惹戴有飾物的法師。",
+        "zh-Hans": "不要招惹饰品法师。",
+        "en": "Trifle not with the trinket mage."
+      },
+      "level": 44,
+      "_flavorEnabled": true,
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "belts",
+      "rarity": "unique",
+      "id": "darkness-enthroned",
+      "name": {
+        "zh-Hant": "夜惡降臨",
+        "zh-Hans": "夜临",
+        "en": "Darkness Enthroned"
+      },
+      "type1": {
+        "zh-Hant": "腰帶",
+        "zh-Hans": "腰带",
+        "en": "Belt"
+      },
+      "type2": {
+        "zh-Hant": "精良腰帶",
+        "zh-Hans": "精致腰带",
+        "en": "Fine Belt"
+      },
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Belts/Uniques/DarknessEnthroned.webp",
+      "stats": [],
+      "affixes": [
+        {
+          "zh-Hant": "有(1—3)個護符欄位",
+          "zh-Hans": "具有 (1—3) 个咒符位",
+          "en": "Has (1—3) Charm Slots"
+        },
+        {
+          "zh-Hant": "藥劑每秒獲得0.17充能",
+          "zh-Hans": "药剂每秒获得 0.17 次充能",
+          "en": "Flasks gain 0.17 charges per Second"
+        },
+        {
+          "zh-Hant": "增加(50—100)%鑲嵌的物品效果",
+          "zh-Hans": "镶嵌的增幅器物品效果提高 (50—100)%",
+          "en": "(50—100)% increased effect of Socketed Augment Items"
+        },
+        {
+          "zh-Hant": "此物品會被視為身體護甲，自插槽中的物品獲得加成",
+          "zh-Hans": "此物品可作为胸甲获得镶嵌物的加成",
+          "en": "This item gains bonuses from Socketed Items as though it was a Body Armour"
+        }
+      ],
+      "flavor": {
+        "zh-Hant": "骷髏馬克洋洋得意地坐下，高舉王冠。\n黑暗將世界縈繞成了永夜。\n勝利，僅在一瞬間，轟然倒塌。\n此刻不再有征服者和被征服者之分，惟存炙熱的光芒。",
+        "zh-Hans": "库勒马克胜利在握，高举王冠。\n黑暗将世界拖入永恒长夜。\n胜利不过转眼，旋即灰飞烟灭。\n没有征服者，没有被征服者，唯有炽烈光辉。",
+        "en": "Kulemak sat triumphant, raising the crown.\nDarkness coiled the world in eternal night.\nVictory, a mere moment, came crashing down.\nNo conqueror, no conquered, only searing Light."
+      },
+      "level": 62,
+      "_flavorEnabled": true,
+      "grantedSkillsExtra": [],
+      "originalLabel": {
+        "zh-Hant": "胸甲",
+        "zh-Hans": "护甲",
+        "en": "Body Armours"
+      }
+    },
+    {
+      "category": "armor",
+      "subKey": "belts",
+      "rarity": "unique",
+      "id": "darkness-enthroned-version-2",
+      "name": {
+        "zh-Hant": "夜惡降臨",
+        "zh-Hans": "夜临",
+        "en": "Darkness Enthroned"
+      },
+      "type1": {
+        "zh-Hant": "腰帶",
+        "zh-Hans": "腰带",
+        "en": "Belt"
+      },
+      "type2": {
+        "zh-Hant": "精良腰帶",
+        "zh-Hans": "精致腰带",
+        "en": "Fine Belt"
+      },
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Belts/Uniques/DarknessEnthroned.webp",
+      "stats": [],
+      "affixes": [
+        {
+          "zh-Hant": "有(1—3)個護符欄位",
+          "zh-Hans": "具有 (1—3) 个咒符位",
+          "en": "Has (1—3) Charm Slots"
+        },
+        {
+          "zh-Hant": "藥劑每秒獲得0.17充能",
+          "zh-Hans": "药剂每秒获得 0.17 次充能",
+          "en": "Flasks gain 0.17 charges per Second"
+        },
+        {
+          "zh-Hant": "增加(50—100)%鑲嵌的物品效果",
+          "zh-Hans": "镶嵌的增幅器物品效果提高 (50—100)%",
+          "en": "(50—100)% increased effect of Socketed Augment Items"
+        },
+        {
+          "zh-Hant": "此物品會被視為頭盔，自插槽中的物品獲得加成",
+          "zh-Hans": "此物品可作为头盔获得镶嵌物的加成",
+          "en": "This item gains bonuses from Socketed Items as though it was a Helmet"
+        }
+      ],
+      "flavor": {
+        "zh-Hant": "骷髏馬克洋洋得意地坐下，高舉王冠。\n黑暗將世界縈繞成了永夜。\n勝利，僅在一瞬間，轟然倒塌。\n此刻不再有征服者和被征服者之分，惟存炙熱的光芒。",
+        "zh-Hans": "库勒马克胜利在握，高举王冠。\n黑暗将世界拖入永恒长夜。\n胜利不过转眼，旋即灰飞烟灭。\n没有征服者，没有被征服者，唯有炽烈光辉。",
+        "en": "Kulemak sat triumphant, raising the crown.\nDarkness coiled the world in eternal night.\nVictory, a mere moment, came crashing down.\nNo conqueror, no conquered, only searing Light."
+      },
+      "level": 62,
+      "_flavorEnabled": true,
+      "grantedSkillsExtra": [],
+      "variantOf": "darkness-enthroned",
+      "variantKind": "alt",
+      "variantLabel": {
+        "zh-Hant": "頭盔",
+        "zh-Hans": "头盔",
+        "en": "Helmets"
+      }
+    },
+    {
+      "category": "armor",
+      "subKey": "belts",
+      "rarity": "unique",
+      "id": "darkness-enthroned-version-3",
+      "name": {
+        "zh-Hant": "夜惡降臨",
+        "zh-Hans": "夜临",
+        "en": "Darkness Enthroned"
+      },
+      "type1": {
+        "zh-Hant": "腰帶",
+        "zh-Hans": "腰带",
+        "en": "Belt"
+      },
+      "type2": {
+        "zh-Hant": "精良腰帶",
+        "zh-Hans": "精致腰带",
+        "en": "Fine Belt"
+      },
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Belts/Uniques/DarknessEnthroned.webp",
+      "stats": [],
+      "affixes": [
+        {
+          "zh-Hant": "有(1—3)個護符欄位",
+          "zh-Hans": "具有 (1—3) 个咒符位",
+          "en": "Has (1—3) Charm Slots"
+        },
+        {
+          "zh-Hant": "藥劑每秒獲得0.17充能",
+          "zh-Hans": "药剂每秒获得 0.17 次充能",
+          "en": "Flasks gain 0.17 charges per Second"
+        },
+        {
+          "zh-Hant": "增加(50—100)%鑲嵌的物品效果",
+          "zh-Hans": "镶嵌的增幅器物品效果提高 (50—100)%",
+          "en": "(50—100)% increased effect of Socketed Augment Items"
+        },
+        {
+          "zh-Hant": "此物品會被視為手套，自插槽中的物品獲得加成",
+          "zh-Hans": "此物品可作为手套获得镶嵌物的加成",
+          "en": "This item gains bonuses from Socketed Items as though it was Gloves"
+        }
+      ],
+      "flavor": {
+        "zh-Hant": "骷髏馬克洋洋得意地坐下，高舉王冠。\n黑暗將世界縈繞成了永夜。\n勝利，僅在一瞬間，轟然倒塌。\n此刻不再有征服者和被征服者之分，惟存炙熱的光芒。",
+        "zh-Hans": "库勒马克胜利在握，高举王冠。\n黑暗将世界拖入永恒长夜。\n胜利不过转眼，旋即灰飞烟灭。\n没有征服者，没有被征服者，唯有炽烈光辉。",
+        "en": "Kulemak sat triumphant, raising the crown.\nDarkness coiled the world in eternal night.\nVictory, a mere moment, came crashing down.\nNo conqueror, no conquered, only searing Light."
+      },
+      "level": 62,
+      "_flavorEnabled": true,
+      "grantedSkillsExtra": [],
+      "variantOf": "darkness-enthroned",
+      "variantKind": "alt",
+      "variantLabel": {
+        "zh-Hant": "手套",
+        "zh-Hans": "手套",
+        "en": "Gloves"
+      }
+    },
+    {
+      "category": "armor",
+      "subKey": "belts",
+      "rarity": "unique",
+      "id": "darkness-enthroned-version-4",
+      "name": {
+        "zh-Hant": "夜惡降臨",
+        "zh-Hans": "夜临",
+        "en": "Darkness Enthroned"
+      },
+      "type1": {
+        "zh-Hant": "腰帶",
+        "zh-Hans": "腰带",
+        "en": "Belt"
+      },
+      "type2": {
+        "zh-Hant": "精良腰帶",
+        "zh-Hans": "精致腰带",
+        "en": "Fine Belt"
+      },
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Belts/Uniques/DarknessEnthroned.webp",
+      "stats": [],
+      "affixes": [
+        {
+          "zh-Hant": "有(1—3)個護符欄位",
+          "zh-Hans": "具有 (1—3) 个咒符位",
+          "en": "Has (1—3) Charm Slots"
+        },
+        {
+          "zh-Hant": "藥劑每秒獲得0.17充能",
+          "zh-Hans": "药剂每秒获得 0.17 次充能",
+          "en": "Flasks gain 0.17 charges per Second"
+        },
+        {
+          "zh-Hant": "增加(50—100)%鑲嵌的物品效果",
+          "zh-Hans": "镶嵌的增幅器物品效果提高 (50—100)%",
+          "en": "(50—100)% increased effect of Socketed Augment Items"
+        },
+        {
+          "zh-Hant": "此物品會被視為長靴，自插槽中的物品獲得加成",
+          "zh-Hans": "此物品可作为鞋子获得镶嵌物的加成",
+          "en": "This item gains bonuses from Socketed Items as though it was Boots"
+        }
+      ],
+      "flavor": {
+        "zh-Hant": "骷髏馬克洋洋得意地坐下，高舉王冠。\n黑暗將世界縈繞成了永夜。\n勝利，僅在一瞬間，轟然倒塌。\n此刻不再有征服者和被征服者之分，惟存炙熱的光芒。",
+        "zh-Hans": "库勒马克胜利在握，高举王冠。\n黑暗将世界拖入永恒长夜。\n胜利不过转眼，旋即灰飞烟灭。\n没有征服者，没有被征服者，唯有炽烈光辉。",
+        "en": "Kulemak sat triumphant, raising the crown.\nDarkness coiled the world in eternal night.\nVictory, a mere moment, came crashing down.\nNo conqueror, no conquered, only searing Light."
+      },
+      "level": 62,
+      "_flavorEnabled": true,
+      "grantedSkillsExtra": [],
+      "variantOf": "darkness-enthroned",
+      "variantKind": "alt",
+      "variantLabel": {
+        "zh-Hant": "長靴",
+        "zh-Hans": "鞋子",
+        "en": "Boots"
+      }
+    },
+    {
+      "category": "armor",
+      "subKey": "belts",
+      "rarity": "unique",
+      "id": "darkness-enthroned-version-5",
+      "name": {
+        "zh-Hant": "夜惡降臨",
+        "zh-Hans": "夜临",
+        "en": "Darkness Enthroned"
+      },
+      "type1": {
+        "zh-Hant": "腰帶",
+        "zh-Hans": "腰带",
+        "en": "Belt"
+      },
+      "type2": {
+        "zh-Hant": "精良腰帶",
+        "zh-Hans": "精致腰带",
+        "en": "Fine Belt"
+      },
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Belts/Uniques/DarknessEnthroned.webp",
+      "stats": [],
+      "affixes": [
+        {
+          "zh-Hant": "有(1—3)個護符欄位",
+          "zh-Hans": "具有 (1—3) 个咒符位",
+          "en": "Has (1—3) Charm Slots"
+        },
+        {
+          "zh-Hant": "藥劑每秒獲得0.17充能",
+          "zh-Hans": "药剂每秒获得 0.17 次充能",
+          "en": "Flasks gain 0.17 charges per Second"
+        },
+        {
+          "zh-Hant": "增加(50—100)%鑲嵌的物品效果",
+          "zh-Hans": "镶嵌的增幅器物品效果提高 (50—100)%",
+          "en": "(50—100)% increased effect of Socketed Augment Items"
+        },
+        {
+          "zh-Hant": "此物品會被視為盾牌，自插槽中的物品獲得加成",
+          "zh-Hans": "此物品可作为盾牌获得镶嵌物的加成",
+          "en": "This item gains bonuses from Socketed Items as though it was a Shield"
+        }
+      ],
+      "flavor": {
+        "zh-Hant": "骷髏馬克洋洋得意地坐下，高舉王冠。\n黑暗將世界縈繞成了永夜。\n勝利，僅在一瞬間，轟然倒塌。\n此刻不再有征服者和被征服者之分，惟存炙熱的光芒。",
+        "zh-Hans": "库勒马克胜利在握，高举王冠。\n黑暗将世界拖入永恒长夜。\n胜利不过转眼，旋即灰飞烟灭。\n没有征服者，没有被征服者，唯有炽烈光辉。",
+        "en": "Kulemak sat triumphant, raising the crown.\nDarkness coiled the world in eternal night.\nVictory, a mere moment, came crashing down.\nNo conqueror, no conquered, only searing Light."
+      },
+      "level": 62,
+      "_flavorEnabled": true,
+      "grantedSkillsExtra": [],
+      "variantOf": "darkness-enthroned",
+      "variantKind": "alt",
+      "variantLabel": {
+        "zh-Hant": "盾牌",
+        "zh-Hans": "盾牌",
+        "en": "Shields"
+      }
+    },
+    {
+      "category": "armor",
+      "subKey": "belts",
+      "rarity": "unique",
+      "id": "mageblood",
+      "name": {
+        "zh-Hant": "魔血",
+        "zh-Hans": "法师之血",
+        "en": "Mageblood"
+      },
+      "type1": {
+        "zh-Hant": "腰帶",
+        "zh-Hans": "腰带",
+        "en": "Belt"
+      },
+      "type2": {
+        "zh-Hant": "實用腰帶",
+        "zh-Hans": "万用腰带",
+        "en": "Utility Belt"
+      },
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Belts/Uniques/Mageblood.webp",
+      "stats": [],
+      "affixes": [
+        {
+          "zh-Hant": "有(1—3)個護符欄位",
+          "zh-Hans": "具有 (1—3) 个咒符位",
+          "en": "Has (1—3) Charm Slots"
+        },
+        {
+          "zh-Hant": "20%的藥劑回復立即生效",
+          "zh-Hans": "20% 的药剂回复量立即生效",
+          "en": "20% of Flask Recovery applied Instantly"
+        },
+        {
+          "zh-Hant": "你每擁有一個重複的魔遺，即增加(25—50)%所有魔遺效果",
+          "zh-Hans": "你每拥有一个重复的法师遗产，所有法师遗产效果提高 (25—50)%",
+          "en": "All Mage's Legacies have (25—50)% increased effect per duplicate Mage's Legacy you have"
+        },
+        {
+          "zh-Hant": "有 4 個隨機的魔遺",
+          "zh-Hans": "有 4 个随机的法师遗产",
+          "en": "4 random Mage's Legacies"
+        }
+      ],
+      "flavor": {
+        "zh-Hant": "強大的力量曾如江河般在他們的血管中奔流。\n如今，無論福禍，這股力量已盡歸你所有。",
+        "zh-Hans": "力量的河流曾于他们血管中奔涌。\n如今，那力量属于你了——无论祸福。",
+        "en": "Rivers of power coursed through their veins.\nNow, that power is yours, for good or ill."
+      },
+      "level": 55,
+      "_flavorEnabled": true,
+      "grantedSkillsExtra": [],
+      "affixPool": {
+        "entries": [
+          {
+            "label": {
+              "zh-Hant": "紫晶之遺",
+              "zh-Hans": "紫晶遗产",
+              "en": "Legacy of Amethyst"
+            },
+            "text": {
+              "zh-Hant": "+45% 混沌抗性",
+              "zh-Hans": "+45% 混沌抗性",
+              "en": "+45% to Chaos Resistance"
+            }
+          },
+          {
+            "label": {
+              "zh-Hant": "堅岩之遺",
+              "zh-Hans": "玄武岩遗产",
+              "en": "Legacy of Basalt"
+            },
+            "text": {
+              "zh-Hant": "增加 150% 護甲",
+              "zh-Hans": "护甲提高 150%",
+              "en": "150% increased Armour"
+            }
+          },
+          {
+            "label": {
+              "zh-Hant": "灰岩之遺",
+              "zh-Hans": "灰岩遗产",
+              "en": "Legacy of Bismuth"
+            },
+            "text": {
+              "zh-Hant": "+45% 全元素抗性",
+              "zh-Hans": "所有元素抗性 +45%",
+              "en": "+45% to all Elemental Resistances"
+            }
+          },
+          {
+            "label": {
+              "zh-Hant": "寶鑽之遺",
+              "zh-Hans": "钻石遗产",
+              "en": "Legacy of Diamond"
+            },
+            "text": {
+              "zh-Hant": "增加 75% 暴擊率",
+              "zh-Hans": "暴击几率提高 75%",
+              "en": "75% increased Critical Hit Chance"
+            }
+          },
+          {
+            "label": {
+              "zh-Hant": "黃金之遺",
+              "zh-Hans": "黄金遗产",
+              "en": "Legacy of Gold"
+            },
+            "text": {
+              "zh-Hant": "增加 45% 找到物品的稀有度",
+              "zh-Hans": "物品稀有度提高 45%",
+              "en": "45% increased Rarity of Items found"
+            }
+          },
+          {
+            "label": {
+              "zh-Hant": "石化之遺",
+              "zh-Hans": "坚岩遗产",
+              "en": "Legacy of Granite"
+            },
+            "text": {
+              "zh-Hant": "+2000 護甲",
+              "zh-Hans": "+2000 护甲",
+              "en": "+2000 to Armour"
+            }
+          },
+          {
+            "label": {
+              "zh-Hant": "翠玉之遺",
+              "zh-Hans": "青玉遗产",
+              "en": "Legacy of Jade"
+            },
+            "text": {
+              "zh-Hant": "+2000 閃避值",
+              "zh-Hans": "+2000 闪避值",
+              "en": "+2000 to Evasion Rating"
+            }
+          },
+          {
+            "label": {
+              "zh-Hant": "水銀之遺",
+              "zh-Hans": "水银遗产",
+              "en": "Legacy of Quicksilver"
+            },
+            "text": {
+              "zh-Hant": "增加 30% 移動速度",
+              "zh-Hans": "移动速度提高 30%",
+              "en": "30% increased Movement Speed"
+            }
+          },
+          {
+            "label": {
+              "zh-Hant": "紅玉之遺",
+              "zh-Hans": "红玉遗产",
+              "en": "Legacy of Ruby"
+            },
+            "text": {
+              "zh-Hant": "+60% 火焰抗性、+5% 最大火焰抗性",
+              "zh-Hans": "+60% 火焰抗性，+5% 火焰抗性上限",
+              "en": "+60% to Fire Resistance and +5% to Maximum Fire Resistance"
+            }
+          },
+          {
+            "label": {
+              "zh-Hant": "藍玉之遺",
+              "zh-Hans": "蓝玉遗产",
+              "en": "Legacy of Sapphire"
+            },
+            "text": {
+              "zh-Hant": "+60% 冰冷抗性、+5% 最大冰冷抗性",
+              "zh-Hans": "+60% 冰霜抗性，+5% 冰霜抗性上限",
+              "en": "+60% to Cold Resistance and +5% to Maximum Cold Resistance"
+            }
+          },
+          {
+            "label": {
+              "zh-Hant": "真銀之遺",
+              "zh-Hans": "白银遗产",
+              "en": "Legacy of Silver"
+            },
+            "text": {
+              "zh-Hant": "增加 30% 技能速度",
+              "zh-Hans": "技能速度提高 30%",
+              "en": "30% increased Skill Speed"
+            }
+          },
+          {
+            "label": {
+              "zh-Hant": "迷霧之遺",
+              "zh-Hans": "黑锑遗产",
+              "en": "Legacy of Stibnite"
+            },
+            "text": {
+              "zh-Hant": "增加 150% 閃避值",
+              "zh-Hans": "闪避值提高 150%",
+              "en": "150% increased Evasion Rating"
+            }
+          },
+          {
+            "label": {
+              "zh-Hant": "硫磺之遺",
+              "zh-Hans": "硫磺遗产",
+              "en": "Legacy of Sulphur"
+            },
+            "text": {
+              "zh-Hant": "增加 60% 傷害，靜止時你周圍 2.5 公尺成為奉獻地面",
+              "zh-Hans": "伤害提高 60%，静止时你周围 2.5 米内的区域变为奉献地面",
+              "en": "60% increased Damage, and the area within 2.5 metres of you is Consecrated Ground while you're stationary"
+            }
+          },
+          {
+            "label": {
+              "zh-Hant": "黃玉之遺",
+              "zh-Hans": "黄玉遗产",
+              "en": "Legacy of Topaz"
+            },
+            "text": {
+              "zh-Hant": "+60% 閃電抗性、+5% 最大閃電抗性",
+              "zh-Hans": "+60% 闪电抗性，+5% 闪电抗性上限",
+              "en": "+60% to Lightning Resistance and +5% to Maximum Lightning Resistance"
+            }
+          }
+        ],
+        "maxLines": 4
+      }
+    }
+  ],
+  "skillLibrary": {
+    "Cast_on_Charm_Use": {
+      "info": [
+        {
+          "zh-Hant": "增益效果",
+          "zh-Hans": "增益",
+          "en": "Buff"
+        },
+        {
+          "zh-Hant": "持續, 觸發, 主要",
+          "zh-Hans": "永久性, 触发, 非凡",
+          "en": "Persistent, Trigger, Meta"
+        },
+        {
+          "zh-Hant": "等級: 1 ~ 20",
+          "zh-Hans": "等级: 1 ~ 20",
+          "en": "Level: 1 ~ 20"
+        },
+        {
+          "zh-Hant": "需求: 等級 1 ~ 90",
+          "zh-Hans": "需求： 等级 1 ~ 90",
+          "en": "Requires: Level 1 ~ 90"
+        },
+        {
+          "zh-Hant": "啟動時，當你的其中一個護符被使用時會獲得能量，並在到達最大能量時觸發插槽中的法術。",
+          "zh-Hans": "激活时，当你使用咒符时会获得能量，达到能量上限后触发镶嵌的法术。",
+          "en": "While active, gains Energy when one of your Charms is used and triggers socketed Spells on reaching maximum Energy."
+        },
+        {
+          "zh-Hant": "來自品質的額外效果",
+          "zh-Hans": "品质额外效果",
+          "en": "Additional Effects From Quality:"
+        },
+        {
+          "zh-Hant": "增加 0 ~ 15 % 能量獲得量",
+          "zh-Hans": "获得的能量提高 0 ~ 15 %",
+          "en": "0 ~ 15 % increased Energy gained"
+        }
+      ],
+      "tabs": [
+        {
+          "name": {
+            "zh-Hant": "使用護符時施放",
+            "zh-Hans": "使用咒符时施放",
+            "en": "Cast on Charm Use"
+          },
+          "lines": [
+            {
+              "zh-Hant": "每次使用護符時，每消耗 1 點充能可獲得 2 點能量",
+              "zh-Hans": "使用咒符时每使用一个充能获得 2 点能量",
+              "en": "When a Charm is used gains 2 Energy per Charge used"
+            },
+            {
+              "zh-Hant": "增加 0 ~ 57 % 能量獲得量",
+              "zh-Hans": "获得的能量提高 0 ~ 57 %",
+              "en": "0 ~ 57 % increased Energy gained"
+            }
+          ]
+        },
+        {
+          "name": {
+            "zh-Hant": "輔助",
+            "zh-Hans": "辅助",
+            "en": "Support"
+          },
+          "lines": [
+            {
+              "zh-Hant": "插槽中的法術每 0.1 秒基礎施放時間有 10 最大能量",
+              "zh-Hans": "镶嵌的法术每有 0.1 秒基础施法时间，获得 10 能量上限",
+              "en": "Has 10 maximum Energy per 0.1 seconds of base cast time of Socketed Spells"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

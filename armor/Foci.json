@@ -1,0 +1,3690 @@
+{
+  "baseItems": [
+    {
+      "category": "armor",
+      "subKey": "foci",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Foci/Basetypes/Twig_Focus.webp",
+      "name": {
+        "zh-Hant": "枝條法器",
+        "zh-Hans": "枝条法器",
+        "en": "Twig Focus"
+      },
+      "type1": {
+        "zh-Hant": "法器",
+        "zh-Hans": "法器",
+        "en": "Focus"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [
+        {
+          "label": {
+            "zh-Hant": "能量護盾",
+            "zh-Hans": "能量护盾",
+            "en": "Energy Shield"
+          },
+          "value": "12"
+        }
+      ],
+      "level": 1,
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "foci",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Foci/Basetypes/Woven_Focus.webp",
+      "name": {
+        "zh-Hant": "編織法器",
+        "zh-Hans": "织造法器",
+        "en": "Woven Focus"
+      },
+      "type1": {
+        "zh-Hant": "法器",
+        "zh-Hans": "法器",
+        "en": "Focus"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [
+        {
+          "label": {
+            "zh-Hant": "能量護盾",
+            "zh-Hans": "能量护盾",
+            "en": "Energy Shield"
+          },
+          "value": "15"
+        }
+      ],
+      "level": 6,
+      "requirements": {
+        "int": 11
+      },
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "foci",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Foci/Basetypes/Antler_Focus.webp",
+      "name": {
+        "zh-Hant": "靈鹿法器",
+        "zh-Hans": "鹿角法器",
+        "en": "Antler Focus"
+      },
+      "type1": {
+        "zh-Hant": "法器",
+        "zh-Hans": "法器",
+        "en": "Focus"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [
+        {
+          "label": {
+            "zh-Hant": "能量護盾",
+            "zh-Hans": "能量护盾",
+            "en": "Energy Shield"
+          },
+          "value": "18"
+        }
+      ],
+      "level": 10,
+      "requirements": {
+        "int": 17
+      },
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "foci",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Foci/Basetypes/Engraved_Focus.webp",
+      "name": {
+        "zh-Hant": "紋刻法器",
+        "zh-Hans": "铭刻法器",
+        "en": "Engraved Focus"
+      },
+      "type1": {
+        "zh-Hant": "法器",
+        "zh-Hans": "法器",
+        "en": "Focus"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [
+        {
+          "label": {
+            "zh-Hant": "能量護盾",
+            "zh-Hans": "能量护盾",
+            "en": "Energy Shield"
+          },
+          "value": "22"
+        }
+      ],
+      "level": 16,
+      "requirements": {
+        "int": 25
+      },
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "foci",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Foci/Basetypes/Tonal_Focus.webp",
+      "name": {
+        "zh-Hant": "音調法器",
+        "zh-Hans": "音调法器",
+        "en": "Tonal Focus"
+      },
+      "type1": {
+        "zh-Hant": "法器",
+        "zh-Hans": "法器",
+        "en": "Focus"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [
+        {
+          "label": {
+            "zh-Hant": "能量護盾",
+            "zh-Hans": "能量护盾",
+            "en": "Energy Shield"
+          },
+          "value": "26"
+        }
+      ],
+      "level": 22,
+      "requirements": {
+        "int": 33
+      },
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "foci",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Foci/Basetypes/Crystal_Focus.webp",
+      "name": {
+        "zh-Hant": "水晶法器",
+        "zh-Hans": "水晶法器",
+        "en": "Crystal Focus"
+      },
+      "type1": {
+        "zh-Hant": "法器",
+        "zh-Hans": "法器",
+        "en": "Focus"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [
+        {
+          "label": {
+            "zh-Hant": "能量護盾",
+            "zh-Hans": "能量护盾",
+            "en": "Energy Shield"
+          },
+          "value": "29"
+        }
+      ],
+      "level": 26,
+      "requirements": {
+        "int": 38
+      },
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "foci",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Foci/Basetypes/Voodoo_Focus.webp",
+      "name": {
+        "zh-Hant": "巫毒法器",
+        "zh-Hans": "巫毒法器",
+        "en": "Voodoo Focus"
+      },
+      "type1": {
+        "zh-Hant": "法器",
+        "zh-Hans": "法器",
+        "en": "Focus"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [
+        {
+          "label": {
+            "zh-Hant": "能量護盾",
+            "zh-Hans": "能量护盾",
+            "en": "Energy Shield"
+          },
+          "value": "34"
+        }
+      ],
+      "level": 33,
+      "requirements": {
+        "int": 48
+      },
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "foci",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Foci/Basetypes/Plumed_Focus.webp",
+      "name": {
+        "zh-Hant": "羽飾法器",
+        "zh-Hans": "彩羽法器",
+        "en": "Plumed Focus"
+      },
+      "type1": {
+        "zh-Hant": "法器",
+        "zh-Hans": "法器",
+        "en": "Focus"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [
+        {
+          "label": {
+            "zh-Hant": "能量護盾",
+            "zh-Hans": "能量护盾",
+            "en": "Energy Shield"
+          },
+          "value": "36"
+        }
+      ],
+      "level": 36,
+      "requirements": {
+        "int": 52
+      },
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "foci",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Foci/Basetypes/Runed_Focus.webp",
+      "name": {
+        "zh-Hant": "符文法器",
+        "zh-Hans": "符文法器",
+        "en": "Runed Focus"
+      },
+      "type1": {
+        "zh-Hant": "法器",
+        "zh-Hans": "法器",
+        "en": "Focus"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [
+        {
+          "label": {
+            "zh-Hant": "能量護盾",
+            "zh-Hans": "能量护盾",
+            "en": "Energy Shield"
+          },
+          "value": "42"
+        }
+      ],
+      "level": 45,
+      "requirements": {
+        "int": 64
+      },
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "foci",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Foci/Basetypes/Whorl_Focus.webp",
+      "name": {
+        "zh-Hant": "螺旋法器",
+        "zh-Hans": "涡旋法器",
+        "en": "Whorl Focus"
+      },
+      "type1": {
+        "zh-Hant": "法器",
+        "zh-Hans": "法器",
+        "en": "Focus"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [
+        {
+          "label": {
+            "zh-Hant": "能量護盾",
+            "zh-Hans": "能量护盾",
+            "en": "Energy Shield"
+          },
+          "value": "47"
+        }
+      ],
+      "level": 51,
+      "requirements": {
+        "int": 73
+      },
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "foci",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Foci/Basetypes/Elegant_Focus.webp",
+      "name": {
+        "zh-Hant": "高雅法器",
+        "zh-Hans": "优雅法器",
+        "en": "Elegant Focus"
+      },
+      "type1": {
+        "zh-Hant": "法器",
+        "zh-Hans": "法器",
+        "en": "Focus"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [
+        {
+          "label": {
+            "zh-Hant": "能量護盾",
+            "zh-Hans": "能量护盾",
+            "en": "Energy Shield"
+          },
+          "value": "47"
+        }
+      ],
+      "level": 52,
+      "requirements": {
+        "int": 74
+      },
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "foci",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Foci/Basetypes/Attuned_Focus.webp",
+      "name": {
+        "zh-Hant": "調和法器",
+        "zh-Hans": "协调法器",
+        "en": "Attuned Focus"
+      },
+      "type1": {
+        "zh-Hant": "法器",
+        "zh-Hans": "法器",
+        "en": "Focus"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [
+        {
+          "label": {
+            "zh-Hant": "能量護盾",
+            "zh-Hans": "能量护盾",
+            "en": "Energy Shield"
+          },
+          "value": "51"
+        }
+      ],
+      "level": 57,
+      "requirements": {
+        "int": 81
+      },
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "foci",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Foci/Basetypes/Magus_Focus.webp",
+      "name": {
+        "zh-Hant": "瑪格思法器",
+        "zh-Hans": "术士法器",
+        "en": "Magus Focus"
+      },
+      "type1": {
+        "zh-Hant": "法器",
+        "zh-Hans": "法器",
+        "en": "Focus"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [
+        {
+          "label": {
+            "zh-Hant": "能量護盾",
+            "zh-Hans": "能量护盾",
+            "en": "Energy Shield"
+          },
+          "value": "56"
+        }
+      ],
+      "level": 65,
+      "requirements": {
+        "int": 91
+      },
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "foci",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Foci/Basetypes/Wreath_Focus.webp",
+      "name": {
+        "zh-Hant": "花環法器",
+        "zh-Hans": "花环法器",
+        "en": "Wreath Focus"
+      },
+      "type1": {
+        "zh-Hant": "法器",
+        "zh-Hans": "法器",
+        "en": "Focus"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [
+        {
+          "label": {
+            "zh-Hant": "能量護盾",
+            "zh-Hans": "能量护盾",
+            "en": "Energy Shield"
+          },
+          "value": "42"
+        }
+      ],
+      "level": 45,
+      "requirements": {
+        "int": 64
+      },
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "foci",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Foci/Basetypes/Staghorn_Focus.webp",
+      "name": {
+        "zh-Hant": "鹿角法器",
+        "zh-Hans": "鹿角法器",
+        "en": "Staghorn Focus"
+      },
+      "type1": {
+        "zh-Hant": "法器",
+        "zh-Hans": "法器",
+        "en": "Focus"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [
+        {
+          "label": {
+            "zh-Hant": "能量護盾",
+            "zh-Hans": "能量护盾",
+            "en": "Energy Shield"
+          },
+          "value": "45"
+        }
+      ],
+      "level": 48,
+      "requirements": {
+        "int": 69
+      },
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "foci",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Foci/Basetypes/Jingling_Focus.webp",
+      "name": {
+        "zh-Hant": "響聲法器",
+        "zh-Hans": "铃鸣法器",
+        "en": "Jingling Focus"
+      },
+      "type1": {
+        "zh-Hant": "法器",
+        "zh-Hans": "法器",
+        "en": "Focus"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [
+        {
+          "label": {
+            "zh-Hant": "能量護盾",
+            "zh-Hans": "能量护盾",
+            "en": "Energy Shield"
+          },
+          "value": "47"
+        }
+      ],
+      "level": 51,
+      "requirements": {
+        "int": 73
+      },
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "foci",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Foci/Basetypes/Arrayed_Focus.webp",
+      "name": {
+        "zh-Hant": "陣列法器",
+        "zh-Hans": "排列法器",
+        "en": "Arrayed Focus"
+      },
+      "type1": {
+        "zh-Hant": "法器",
+        "zh-Hans": "法器",
+        "en": "Focus"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [
+        {
+          "label": {
+            "zh-Hant": "能量護盾",
+            "zh-Hans": "能量护盾",
+            "en": "Energy Shield"
+          },
+          "value": "49"
+        }
+      ],
+      "level": 54,
+      "requirements": {
+        "int": 77
+      },
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "foci",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Foci/Basetypes/Cultist_Focus.webp",
+      "name": {
+        "zh-Hant": "教徒法器",
+        "zh-Hans": "密会法器",
+        "en": "Cultist Focus"
+      },
+      "type1": {
+        "zh-Hant": "法器",
+        "zh-Hans": "法器",
+        "en": "Focus"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [
+        {
+          "label": {
+            "zh-Hant": "能量護盾",
+            "zh-Hans": "能量护盾",
+            "en": "Energy Shield"
+          },
+          "value": "52"
+        }
+      ],
+      "level": 59,
+      "requirements": {
+        "int": 83
+      },
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "foci",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Foci/Basetypes/Hallowed_Focus.webp",
+      "name": {
+        "zh-Hant": "聖潔法器",
+        "zh-Hans": "神圣法器",
+        "en": "Hallowed Focus"
+      },
+      "type1": {
+        "zh-Hant": "法器",
+        "zh-Hans": "法器",
+        "en": "Focus"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [
+        {
+          "label": {
+            "zh-Hant": "能量護盾",
+            "zh-Hans": "能量护盾",
+            "en": "Energy Shield"
+          },
+          "value": "57"
+        }
+      ],
+      "level": 61,
+      "requirements": {
+        "int": 86
+      },
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "foci",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Foci/Basetypes/Druidic_Focus.webp",
+      "name": {
+        "zh-Hant": "德魯伊法器",
+        "zh-Hans": "德鲁伊法器",
+        "en": "Druidic Focus"
+      },
+      "type1": {
+        "zh-Hant": "法器",
+        "zh-Hans": "法器",
+        "en": "Focus"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [
+        {
+          "label": {
+            "zh-Hant": "能量護盾",
+            "zh-Hans": "能量护盾",
+            "en": "Energy Shield"
+          },
+          "value": "62"
+        }
+      ],
+      "level": 65,
+      "requirements": {
+        "int": 91
+      },
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "foci",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Foci/Basetypes/Leyline_Focus.webp",
+      "name": {
+        "zh-Hant": "地脈法器",
+        "zh-Hans": "荒凉原野法器",
+        "en": "Leyline Focus"
+      },
+      "type1": {
+        "zh-Hant": "法器",
+        "zh-Hans": "法器",
+        "en": "Focus"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [
+        {
+          "label": {
+            "zh-Hant": "能量護盾",
+            "zh-Hans": "能量护盾",
+            "en": "Energy Shield"
+          },
+          "value": "71"
+        }
+      ],
+      "level": 70,
+      "requirements": {
+        "int": 99
+      },
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "foci",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Foci/Basetypes/Sacred_Focus.webp",
+      "name": {
+        "zh-Hant": "神聖法器",
+        "zh-Hans": "圣洁法器",
+        "en": "Sacred Focus"
+      },
+      "type1": {
+        "zh-Hant": "法器",
+        "zh-Hans": "法器",
+        "en": "Focus"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [
+        {
+          "label": {
+            "zh-Hant": "能量護盾",
+            "zh-Hans": "能量护盾",
+            "en": "Energy Shield"
+          },
+          "value": "81"
+        }
+      ],
+      "level": 75,
+      "requirements": {
+        "int": 107
+      },
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "foci",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Foci/Basetypes/Tasalian_Focus.webp",
+      "name": {
+        "zh-Hant": "塔薩里奧法器",
+        "zh-Hans": "塔萨里奥法器",
+        "en": "Tasalian Focus"
+      },
+      "type1": {
+        "zh-Hant": "法器",
+        "zh-Hans": "法器",
+        "en": "Focus"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [
+        {
+          "label": {
+            "zh-Hant": "能量護盾",
+            "zh-Hans": "能量护盾",
+            "en": "Energy Shield"
+          },
+          "value": "91"
+        }
+      ],
+      "level": 80,
+      "requirements": {
+        "int": 115
+      },
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "foci",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Foci/Basetypes/Runeforged_Twig_Focus.webp",
+      "name": {
+        "zh-Hant": "符鍛枝條法器",
+        "zh-Hans": "符文枝条法器",
+        "en": "Runeforged Twig Focus"
+      },
+      "type1": {
+        "zh-Hant": "法器",
+        "zh-Hans": "法器",
+        "en": "Focus"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [
+        {
+          "label": {
+            "zh-Hant": "能量護盾",
+            "zh-Hans": "能量护盾",
+            "en": "Energy Shield"
+          },
+          "value": "12"
+        },
+        {
+          "label": {
+            "zh-Hant": "保護",
+            "zh-Hans": "符文结界",
+            "en": "Runic Ward"
+          },
+          "value": "12"
+        }
+      ],
+      "level": 1,
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "foci",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Foci/Basetypes/Runeforged_Woven_Focus.webp",
+      "name": {
+        "zh-Hant": "符鍛編織法器",
+        "zh-Hans": "符文织造法器",
+        "en": "Runeforged Woven Focus"
+      },
+      "type1": {
+        "zh-Hant": "法器",
+        "zh-Hans": "法器",
+        "en": "Focus"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [
+        {
+          "label": {
+            "zh-Hant": "能量護盾",
+            "zh-Hans": "能量护盾",
+            "en": "Energy Shield"
+          },
+          "value": "15"
+        },
+        {
+          "label": {
+            "zh-Hant": "保護",
+            "zh-Hans": "符文结界",
+            "en": "Runic Ward"
+          },
+          "value": "15"
+        }
+      ],
+      "level": 6,
+      "requirements": {
+        "int": 11
+      },
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "foci",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Foci/Basetypes/Runeforged_Antler_Focus.webp",
+      "name": {
+        "zh-Hant": "符鍛靈鹿法器",
+        "zh-Hans": "符文鹿角法器",
+        "en": "Runeforged Antler Focus"
+      },
+      "type1": {
+        "zh-Hant": "法器",
+        "zh-Hans": "法器",
+        "en": "Focus"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [
+        {
+          "label": {
+            "zh-Hant": "能量護盾",
+            "zh-Hans": "能量护盾",
+            "en": "Energy Shield"
+          },
+          "value": "18"
+        },
+        {
+          "label": {
+            "zh-Hant": "保護",
+            "zh-Hans": "符文结界",
+            "en": "Runic Ward"
+          },
+          "value": "17"
+        }
+      ],
+      "level": 10,
+      "requirements": {
+        "int": 17
+      },
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "foci",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Foci/Basetypes/Runeforged_Engraved_Focus.webp",
+      "name": {
+        "zh-Hant": "符鍛紋刻法器",
+        "zh-Hans": "符文铭刻法器",
+        "en": "Runeforged Engraved Focus"
+      },
+      "type1": {
+        "zh-Hant": "法器",
+        "zh-Hans": "法器",
+        "en": "Focus"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [
+        {
+          "label": {
+            "zh-Hant": "能量護盾",
+            "zh-Hans": "能量护盾",
+            "en": "Energy Shield"
+          },
+          "value": "22"
+        },
+        {
+          "label": {
+            "zh-Hant": "保護",
+            "zh-Hans": "符文结界",
+            "en": "Runic Ward"
+          },
+          "value": "22"
+        }
+      ],
+      "level": 16,
+      "requirements": {
+        "int": 25
+      },
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "foci",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Foci/Basetypes/Runeforged_Tonal_Focus.webp",
+      "name": {
+        "zh-Hant": "符鍛音調法器",
+        "zh-Hans": "符文音调法器",
+        "en": "Runeforged Tonal Focus"
+      },
+      "type1": {
+        "zh-Hant": "法器",
+        "zh-Hans": "法器",
+        "en": "Focus"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [
+        {
+          "label": {
+            "zh-Hant": "能量護盾",
+            "zh-Hans": "能量护盾",
+            "en": "Energy Shield"
+          },
+          "value": "26"
+        },
+        {
+          "label": {
+            "zh-Hant": "保護",
+            "zh-Hans": "符文结界",
+            "en": "Runic Ward"
+          },
+          "value": "24"
+        }
+      ],
+      "level": 22,
+      "requirements": {
+        "int": 33
+      },
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "foci",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Foci/Basetypes/Runeforged_Crystal_Focus.webp",
+      "name": {
+        "zh-Hant": "符鍛水晶法器",
+        "zh-Hans": "符文水晶法器",
+        "en": "Runeforged Crystal Focus"
+      },
+      "type1": {
+        "zh-Hant": "法器",
+        "zh-Hans": "法器",
+        "en": "Focus"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [
+        {
+          "label": {
+            "zh-Hant": "能量護盾",
+            "zh-Hans": "能量护盾",
+            "en": "Energy Shield"
+          },
+          "value": "29"
+        },
+        {
+          "label": {
+            "zh-Hant": "保護",
+            "zh-Hans": "符文结界",
+            "en": "Runic Ward"
+          },
+          "value": "25"
+        }
+      ],
+      "level": 26,
+      "requirements": {
+        "int": 38
+      },
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "foci",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Foci/Basetypes/Runeforged_Voodoo_Focus.webp",
+      "name": {
+        "zh-Hant": "符鍛巫毒法器",
+        "zh-Hans": "符文巫毒法器",
+        "en": "Runeforged Voodoo Focus"
+      },
+      "type1": {
+        "zh-Hant": "法器",
+        "zh-Hans": "法器",
+        "en": "Focus"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [
+        {
+          "label": {
+            "zh-Hant": "能量護盾",
+            "zh-Hans": "能量护盾",
+            "en": "Energy Shield"
+          },
+          "value": "34"
+        },
+        {
+          "label": {
+            "zh-Hant": "保護",
+            "zh-Hans": "符文结界",
+            "en": "Runic Ward"
+          },
+          "value": "28"
+        }
+      ],
+      "level": 33,
+      "requirements": {
+        "int": 48
+      },
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "foci",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Foci/Basetypes/Runeforged_Plumed_Focus.webp",
+      "name": {
+        "zh-Hant": "符鍛羽飾法器",
+        "zh-Hans": "符文彩羽法器",
+        "en": "Runeforged Plumed Focus"
+      },
+      "type1": {
+        "zh-Hant": "法器",
+        "zh-Hans": "法器",
+        "en": "Focus"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [
+        {
+          "label": {
+            "zh-Hant": "能量護盾",
+            "zh-Hans": "能量护盾",
+            "en": "Energy Shield"
+          },
+          "value": "36"
+        },
+        {
+          "label": {
+            "zh-Hant": "保護",
+            "zh-Hans": "符文结界",
+            "en": "Runic Ward"
+          },
+          "value": "30"
+        }
+      ],
+      "level": 36,
+      "requirements": {
+        "int": 52
+      },
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "foci",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Foci/Basetypes/Runeforged_Runed_Focus.webp",
+      "name": {
+        "zh-Hant": "符鍛符文法器",
+        "zh-Hans": "符文符文法器",
+        "en": "Runeforged Runed Focus"
+      },
+      "type1": {
+        "zh-Hant": "法器",
+        "zh-Hans": "法器",
+        "en": "Focus"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [
+        {
+          "label": {
+            "zh-Hant": "能量護盾",
+            "zh-Hans": "能量护盾",
+            "en": "Energy Shield"
+          },
+          "value": "42"
+        },
+        {
+          "label": {
+            "zh-Hant": "保護",
+            "zh-Hans": "符文结界",
+            "en": "Runic Ward"
+          },
+          "value": "32"
+        }
+      ],
+      "level": 45,
+      "requirements": {
+        "int": 64
+      },
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "foci",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Foci/Basetypes/Runeforged_Whorl_Focus.webp",
+      "name": {
+        "zh-Hant": "符鍛螺旋法器",
+        "zh-Hans": "符文涡旋法器",
+        "en": "Runeforged Whorl Focus"
+      },
+      "type1": {
+        "zh-Hant": "法器",
+        "zh-Hans": "法器",
+        "en": "Focus"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [
+        {
+          "label": {
+            "zh-Hant": "能量護盾",
+            "zh-Hans": "能量护盾",
+            "en": "Energy Shield"
+          },
+          "value": "47"
+        },
+        {
+          "label": {
+            "zh-Hant": "保護",
+            "zh-Hans": "符文结界",
+            "en": "Runic Ward"
+          },
+          "value": "34"
+        }
+      ],
+      "level": 51,
+      "requirements": {
+        "int": 73
+      },
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "foci",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Foci/Basetypes/Runeforged_Elegant_Focus.webp",
+      "name": {
+        "zh-Hant": "符鍛高雅法器",
+        "zh-Hans": "符文优雅法器",
+        "en": "Runeforged Elegant Focus"
+      },
+      "type1": {
+        "zh-Hant": "法器",
+        "zh-Hans": "法器",
+        "en": "Focus"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [
+        {
+          "label": {
+            "zh-Hant": "保護",
+            "zh-Hans": "符文结界",
+            "en": "Runic Ward"
+          },
+          "value": "146"
+        }
+      ],
+      "level": 52,
+      "requirements": {
+        "int": 74
+      },
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "foci",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Foci/Basetypes/Runeforged_Attuned_Focus.webp",
+      "name": {
+        "zh-Hant": "符鍛調和法器",
+        "zh-Hans": "符文协调法器",
+        "en": "Runeforged Attuned Focus"
+      },
+      "type1": {
+        "zh-Hant": "法器",
+        "zh-Hans": "法器",
+        "en": "Focus"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [
+        {
+          "label": {
+            "zh-Hant": "保護",
+            "zh-Hans": "符文结界",
+            "en": "Runic Ward"
+          },
+          "value": "157"
+        }
+      ],
+      "level": 57,
+      "requirements": {
+        "int": 81
+      },
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "foci",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Foci/Basetypes/Runeforged_Magus_Focus.webp",
+      "name": {
+        "zh-Hant": "符鍛瑪格思法器",
+        "zh-Hans": "符文术士法器",
+        "en": "Runeforged Magus Focus"
+      },
+      "type1": {
+        "zh-Hant": "法器",
+        "zh-Hans": "法器",
+        "en": "Focus"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [
+        {
+          "label": {
+            "zh-Hant": "保護",
+            "zh-Hans": "符文结界",
+            "en": "Runic Ward"
+          },
+          "value": "176"
+        }
+      ],
+      "level": 65,
+      "requirements": {
+        "int": 91
+      },
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "foci",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Foci/Basetypes/Runeforged_Arrayed_Focus.webp",
+      "name": {
+        "zh-Hant": "符鍛陣列法器",
+        "zh-Hans": "符文排列法器",
+        "en": "Runeforged Arrayed Focus"
+      },
+      "type1": {
+        "zh-Hant": "法器",
+        "zh-Hans": "法器",
+        "en": "Focus"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [
+        {
+          "label": {
+            "zh-Hant": "能量護盾",
+            "zh-Hans": "能量护盾",
+            "en": "Energy Shield"
+          },
+          "value": "43"
+        },
+        {
+          "label": {
+            "zh-Hant": "保護",
+            "zh-Hans": "符文结界",
+            "en": "Runic Ward"
+          },
+          "value": "45"
+        }
+      ],
+      "level": 54,
+      "requirements": {
+        "int": 77
+      },
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "foci",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Foci/Basetypes/Runeforged_Cultist_Focus.webp",
+      "name": {
+        "zh-Hant": "符鍛教徒法器",
+        "zh-Hans": "符文密会法器",
+        "en": "Runeforged Cultist Focus"
+      },
+      "type1": {
+        "zh-Hant": "法器",
+        "zh-Hans": "法器",
+        "en": "Focus"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [
+        {
+          "label": {
+            "zh-Hant": "能量護盾",
+            "zh-Hans": "能量护盾",
+            "en": "Energy Shield"
+          },
+          "value": "50"
+        },
+        {
+          "label": {
+            "zh-Hant": "保護",
+            "zh-Hans": "符文结界",
+            "en": "Runic Ward"
+          },
+          "value": "32"
+        }
+      ],
+      "level": 59,
+      "requirements": {
+        "int": 83
+      },
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "foci",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Foci/Basetypes/Runeforged_Hallowed_Focus.webp",
+      "name": {
+        "zh-Hant": "符鍛聖潔法器",
+        "zh-Hans": "符文神圣法器",
+        "en": "Runeforged Hallowed Focus"
+      },
+      "type1": {
+        "zh-Hant": "法器",
+        "zh-Hans": "法器",
+        "en": "Focus"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [
+        {
+          "label": {
+            "zh-Hant": "能量護盾",
+            "zh-Hans": "能量护盾",
+            "en": "Energy Shield"
+          },
+          "value": "43"
+        },
+        {
+          "label": {
+            "zh-Hant": "保護",
+            "zh-Hans": "符文结界",
+            "en": "Runic Ward"
+          },
+          "value": "58"
+        }
+      ],
+      "level": 61,
+      "requirements": {
+        "int": 86
+      },
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "foci",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Foci/Basetypes/Runeforged_Druidic_Focus.webp",
+      "name": {
+        "zh-Hant": "符鍛德魯伊法器",
+        "zh-Hans": "符文德鲁伊法器",
+        "en": "Runeforged Druidic Focus"
+      },
+      "type1": {
+        "zh-Hant": "法器",
+        "zh-Hans": "法器",
+        "en": "Focus"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [
+        {
+          "label": {
+            "zh-Hant": "能量護盾",
+            "zh-Hans": "能量护盾",
+            "en": "Energy Shield"
+          },
+          "value": "55"
+        },
+        {
+          "label": {
+            "zh-Hant": "保護",
+            "zh-Hans": "符文结界",
+            "en": "Runic Ward"
+          },
+          "value": "62"
+        }
+      ],
+      "level": 65,
+      "requirements": {
+        "int": 91
+      },
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "foci",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Foci/Basetypes/Runeforged_Leyline_Focus.webp",
+      "name": {
+        "zh-Hant": "符鍛地脈法器",
+        "zh-Hans": "符文荒凉原野法器",
+        "en": "Runeforged Leyline Focus"
+      },
+      "type1": {
+        "zh-Hant": "法器",
+        "zh-Hans": "法器",
+        "en": "Focus"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [
+        {
+          "label": {
+            "zh-Hant": "能量護盾",
+            "zh-Hans": "能量护盾",
+            "en": "Energy Shield"
+          },
+          "value": "47"
+        },
+        {
+          "label": {
+            "zh-Hant": "保護",
+            "zh-Hans": "符文结界",
+            "en": "Runic Ward"
+          },
+          "value": "114"
+        }
+      ],
+      "level": 70,
+      "requirements": {
+        "int": 99
+      },
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "foci",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Foci/Basetypes/Runeforged_Sacred_Focus.webp",
+      "name": {
+        "zh-Hant": "符鍛神聖法器",
+        "zh-Hans": "符文圣洁法器",
+        "en": "Runeforged Sacred Focus"
+      },
+      "type1": {
+        "zh-Hant": "法器",
+        "zh-Hans": "法器",
+        "en": "Focus"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [
+        {
+          "label": {
+            "zh-Hant": "能量護盾",
+            "zh-Hans": "能量护盾",
+            "en": "Energy Shield"
+          },
+          "value": "68"
+        },
+        {
+          "label": {
+            "zh-Hant": "保護",
+            "zh-Hans": "符文结界",
+            "en": "Runic Ward"
+          },
+          "value": "53"
+        }
+      ],
+      "level": 75,
+      "requirements": {
+        "int": 107
+      },
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "foci",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Foci/Basetypes/Runeforged_Tasalian_Focus.webp",
+      "name": {
+        "zh-Hant": "符鍛塔薩里奧法器",
+        "zh-Hans": "符文塔萨里奥法器",
+        "en": "Runeforged Tasalian Focus"
+      },
+      "type1": {
+        "zh-Hant": "法器",
+        "zh-Hans": "法器",
+        "en": "Focus"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [
+        {
+          "label": {
+            "zh-Hant": "能量護盾",
+            "zh-Hans": "能量护盾",
+            "en": "Energy Shield"
+          },
+          "value": "36"
+        },
+        {
+          "label": {
+            "zh-Hant": "保護",
+            "zh-Hans": "符文结界",
+            "en": "Runic Ward"
+          },
+          "value": "181"
+        }
+      ],
+      "level": 80,
+      "requirements": {
+        "int": 115
+      },
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "foci",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Foci/Basetypes/Runemastered_Twig_Focus.webp",
+      "name": {
+        "zh-Hant": "符煉枝條法器",
+        "zh-Hans": "符文师匠枝条法器",
+        "en": "Runemastered Twig Focus"
+      },
+      "type1": {
+        "zh-Hant": "法器",
+        "zh-Hans": "法器",
+        "en": "Focus"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [
+        {
+          "label": {
+            "zh-Hant": "能量護盾",
+            "zh-Hans": "能量护盾",
+            "en": "Energy Shield"
+          },
+          "value": "38"
+        },
+        {
+          "label": {
+            "zh-Hant": "保護",
+            "zh-Hans": "符文结界",
+            "en": "Runic Ward"
+          },
+          "value": "23"
+        }
+      ],
+      "level": 38,
+      "requirements": {
+        "int": 54
+      },
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "foci",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Foci/Basetypes/Runemastered_Woven_Focus.webp",
+      "name": {
+        "zh-Hant": "符煉編織法器",
+        "zh-Hans": "符文师匠织造法器",
+        "en": "Runemastered Woven Focus"
+      },
+      "type1": {
+        "zh-Hant": "法器",
+        "zh-Hans": "法器",
+        "en": "Focus"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [
+        {
+          "label": {
+            "zh-Hant": "能量護盾",
+            "zh-Hans": "能量护盾",
+            "en": "Energy Shield"
+          },
+          "value": "23"
+        },
+        {
+          "label": {
+            "zh-Hant": "保護",
+            "zh-Hans": "符文结界",
+            "en": "Runic Ward"
+          },
+          "value": "45"
+        }
+      ],
+      "level": 38,
+      "requirements": {
+        "int": 54
+      },
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "foci",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Foci/Basetypes/Runemastered_Antler_Focus.webp",
+      "name": {
+        "zh-Hant": "符煉靈鹿法器",
+        "zh-Hans": "符文师匠鹿角法器",
+        "en": "Runemastered Antler Focus"
+      },
+      "type1": {
+        "zh-Hant": "法器",
+        "zh-Hans": "法器",
+        "en": "Focus"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [
+        {
+          "label": {
+            "zh-Hant": "能量護盾",
+            "zh-Hans": "能量护盾",
+            "en": "Energy Shield"
+          },
+          "value": "23"
+        },
+        {
+          "label": {
+            "zh-Hant": "保護",
+            "zh-Hans": "符文结界",
+            "en": "Runic Ward"
+          },
+          "value": "34"
+        }
+      ],
+      "level": 38,
+      "requirements": {
+        "int": 54
+      },
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "foci",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Foci/Basetypes/Runemastered_Engraved_Focus.webp",
+      "name": {
+        "zh-Hant": "符煉紋刻法器",
+        "zh-Hans": "符文师匠铭刻法器",
+        "en": "Runemastered Engraved Focus"
+      },
+      "type1": {
+        "zh-Hant": "法器",
+        "zh-Hans": "法器",
+        "en": "Focus"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [
+        {
+          "label": {
+            "zh-Hant": "能量護盾",
+            "zh-Hans": "能量护盾",
+            "en": "Energy Shield"
+          },
+          "value": "38"
+        },
+        {
+          "label": {
+            "zh-Hant": "保護",
+            "zh-Hans": "符文结界",
+            "en": "Runic Ward"
+          },
+          "value": "45"
+        }
+      ],
+      "level": 38,
+      "requirements": {
+        "int": 54
+      },
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "foci",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Foci/Basetypes/Runemastered_Tonal_Focus.webp",
+      "name": {
+        "zh-Hant": "符煉音調法器",
+        "zh-Hans": "符文师匠音调法器",
+        "en": "Runemastered Tonal Focus"
+      },
+      "type1": {
+        "zh-Hant": "法器",
+        "zh-Hans": "法器",
+        "en": "Focus"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [
+        {
+          "label": {
+            "zh-Hant": "能量護盾",
+            "zh-Hans": "能量护盾",
+            "en": "Energy Shield"
+          },
+          "value": "19"
+        },
+        {
+          "label": {
+            "zh-Hant": "保護",
+            "zh-Hans": "符文结界",
+            "en": "Runic Ward"
+          },
+          "value": "57"
+        }
+      ],
+      "level": 38,
+      "requirements": {
+        "int": 54
+      },
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "foci",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Foci/Basetypes/Runemastered_Crystal_Focus.webp",
+      "name": {
+        "zh-Hant": "符煉水晶法器",
+        "zh-Hans": "符文师匠水晶法器",
+        "en": "Runemastered Crystal Focus"
+      },
+      "type1": {
+        "zh-Hant": "法器",
+        "zh-Hans": "法器",
+        "en": "Focus"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [
+        {
+          "label": {
+            "zh-Hant": "能量護盾",
+            "zh-Hans": "能量护盾",
+            "en": "Energy Shield"
+          },
+          "value": "23"
+        },
+        {
+          "label": {
+            "zh-Hant": "保護",
+            "zh-Hans": "符文结界",
+            "en": "Runic Ward"
+          },
+          "value": "47"
+        }
+      ],
+      "level": 40,
+      "requirements": {
+        "int": 58
+      },
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "foci",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Foci/Basetypes/Runemastered_Voodoo_Focus.webp",
+      "name": {
+        "zh-Hant": "符煉巫毒法器",
+        "zh-Hans": "符文师匠巫毒法器",
+        "en": "Runemastered Voodoo Focus"
+      },
+      "type1": {
+        "zh-Hant": "法器",
+        "zh-Hans": "法器",
+        "en": "Focus"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [
+        {
+          "label": {
+            "zh-Hant": "能量護盾",
+            "zh-Hans": "能量护盾",
+            "en": "Energy Shield"
+          },
+          "value": "40"
+        },
+        {
+          "label": {
+            "zh-Hant": "保護",
+            "zh-Hans": "符文结界",
+            "en": "Runic Ward"
+          },
+          "value": "31"
+        }
+      ],
+      "level": 55,
+      "requirements": {
+        "int": 78
+      },
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "foci",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Foci/Basetypes/Runemastered_Plumed_Focus.webp",
+      "name": {
+        "zh-Hant": "符煉羽飾法器",
+        "zh-Hans": "符文师匠彩羽法器",
+        "en": "Runemastered Plumed Focus"
+      },
+      "type1": {
+        "zh-Hant": "法器",
+        "zh-Hans": "法器",
+        "en": "Focus"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [
+        {
+          "label": {
+            "zh-Hant": "能量護盾",
+            "zh-Hans": "能量护盾",
+            "en": "Energy Shield"
+          },
+          "value": "23"
+        },
+        {
+          "label": {
+            "zh-Hant": "保護",
+            "zh-Hans": "符文结界",
+            "en": "Runic Ward"
+          },
+          "value": "106"
+        }
+      ],
+      "level": 75,
+      "requirements": {
+        "int": 91
+      },
+      "grantedSkillsExtra": []
+    }
+  ],
+  "uniqueItems": [
+    {
+      "category": "armor",
+      "subKey": "foci",
+      "rarity": "unique",
+      "id": "deathrattle",
+      "name": {
+        "zh-Hant": "死亡之聲",
+        "zh-Hans": "逝亡呢喃",
+        "en": "Deathrattle"
+      },
+      "type1": {
+        "zh-Hant": "法器",
+        "zh-Hans": "法器",
+        "en": "Focus"
+      },
+      "type2": {
+        "zh-Hant": "枝條法器",
+        "zh-Hans": "枝条法器",
+        "en": "Twig Focus"
+      },
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Foci/Uniques/Deathrattle.webp",
+      "stats": [
+        {
+          "label": {
+            "zh-Hant": "能量護盾",
+            "zh-Hans": "能量护盾",
+            "en": "Energy Shield"
+          },
+          "value": "12"
+        }
+      ],
+      "affixes": [
+        {
+          "zh-Hant": "+(10—20)最大能量護盾",
+          "zh-Hans": "+(10—20) 能量护盾上限",
+          "en": "+(10—20) to maximum Energy Shield"
+        },
+        {
+          "zh-Hant": "增加(20—40)%法術傷害",
+          "zh-Hans": "法术伤害提高 (20—40)%",
+          "en": "(20—40)% increased Spell Damage"
+        },
+        {
+          "zh-Hant": "+(5—10)點智慧",
+          "zh-Hans": "+(5—10) 智慧",
+          "en": "+(5—10) to Intelligence"
+        },
+        {
+          "zh-Hant": "當你擊殺一名敵人時，有20%機率開始能量護盾充能",
+          "zh-Hans": "能量护盾充能有 20% 的几率在你消灭敌人时开始充能",
+          "en": "20% chance for Energy Shield Recharge to start when you Kill an Enemy"
+        }
+      ],
+      "flavor": {
+        "zh-Hant": "亡靈的哭喊隨風飄盪。",
+        "zh-Hans": "逝亡者的呼号，化作风中耳语。",
+        "en": "The cry of death whispers in the wind."
+      },
+      "level": 1,
+      "_flavorEnabled": true,
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "foci",
+      "rarity": "unique",
+      "id": "deathrattle-runeforge-1",
+      "name": {
+        "zh-Hant": "死亡之聲",
+        "zh-Hans": "逝亡呢喃",
+        "en": "Deathrattle"
+      },
+      "type1": {
+        "zh-Hant": "法器",
+        "zh-Hans": "法器",
+        "en": "Focus"
+      },
+      "type2": {
+        "zh-Hant": "符煉枝條法器",
+        "zh-Hans": "符文师匠枝条法器",
+        "en": "Runemastered Twig Focus"
+      },
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Foci/Uniques/Deathrattle.webp",
+      "stats": [
+        {
+          "label": {
+            "zh-Hant": "能量護盾",
+            "zh-Hans": "能量护盾",
+            "en": "Energy Shield"
+          },
+          "value": "38",
+          "_rf": 2
+        },
+        {
+          "label": {
+            "zh-Hant": "保護",
+            "zh-Hans": "符文结界",
+            "en": "Runic Ward"
+          },
+          "value": "23",
+          "_rf": 2
+        }
+      ],
+      "affixes": [
+        {
+          "zh-Hant": "+(10—20)最大能量護盾",
+          "zh-Hans": "+(10—20) 能量护盾上限",
+          "en": "+(10—20) to maximum Energy Shield"
+        },
+        {
+          "zh-Hant": "增加(20—40)%法術傷害",
+          "zh-Hans": "法术伤害提高 (20—40)%",
+          "en": "(20—40)% increased Spell Damage"
+        },
+        {
+          "zh-Hant": "+(5—10)點智慧",
+          "zh-Hans": "+(5—10) 智慧",
+          "en": "+(5—10) to Intelligence"
+        },
+        {
+          "zh-Hant": "當你擊殺一名敵人時，有20%機率開始能量護盾充能",
+          "zh-Hans": "能量护盾充能有 20% 的几率在你消灭敌人时开始充能",
+          "en": "20% chance for Energy Shield Recharge to start when you Kill an Enemy"
+        }
+      ],
+      "flavor": {
+        "zh-Hant": "亡靈的哭喊隨風飄盪。",
+        "zh-Hans": "逝亡者的呼号，化作风中耳语。",
+        "en": "The cry of death whispers in the wind."
+      },
+      "level": 38,
+      "_flavorEnabled": true,
+      "grantedSkillsExtra": [],
+      "variantOf": "deathrattle",
+      "variantKind": "runeforged",
+      "variantLabel": {
+        "zh-Hant": "符鍛 1",
+        "zh-Hans": "重铸 1",
+        "en": "Runeforge 1"
+      },
+      "requirements": {
+        "int": 54
+      },
+      "runeforge": {
+        "mode": "random",
+        "index": 1,
+        "total": 1,
+        "step": {
+          "zh-Hant": "1",
+          "zh-Hans": "1",
+          "en": "1"
+        },
+        "cost": [
+          {
+            "kind": "item",
+            "slug": "Deathrattle",
+            "name": {
+              "zh-Hant": "死亡之聲",
+              "zh-Hans": "逝亡呢喃",
+              "en": "Deathrattle"
+            },
+            "base": {
+              "zh-Hant": "枝條法器",
+              "zh-Hans": "枝条法器",
+              "en": "Twig Focus"
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Foci/Uniques/Deathrattle.webp"
+          },
+          {
+            "kind": "currency",
+            "slug": "Verisium",
+            "name": {
+              "zh-Hant": "維里西姆",
+              "zh-Hans": "维金",
+              "en": "Verisium"
+            },
+            "count": 220,
+            "icon": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/Runeforge/Verisium.webp",
+            "iconSrc": "https://cdn.poe2db.tw/image/Art/2DItems/Currency/Expedition2/RefinedVerisium.webp"
+          },
+          {
+            "kind": "currency",
+            "slug": "Medveds_Crest_of_the_Circle",
+            "name": {
+              "zh-Hant": "梅德偉的圓環之徽",
+              "zh-Hans": "梅德维德的圆环徽记",
+              "en": "Medved's Crest of the Circle"
+            },
+            "count": 1,
+            "icon": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/Runeforge/Medveds_Crest_of_the_Circle.webp",
+            "iconSrc": "https://cdn.poe2db.tw/image/Art/2DItems/Currency/Expedition2/UhtredCrest.webp"
+          }
+        ],
+        "changed": {
+          "type2": 1,
+          "level": 1,
+          "int": 1
+        }
+      }
+    },
+    {
+      "category": "armor",
+      "subKey": "foci",
+      "rarity": "unique",
+      "id": "threaded-light",
+      "name": {
+        "zh-Hant": "縫紉之光",
+        "zh-Hans": "明光丝缕",
+        "en": "Threaded Light"
+      },
+      "type1": {
+        "zh-Hant": "法器",
+        "zh-Hans": "法器",
+        "en": "Focus"
+      },
+      "type2": {
+        "zh-Hant": "編織法器",
+        "zh-Hans": "织造法器",
+        "en": "Woven Focus"
+      },
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Foci/Uniques/Threaded_Light.webp",
+      "stats": [
+        {
+          "label": {
+            "zh-Hant": "能量護盾",
+            "zh-Hans": "能量护盾",
+            "en": "Energy Shield"
+          },
+          "value": "15"
+        }
+      ],
+      "affixes": [
+        {
+          "zh-Hant": "增加(50—70)%能量護盾",
+          "zh-Hans": "能量护盾提高 (50—70)%",
+          "en": "(50—70)% increased Energy Shield"
+        },
+        {
+          "zh-Hant": "增加(30—40)%魔力回復率",
+          "zh-Hans": "魔力再生率提高 (30—40)%",
+          "en": "(30—40)% increased Mana Regeneration Rate"
+        },
+        {
+          "zh-Hant": "增加20%照亮範圍",
+          "zh-Hans": "照亮范围提高 20%",
+          "en": "20% increased Light Radius"
+        },
+        {
+          "zh-Hant": "每10精魂增加(8—12)%法術傷害",
+          "zh-Hans": "每 10 点精魂使法术伤害提高 (8—12)%",
+          "en": "(8—12)% increased Spell Damage per 10 Spirit"
+        }
+      ],
+      "flavor": {
+        "zh-Hant": "煥髮之辮為禮。\n忘卻戰火。\n謹記緣由。",
+        "zh-Hans": "一份礼物，一缕金色的发辫。\n战争，早已被遗忘。\n理由，却铭记在心。",
+        "en": "A gift, a braid, of golden hair.\nThe war, forgotten.\nThe reason, remembered."
+      },
+      "level": 6,
+      "_flavorEnabled": true,
+      "grantedSkillsExtra": [],
+      "requirements": {
+        "int": 11
+      }
+    },
+    {
+      "category": "armor",
+      "subKey": "foci",
+      "rarity": "unique",
+      "id": "threaded-light-runeforge-1",
+      "name": {
+        "zh-Hant": "縫紉之光",
+        "zh-Hans": "明光丝缕",
+        "en": "Threaded Light"
+      },
+      "type1": {
+        "zh-Hant": "法器",
+        "zh-Hans": "法器",
+        "en": "Focus"
+      },
+      "type2": {
+        "zh-Hant": "符煉編織法器",
+        "zh-Hans": "符文师匠织造法器",
+        "en": "Runemastered Woven Focus"
+      },
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Foci/Uniques/Threaded_Light.webp",
+      "stats": [
+        {
+          "label": {
+            "zh-Hant": "能量護盾",
+            "zh-Hans": "能量护盾",
+            "en": "Energy Shield"
+          },
+          "value": "23",
+          "_rf": 2
+        },
+        {
+          "label": {
+            "zh-Hant": "保護",
+            "zh-Hans": "符文结界",
+            "en": "Runic Ward"
+          },
+          "value": "45",
+          "_rf": 2
+        }
+      ],
+      "affixes": [
+        {
+          "zh-Hant": "增加(50—70)%能量護盾",
+          "zh-Hans": "能量护盾提高 (50—70)%",
+          "en": "(50—70)% increased Energy Shield"
+        },
+        {
+          "zh-Hant": "增加(30—40)%魔力回復率",
+          "zh-Hans": "魔力再生率提高 (30—40)%",
+          "en": "(30—40)% increased Mana Regeneration Rate"
+        },
+        {
+          "zh-Hant": "增加20%照亮範圍",
+          "zh-Hans": "照亮范围提高 20%",
+          "en": "20% increased Light Radius"
+        },
+        {
+          "zh-Hant": "每10精魂增加(8—12)%法術傷害",
+          "zh-Hans": "每 10 点精魂使法术伤害提高 (8—12)%",
+          "en": "(8—12)% increased Spell Damage per 10 Spirit"
+        }
+      ],
+      "flavor": {
+        "zh-Hant": "煥髮之辮為禮。\n忘卻戰火。\n謹記緣由。",
+        "zh-Hans": "一份礼物，一缕金色的发辫。\n战争，早已被遗忘。\n理由，却铭记在心。",
+        "en": "A gift, a braid, of golden hair.\nThe war, forgotten.\nThe reason, remembered."
+      },
+      "level": 38,
+      "_flavorEnabled": true,
+      "grantedSkillsExtra": [],
+      "requirements": {
+        "int": 54
+      },
+      "variantOf": "threaded-light",
+      "variantKind": "runeforged",
+      "variantLabel": {
+        "zh-Hant": "符鍛 1",
+        "zh-Hans": "重铸 1",
+        "en": "Runeforge 1"
+      },
+      "runeforge": {
+        "mode": "random",
+        "index": 1,
+        "total": 1,
+        "step": {
+          "zh-Hant": "1",
+          "zh-Hans": "1",
+          "en": "1"
+        },
+        "cost": [
+          {
+            "kind": "item",
+            "slug": "Woven_Focus",
+            "name": {
+              "zh-Hant": "編織法器",
+              "zh-Hans": "织造法器",
+              "en": "Woven Focus"
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/Runeforge/Woven_Focus.webp",
+            "iconSrc": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Foci/Basetypes/Focus02.webp"
+          },
+          {
+            "kind": "currency",
+            "slug": "Verisium",
+            "name": {
+              "zh-Hant": "維里西姆",
+              "zh-Hans": "维金",
+              "en": "Verisium"
+            },
+            "count": 400,
+            "icon": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/Runeforge/Verisium.webp",
+            "iconSrc": "https://cdn.poe2db.tw/image/Art/2DItems/Currency/Expedition2/RefinedVerisium.webp"
+          },
+          {
+            "kind": "currency",
+            "slug": "Voranas_Crest_of_the_Scythe",
+            "name": {
+              "zh-Hant": "沃拉娜的鐮刀之徽",
+              "zh-Hans": "沃拉娜的镰刀徽记",
+              "en": "Vorana's Crest of the Scythe"
+            },
+            "count": 1,
+            "icon": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/Runeforge/Voranas_Crest_of_the_Scythe.webp",
+            "iconSrc": "https://cdn.poe2db.tw/image/Art/2DItems/Currency/Expedition2/VoranaCrest.webp"
+          }
+        ],
+        "changed": {
+          "type2": 1,
+          "level": 1,
+          "int": 1
+        }
+      }
+    },
+    {
+      "category": "armor",
+      "subKey": "foci",
+      "rarity": "unique",
+      "id": "effigy-of-cruelty",
+      "name": {
+        "zh-Hant": "殘酷塑像",
+        "zh-Hans": "残酷雕塑",
+        "en": "Effigy of Cruelty"
+      },
+      "type1": {
+        "zh-Hant": "法器",
+        "zh-Hans": "法器",
+        "en": "Focus"
+      },
+      "type2": {
+        "zh-Hant": "靈鹿法器",
+        "zh-Hans": "鹿角法器",
+        "en": "Antler Focus"
+      },
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Foci/Uniques/Effigy_of_Cruelty.webp",
+      "stats": [
+        {
+          "label": {
+            "zh-Hant": "能量護盾",
+            "zh-Hans": "能量护盾",
+            "en": "Energy Shield"
+          },
+          "value": "18"
+        }
+      ],
+      "affixes": [
+        {
+          "zh-Hant": "+(20—30)最大能量護盾",
+          "zh-Hans": "+(20—30) 能量护盾上限",
+          "en": "+(20—30) to maximum Energy Shield"
+        },
+        {
+          "zh-Hant": "增加(40—50)%法術傷害",
+          "zh-Hans": "法术伤害提高 (40—50)%",
+          "en": "(40—50)% increased Spell Damage"
+        },
+        {
+          "zh-Hant": "+10點智慧",
+          "zh-Hans": "+10 智慧",
+          "en": "+10 to Intelligence"
+        },
+        {
+          "zh-Hant": "+(7—13)%混沌抗性",
+          "zh-Hans": "混沌抗性 +(7—13)%",
+          "en": "+(7—13)% to Chaos Resistance"
+        },
+        {
+          "zh-Hant": "以法術暴擊時，施加(1—3)層的暴擊弱點",
+          "zh-Hans": "法术暴击施加 (1—3) 层暴击弱点",
+          "en": "Critical Hits with Spells apply (1—3) Stacks of Critical Weakness"
+        }
+      ],
+      "flavor": {
+        "zh-Hant": "孩提時期想像的恐懼\n仍舊在黑暗中的某處盤踞……",
+        "zh-Hans": "儿时想象出的恐魔，\n依然潜伏于黑暗中……",
+        "en": "The horrors we imagined as children\nstill exist somewhere in the dark..."
+      },
+      "level": 10,
+      "_flavorEnabled": true,
+      "grantedSkillsExtra": [],
+      "requirements": {
+        "int": 17
+      }
+    },
+    {
+      "category": "armor",
+      "subKey": "foci",
+      "rarity": "unique",
+      "id": "effigy-of-cruelty-runeforge-1",
+      "name": {
+        "zh-Hant": "殘酷塑像",
+        "zh-Hans": "残酷雕塑",
+        "en": "Effigy of Cruelty"
+      },
+      "type1": {
+        "zh-Hant": "法器",
+        "zh-Hans": "法器",
+        "en": "Focus"
+      },
+      "type2": {
+        "zh-Hant": "符煉靈鹿法器",
+        "zh-Hans": "符文师匠鹿角法器",
+        "en": "Runemastered Antler Focus"
+      },
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Foci/Uniques/Effigy_of_Cruelty.webp",
+      "stats": [
+        {
+          "label": {
+            "zh-Hant": "能量護盾",
+            "zh-Hans": "能量护盾",
+            "en": "Energy Shield"
+          },
+          "value": "23",
+          "_rf": 2
+        },
+        {
+          "label": {
+            "zh-Hant": "保護",
+            "zh-Hans": "符文结界",
+            "en": "Runic Ward"
+          },
+          "value": "34",
+          "_rf": 2
+        }
+      ],
+      "affixes": [
+        {
+          "zh-Hant": "+(20—30)最大能量護盾",
+          "zh-Hans": "+(20—30) 能量护盾上限",
+          "en": "+(20—30) to maximum Energy Shield"
+        },
+        {
+          "zh-Hant": "增加(40—50)%法術傷害",
+          "zh-Hans": "法术伤害提高 (40—50)%",
+          "en": "(40—50)% increased Spell Damage"
+        },
+        {
+          "zh-Hant": "+10點智慧",
+          "zh-Hans": "+10 智慧",
+          "en": "+10 to Intelligence"
+        },
+        {
+          "zh-Hant": "+(7—13)%混沌抗性",
+          "zh-Hans": "混沌抗性 +(7—13)%",
+          "en": "+(7—13)% to Chaos Resistance"
+        },
+        {
+          "zh-Hant": "以法術暴擊時，施加(1—3)層的暴擊弱點",
+          "zh-Hans": "法术暴击施加 (1—3) 层暴击弱点",
+          "en": "Critical Hits with Spells apply (1—3) Stacks of Critical Weakness"
+        }
+      ],
+      "flavor": {
+        "zh-Hant": "孩提時期想像的恐懼\n仍舊在黑暗中的某處盤踞……",
+        "zh-Hans": "儿时想象出的恐魔，\n依然潜伏于黑暗中……",
+        "en": "The horrors we imagined as children\nstill exist somewhere in the dark..."
+      },
+      "level": 38,
+      "_flavorEnabled": true,
+      "grantedSkillsExtra": [],
+      "requirements": {
+        "int": 54
+      },
+      "variantOf": "effigy-of-cruelty",
+      "variantKind": "runeforged",
+      "variantLabel": {
+        "zh-Hant": "符鍛 1",
+        "zh-Hans": "重铸 1",
+        "en": "Runeforge 1"
+      },
+      "runeforge": {
+        "mode": "random",
+        "index": 1,
+        "total": 1,
+        "step": {
+          "zh-Hant": "1",
+          "zh-Hans": "1",
+          "en": "1"
+        },
+        "cost": [
+          {
+            "kind": "item",
+            "slug": "Antler_Focus",
+            "name": {
+              "zh-Hant": "靈鹿法器",
+              "zh-Hans": "鹿角法器",
+              "en": "Antler Focus"
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/Runeforge/Antler_Focus.webp",
+            "iconSrc": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Foci/Basetypes/Focus03.webp"
+          },
+          {
+            "kind": "currency",
+            "slug": "Verisium",
+            "name": {
+              "zh-Hant": "維里西姆",
+              "zh-Hans": "维金",
+              "en": "Verisium"
+            },
+            "count": 790,
+            "icon": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/Runeforge/Verisium.webp",
+            "iconSrc": "https://cdn.poe2db.tw/image/Art/2DItems/Currency/Expedition2/RefinedVerisium.webp"
+          },
+          {
+            "kind": "currency",
+            "slug": "Voranas_Crest_of_the_Scythe",
+            "name": {
+              "zh-Hant": "沃拉娜的鐮刀之徽",
+              "zh-Hans": "沃拉娜的镰刀徽记",
+              "en": "Vorana's Crest of the Scythe"
+            },
+            "count": 1,
+            "icon": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/Runeforge/Voranas_Crest_of_the_Scythe.webp",
+            "iconSrc": "https://cdn.poe2db.tw/image/Art/2DItems/Currency/Expedition2/VoranaCrest.webp"
+          }
+        ],
+        "changed": {
+          "type2": 1,
+          "level": 1,
+          "int": 1
+        }
+      }
+    },
+    {
+      "category": "armor",
+      "subKey": "foci",
+      "rarity": "unique",
+      "id": "carrion-call",
+      "name": {
+        "zh-Hant": "腐肉呼喚",
+        "zh-Hans": "不洁召唤",
+        "en": "Carrion Call"
+      },
+      "type1": {
+        "zh-Hant": "法器",
+        "zh-Hans": "法器",
+        "en": "Focus"
+      },
+      "type2": {
+        "zh-Hant": "紋刻法器",
+        "zh-Hans": "铭刻法器",
+        "en": "Engraved Focus"
+      },
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Foci/Uniques/Carrion_Call.webp",
+      "stats": [
+        {
+          "label": {
+            "zh-Hant": "能量護盾",
+            "zh-Hans": "能量护盾",
+            "en": "Energy Shield"
+          },
+          "value": "22"
+        }
+      ],
+      "affixes": [
+        {
+          "zh-Hant": "+(30—40)最大能量護盾",
+          "zh-Hans": "+(30—40) 能量护盾上限",
+          "en": "+(30—40) to maximum Energy Shield"
+        },
+        {
+          "zh-Hant": "召喚物增加(20—30)%最大生命",
+          "zh-Hans": "召唤生物的生命上限提高 (20—30)%",
+          "en": "Minions have (20—30)% increased maximum Life"
+        },
+        {
+          "zh-Hant": "增加(20—30)%魔力回復率",
+          "zh-Hans": "魔力再生率提高 (20—30)%",
+          "en": "(20—30)% increased Mana Regeneration Rate"
+        },
+        {
+          "zh-Hant": "增加(20—30)%召喚物造成的傷害",
+          "zh-Hans": "召唤生物的伤害提高 (20—30)%",
+          "en": "Minions deal (20—30)% increased Damage"
+        },
+        {
+          "zh-Hant": "召喚物的抗性與你相同",
+          "zh-Hans": "召唤生物的抗性与你相同",
+          "en": "Minions' Resistances are equal to yours"
+        }
+      ],
+      "flavor": {
+        "zh-Hant": "服從延伸到了墳墓之外。",
+        "zh-Hans": "跨越生命的界限，也将会继续服从。",
+        "en": "Obedience stretches beyond the grave."
+      },
+      "level": 16,
+      "_flavorEnabled": true,
+      "grantedSkillsExtra": [],
+      "requirements": {
+        "int": 25
+      }
+    },
+    {
+      "category": "armor",
+      "subKey": "foci",
+      "rarity": "unique",
+      "id": "carrion-call-runeforge-1",
+      "name": {
+        "zh-Hant": "腐肉呼喚",
+        "zh-Hans": "不洁召唤",
+        "en": "Carrion Call"
+      },
+      "type1": {
+        "zh-Hant": "法器",
+        "zh-Hans": "法器",
+        "en": "Focus"
+      },
+      "type2": {
+        "zh-Hant": "符煉紋刻法器",
+        "zh-Hans": "符文师匠铭刻法器",
+        "en": "Runemastered Engraved Focus"
+      },
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Foci/Uniques/Carrion_Call.webp",
+      "stats": [
+        {
+          "label": {
+            "zh-Hant": "能量護盾",
+            "zh-Hans": "能量护盾",
+            "en": "Energy Shield"
+          },
+          "value": "38",
+          "_rf": 2
+        },
+        {
+          "label": {
+            "zh-Hant": "保護",
+            "zh-Hans": "符文结界",
+            "en": "Runic Ward"
+          },
+          "value": "45",
+          "_rf": 2
+        }
+      ],
+      "affixes": [
+        {
+          "zh-Hant": "+(30—40)最大能量護盾",
+          "zh-Hans": "+(30—40) 能量护盾上限",
+          "en": "+(30—40) to maximum Energy Shield"
+        },
+        {
+          "zh-Hant": "召喚物增加(20—30)%最大生命",
+          "zh-Hans": "召唤生物的生命上限提高 (20—30)%",
+          "en": "Minions have (20—30)% increased maximum Life"
+        },
+        {
+          "zh-Hant": "增加(20—30)%魔力回復率",
+          "zh-Hans": "魔力再生率提高 (20—30)%",
+          "en": "(20—30)% increased Mana Regeneration Rate"
+        },
+        {
+          "zh-Hant": "增加(20—30)%召喚物造成的傷害",
+          "zh-Hans": "召唤生物的伤害提高 (20—30)%",
+          "en": "Minions deal (20—30)% increased Damage"
+        },
+        {
+          "zh-Hant": "召喚物的抗性與你相同",
+          "zh-Hans": "召唤生物的抗性与你相同",
+          "en": "Minions' Resistances are equal to yours"
+        }
+      ],
+      "flavor": {
+        "zh-Hant": "服從延伸到了墳墓之外。",
+        "zh-Hans": "跨越生命的界限，也将会继续服从。",
+        "en": "Obedience stretches beyond the grave."
+      },
+      "level": 38,
+      "_flavorEnabled": true,
+      "grantedSkillsExtra": [],
+      "requirements": {
+        "int": 54
+      },
+      "variantOf": "carrion-call",
+      "variantKind": "runeforged",
+      "variantLabel": {
+        "zh-Hant": "符鍛 1",
+        "zh-Hans": "重铸 1",
+        "en": "Runeforge 1"
+      },
+      "runeforge": {
+        "mode": "random",
+        "index": 1,
+        "total": 1,
+        "step": {
+          "zh-Hant": "1",
+          "zh-Hans": "1",
+          "en": "1"
+        },
+        "cost": [
+          {
+            "kind": "item",
+            "slug": "Engraved_Focus",
+            "name": {
+              "zh-Hant": "紋刻法器",
+              "zh-Hans": "铭刻法器",
+              "en": "Engraved Focus"
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/Runeforge/Engraved_Focus.webp",
+            "iconSrc": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Foci/Basetypes/Focus04.webp"
+          },
+          {
+            "kind": "currency",
+            "slug": "Verisium",
+            "name": {
+              "zh-Hant": "維里西姆",
+              "zh-Hans": "维金",
+              "en": "Verisium"
+            },
+            "count": 240,
+            "icon": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/Runeforge/Verisium.webp",
+            "iconSrc": "https://cdn.poe2db.tw/image/Art/2DItems/Currency/Expedition2/RefinedVerisium.webp"
+          },
+          {
+            "kind": "currency",
+            "slug": "Medveds_Crest_of_the_Circle",
+            "name": {
+              "zh-Hant": "梅德偉的圓環之徽",
+              "zh-Hans": "梅德维德的圆环徽记",
+              "en": "Medved's Crest of the Circle"
+            },
+            "count": 1,
+            "icon": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/Runeforge/Medveds_Crest_of_the_Circle.webp",
+            "iconSrc": "https://cdn.poe2db.tw/image/Art/2DItems/Currency/Expedition2/UhtredCrest.webp"
+          }
+        ],
+        "changed": {
+          "type2": 1,
+          "level": 1,
+          "int": 1
+        }
+      }
+    },
+    {
+      "category": "armor",
+      "subKey": "foci",
+      "rarity": "unique",
+      "id": "the-eternal-spark",
+      "name": {
+        "zh-Hant": "永恆火花",
+        "zh-Hans": "永恒火花",
+        "en": "The Eternal Spark"
+      },
+      "type1": {
+        "zh-Hant": "法器",
+        "zh-Hans": "法器",
+        "en": "Focus"
+      },
+      "type2": {
+        "zh-Hant": "水晶法器",
+        "zh-Hans": "水晶法器",
+        "en": "Crystal Focus"
+      },
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Foci/Uniques/The_Eternal_Spark.webp",
+      "stats": [
+        {
+          "label": {
+            "zh-Hant": "能量護盾",
+            "zh-Hans": "能量护盾",
+            "en": "Energy Shield"
+          },
+          "value": "29"
+        }
+      ],
+      "affixes": [
+        {
+          "zh-Hant": "增加(50—70)%能量護盾",
+          "zh-Hans": "能量护盾提高 (50—70)%",
+          "en": "(50—70)% increased Energy Shield"
+        },
+        {
+          "zh-Hant": "+5%最大閃電抗性",
+          "zh-Hans": "+5%闪电抗性上限",
+          "en": "+5% to Maximum Lightning Resistance"
+        },
+        {
+          "zh-Hant": "+(20—30)%閃電抗性",
+          "zh-Hans": "闪电抗性 +(20—30)%",
+          "en": "+(20—30)% to Lightning Resistance"
+        },
+        {
+          "zh-Hant": "增加40%魔力回復率",
+          "zh-Hans": "魔力再生率提高 40%",
+          "en": "40% increased Mana Regeneration Rate"
+        },
+        {
+          "zh-Hant": "站立時，增加40%魔力回復率",
+          "zh-Hans": "静止时魔力回复速度提高 40%",
+          "en": "40% increased Mana Regeneration Rate while stationary"
+        }
+      ],
+      "flavor": {
+        "zh-Hant": "藍色的閃光，雨雲的親吻，\n她靜止的舞蹈是祝福的脈動",
+        "zh-Hans": "闪过的碧影，雷云的亲吻，\n她静止的舞步中脉动着喜悦",
+        "en": "A flash of blue, a stormcloud's kiss,\nher motionless dance the pulse of bliss"
+      },
+      "level": 26,
+      "_flavorEnabled": true,
+      "grantedSkillsExtra": [],
+      "requirements": {
+        "int": 38
+      }
+    },
+    {
+      "category": "armor",
+      "subKey": "foci",
+      "rarity": "unique",
+      "id": "the-eternal-spark-runeforge-1",
+      "name": {
+        "zh-Hant": "永恆火花",
+        "zh-Hans": "永恒火花",
+        "en": "The Eternal Spark"
+      },
+      "type1": {
+        "zh-Hant": "法器",
+        "zh-Hans": "法器",
+        "en": "Focus"
+      },
+      "type2": {
+        "zh-Hant": "符煉水晶法器",
+        "zh-Hans": "符文师匠水晶法器",
+        "en": "Runemastered Crystal Focus"
+      },
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Foci/Uniques/The_Eternal_Spark.webp",
+      "stats": [
+        {
+          "label": {
+            "zh-Hant": "能量護盾",
+            "zh-Hans": "能量护盾",
+            "en": "Energy Shield"
+          },
+          "value": "23",
+          "_rf": 2
+        },
+        {
+          "label": {
+            "zh-Hant": "保護",
+            "zh-Hans": "符文结界",
+            "en": "Runic Ward"
+          },
+          "value": "47",
+          "_rf": 2
+        }
+      ],
+      "affixes": [
+        {
+          "zh-Hant": "增加(50—70)%能量護盾",
+          "zh-Hans": "能量护盾提高 (50—70)%",
+          "en": "(50—70)% increased Energy Shield"
+        },
+        {
+          "zh-Hant": "+5%最大閃電抗性",
+          "zh-Hans": "+5%闪电抗性上限",
+          "en": "+5% to Maximum Lightning Resistance"
+        },
+        {
+          "zh-Hant": "+(20—30)%閃電抗性",
+          "zh-Hans": "闪电抗性 +(20—30)%",
+          "en": "+(20—30)% to Lightning Resistance"
+        },
+        {
+          "zh-Hant": "增加40%魔力回復率",
+          "zh-Hans": "魔力再生率提高 40%",
+          "en": "40% increased Mana Regeneration Rate"
+        },
+        {
+          "zh-Hant": "站立時，增加40%魔力回復率",
+          "zh-Hans": "静止时魔力回复速度提高 40%",
+          "en": "40% increased Mana Regeneration Rate while stationary"
+        }
+      ],
+      "flavor": {
+        "zh-Hant": "藍色的閃光，雨雲的親吻，\n她靜止的舞蹈是祝福的脈動",
+        "zh-Hans": "闪过的碧影，雷云的亲吻，\n她静止的舞步中脉动着喜悦",
+        "en": "A flash of blue, a stormcloud's kiss,\nher motionless dance the pulse of bliss"
+      },
+      "level": 40,
+      "_flavorEnabled": true,
+      "grantedSkillsExtra": [],
+      "requirements": {
+        "int": 58
+      },
+      "variantOf": "the-eternal-spark",
+      "variantKind": "runeforged",
+      "variantLabel": {
+        "zh-Hant": "符鍛 1",
+        "zh-Hans": "重铸 1",
+        "en": "Runeforge 1"
+      },
+      "runeforge": {
+        "mode": "random",
+        "index": 1,
+        "total": 1,
+        "step": {
+          "zh-Hant": "1",
+          "zh-Hans": "1",
+          "en": "1"
+        },
+        "cost": [
+          {
+            "kind": "item",
+            "slug": "Crystal_Focus",
+            "name": {
+              "zh-Hant": "水晶法器",
+              "zh-Hans": "水晶法器",
+              "en": "Crystal Focus"
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/Runeforge/Crystal_Focus.webp",
+            "iconSrc": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Foci/Basetypes/Focus06.webp"
+          },
+          {
+            "kind": "currency",
+            "slug": "Verisium",
+            "name": {
+              "zh-Hant": "維里西姆",
+              "zh-Hans": "维金",
+              "en": "Verisium"
+            },
+            "count": 240,
+            "icon": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/Runeforge/Verisium.webp",
+            "iconSrc": "https://cdn.poe2db.tw/image/Art/2DItems/Currency/Expedition2/RefinedVerisium.webp"
+          },
+          {
+            "kind": "currency",
+            "slug": "Medveds_Crest_of_the_Circle",
+            "name": {
+              "zh-Hant": "梅德偉的圓環之徽",
+              "zh-Hans": "梅德维德的圆环徽记",
+              "en": "Medved's Crest of the Circle"
+            },
+            "count": 1,
+            "icon": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/Runeforge/Medveds_Crest_of_the_Circle.webp",
+            "iconSrc": "https://cdn.poe2db.tw/image/Art/2DItems/Currency/Expedition2/UhtredCrest.webp"
+          }
+        ],
+        "changed": {
+          "type2": 1,
+          "level": 1,
+          "int": 1
+        }
+      }
+    },
+    {
+      "category": "armor",
+      "subKey": "foci",
+      "rarity": "unique",
+      "id": "serpents-lesson",
+      "name": {
+        "zh-Hant": "巨蛇教誨",
+        "zh-Hans": "毒蛇的训诫",
+        "en": "Serpent's Lesson"
+      },
+      "type1": {
+        "zh-Hant": "法器",
+        "zh-Hans": "法器",
+        "en": "Focus"
+      },
+      "type2": {
+        "zh-Hant": "音調法器",
+        "zh-Hans": "音调法器",
+        "en": "Tonal Focus"
+      },
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Foci/Uniques/Serpents_Lesson.webp",
+      "stats": [
+        {
+          "label": {
+            "zh-Hant": "能量護盾",
+            "zh-Hans": "能量护盾",
+            "en": "Energy Shield"
+          },
+          "value": "26"
+        }
+      ],
+      "affixes": [
+        {
+          "zh-Hant": "+(60—100)最大生命",
+          "zh-Hans": "+(60—100) 生命上限",
+          "en": "+(60—100) to maximum Life"
+        },
+        {
+          "zh-Hant": "+(60—100)最大魔力",
+          "zh-Hans": "+(60—100) 魔力上限",
+          "en": "+(60—100) to maximum Mana"
+        },
+        {
+          "zh-Hant": "當你處於最大魔力的35%或更低時，視為貧血狀態",
+          "zh-Hans": "达到或低于魔力上限的 35% 时将你视作低血",
+          "en": "You count as on Low Life while at 35% of maximum Mana or below"
+        },
+        {
+          "zh-Hant": "當你處於最大生命的35%或更低時，視為貧魔狀態",
+          "zh-Hans": "达到或低于生命上限的 35% 时将你视作低魔",
+          "en": "You count as on Low Mana while at 35% of maximum Life or below"
+        }
+      ],
+      "flavor": {
+        "zh-Hant": "蜿蜒交織……難以分離。",
+        "zh-Hans": "蜿蜒盘曲，百转千回……难解难分。",
+        "en": "Sinuous, entwined... inextricable."
+      },
+      "level": 22,
+      "_flavorEnabled": true,
+      "grantedSkillsExtra": [],
+      "requirements": {
+        "int": 33
+      }
+    },
+    {
+      "category": "armor",
+      "subKey": "foci",
+      "rarity": "unique",
+      "id": "serpents-lesson-runeforge-1",
+      "name": {
+        "zh-Hant": "巨蛇教誨",
+        "zh-Hans": "毒蛇的训诫",
+        "en": "Serpent's Lesson"
+      },
+      "type1": {
+        "zh-Hant": "法器",
+        "zh-Hans": "法器",
+        "en": "Focus"
+      },
+      "type2": {
+        "zh-Hant": "符煉音調法器",
+        "zh-Hans": "符文师匠音调法器",
+        "en": "Runemastered Tonal Focus"
+      },
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Foci/Uniques/Serpents_Lesson.webp",
+      "stats": [
+        {
+          "label": {
+            "zh-Hant": "能量護盾",
+            "zh-Hans": "能量护盾",
+            "en": "Energy Shield"
+          },
+          "value": "19",
+          "_rf": 2
+        },
+        {
+          "label": {
+            "zh-Hant": "保護",
+            "zh-Hans": "符文结界",
+            "en": "Runic Ward"
+          },
+          "value": "57",
+          "_rf": 2
+        }
+      ],
+      "affixes": [
+        {
+          "zh-Hant": "+(60—100)最大生命",
+          "zh-Hans": "+(60—100) 生命上限",
+          "en": "+(60—100) to maximum Life"
+        },
+        {
+          "zh-Hant": "+(60—100)最大魔力",
+          "zh-Hans": "+(60—100) 魔力上限",
+          "en": "+(60—100) to maximum Mana"
+        },
+        {
+          "zh-Hant": "當你處於最大魔力的35%或更低時，視為貧血狀態",
+          "zh-Hans": "达到或低于魔力上限的 35% 时将你视作低血",
+          "en": "You count as on Low Life while at 35% of maximum Mana or below"
+        },
+        {
+          "zh-Hant": "當你處於最大生命的35%或更低時，視為貧魔狀態",
+          "zh-Hans": "达到或低于生命上限的 35% 时将你视作低魔",
+          "en": "You count as on Low Mana while at 35% of maximum Life or below"
+        }
+      ],
+      "flavor": {
+        "zh-Hant": "蜿蜒交織……難以分離。",
+        "zh-Hans": "蜿蜒盘曲，百转千回……难解难分。",
+        "en": "Sinuous, entwined... inextricable."
+      },
+      "level": 38,
+      "_flavorEnabled": true,
+      "grantedSkillsExtra": [],
+      "requirements": {
+        "int": 54
+      },
+      "variantOf": "serpents-lesson",
+      "variantKind": "runeforged",
+      "variantLabel": {
+        "zh-Hant": "符鍛 1",
+        "zh-Hans": "重铸 1",
+        "en": "Runeforge 1"
+      },
+      "runeforge": {
+        "mode": "random",
+        "index": 1,
+        "total": 1,
+        "step": {
+          "zh-Hant": "1",
+          "zh-Hans": "1",
+          "en": "1"
+        },
+        "cost": [
+          {
+            "kind": "item",
+            "slug": "Tonal_Focus",
+            "name": {
+              "zh-Hant": "音調法器",
+              "zh-Hans": "音调法器",
+              "en": "Tonal Focus"
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/Runeforge/Tonal_Focus.webp",
+            "iconSrc": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Foci/Basetypes/Focus05.webp"
+          },
+          {
+            "kind": "currency",
+            "slug": "Verisium",
+            "name": {
+              "zh-Hant": "維里西姆",
+              "zh-Hans": "维金",
+              "en": "Verisium"
+            },
+            "count": 250,
+            "icon": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/Runeforge/Verisium.webp",
+            "iconSrc": "https://cdn.poe2db.tw/image/Art/2DItems/Currency/Expedition2/RefinedVerisium.webp"
+          },
+          {
+            "kind": "currency",
+            "slug": "Medveds_Crest_of_the_Circle",
+            "name": {
+              "zh-Hant": "梅德偉的圓環之徽",
+              "zh-Hans": "梅德维德的圆环徽记",
+              "en": "Medved's Crest of the Circle"
+            },
+            "count": 1,
+            "icon": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/Runeforge/Medveds_Crest_of_the_Circle.webp",
+            "iconSrc": "https://cdn.poe2db.tw/image/Art/2DItems/Currency/Expedition2/UhtredCrest.webp"
+          }
+        ],
+        "changed": {
+          "type2": 1,
+          "level": 1,
+          "int": 1
+        }
+      }
+    },
+    {
+      "category": "armor",
+      "subKey": "foci",
+      "rarity": "unique",
+      "id": "apeps-supremacy",
+      "name": {
+        "zh-Hant": "艾普霸權",
+        "zh-Hans": "艾普的霸权",
+        "en": "Apep's Supremacy"
+      },
+      "type1": {
+        "zh-Hant": "法器",
+        "zh-Hans": "法器",
+        "en": "Focus"
+      },
+      "type2": {
+        "zh-Hant": "巫毒法器",
+        "zh-Hans": "巫毒法器",
+        "en": "Voodoo Focus"
+      },
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Foci/Uniques/Apeps_Supremacy.webp",
+      "stats": [
+        {
+          "label": {
+            "zh-Hant": "能量護盾",
+            "zh-Hans": "能量护盾",
+            "en": "Energy Shield"
+          },
+          "value": "34"
+        }
+      ],
+      "affixes": [
+        {
+          "zh-Hant": "增加(100—200)%能量護盾",
+          "zh-Hans": "能量护盾提高 (100—200)%",
+          "en": "(100—200)% increased Energy Shield"
+        },
+        {
+          "zh-Hant": "增加(30—50)%能量護盾充能率",
+          "zh-Hans": "能量护盾充能率提高 (30—50)%",
+          "en": "(30—50)% increased Energy Shield Recharge Rate"
+        },
+        {
+          "zh-Hant": "承受的20%擊中元素傷害視為混沌傷害",
+          "zh-Hans": "受到击中元素伤害的 20% 转换为混沌伤害",
+          "en": "20% of Elemental damage from Hits taken as Chaos damage"
+        },
+        {
+          "zh-Hant": "+25%機率中毒",
+          "zh-Hans": "+25% 的几率中毒",
+          "en": "+25% chance to be Poisoned"
+        },
+        {
+          "zh-Hant": "法術傷害擊中時有100%機率造成中毒",
+          "zh-Hans": "法术伤害击中有 100% 的几率施加中毒",
+          "en": "100% chance to Poison on Hit with Spell Damage"
+        }
+      ],
+      "flavor": {
+        "zh-Hant": "把你的身體交給他，你的重擔也就跟著放下了。",
+        "zh-Hans": "向他献出你的躯体，你的负担也会随之而去。",
+        "en": "Give him your body, and your burdens will follow."
+      },
+      "level": 33,
+      "_flavorEnabled": true,
+      "grantedSkillsExtra": [],
+      "requirements": {
+        "int": 48
+      }
+    },
+    {
+      "category": "armor",
+      "subKey": "foci",
+      "rarity": "unique",
+      "id": "apeps-supremacy-runeforge-1",
+      "name": {
+        "zh-Hant": "艾普霸權",
+        "zh-Hans": "艾普的霸权",
+        "en": "Apep's Supremacy"
+      },
+      "type1": {
+        "zh-Hant": "法器",
+        "zh-Hans": "法器",
+        "en": "Focus"
+      },
+      "type2": {
+        "zh-Hant": "符煉巫毒法器",
+        "zh-Hans": "符文师匠巫毒法器",
+        "en": "Runemastered Voodoo Focus"
+      },
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Foci/Uniques/Apeps_Supremacy.webp",
+      "stats": [
+        {
+          "label": {
+            "zh-Hant": "能量護盾",
+            "zh-Hans": "能量护盾",
+            "en": "Energy Shield"
+          },
+          "value": "40",
+          "_rf": 2
+        },
+        {
+          "label": {
+            "zh-Hant": "保護",
+            "zh-Hans": "符文结界",
+            "en": "Runic Ward"
+          },
+          "value": "31",
+          "_rf": 2
+        }
+      ],
+      "affixes": [
+        {
+          "zh-Hant": "增加(100—200)%能量護盾",
+          "zh-Hans": "能量护盾提高 (100—200)%",
+          "en": "(100—200)% increased Energy Shield"
+        },
+        {
+          "zh-Hant": "增加(30—50)%能量護盾充能率",
+          "zh-Hans": "能量护盾充能率提高 (30—50)%",
+          "en": "(30—50)% increased Energy Shield Recharge Rate"
+        },
+        {
+          "zh-Hant": "承受的20%擊中元素傷害視為混沌傷害",
+          "zh-Hans": "受到击中元素伤害的 20% 转换为混沌伤害",
+          "en": "20% of Elemental damage from Hits taken as Chaos damage"
+        },
+        {
+          "zh-Hant": "+25%機率中毒",
+          "zh-Hans": "+25% 的几率中毒",
+          "en": "+25% chance to be Poisoned"
+        },
+        {
+          "zh-Hant": "法術傷害擊中時有100%機率造成中毒",
+          "zh-Hans": "法术伤害击中有 100% 的几率施加中毒",
+          "en": "100% chance to Poison on Hit with Spell Damage"
+        }
+      ],
+      "flavor": {
+        "zh-Hant": "把你的身體交給他，你的重擔也就跟著放下了。",
+        "zh-Hans": "向他献出你的躯体，你的负担也会随之而去。",
+        "en": "Give him your body, and your burdens will follow."
+      },
+      "level": 55,
+      "_flavorEnabled": true,
+      "grantedSkillsExtra": [],
+      "requirements": {
+        "int": 78
+      },
+      "variantOf": "apeps-supremacy",
+      "variantKind": "runeforged",
+      "variantLabel": {
+        "zh-Hant": "符鍛 1",
+        "zh-Hans": "重铸 1",
+        "en": "Runeforge 1"
+      },
+      "runeforge": {
+        "mode": "random",
+        "index": 1,
+        "total": 1,
+        "step": {
+          "zh-Hant": "1",
+          "zh-Hans": "1",
+          "en": "1"
+        },
+        "cost": [
+          {
+            "kind": "item",
+            "slug": "Voodoo_Focus",
+            "name": {
+              "zh-Hant": "巫毒法器",
+              "zh-Hans": "巫毒法器",
+              "en": "Voodoo Focus"
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/Runeforge/Voodoo_Focus.webp",
+            "iconSrc": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Foci/Basetypes/Focus07.webp"
+          },
+          {
+            "kind": "currency",
+            "slug": "Verisium",
+            "name": {
+              "zh-Hant": "維里西姆",
+              "zh-Hans": "维金",
+              "en": "Verisium"
+            },
+            "count": 420,
+            "icon": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/Runeforge/Verisium.webp",
+            "iconSrc": "https://cdn.poe2db.tw/image/Art/2DItems/Currency/Expedition2/RefinedVerisium.webp"
+          },
+          {
+            "kind": "currency",
+            "slug": "Medveds_Crest_of_the_Circle",
+            "name": {
+              "zh-Hant": "梅德偉的圓環之徽",
+              "zh-Hans": "梅德维德的圆环徽记",
+              "en": "Medved's Crest of the Circle"
+            },
+            "count": 1,
+            "icon": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/Runeforge/Medveds_Crest_of_the_Circle.webp",
+            "iconSrc": "https://cdn.poe2db.tw/image/Art/2DItems/Currency/Expedition2/UhtredCrest.webp"
+          }
+        ],
+        "changed": {
+          "type2": 1,
+          "level": 1,
+          "int": 1
+        }
+      }
+    },
+    {
+      "category": "armor",
+      "subKey": "foci",
+      "rarity": "unique",
+      "id": "rathpith-globe",
+      "name": {
+        "zh-Hant": "獻祭之心",
+        "zh-Hans": "献祭之心",
+        "en": "Rathpith Globe"
+      },
+      "type1": {
+        "zh-Hant": "法器",
+        "zh-Hans": "法器",
+        "en": "Focus"
+      },
+      "type2": {
+        "zh-Hant": "神聖法器",
+        "zh-Hans": "圣洁法器",
+        "en": "Sacred Focus"
+      },
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Foci/Uniques/Rathpith_Globe.webp",
+      "stats": [
+        {
+          "label": {
+            "zh-Hant": "能量護盾",
+            "zh-Hans": "能量护盾",
+            "en": "Energy Shield"
+          },
+          "value": "81"
+        }
+      ],
+      "affixes": [
+        {
+          "zh-Hant": "增加(60—100)%能量護盾",
+          "zh-Hans": "能量护盾提高 (60—100)%",
+          "en": "(60—100)% increased Energy Shield"
+        },
+        {
+          "zh-Hant": "+(60—100)最大生命",
+          "zh-Hans": "+(60—100) 生命上限",
+          "en": "+(60—100) to maximum Life"
+        },
+        {
+          "zh-Hant": "非引導法術額外消耗你的6%最大生命",
+          "zh-Hans": "非吟唱法术额外消耗 6% 的生命上限",
+          "en": "Non-Channelling Spells cost an additional 6% of your maximum Life"
+        },
+        {
+          "zh-Hant": "每100最大生命，增加3%非引導法術的暴擊率",
+          "zh-Hans": "每 100 生命上限使非吟唱法术的暴击率提高 3%",
+          "en": "Non-Channelling Spells have 3% increased Critical Hit Chance per 100 maximum Life"
+        },
+        {
+          "zh-Hant": "每100最大生命，增加6%非引導法術的傷害",
+          "zh-Hans": "每 100 生命上限使非吟唱法术的伤害提高 6%",
+          "en": "Non-Channelling Spells deal 6% increased Damage per 100 maximum Life"
+        }
+      ],
+      "flavor": {
+        "zh-Hant": "瓦爾人以奴隸跳動的心臟獻祭，\n以眾多抽搐的死者砌成屍山血海。",
+        "zh-Hans": "瓦尔帝国建立在无数人的血汗之上，\n为之付出的人们如今却已化为尘埃。",
+        "en": "The Vaal emptied their slaves of beating hearts,\nand left a mountain of twitching dead."
+      },
+      "level": 75,
+      "_flavorEnabled": true,
+      "grantedSkillsExtra": [],
+      "requirements": {
+        "int": 107
+      }
+    },
+    {
+      "category": "armor",
+      "subKey": "foci",
+      "rarity": "unique",
+      "id": "rathpith-globe-runeforge-1",
+      "name": {
+        "zh-Hant": "獻祭之心",
+        "zh-Hans": "献祭之心",
+        "en": "Rathpith Globe"
+      },
+      "type1": {
+        "zh-Hant": "法器",
+        "zh-Hans": "法器",
+        "en": "Focus"
+      },
+      "type2": {
+        "zh-Hant": "符煉羽飾法器",
+        "zh-Hans": "符文师匠彩羽法器",
+        "en": "Runemastered Plumed Focus"
+      },
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Foci/Uniques/Rathpith_Globe.webp",
+      "stats": [
+        {
+          "label": {
+            "zh-Hant": "能量護盾",
+            "zh-Hans": "能量护盾",
+            "en": "Energy Shield"
+          },
+          "value": "23",
+          "_rf": 2
+        },
+        {
+          "label": {
+            "zh-Hant": "保護",
+            "zh-Hans": "符文结界",
+            "en": "Runic Ward"
+          },
+          "value": "106",
+          "_rf": 2
+        }
+      ],
+      "affixes": [
+        {
+          "zh-Hant": "增加(60—100)%能量護盾",
+          "zh-Hans": "能量护盾提高 (60—100)%",
+          "en": "(60—100)% increased Energy Shield"
+        },
+        {
+          "zh-Hant": "+(60—100)最大生命",
+          "zh-Hans": "+(60—100) 生命上限",
+          "en": "+(60—100) to maximum Life"
+        },
+        {
+          "zh-Hant": "非引導法術額外消耗你的6%最大生命",
+          "zh-Hans": "非吟唱法术额外消耗 6% 的生命上限",
+          "en": "Non-Channelling Spells cost an additional 6% of your maximum Life"
+        },
+        {
+          "zh-Hant": "每100最大生命，增加3%非引導法術的暴擊率",
+          "zh-Hans": "每 100 生命上限使非吟唱法术的暴击率提高 3%",
+          "en": "Non-Channelling Spells have 3% increased Critical Hit Chance per 100 maximum Life"
+        },
+        {
+          "zh-Hant": "每100最大生命，增加6%非引導法術的傷害",
+          "zh-Hans": "每 100 生命上限使非吟唱法术的伤害提高 6%",
+          "en": "Non-Channelling Spells deal 6% increased Damage per 100 maximum Life"
+        }
+      ],
+      "flavor": {
+        "zh-Hant": "瓦爾人以奴隸跳動的心臟獻祭，\n以眾多抽搐的死者砌成屍山血海。",
+        "zh-Hans": "瓦尔帝国建立在无数人的血汗之上，\n为之付出的人们如今却已化为尘埃。",
+        "en": "The Vaal emptied their slaves of beating hearts,\nand left a mountain of twitching dead."
+      },
+      "level": 75,
+      "_flavorEnabled": true,
+      "grantedSkillsExtra": [],
+      "requirements": {
+        "int": 91
+      },
+      "variantOf": "rathpith-globe",
+      "variantKind": "runeforged",
+      "variantLabel": {
+        "zh-Hant": "符鍛 1",
+        "zh-Hans": "重铸 1",
+        "en": "Runeforge 1"
+      },
+      "runeforge": {
+        "mode": "random",
+        "index": 1,
+        "total": 1,
+        "step": {
+          "zh-Hant": "1",
+          "zh-Hans": "1",
+          "en": "1"
+        },
+        "cost": [
+          {
+            "kind": "item",
+            "slug": "Sacred_Focus",
+            "name": {
+              "zh-Hant": "神聖法器",
+              "zh-Hans": "圣洁法器",
+              "en": "Sacred Focus"
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/Runeforge/Sacred_Focus.webp",
+            "iconSrc": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Foci/Basetypes/Focus08.webp"
+          },
+          {
+            "kind": "currency",
+            "slug": "Verisium",
+            "name": {
+              "zh-Hant": "維里西姆",
+              "zh-Hans": "维金",
+              "en": "Verisium"
+            },
+            "count": 2500,
+            "icon": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/Runeforge/Verisium.webp",
+            "iconSrc": "https://cdn.poe2db.tw/image/Art/2DItems/Currency/Expedition2/RefinedVerisium.webp"
+          },
+          {
+            "kind": "currency",
+            "slug": "Exceptional_Verisium",
+            "name": {
+              "zh-Hant": "卓越維里西姆",
+              "zh-Hans": "卓越维金",
+              "en": "Exceptional Verisium"
+            },
+            "count": 10,
+            "icon": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/Runeforge/Exceptional_Verisium.webp",
+            "iconSrc": "https://cdn.poe2db.tw/image/Art/2DItems/Currency/Expedition2/PerfectVerisium.webp"
+          },
+          {
+            "kind": "currency",
+            "slug": "Uhtreds_Crest_of_the_Chalice",
+            "name": {
+              "zh-Hant": "烏特雷的聖杯之徽",
+              "zh-Hans": "乌崔德的圣杯徽记",
+              "en": "Uhtred's Crest of the Chalice"
+            },
+            "count": 1,
+            "icon": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/Runeforge/Uhtreds_Crest_of_the_Chalice.webp",
+            "iconSrc": "https://cdn.poe2db.tw/image/Art/2DItems/Currency/Expedition2/MedvedCrest.webp"
+          }
+        ],
+        "changed": {
+          "type2": 1,
+          "int": 1
+        }
+      }
+    }
+  ]
+}
