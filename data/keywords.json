@@ -2697,70 +2697,10 @@
    ]
   },
   "us": {
-   "name": "Attack",
+   "name": "Attacks",
    "description": "Attacks are skills that directly damage enemies, usually using your equipped Martial Weapon. Spells are not Attacks.\nThe base damage, attack speed and critical hit chance of an attack are determined using your Martial Weapon's stats unless the skill says otherwise.\nAttacks do not necessarily deal Physical damage — they can deal any damage type.",
    "url": "https://poe2db.tw/us/Attacks",
-   "lines": [
-    "alliesinyourpresencegainaddedattackdamageequal",
-    "attack",
-    "attacksusedbytotemshaveincreasedattackspeed",
-    "channeltocreatefleetingimagesofyourastralselfnearthetargetlocationtheimagesperformasocketedmeleeattackoncethenvanishtargetingtheclosestenemyifpossibletheimagescannotperformchannelledskillsorconditionalskillsconsumingapowerchargecreatesadditionalimages",
-    "companionsgainaddedattackdamageequaltoofyourmainhandweaponsdamage",
-    "consumechargesfromyourmanaflasktothrowaflaskthatexplodesdealingcoldattackdamageinanareaandinflictingexposurethisdamageisnotbasedonyourunarmeddamagesothisisnotconsideredanunarmedattack",
-    "consumechargesfromyourmanaflasktothrowaflaskthatexplodesdealingfireattackdamageinanareaadditionalsmallerflasksarethrownatnearbyignitedenemiesthisdamageisnotbasedonyourunarmeddamagesothisisnotconsideredanunarmedattack",
-    "consumechargesfromyourmanaflasktothrowaflaskthatexplodesdealinglightningattackdamageinanareawithhighchancetoshockthisdamageisnotbasedonyourunarmeddamagesothisisnotconsideredanunarmedattack",
-    "consumechargesfromyourmanaflasktothrowaflaskthatexplodesdealingphysicalattackdamageinanareaandaggravatingbleedingonenemieshitthisdamageisnotbasedonyourunarmeddamagesothisisnotconsideredanunarmedattack",
-    "consumechargesfromyourmanaflasktothrowaflaskthatexplodesdealingphysicalattackdamageinanareathethrownflaskconsumespoisononhittocauseanacidicburstthisdamageisnotbasedonyourunarmeddamagesothisisnotconsideredanunarmedattack",
-    "dealsmoreattackdamage",
-    "expendallvividwispstotriggervividstampedewhenyouattack",
-    "gaincombofromallattackhits",
-    "increasedattackspeed",
-    "increasedminionattackspeed",
-    "loseamountainsteachingwhenyouarehitorwhenyouuseorsustainanattackthatbenefitsfrommountainsteachings",
-    "manifestacopyofyourmainhandmeleemartialweaponasanimmortalcompaniontofightbyyoursideinadditiontoitsstandardstrikesthemanifestedweapongainsanadditionalattackdependingonitsweapontype",
-    "minionsfromthisskillhaveincreasedattackspeed",
-    "minionsfromthisskillhaveincreasedattackspeednperofyourdexterity",
-    "socketedskillshavelessattackspeed",
-    "supportsattackscausingthemtoattackfaster",
-    "supportsattackscausingthemtoattackfasteratthecostofdamage",
-    "supportsattackskillscausingthemtocullrareanduniqueenemiesonhit",
-    "supportsattackskillscausingthemtocullrareanduniqueenemiesonhitandincreasingthethresholdatwhichtheywillcullenemies",
-    "supportsattackskillsgrantingthemattackspeedatthecostofdamageordamageatthecostofattackspeeddependingonweaponsettheyareusedindoesnotmodifyskillsusedbyminions",
-    "supportsattackskillssupportedskillsinflictincisiononhitwhichcausesenemiestobeincreasinglymorelikelytobeinflictedwithbleedingallincisionisremovedfromatargetoninflictingitwithbleeding",
-    "supportsattackskillswhichdealdamageinanareasupportedskillshavesignificantlyincreasedareaofeffectbutarelessaccurateagainstnearbytargets",
-    "supportsattackskillsyouuseyourselfhitdamagefromsupportedskillsisluckyandinsufficientmanadoesntpreventsupportedskillsfrombeingusedifyouaresurrounded",
-    "supportsattackskillsyouuseyourselfhitdamagefromsupportedskillsisluckyifyouaresurrounded",
-    "supportsattackskillsyouuseyourselfsupportedskillsdealmoredamagewithcriticalhitsbutcriticallyhittinganenemywiththemwilldazeyouforashorttime",
-    "supportsattackskillsyouuseyourselfsupportedskillssteadilygainmoredamageuptoacapthisdamagebonusisresetifyoudodgerolloruseatravelskill",
-    "supportsattackskillsyouuseyourselfwhichcancausedamaginghitssupportedskillsconsumebleedingonhittocreateexplosivebloodfilledcrystalsbutcannotthemselvesinflictbleedingcannotsupportskillswhichalreadyconsumebleeding",
-    "supportsattackskillsyouuseyourselfwhichdonotalreadyhavesomeconditionforusesupportedskillscanonlybeusedafteryouhavemovedacertaindistancebuthavemassivelyincreasedskillspeedcannotsupportskillswhichhaveacooldown",
-    "supportsattackskillsyouuseyourselfwhichdonotalreadyhavesomeconditionforusesupportedskillshaveamaximumcriticalhitchancebutwillbifurcatecriticalhitchance",
-    "supportsattackskillsyouuseyourselfwhichfireprojectilessealingthemovertimethesealsarebrokenwhenusedcausingadditionalprojectilestobefiredprojectilesfromsupportedskillsarefiredinrandomdirectionscannotsupportskillswhichrequirecombohaveacooldownorwhichalreadygainseals",
-    "supportsattacksyouuseyourselfsupportedskillsgainmoreattackspeedeachtimeyouusethembutwillbecomeunusableifusedtoofrequentlyinashorttimeframesustainedskillswillinsteadgainattackspeedperiodicallywhilebeingused",
-    "supportsmeleeattacksboostingtheirphysicaldamageatthecostofattackspeed",
-    "supportsmeleeattackscausingthemtograntrageonhitsupportedskillshavesignficantlyhigherattackspeedwhileyouorsupportedminionarenotatmaximumrage",
-    "supportsmeleeattackskillssupportedskillsapplyeasytargetwhenknockingbackenemiescausingthenextprojectileattackhittheytaketodealincreaseddamage",
-    "supportsmeleeattackskillssupportedskillsaremorecapableofstunningenemiesthecloseryouaretobeingheavilystunned",
-    "supportsmeleeattackskillssupportedskillsbuildupheavystunmorequicklybutcannotthemselvesheavystun",
-    "supportsmeleeattackskillssupportedskillsbuildupstunmorequicklybutcannotthemselvesstun",
-    "supportsmeleeattackskillssupportedskillsdealmoredamagewhileyouhavealowerpercentageofyourliferemainingthanthetargetstruckbutlessdamagewhenthereverseistrue",
-    "supportsmeleeattackskillssupportedskillsgaincombowhenyousuccessfullystrikeenemieswithothermeleeattackssupportedskillsexpendtheircombowhenusedgainingmoreareaofeffectthehighercombotheyhadcannotsupportskillswhichalreadygaincombocannotmodifytheskillsofminions",
-    "supportsmeleeattackskillssupportedskillsgaincombowhenyousuccessfullystrikeenemieswithothermeleeattackssupportedskillsresettheircomboonusedealingmoredamagethehighercomboyouhadonusecannotsupportskillswhichalreadygaincombocannotmodifytheskillsofminions",
-    "supportsmeleeattackskillssupportedskillstriggerquillburstwhichdealsyourthornsdamageinanareaaroundthetargetstruckquillburstcanonlybetriggeredonhitafteryouveretaliatedwiththornsdamage",
-    "supportsmeleeattackskillsyouuseortriggeryourselfkillingblowswithsupportedskillsonbleedingenemiescreateabloodremnantbloodremnantsincreaseyourliferegenerationrateforashortwhileafterbeingcollected",
-    "supportsmeleeattackskillsyouuseyourselfsupportedskillsgainmuchmoredamageandaremorecapableofstunningenemiesthecloseryouaretobeingheavilystunned",
-    "supportsmeleeattackskillsyouuseyourselfsupportedskillsgainmuchmoredamagethecloseryouaretobeingheavilystunned",
-    "supportsmeleeattackssupportedskillsdealmoremeleedamageifyouhavestruckwithaprojectileattackhitinthelasteightsecondsbutcannotthemselvesdealprojectiledamage",
-    "supportsmeleeattackssupportedskillsdealmoremeleedamageifyouhavestruckwithaprojectileattackhitinthelasttwosecondsbutcannotthemselvesdealprojectiledamage",
-    "supportsmeleestrikeskillsandwindattackskillscausingthemtocreateanaftershockthatdamagesenemiesaroundthetargetwhentheyheavystunanenemy",
-    "supportspersistentbuffskillscausingyoutodealincreasedattackdamagewhileonlowlifewhilethesupportedskillisactive",
-    "supportsprojectileattackskillsyouuseyourselfsupportedskillsgainvoltaicchargeasyoumoveuptoamaximumwhenusedsupportedskillsexpendthatchargetogainextralightningdamage",
-    "supportsprojectileskillsmakingthemfireextraprojectilesalsolowersattackandcastspeedofsupportedskillsaswellaslesseningtheirdamage",
-    "totemsonlyuseskillswhenyoufireanattackprojectile",
-    "triggeredwhenyouattackcreatingonestagpervividwisp",
-    "whileactivefiringarangedprojectileattackwillcreateamiragethatusessocketedrangedattacksforashortdurationthenvanish",
-    "whileactivesprintingturnsyouintoalocustswarmwhichdealsphysicalattackdamagewhichisnotbasedonyourweaponsdamageinanareaaroundyouyoutakedamageandgainheavystunbuildupifthishitsanytargetsbutdamageyoutakefromothersourceswhilesprintingwillnotapplyheavystunorinterruptyoursprinting"
-   ]
+   "lines": []
   }
  },
  {
@@ -6934,29 +6874,10 @@
    ]
   },
   "us": {
-   "name": "Critical Hit",
+   "name": "Critical Hits",
    "description": "Critical Hits deal +100% extra damage (i.e. twice as much damage) by default. Critical Damage Bonuses can further modify this value.\nAttacks usually use your weapon's base Critical Hit Chance, while Spells and some other skills have their base Critical Hit Chance listed on the skill.\nMost modifiers to Critical Hit Chance are percentage based. For example, gaining 100% increased Critical Hit Chance on a base Critical Hit Chance of 7% would result in a final Critical Hit Chance of 14%.",
    "url": "https://poe2db.tw/us/Critical_Hits",
-   "lines": [
-    "becomeignitedwhenyoudealacriticalhittakingofyourmaximumlifeandenergyshieldasfiredamagepersecond",
-    "chancetoinflictbleedingoncriticalhit",
-    "criticalhit",
-    "criticalhitchance",
-    "dntunusedsupportsspellsyouuseyourselfwhichhitenemiesoncriticalhitwithsupportedspellstriggeratzirisstormatthelocationofthenearestenemy",
-    "gainadditionalcriticalhitchanceequaltoofexcesschancetohitwithattacks",
-    "summonkelarianinvulnerablesanddjinnminiontodoyourbiddingkelariwillonlyactwhenyoucommandhimtodosokelarideliversswifthitswithmassivecriticalhitpotential",
-    "supportsanyskillthathitsenemiescausingittodealmoredamagewithcriticalhitsbuthavelesscriticalhitchance",
-    "supportsanyskillthathitsenemiescausingittorefreshignitesoncriticalhit",
-    "supportsanyskillyouuseyourselfthathitsenemiescausingittoaccumulatecriticalhitchanceovertime",
-    "supportsanyskillyouuseyourselfthathitsenemiescausingittoaccumulatecriticalhitchanceovertimebutalsoreduceyourcriticaldamagebonus",
-    "supportsanyspellthathitsenemiescausingittotriggeramanaflareoncriticalhitthemanaflareconsumesyourmanatodealfiredamagecannotsupporttheskillsofminions",
-    "supportsnonchannellingskillyouuseyourselfthathitsenemiescausingittogaincriticalhitchancebasedonragebutalsoremoveallrageuponcriticallyhitting",
-    "supportsskillsyouuseyourselfwhichcancausedamaginghitssupportedskillsgrantvolatilityoncriticalhit",
-    "tocriticalhitchanceofheraldskills",
-    "triggerelementalexpressiononmeleecriticalhit",
-    "triggerelementalstormoncriticalhitwithspells",
-    "triggersfieryexplosionarcingboltoricywaveonmeleecriticalhit"
-   ]
+   "lines": []
   }
  },
  {
@@ -9693,140 +9614,16 @@
    ]
   },
   "cn": {
-   "name": "被击中",
+   "name": "击中伤害",
    "description": "任何非持续伤害，都属于击中伤害。\n由击中造成的伤害性异常状态将基于该次击中计算其伤害，并不会再直接受到伤害加成的影响。因此，提高击中伤害会自然提升异常状态的伤害。",
    "url": "https://poe2db.tw/cn/Hit_Damage",
-   "lines": [
-    "被击中",
-    "被击中时失去所有提速尾流"
-   ]
+   "lines": []
   },
   "us": {
-   "name": "Hits",
+   "name": "Hit Damage",
    "description": "Any damage that isn't damage over time is Hit damage.\nDamaging Ailments which result from a Hit will calculate their damage from that Hit, and will not subsequently have Damage modifiers applied directly to them. As a result of this, raising Hit Damage will result in more powerful Damaging Ailments innately.",
    "url": "https://poe2db.tw/us/Hit_Damage",
-   "lines": [
-    "alldamagefromhitscontributestochillmagnitude",
-    "alldamagefromhitscontributestoshockchance",
-    "bodyarmourgrantshitsagainstyouhavereducedcriticaldamagebonus",
-    "bodyarmourgrantsofphysicaldamagefromhitstakenasfiredamage",
-    "createastationaryfirecoldorlightningstormatatargetlocationforadurationbasedonthehighestelementaldamagetypeforthehitthattriggeredthestormhitswhichdonotdealelementaldamagewillnottriggerthestorm",
-    "debuffalltargetsinanareacausingaportionofdamagetheytakefromhitstobetrackedbythedebuffwhenthedebuffsdurationexpiresorcankillthetargetthetargetloseslifeequaltothattrackeddamageallatonce",
-    "elementaldamagefromhitsistakenfromthebarrierbeforeyourlifemanaorenergyshield",
-    "elementaldamagefromhitsistakenfromthebarrierbeforeyourlifemanaorenergyshieldnbarriercantakeelementaldamageequaltoofyourarmourandevasionratinguptoamaximumof",
-    "elementaldamagefromhitsistakenfromthisbuffbeforeyourlifeorenergyshield",
-    "fullybrokenarmouryouinflictincreasesalldamagetakenfromhitsinstead",
-    "gaincombofromallattackhits",
-    "gainunboundfurybyinflictingelementalailmentswithhitsonenemiesonceyoureachmaximumunboundfuryconsumeittobecomeunboundforadurationvastlyaugmentingyourelementalprowess",
-    "hits",
-    "hitsagainstyouhavereducedcriticaldamagebonus",
-    "ifswarmhitsanytargetsyoutaketophysicaldamageandgainswarmsadvancetoamaximumof",
-    "increaseddamagewithhitsagainstenemiesthatareonlowlife",
-    "moredamagewithhitsagainstburningenemies",
-    "moredamagewithhitsforeachstage",
-    "ofdamagefromhitsistakenfromyournearesttotemslifebeforeyou",
-    "oflifelossfromhitsispreventedthenthatmuchlifeislostoversecondsinstead",
-    "passivelymanifestsaprotectivebarrierwhichtakeselementaldamagefromhitsforyouuntildepletedthebarrierinstantlyrechargestoitsfullvalueashorttimeafteritstopstakingdamageorisfullydepleted",
-    "redhitsagainstyouhavenocriticaldamagebonus",
-    "sorcerywardsbarriercanalsotakephysicalandchaosdamagefromhits",
-    "summonkelarianinvulnerablesanddjinnminiontodoyourbiddingkelariwillonlyactwhenyoucommandhimtodosokelarideliversswifthitswithmassivecriticalhitpotential",
-    "supportsanyskillthatdealsdamageboostingitsphysicaldamageattheexpenseofallotherdamagetypesaswellasgivinghitsfromthatskillachancetoignorephysicaldamagereduction",
-    "supportsanyskillthathitsenemiesallowingitsphysicaldamagetopinenemiesbutmakingitunabletostun",
-    "supportsanyskillthathitsenemiesallowingitsphysicaldamagetopinenemiesbutmakingitunabletostunaswellasgrantingcritialhitchanceagainstimmobilisedenemies",
-    "supportsanyskillthathitsenemiesallowingitsphysicaldamagetopinenemiesbutmakingitunabletostunpinbuildupcausedbysupportedskillislessenedbutpindurationissignificantlylonger",
-    "supportsanyskillthathitsenemiesallowingittoinflictanextrapoisononenemiesbutshorteningthedurationofthosepoisons",
-    "supportsanyskillthathitsenemiescausinganypinbuildupitinflictstobestrongertheclosertheenemyistoyou",
-    "supportsanyskillthathitsenemiescausingenemiesitignitestohaveachancetoexplodeondeath",
-    "supportsanyskillthathitsenemiescausingenemiesitkillstograntmoreflaskandcharmcharges",
-    "supportsanyskillthathitsenemiescausingenemiesitkillstograntmorelifeflaskcharges",
-    "supportsanyskillthathitsenemiescausingenemiesitkillstograntmoremanaflaskcharges",
-    "supportsanyskillthathitsenemiescausingfreezeitinflictstolastlonger",
-    "supportsanyskillthathitsenemiescausinginflictedignitestodealmoredamagebutitshitstodeallessdamage",
-    "supportsanyskillthathitsenemiescausinginflictedignitestodealmoredamagebuttheskilltogainarunicwardcost",
-    "supportsanyskillthathitsenemiescausingitsignitestobeinflictedlessoftenbutlastlonger",
-    "supportsanyskillthathitsenemiescausingitsignitestolastlonger",
-    "supportsanyskillthathitsenemiescausingittobuildupstunmorequickly",
-    "supportsanyskillthathitsenemiescausingittobuildupstunsignificantlymorequicklyatthecostofdamage",
-    "supportsanyskillthathitsenemiescausingittoconsumefreezeonignitingafrozenenemytoboosttheeffectoftheignitecannotsupportskillsthatconsumefreezeorignite",
-    "supportsanyskillthathitsenemiescausingittocreatepatchesofchilledgroundaroundfrozenenemies",
-    "supportsanyskillthathitsenemiescausingittocriticallyhitmoreoftenbutdeallessdamagewithcriticalhits",
-    "supportsanyskillthathitsenemiescausingittodealincreasinglyhigherdamagethemorepoisonsareonthetarget",
-    "supportsanyskillthathitsenemiescausingittodeallessdamagebutinflictmorepotentbleeding",
-    "supportsanyskillthathitsenemiescausingittodeallessdamagebutinflictmorepotentpoison",
-    "supportsanyskillthathitsenemiescausingittodealmoredamageagainstenemiesonlowlife",
-    "supportsanyskillthathitsenemiescausingittodealmoredamageagainstenemiesonlowlifeaswellasdealingmoredamagewhileyouareonlowlife",
-    "supportsanyskillthathitsenemiescausingittodealmoredamagewithcriticalhitsbuthavelesscriticalhitchance",
-    "supportsanyskillthathitsenemiescausingittodealmoreelementaldamagebutbeunabletoinflictelementalailments",
-    "supportsanyskillthathitsenemiescausingittodealmoremeleephysicaldamagetobleedingenemiesbutbeunabletoinflictbleedingitselfsupportedskillsalsoinflictincisiononhit",
-    "supportsanyskillthathitsenemiescausingittoinflictbleeding",
-    "supportsanyskillthathitsenemiescausingittoinflictexposurewhenigniting",
-    "supportsanyskillthathitsenemiescausingittoinflictexposurewheninflictingshock",
-    "supportsanyskillthathitsenemiescausingittoinflictexposurewhenitinflictsfreeze",
-    "supportsanyskillthathitsenemiescausingittoknockbackenemies",
-    "supportsanyskillthathitsenemiescausingittorefreshignitesoncriticalhit",
-    "supportsanyskillthathitsenemiescausingpoisonitappliestoalsobreakenemyarmourcannotsupportskillsthatconsumefullybrokenarmour",
-    "supportsanyskillthathitsenemiescausingthemtoblindonhit",
-    "supportsanyskillthathitsenemiescausingthemtoblindonhitwithincreasedeffect",
-    "supportsanyskillthathitsenemiescausingthemtodealmoredamageagainstenemieswithbrokenarmourbutpreventingthemfrombreakingarmourthemselvescannotsupportskillsthatconsumebrokenarmour",
-    "supportsanyskillthathitsenemiescausingthemtodealmoredamageandtriggernaturesexchangewhenconsumingfreezeonenemiescannotsupportskillsthatconsumefreeze",
-    "supportsanyskillthathitsenemiescausingthemtodealmoredamagetofrozenenemiesbutconsumetheirfreezecannotsupportskillsthatconsumefreeze",
-    "supportsanyskillthathitsenemiescausingthemtodealmoredamagetofrozenenemiesbutconsumetheirfreezeleavingthemchilledcannotsupportskillsthatconsumefreeze",
-    "supportsanyskillthathitsenemiescausingyoutorecoverenergyshieldwhenitkillsashockedenemy",
-    "supportsanyskillthathitsenemiescausingyoutorecoverlifewhenitcullsanenemy",
-    "supportsanyskillthathitsenemiescausingyoutorecovermanawhenitcullsanenemy",
-    "supportsanyskillthathitsenemiesenemiesshockedbysupportedskillstakeapercentageofdamagefromigniteaslightningdamageaswellasfiredamage",
-    "supportsanyskillthathitsenemiesgivingitachancetoalsoshocknearbyenemieswhenyoushockanenemy",
-    "supportsanyskillthathitsenemiesgivingitachancetoalsoshocknearbyenemieswhenyoushockanenemyalwaysshocksenemieswhicharedrenched",
-    "supportsanyskillthathitsenemiesgivingitachancetogainanendurancechargewhencausingaheavystun",
-    "supportsanyskillthathitsenemiesgivingitachancetoinflictbleeding",
-    "supportsanyskillthathitsenemiesgivingitachancetopoisonenemies",
-    "supportsanyskillthathitsenemiesgivingitachancetopoisonenemiesandcausingittoinflictmorepowerfulpoisonsagainstbleedingenemies",
-    "supportsanyskillthathitsenemiesgivingitachancetowitherenemiesonhit",
-    "supportsanyskillthathitsenemiesmakingitmoreeffectiveatfreezingenemies",
-    "supportsanyskillthathitsenemiesmakingitmorelikelytocriticallyhitenemiesonfulllife",
-    "supportsanyskillthathitsenemiesmakingitmorelikelytoignite",
-    "supportsanyskillthathitsenemiesmakingitmorelikelytoigniteandcausinginflictedignitestodealtheirdamagemorequickly",
-    "supportsanyskillthathitsenemiesmakingitmorelikelytoshock",
-    "supportsanyskillthathitsenemiesmakingitsshocksmoreeffectivebutreflectingthembacktoyouaswell",
-    "supportsanyskillthathitsenemiesmakingthosehitsignoreenemyfireresistance",
-    "supportsanyskillthathitsenemiesmakingthosehitspenetrateenemycoldresistance",
-    "supportsanyskillthathitsenemiesmakingthosehitspenetrateenemyfireresistance",
-    "supportsanyskillthathitsenemiesmakingthosehitspenetrateenemylightningresistance",
-    "supportsanyskillthathitsenemiesnearbyenemiesaremarkedwhentheyareprimedforelectrocutionandhittingamarkedenemywithasupportedskillwillelectrocutethem",
-    "supportsanyskillthathitsenemiesorinflictsshockcausingitsshockstobeinflictedlessoftenbutlastlonger",
-    "supportsanyskillthathitsenemiesspreadingignitesitinflictstonearbyenemiesafteradelay",
-    "supportsanyskillyouuseyourselfthathitsenemiescausingittoaccumulatecriticalhitchanceovertime",
-    "supportsanyskillyouuseyourselfthathitsenemiescausingittoaccumulatecriticalhitchanceovertimebutalsoreduceyourcriticaldamagebonus",
-    "supportsanyspellthathitsenemiescausingittoconsumeelementalailmentsonhittotriggeranelementaldischargecannotsupporttheskillsofminionsorskillswhichalreadyconsumeelementalailments",
-    "supportsanyspellthathitsenemiescausingittotriggeramanaflareoncriticalhitthemanaflareconsumesyourmanatodealfiredamagecannotsupporttheskillsofminions",
-    "supportsattackskillsyouuseyourselfwhichcancausedamaginghitssupportedskillsconsumebleedingonhittocreateexplosivebloodfilledcrystalsbutcannotthemselvesinflictbleedingcannotsupportskillswhichalreadyconsumebleeding",
-    "supportschannellingskillsyouuseyourselfwhilechannellingsupportedskillsperiodicallygainstagesofdeadlyresolveexpendastageofdeadlyresolvewhenanenemyhitsyoutotriggeradeadlyslashtowardsthatenemydealingmoredamagebasedonyourarmour",
-    "supportsnonchannellingskillyouuseyourselfthathitsenemiescausingittogaincriticalhitchancebasedonragebutalsoremoveallrageuponcriticallyhitting",
-    "supportspersistentbuffskillsprovidingachanceforenemiestocalculatetheirhitsasthoughyourresistanceswerewhiletheskillisactive",
-    "supportsskillsthatcancausedamaginghitscausingthosehitstotreatenemyelementalresistancesasinverted",
-    "supportsskillsthathitenemiescausingthosehitstobreakarmourbasedonaportionofphysicaldamagedealt",
-    "supportsskillsthathitenemiescausingthosehitstobreakarmourbasedonaportionofphysicaldamagedealtonfullybreakingarmourwithsupportedskillsyouhaveachancetogainanendurancecharge",
-    "supportsskillswhichcancausedamaginghitsbleedinginflictedbythosehitsismoreeffectiveagainstpoisonedenemiesandpoisoninflictedbysupportedskillsismoreeffectiveagainstbleedingenemies",
-    "supportsskillswhichcancausedamaginghitscausingbasechancetoinflictbleedingwithsupportedskillstoinsteadapplytobasechancetopoisonandcausingbasechancetopoisontoinsteadapplytobleeding",
-    "supportsskillswhichcancausedamaginghitssupportedskillsaremorelikelytocriticallyhitblindedenemiesanddealmoredamagewithcriticalhitsagainstblindedenemiesbutcannotthemselvesinflictblind",
-    "supportsskillswhichcandamageenemieswithhitscausingallsourcesofdamagegainedtoinsteadbetreatedasdamagegainedasextracoldforsupportedskills",
-    "supportsskillswhichcanfireprojectilesprojectilesfromsupportedskillsalwaysforkwhentheinitialprojectilehitsfrozenenemiesbutsupportedskillscannotbuildupfreezethemselves",
-    "supportsskillswhichcanhitenemieshitswithsupportedskillswhichfreezeenemiescausephysicaldamageagainstthemtobreaktheirarmourwhiletheyremainfrozen",
-    "supportsskillswhichcanhitenemiesshockinganenemywithhitsfromsupportedskillstriggersstaticshockscausingthatenemytobecomeasourceoflightningdamagesendingpulsestowardsnearbyenemies",
-    "supportsskillswhichdealdamageincreasingthemaximumphysicaldamageoftheirhits",
-    "supportsskillswhichdealdamagewithhitswhensupportedskillspinanenemytheyalsoaggravatebleedingonthatenemy",
-    "supportsskillsyouuseyourselfwhichcancausedamaginghitssupportedskillscannotbeusedunlessyouhavebeenstationaryforacertaindurationbutdealincreasinglymoredamagethelongeryouarestationarycannotsupportskillswhichhaveacooldownoranotherusagecondition",
-    "supportsskillsyouuseyourselfwhichcancausedamaginghitssupportedskillsgrantvolatilityoncriticalhit",
-    "supportsskillsyouuseyourselfwhichdamageenemieswithhitssupportedskillsconsumeapercentageofyourmaximumlifeflaskchargesinflictingmorepowerfulbleedingbasedonlifeflaskchargesconsumed",
-    "supportsskillsyouuseyourselfwhichdamageenemieswithhitssupportedskillsconsumeapercentageofyourmaximummanaflaskchargesgainingapercentageofdamageasextralightningdamagepermanaflaskchargeconsumed",
-    "supportsslamskillsyouuseyourselfhitsfromsupportedskillsareconsideredcrushingblowsagainstenemieswhicharebothignitedandfullyarmourbrokenhitswithsupportedskillsthatheavilystunignitedandfullyarmourbrokenenemieswillintimidatethem",
-    "swarmhitsalltargetsinareaeveryseconds",
-    "tempestbellsaredestroyedafteranadditionalhits",
-    "whileactiveetherealbellsperiodicallyappearnearyouyourhitsimmediatelydestroythebellscreatingashockwavethatdamagesnearbyenemiesandcausesaheavystunonenemiesthatareprimedforstunthebellsarethemselvesalwaysprimedforstuntheycanbeculledandhitsagainstthemarealwayscriticalhits",
-    "whileactivesprintingturnsyouintoalocustswarmwhichdealsphysicalattackdamagewhichisnotbasedonyourweaponsdamageinanareaaroundyouyoutakedamageandgainheavystunbuildupifthishitsanytargetsbutdamageyoutakefromothersourceswhilesprintingwillnotapplyheavystunorinterruptyoursprinting",
-    "yourhitsarecrushingblows",
-    "youtakeofdamagefromblockedhits"
-   ]
+   "lines": []
   }
  },
  {
@@ -11964,22 +11761,16 @@
    ]
   },
   "cn": {
-   "name": "烈火",
+   "name": "火焰伤害",
    "description": "火焰伤害是五种伤害类型之一。会被火焰抗性减免。火焰击中根据造成的火焰伤害量施加易燃，从而提供点燃几率。",
    "url": "https://poe2db.tw/cn/Fire_Damage",
-   "lines": [
-    "烈火",
-    "辅助攻击和战吼使其令敌人的护甲完全破损时触发一烈火爆炸"
-   ]
+   "lines": []
   },
   "us": {
-   "name": "Fiery",
+   "name": "Fire Damage",
    "description": "Fire damage is one of the five Damage Types. It is reduced by Fire Resistance. Fire Hits inflict Flammability based on how much Fire damage is dealt, which provides a chance to Ignite.",
    "url": "https://poe2db.tw/us/Fire_Damage",
-   "lines": [
-    "fiery",
-    "supportsattacksandwarcriescausingthemtotriggerafieryexplosionwhentheyfullybreakanenemysarmour"
-   ]
+   "lines": []
   }
  },
  {
@@ -15299,33 +15090,10 @@
    ]
   },
   "cn": {
-   "name": "混沌",
+   "name": "混沌伤害",
    "description": "混沌伤害是五种伤害类型之一。这类伤害会被混沌抗性减免。\n混沌伤害是最罕见的伤害类型，受到混沌伤害时扣除的能量护盾为伤害量的两倍。",
    "url": "https://poe2db.tw/cn/Chaos_Damage",
-   "lines": [
-    "你造成的物理和混沌伤害提高击中施加死亡凋零并定期创造混沌龙卷风",
-    "偷取回复量基于混沌伤害以及物理伤害",
-    "元素结界屏障还能承受击中伤害的物理和混沌伤害",
-    "召唤一个混沌龙卷风追踪并减速敌人",
-    "对敌人造成混沌击中伤害或施加混沌持续伤害减益时为该技能生成等同于怪物威力值的荣耀",
-    "将物理伤害的转化为混沌伤害",
-    "每混沌抗性使黑暗上限提高",
-    "混沌",
-    "混沌伤害提高",
-    "混沌抗性翻倍",
-    "物理和混沌伤害总增",
-    "获得相当于伤害的额外混沌伤害",
-    "被你或在场的友军击败的被诅咒的敌人有的几率爆炸造成其生命上限四分之一的混沌伤害",
-    "辅助任何造成伤害的技能使其获得混沌伤害但造成的其它类型伤害降低",
-    "辅助你自己使用的技能被辅助技能使用时消耗大量灵柩每消耗一个灵柩就能造成更高的混沌伤害",
-    "辅助你自己使用的技能被辅助技能在使用时消耗一个灵柩消耗时造成更高的混沌伤害",
-    "辅助可造成伤害性击中的技能提供额外混沌伤害使混沌伤害作用于冻结积蓄",
-    "辅助可造成伤害性击中的技能提供额外混沌伤害使混沌伤害作用于感电",
-    "辅助可造成伤害性击中的技能提供额外混沌伤害使混沌伤害作用于点燃",
-    "辅助可造成伤害性击中的技能提供额外混沌伤害使混沌伤害粉碎护甲",
-    "辅助造成伤害性击中的法术技能使用被辅助的法术会使你牺牲一部分生命并获得额外的混沌伤害无法辅助永久性技能召唤生物技能或触发技能",
-    "通过对敌人造成混沌伤害来积累荣耀当你拥有满荣耀时可以祈求幻梦者附身于你短暂化身为他的执政官"
-   ]
+   "lines": []
   },
   "us": {
    "name": "Chaos Damage",
@@ -16404,39 +16172,16 @@
    ]
   },
   "cn": {
-   "name": "元素伤害",
+   "name": "元素伤害类型",
    "description": "三种元素伤害类型分别是火焰、冰霜和闪电。",
    "url": "https://poe2db.tw/cn/Elemental_Damage_Types",
-   "lines": [
-    "不羁期间元素伤害总增",
-    "元素伤害",
-    "元素伤害也作用于流血强度",
-    "元素伤害提高",
-    "击中元素伤害在你的生命魔力或能量护盾承受前由屏障承受",
-    "击中元素伤害在你的生命魔力或能量护盾承受前由屏障承受屏障能承受的元素伤害等同于你护甲和闪避值的最高上限为",
-    "击中造成元素伤害在扣除你的生命和能量护盾之前优先从该增益状态上移除",
-    "受到的元素伤害总降",
-    "在目标位置创造一个持续一段时间并静止不动的火焰冰霜或闪电风暴类型由触发风暴的击中的最高元素伤害类型决定不造成元素伤害的击中无法触发风暴",
-    "屏障能够承受等同于你护甲和闪避值的元素伤害",
-    "屏障能承受的元素伤害等同于你护甲和闪避值的最高上限为",
-    "有的元素伤害伤害优先从魔力扣除",
-    "的闪避值也会提供元素伤害减免",
-    "胸甲使的护甲同样作用于元素伤害",
-    "获得等同伤害的个随机元素伤害",
-    "被动地凝聚一道防护性屏障吸收你受到的击中元素伤害直至耗尽屏障停止受到伤害或完全耗尽时它会在短时间后立即回复满值",
-    "辅助任意击中敌人的技能造成更高的元素伤害但无法造成元素异常状态",
-    "辅助造成伤害的技能近期每使用一个不同的元素类型的技能其造成的元素伤害提高无法辅助召唤生物技能"
-   ]
+   "lines": []
   },
   "us": {
-   "name": "Elemental Damage Type",
+   "name": "Elemental Damage Types",
    "description": "The three Elemental damage types are Fire, Cold, and Lightning.",
    "url": "https://poe2db.tw/us/Elemental_Damage_Types",
-   "lines": [
-    "adapttimestothehighestelementaldamagetypeofeachhityoutake",
-    "elementaldamagetype",
-    "lessdamagetakenofeachelementaldamagetypepermatchingadaptation"
-   ]
+   "lines": []
   }
  },
  {
@@ -16935,18 +16680,10 @@
    ]
   },
   "us": {
-   "name": "Totem",
+   "name": "Totems",
    "description": "Totems are allied constructs which use skills for you. Totems are not Minions and their skills benefit from your stats, though they have their own defensive stats and can be damaged or killed.\nTotem Limit is shared between different types of Totem by default.",
    "url": "https://poe2db.tw/us/Totems",
-   "lines": [
-    "increasedtotemdamage",
-    "increasedtotemlife",
-    "modifierstototemlifealsoaffectsminionsfromthisskill",
-    "supportsskillsthathitenemiescausingthemtocreateicefragmentsonkillingfrozenenemiescannotsupporttotemskillsanddoesnotmodifyskillsusedbyminions",
-    "thisskillistriggeredeachtimeyousummonatotemsummoninganancestralspiritminiontofightforyouifthetotemdiesthentheancestralspirittriggeredbyitssummoningwilldietoo",
-    "totem",
-    "triggerancestralspiritswhenyousummonatotem"
-   ]
+   "lines": []
   }
  },
  {
@@ -17555,21 +17292,10 @@
    ]
   },
   "us": {
-   "name": "Slam",
+   "name": "Slams",
    "description": "Slams are Melee Attacks that cause damaging areas of effect, rather than Striking enemies with your weapon directly. Damage from Slams is still Melee damage.",
    "url": "https://poe2db.tw/us/Slams",
-   "lines": [
-    "chanceforslamskillsyouuseyourselftocauseanadditionalaftershock",
-    "everysecondslamskillyouuseyourselfisancestrallyboosted",
-    "everythirdslamskillthatdoesntcreatefissureswhichyouuseyourselfcausesadditionalaftershocksaheadandtoeachsideoftheinitialarea",
-    "slam",
-    "slamskillshaveincreasedareaofeffect",
-    "supportsslamskillsaftershockscausedbysupportedslamskillsalwayscreatepatchesofjaggedground",
-    "supportsslamskillsmakingthemtriggerbramblestocreatehazardousbrambleswhichdamageandmaimenemiesdoesnotmodifyskillsusedbyminionsortotems",
-    "supportsslamskillssupportedskillswillconsumeendurancechargesonusetocreatejaggedgroundcannotsupportskillswhichconsumeendurancecharges",
-    "supportsslamskillsyouuseyourselfhitsfromsupportedskillsareconsideredcrushingblowsagainstenemieswhicharebothignitedandfullyarmourbrokenhitswithsupportedskillsthatheavilystunignitedandfullyarmourbrokenenemieswillintimidatethem",
-    "supportsslamsyouuseyourselfcausingthemtocreatesimultaneousaftershocksbehindtheslambutloweringaftershockdamageandareaofeffectwithsupportedskillscannotsupportskillswhichcreatefissures"
-   ]
+   "lines": []
   }
  },
  {
@@ -19055,70 +18781,16 @@
    "lines": []
   },
   "cn": {
-   "name": "永久性",
+   "name": "永久性技能",
    "description": "永久性技能需要在技能面板中开关，而非正常使用。激活永久性技能通常需要保留精魂。",
    "url": "https://poe2db.tw/cn/Persistent_Skills",
-   "lines": [
-    "永久性",
-    "永久性增益的保留总降",
-    "辅助拥有冷却时间的技能大幅提升其冷却回复速度但使用时会消耗你的生命魔力与能量护盾无法辅助非凡技能永久性技能或影响召唤生物的技能",
-    "辅助有上限数量效果的技能使该上限翻倍但使用被辅助技能时会诅咒你自己仅对明确标注上限词缀的技能生效无法辅助永久性技能",
-    "辅助永久性召唤生物的技能使被辅助的召唤生物为你而被击败后有几率获得一个深渊怪物词缀",
-    "辅助永久性增益技能激活该技能时击败敌人可为你回复生命",
-    "辅助永久性增益技能激活该技能时提高你从药剂获得的生命回复",
-    "辅助永久性增益技能激活该技能时提高你的命中",
-    "辅助永久性增益技能激活该技能时提高你的生命回复速度",
-    "辅助永久性增益技能激活该技能时提高你的魔力回复速度",
-    "辅助永久性增益状态技能激活被辅助技能且低血时提高你造成的攻击伤害",
-    "辅助永久性增益状态技能激活被辅助技能且你的魔力未满时提高你的召唤生物造成的伤害",
-    "辅助永久性增益状态技能激活被辅助技能且能量护盾已满时提高你造成的法术伤害",
-    "辅助永久性增益状态技能激活被辅助技能时提高你造成的荆棘伤害",
-    "辅助永久性增益状态技能激活被辅助技能时缩短对你施加的冻结的持续时间",
-    "辅助永久性增益状态技能激活被辅助技能时缩短对你施加的感电的持续时间",
-    "辅助永久性增益状态技能激活被辅助技能时缩短对你施加的点燃的持续时间",
-    "辅助永久性技能使其改为保留生命而非精魂无法辅助产生召唤生物的技能",
-    "辅助能够产生可复活的永久性召唤生物的技能这些召唤生物被击败时为你吸纳一定比例的最大魔力",
-    "辅助能够产生永久性召唤生物的技能使召唤生物在受到致命伤害后仍会继续战斗并在短时间内死亡",
-    "辅助能够产生永久性召唤生物的技能使召唤生物在受到致命伤害后仍会继续战斗持续一段时间后才会死亡被辅助技能召唤的召唤生物在进入此状态时获得噬魂者和速度爆发",
-    "辅助能够产生永久性召唤生物的技能被辅助的召唤生物被击败时使附近的友军召唤生物回复生命并移除这些召唤生物受到的异常状态",
-    "辅助能够召唤永久性召唤生物的技能被辅助的召唤生物体型变大具有更多生命造成更高的伤害但大幅提高精魂消耗",
-    "辅助造成伤害性击中的法术技能使用被辅助的法术会使你牺牲一部分生命并获得额外的混沌伤害无法辅助永久性技能召唤生物技能或触发技能"
-   ]
+   "lines": []
   },
   "us": {
-   "name": "Persistent",
+   "name": "Persistent Skills",
    "description": "Persistent Skills are toggled in the Skills Panel instead of being used normally and often need to Reserve Spirit in order to be activated.",
    "url": "https://poe2db.tw/us/Persistent_Skills",
-   "lines": [
-    "persistent",
-    "persistentbuffshavelessreservation",
-    "supportspersistentbuffskillscausingenemiesthatenteryourpresencetobecomeintimidatedwhiletheskillisactive",
-    "supportspersistentbuffskillscausingfreezeappliedtoyoutolastforashorterdurationwhilethesupportedskillisactive",
-    "supportspersistentbuffskillscausingigniteappliedtoyoutolastforashorterdurationwhilethesupportedskillisactive",
-    "supportspersistentbuffskillscausingshockappliedtoyoutolastforashorterdurationwhilethesupportedskillisactive",
-    "supportspersistentbuffskillscausingyouperiodicallygrantguardtoalliesinyourpresencewhiletheskillisactive",
-    "supportspersistentbuffskillscausingyourminionstodealincreaseddamagewhileyouarenotonfullmanawhilethesupportedskillisactive",
-    "supportspersistentbuffskillscausingyoutodealincreasedattackdamagewhileonlowlifewhilethesupportedskillisactive",
-    "supportspersistentbuffskillscausingyoutodealincreasedspelldamagewhileonfullenergyshieldwhilethesupportedskillisactive",
-    "supportspersistentbuffskillscausingyoutodealincreasedthornsdamagewhilethesupportedskillisactive",
-    "supportspersistentbuffskillscausingyoutogainincreasedaccuracywhiletheskillisactive",
-    "supportspersistentbuffskillscausingyoutogainincreasedliferecoveryfromflaskswhiletheskillisactive",
-    "supportspersistentbuffskillscausingyoutogainincreasedmanaregenerationwhiletheskillisactive",
-    "supportspersistentbuffskillscausingyoutogainliferegenerationwhiletheskillisactive",
-    "supportspersistentbuffskillscausingyoutoloserunicwardandhealnearbyalliesbasedonthewardlosthealingdoneissplitbetweenallieswhoarenotonfulllife",
-    "supportspersistentbuffskillscausingyoutorecoverlifeonkillwhiletheskillisactive",
-    "supportspersistentbuffskillsprovidingachanceforenemiestocalculatetheirhitsasthoughyourresistanceswerewhiletheskillisactive",
-    "supportspersistentminionskillsgrantingachancewhensupportedminionsdieforyoutogainanabyssalmonstermodifier",
-    "supportspersistentskillsmakingthemreservelifeinsteadofspiritcannotsupportskillswhichcreateminions",
-    "supportsskillsthatcreatepersistentminionscausingthoseminionstofightonwhentheyarefatallywoundeddyingafteradurationminionsfromsupportedskillsgainsouleaterandaburstofspeedonenteringthisstate",
-    "supportsskillsthatcreatepersistentminionscausingthoseminionstofightonwhentheyarefatallywoundeddyingafterashortduration",
-    "supportsskillswhichcreatepersistentminionssupportedminionswillrestorelifetonearbyalliedminionsondeathaswellasremovingailmentsfromthoseminions",
-    "supportsskillswhichcreaterevivingpersistentminionswhenthoseminionsdieyourecoupapercentageofyourmaximummana",
-    "supportsskillswhichhavealimitdoublingthatlimitbutcursingyourselfonsupportedskilluseonlyappliestorestrictionsthatusethewordlimitcannotsupportpersistentskills",
-    "supportsskillswhichsummonpersistentminionssupportedminionsarelargerhavemorelifeanddealmoredamagebutcostsignificantlymorespirit",
-    "supportsskillsyouuseyourselfthathavecooldownsdramaticallyincreasingtherateatwhichthosecooldownsrecoverbutcausingyoutoloselifemanaandenergyshieldwhentheyareusedcannotsupportmetaskillsorpersistentskillsormodifytheskillsofminions",
-    "supportsspellskillswhichcausedamaginghitsusingsupportedspellswillcauseyoutosacrificeaportionofyourlifeonusegainingextrachaosdamageinexchangedoesnotsupportpersistentskillsminionskillsortriggeredskills"
-   ]
+   "lines": []
   }
  },
  {
@@ -21624,66 +21296,16 @@
    "lines": []
   },
   "cn": {
-   "name": "触发",
+   "name": "触发技能",
    "description": "许多效果都可以触发技能。触发技能会立即生效，不需要攻击或施法时间，通常会以触发的源头为目标。触发技能不视作使用该技能。\n如果尝试对同一个技能使用多种触发技能的方式，则该技能会失效。持续吟唱技能无法被触发。",
    "url": "https://poe2db.tw/cn/Triggered_Skills",
-   "lines": [
-    "吟唱每打击铁砧都会被强化你的下近战攻击被强化的攻击击中时触发燃尽",
-    "在目标位置创造一个持续一段时间并静止不动的火焰冰霜或闪电风暴类型由触发风暴的击中的最高元素伤害类型决定不造成元素伤害的击中无法触发风暴",
-    "当你施放一个伤害性的法术时消耗一个暴击球触发一个深渊幻象深渊幻象会和你施放同样的法术无法施放持续吟唱法术具有冷却时间的法术触发法术物品赋予的法术或已消耗一个暴击球的法术此技能无法直接辅助",
-    "攻击时触发每有一个活性鬼灵生成一头雄鹿",
-    "每召唤图腾时都会触发该技能召唤一个先祖之灵召唤生物为你作战如果图腾被击败则其召唤的先祖之灵也会随之而亡",
-    "消耗能量球时触发元素涌动以获得点冰霜增强",
-    "消耗能量球时触发元素涌动以获得点火焰增强",
-    "消耗能量球时触发元素涌动以获得点闪电增强",
-    "被强化的攻击击中时触发燃尽",
-    "被触发法术的法术伤害提高",
-    "触发",
-    "触发三种灾厄之一",
-    "触发元素涌动时获得点更少的闪电增强",
-    "触发夏乌拉的意志",
-    "触发频率提高",
-    "辅助任意你使用或触发的伤害性技能使其消耗怒火以造成更高伤害如果你没有足够的怒火可供消耗伤害加成不会生效",
-    "辅助任意你使用或触发的伤害性技能使其消耗怒火以造成更高伤害有几率不消耗怒火仍然视为消耗并得到增益如果你没有足够的怒火可供消耗伤害加成不会生效",
-    "辅助你使用或你自己触发的攻击使其在击中时消耗被招架的减益状态使你获得一个狂怒球无法辅助本就可以消耗被招架的减益状态的技能",
-    "辅助你使用或你自己触发的近战攻击技能被辅助技能对流血的敌人造成最后一击会产生一个赤色残片收集赤色残片会在短时间里提高你的生命回复速度",
-    "辅助你使用或你自己触发的近战攻击被辅助技能对流血的敌人造成最后一击产生的击败效果有几率生效两",
-    "辅助你使用的持续吟唱技能在持续吟唱被辅助技能时会周期性获得致命决心层数之后当你被击中时消耗一层致命决心触发一致命的斩击造成的伤害会基于你的护甲提高",
-    "辅助你自己使用或你自己触发的技能被辅助技能无法以任何方式消耗能量球或灌注无法辅助需要消耗能量球或灌注才能使用的技能",
-    "辅助你自己使用或你自己触发的攻击使其使用时消耗符文结界并根据其消耗的符文结界值造成额外物理伤害无法辅助持续吟唱技能持续性技能或或无消耗的技能",
-    "辅助你自己使用或你自己触发的攻击使其使用时消耗符文结界并根据消耗的符文结界值造成额外的物理和冰霜伤害此外物理伤害也会作用于冻结积蓄无法辅助持续吟唱技能持续性技能或无消耗的技能",
-    "辅助你自己使用或自己触发的造成伤害性击中的技能当你受到异常状态影响时被辅助技能造成的同类异常状态更为强大并且会移除你受到的同类异常状态",
-    "辅助你自己使用的能击中敌人的法术当被辅助的法术造成暴击时在最近敌人的位置触发阿兹里风暴",
-    "辅助你自己施放的非瞬发法术被辅助的法术将触发破碎拟像创造一个破碎拟像若你获得足够数量的拟像它们将施放该法术",
-    "辅助可击中敌人的技能使用被辅助的技能击中并使敌人感电会触发静电脉冲使该敌人成为一个闪电伤害源向附近的敌人释放脉冲",
-    "辅助可击中敌人的技能使用被辅助的技能感电敌人会触发奔雷疾走向附近处于浸湿状态的敌人发射连锁的闪电投射物",
-    "辅助战吼技能触发腐化战吼对其效果范围内的敌人施加腐化之血",
-    "辅助战吼技能触发腐化战吼消耗生命对其效果范围内的敌人施加腐化之血",
-    "辅助攻击使被你重度晕眩的敌人脚下爆发出符文震波该冲击波消耗符文结界若你的符文结界不足则不会触发",
-    "辅助有冷却时间的技能使其获得额外的冷却时间使用数在技能被使用并进入冷却时为你回复生命无法辅助非凡技能瞬发技能或触发技能不能调整召唤生物技能",
-    "辅助有冷却时间的技能使其获得额外的冷却时间使用数无法辅助非凡技能瞬发技能或触发技能不能调整召唤生物技能",
-    "辅助猛击技能使其触发触发荆棘制造出会造成伤害并瘫痪敌人的危害性荆棘无法修改召唤生物或图腾使用的技能",
-    "辅助触发其他技能的技能被辅助技能所触发的技能的伤害在被触发时随机增减触发时还会随机恢复一定比例的消耗",
-    "辅助触发其他技能的技能被辅助技能触发的技能在被触发时伤害效果范围和投射物速度随机增减被触发时还会随机回复一定消耗",
-    "辅助造成伤害性击中的法术技能使用被辅助的法术会使你牺牲一部分生命并获得额外的混沌伤害无法辅助永久性技能召唤生物技能或触发技能",
-    "辅助非凡技能被辅助技能触发或祈唤其他技能时有几率返还消耗的一部分能量",
-    "近战暴击时触发猛烈引爆弧光箭或冰霜波",
-    "通过元素伤害击中敌人来积攒荣耀当荣耀达到上限时你可在一段时间内化身为行走的天灾该增益状态持续期间将间歇性随机触发多种强力元素技能之一",
-    "闪避翻滚时该技能会通过消耗一根原始枭之羽毛触发"
-   ]
+   "lines": []
   },
   "us": {
-   "name": "Triggers",
+   "name": "Triggered Skills",
    "description": "Many effects can cause a Skill to Trigger. A Triggered Skill occurs immediately, without an attack or cast time, and usually targets the cause of the trigger. Triggering a Skill does not count as using it.\nIf multiple methods of Triggering a Skill attempt to apply to the same skill, that skill will be disabled. Channelled Skills cannot be Triggered.",
    "url": "https://poe2db.tw/us/Triggered_Skills",
-   "lines": [
-    "increasedfrequencyoftriggers",
-    "supportsskillswhichcanhitenemiesshockinganenemywithhitsfromsupportedskillstriggersstaticshockscausingthatenemytobecomeasourceoflightningdamagesendingpulsestowardsnearbyenemies",
-    "supportsskillswhichhitenemiesshockinganenemywithsupportedskillstriggerscoursingcurrentwhichsendschaininglightningprojectilestonearbydrenchedenemies",
-    "triggers",
-    "triggersfieryexplosionarcingboltoricywaveonmeleecriticalhit",
-    "triggersoneofthreedisasterseveryseconds"
-   ]
+   "lines": []
   }
  },
  {
@@ -21775,13 +21397,10 @@
    "lines": []
   },
   "us": {
-   "name": "Conditional",
+   "name": "Conditional Usage",
    "description": "Skills which are Conditional require some sort of condition to be met before they can be used. Combo is an example of this, but almost anything can be a condition, such as having to have killed a certain number of enemies Recently or having to have moved a certain distance.",
    "url": "https://poe2db.tw/us/Conditional_Usage",
-   "lines": [
-    "channeltocreatefleetingimagesofyourastralselfnearthetargetlocationtheimagesperformasocketedmeleeattackoncethenvanishtargetingtheclosestenemyifpossibletheimagescannotperformchannelledskillsorconditionalskillsconsumingapowerchargecreatesadditionalimages",
-    "conditional"
-   ]
+   "lines": []
   }
  },
  {
@@ -22032,23 +21651,16 @@
    "lines": []
   },
   "cn": {
-   "name": "持续性",
+   "name": "持续性技能",
    "description": "持续性技能会在一定时间里造成多次击中，每次对敌人造成伤害时都会独立结算暴击，而非和其他技能一样仅结算一次。",
    "url": "https://poe2db.tw/cn/Sustained_Skills",
-   "lines": [
-    "持续性",
-    "辅助你自己使用或你自己触发的攻击使其使用时消耗符文结界并根据其消耗的符文结界值造成额外物理伤害无法辅助持续吟唱技能持续性技能或或无消耗的技能",
-    "辅助你自己使用或你自己触发的攻击使其使用时消耗符文结界并根据消耗的符文结界值造成额外的物理和冰霜伤害此外物理伤害也会作用于冻结积蓄无法辅助持续吟唱技能持续性技能或无消耗的技能"
-   ]
+   "lines": []
   },
   "us": {
-   "name": "Sustain",
+   "name": "Sustained Skills",
    "description": "Sustained skills cause a large number of Hits over a period of time. They roll for Critical Hits independently each time they damage enemies, rather than rolling once for the entire skill as other skills do.",
    "url": "https://poe2db.tw/us/Sustained_Skills",
-   "lines": [
-    "loseamountainsteachingwhenyouarehitorwhenyouuseorsustainanattackthatbenefitsfrommountainsteachings",
-    "sustain"
-   ]
+   "lines": []
   }
  },
  {
@@ -24956,13 +24568,10 @@
    ]
   },
   "us": {
-   "name": "Talisman",
+   "name": "Talismans",
    "description": "Talismans are Two-Handed Melee weapons that require Strength and Intelligence to equip.\nTalismans allow you to use Shapeshifting Skills associated with the Talisman's current form, and grants a basic Attack for that form. You can change the Talisman's form at any time.\nWhile you have a Talisman in your active weapon set you will Shapeshift into its associated form. As a result, Skills that cannot be used in a Shapeshift form cannot be used with Talismans. Triggered Skills and Persistent Skills will continue to function.",
    "url": "https://poe2db.tw/us/Talismans",
-   "lines": [
-    "requiresanynontalismanmeleemartialweapon",
-    "talisman"
-   ]
+   "lines": []
   }
  },
  {
@@ -25555,13 +25164,10 @@
    ]
   },
   "us": {
-   "name": "Leeched",
+   "name": "Life Leech",
    "description": "When you deal damage with a Hit, Life Leech causes you to recover an amount of Life to a percentage of the damage dealt, over a period of one second.\nHits that deal more than 40,000 total damage are treated as though they only dealt 40,000 damage for this calculation. If this damage is of multiple Damage Types, the ratios between them will stay the same.\nMonsters have Leech Resistance that increases with monster level, reducing how much you recover from Leech from Hits against them.\nYou can only recover from a single instance of Life Leech at a time, and all Life Leech is removed when Life is filled.",
    "url": "https://poe2db.tw/us/Life_Leech",
-   "lines": [
-    "increasedamountoflifeleeched",
-    "leeched"
-   ]
+   "lines": []
   }
  },
  {
@@ -26652,13 +26258,10 @@
    ]
   },
   "us": {
-   "name": "Reserve",
+   "name": "Reservation",
    "description": "Reservation effects prevent a portion of a given resource — usually Spirit, though it can also be Life or Mana — from being used for other purposes while active. Reserving a resource does not change the maximum value of that resource.",
    "url": "https://poe2db.tw/us/Reservation",
-   "lines": [
-    "reserve",
-    "supportspersistentskillsmakingthemreservelifeinsteadofspiritcannotsupportskillswhichcreateminions"
-   ]
+   "lines": []
   }
  },
  {
@@ -29606,14 +29209,10 @@
    "lines": []
   },
   "us": {
-   "name": "Magnitudes",
+   "name": "Buff/Debuff Magnitude",
    "description": "The Magnitudes of a Buff or Debuff are the values of the stats it applies to the target. A Buff or Debuff with higher magnitudes is more powerful.\nModifiers to the Magnitude of Buffs or Debuffs come from whoever applies it and are multiplicative with modifiers to the Effect the Buff or Debuff has on the target.",
    "url": "https://poe2db.tw/us/Buff_Debuff_Magnitude",
-   "lines": [
-    "contributestoflammabilityandignitemagnitudes",
-    "increasedcursemagnitudes",
-    "magnitudes"
-   ]
+   "lines": []
   }
  },
  {
@@ -33013,13 +32612,10 @@
    "lines": []
   },
   "us": {
-   "name": "Gained",
+   "name": "Damage Gained as extra X",
    "description": "Damage gained as a specific damage type only scales with modifiers to the new type, not with modifiers to the source damage's type (unless they're the same type).\nFor example, Lightning damage gained from Physical damage scales with Lightning damage modifiers, but not Physical damage modifiers.\nDamage Gain occurs in the same two step process as Damage Conversion. Damage over time cannot benefit from damage Gain.",
    "url": "https://poe2db.tw/us/Damage_Gained_as_extra_X",
-   "lines": [
-    "gained",
-    "supportsskillswhichcandamageenemieswithhitscausingallsourcesofdamagegainedtoinsteadbetreatedasdamagegainedasextracoldforsupportedskills"
-   ]
+   "lines": []
   }
  },
  {
@@ -34463,14 +34059,10 @@
    ]
   },
   "us": {
-   "name": "Frenzy Charges",
+   "name": "Charges",
    "description": "Charges can be gained from a number of Skills, passives, and other effects. They do not grant any inherent benefits, but can be consumed to fuel many skills and other effects. Charges last for 15 seconds by default, refreshing whenever you gain another charge of the same type.\nThere are three types of Charges — Endurance, Frenzy and Power. By default players can have up to 3 of each type of Charge at once.",
    "url": "https://poe2db.tw/us/Charges",
-   "lines": [
-    "benefitsfromconsumingfrenzychargesforyourskillshavechancetobedoubled",
-    "frenzycharges",
-    "supportsskillsthatyouuseyourselfsupportedskillswillconsumeafrenzychargeonuseifpossibleandwillgainsignificantskillspeediftheydobutcannotgeneratefrenzychargescannotsupportskillswhichconsumefrenzycharges"
-   ]
+   "lines": []
   }
  },
  {
@@ -35227,13 +34819,10 @@
    ]
   },
   "us": {
-   "name": "Fully Broken",
+   "name": "Armour Break",
    "description": "Some Skills, Items, Support Gems and other effects can Break Armour, which lowers a target's Armour by a specified amount. If this brings the target's Armour value to 0, their Armour is Fully Broken for 12 seconds, or 4 seconds for players. On top of not benefitting from Armour, non-player targets with Fully Broken Armour take 20% increased Physical damage from Hits.\nPlayers Break 3 times Armour against Normal Monsters and 2 times Armour against Magic Monsters.",
    "url": "https://poe2db.tw/us/Armour_Break",
-   "lines": [
-    "fullybroken",
-    "supportsanyskillthathitsenemiescausingpoisonitappliestoalsobreakenemyarmourcannotsupportskillsthatconsumefullybrokenarmour"
-   ]
+   "lines": []
   }
  },
  {
@@ -36258,15 +35847,10 @@
    ]
   },
   "us": {
-   "name": "Immobilisation",
+   "name": "Immobilised",
    "description": "A target is immobilised if it cannot move, for example due to being Frozen, Pinned, Heavy Stunned, or Electrocuted.",
    "url": "https://poe2db.tw/us/Immobilised",
-   "lines": [
-    "immobilisation",
-    "increasedimmobilisationbuildup",
-    "moreimmobilisationbuildup",
-    "sendoutatemporalnovatotakeadvantageofenemiesmomentofvulnerabilityhittingenemiesthatareprimedforstunelectrocutionorfreezecausesavisageofthemtoappearlastingaslongastheoriginaltargetwouldhavebeenaffectedbytheformofimmobilisationusedtocreatethevisageaportionofthedamagedealttovisagesisalsodealttotheoriginal"
-   ]
+   "lines": []
   }
  },
  {
@@ -36342,13 +35926,10 @@
    ]
   },
   "us": {
-   "name": "Invoking",
+   "name": "Invoke",
    "description": "Invoked Skills are those Triggered by Invocation Skills.",
    "url": "https://poe2db.tw/us/Invoke",
-   "lines": [
-    "invoking",
-    "supportsmetaskillssupportedskillsgainachancetopartiallyrefundaportionofenergycostwhentriggeringorinvokingotherskills"
-   ]
+   "lines": []
   }
  },
  {
@@ -36910,49 +36491,10 @@
    ]
   },
   "us": {
-   "name": "Spell",
+   "name": "Spells",
    "description": "Spells are skills that use raw magic to destroy your enemies. Attacks are not Spells.\nSpells have their own base damage, cast speed and Critical Hit chance determined by the skill. They do not benefit from a weapon's inherent damage, attack speed or Critical Hit chance.",
    "url": "https://poe2db.tw/us/Spells",
-   "lines": [
-    "castingthematchingspellbeforethenext",
-    "castingthematchingspellbeforethenextnvisageappearsempowersthatspellnempoweredspellsdealmoredamage",
-    "channelandcommandkelaritochannelalongsideyoucreatingbladesthathangoverthetargetlocationthelongeryouchannelthemorebladeskelariwillcreateuponreleasehisbladesplungeintothegroundandcreateshockwavesthatdealspelldamage",
-    "commandkelaritocreateablastatthetargetlocationthatdealsspelldamageandleavebehindaclonethatpersistsforashortdurationthisskillcanstoremultiplechargesandusingitagainwhileaclonefromaprevioususeisstillalivecausesthatclonetoexplodedealingevenmoredamage",
-    "commandkelaritothrowavolleyofknivesatthetargetlocationtheknivesburrowintothegroundtheneruptintotheairafterashortdelaydealingspelldamage",
-    "commandnaviratofractureallnearbyareasofchilledgroundthathaveenemiesstandingonthemdoinghighspelldamagewithextremefreezepotential",
-    "commandruzhantoconjuretwovolleysofflamingembersandfirethemforwardtheembersexplodeonimpactdealingspelldamage",
-    "commandruzhantohurlhisgreatswordspreadinghazardousrunesonthegroundwhereitlandsifanenemystepsonaruneiteruptsinafierytornadothatdealsspelldamage",
-    "commandruzhantoplaceafierybrandonanenemyafteradelayorwhendetonatedthebrandexplodesdealingspelldamagetoenemiescaughtintheblast",
-    "commandruzhantoteleporttothetargetlocationuponarrivalthedjinndealsspelldamagetoenemiesaroundhimthenslamshisblazingswordintothegroundcreatingawaveoflavathatalsodealsspelldamage",
-    "consumeapowerchargewhenyoucastadamagingspelltotriggeranabyssalapparitionwhowillalsocastthatsamespellforyoudoesnotworkwithchannellingspellsspellswithacooldowntriggeredspellsspellsgrantedbyitemsorspellswhichalreadyconsumeapowerchargethisskillisnotdirectlysupportable",
-    "dealmorespelldamageperdemonflame",
-    "everyragealsograntsmorespelldamage",
-    "gainelementalarchonwhenyoucastaspellwhileonhighinfernalflame",
-    "increasedspelldamage",
-    "morevisagefrequencyperspellvisagescouldcast",
-    "ofspelldamageleechedaslife",
-    "sacrificeofmaximumenergyshieldwhenyoucastaspell",
-    "shapeshiftintoademonvastlyboostingthepowerofyourspellsyougaindemonflameeverysecondyouremainindemonformcausingyourlifetobelostataneverincreasingratemaximumdemonflamereverttohumanformifyoureachlifeuseaskillthatisntaspellorreactivatethisskill",
-    "spell",
-    "supportsanyspellthathitsenemiescausingittoconsumeelementalailmentsonhittotriggeranelementaldischargecannotsupporttheskillsofminionsorskillswhichalreadyconsumeelementalailments",
-    "supportsanyspellthathitsenemiescausingittotriggeramanaflareoncriticalhitthemanaflareconsumesyourmanatodealfiredamagecannotsupporttheskillsofminions",
-    "supportscascadablespellsyoucastyourselfsealingthemwhenyoublockthesealsarebrokenwhenusedeachmakingthespellechocannotsupportskillswithacooldownorwhichalreadygainseals",
-    "supportsfirespellskillscausingyoutogainelementalarchonwhenignitingwiththem",
-    "supportsnoninstantspellsyoucastyourselfsupportedspellswilltriggerfragmentselfcreatingafracturedmimicwhichwillcastthatspellifyougetenoughofthem",
-    "supportspersistentbuffskillscausingyoutodealincreasedspelldamagewhileonfullenergyshieldwhilethesupportedskillisactive",
-    "supportsrepeatablespellsyoucastyourselfsealingthemovertimeandgivingthemamoderatecooldownthesealsarebrokenwhencasteachcausingthespelltorepeatcannotsupportskillswhichalreadyhaveacooldownorgainseals",
-    "supportsskillswhichhitenemiesheavystunninganenemywithsupportedskillsincreasesyourspelldamageforaduration",
-    "supportsspellscausingthemtocastfasterforeachdifferentspellyouvecastinthelasteightseconds",
-    "supportsspellskillssupportedskillsdealmoredamagewhileyouareaboveofyourmaximummanadoesnotmodifyskillsusedbyminions",
-    "supportsspellskillssupportedskillshaveincreasedmanacostefficiencyanddealmoredamagewhileyouareaboveofyourmaximummanadoesnotmodifyskillsusedbyminions",
-    "supportsspellskillsthatfireprojectilescausingincreasesandreductionstocastspeedtoalsoapplytoprojectilespeed",
-    "supportsspellskillsthathitenemiesandyoucastyourselfboostingdamageatthecostofcastspeed",
-    "supportsspellskillswhichcausedamaginghitsusingsupportedspellswillcauseyoutosacrificeaportionofyourlifeonusegainingextrachaosdamageinexchangedoesnotsupportpersistentskillsminionskillsortriggeredskills",
-    "triggeredspellsdealincreasedspelldamage",
-    "visageappearsempowersthatspell",
-    "whileactivepassivelyleavesafterimagesofyourrecentpastcastthespelltoreturntotheoldestafterimageteleportingtothatlocationandresettingyourlifemanaandenergyshieldtothevaluestheyhadatthetimeremovesanyupcomingdamagedelayedbyphasedformonuse",
-    "whileactivevisagesofyourselffromalternatetimelineswilloccasionallyappearandcastoneofyourspellsfromyourfirstvalidweaponsetuntilthenextvisageappearsyournextcastofthesamespellalignsyourfateempoweringthatspellvisagescanonlycastdamagingnonchannellingnonbuffspellsyoucouldcastthathavenocooldown"
-   ]
+   "lines": []
   }
  },
  {
@@ -40633,18 +40175,10 @@
    ]
   },
   "us": {
-   "name": "Martial Weapon",
+   "name": "Martial Weapons",
    "description": "Martial Weapons can be used to Attack. Axes, Bows, Claws, Crossbows, Daggers, Flails, Maces, Quarterstaves, Spears, Swords, and Talismans are Martial Weapons.",
    "url": "https://poe2db.tw/us/Martial_Weapons",
-   "lines": [
-    "channeltotemperyourmainhandmeleemartialweaponeachhitofthehammeragainsttheanvilempowerssubsequentattackstocombustwhenhittingenemies",
-    "manifestacopyofyourmainhandmeleemartialweaponasanimmortalcompaniontofightbyyoursideinadditiontoitsstandardstrikesthemanifestedweapongainsanadditionalattackdependingonitsweapontype",
-    "martialweapon",
-    "requiresanymartialweapon",
-    "requiresanymartialweaponunarmed",
-    "requiresanymeleemartialweapon",
-    "requiresanynontalismanmeleemartialweapon"
-   ]
+   "lines": []
   }
  },
  {
@@ -40943,14 +40477,10 @@
    ]
   },
   "us": {
-   "name": "Focus",
+   "name": "Foci",
    "description": "Foci are armour items that are equipped in your off hand and require Intelligence to equip.\nFoci can grant significant amounts of Energy Shield and powerful bonuses to your Spells.",
    "url": "https://poe2db.tw/us/Foci",
-   "lines": [
-    "focus",
-    "reducedbonusesgainedfromequippedfocus",
-    "youcanequipafocuswhilewieldingastaff"
-   ]
+   "lines": []
   }
  },
  {
@@ -41186,13 +40716,10 @@
    ]
   },
   "us": {
-   "name": "Shield",
+   "name": "Shields",
    "description": "Shields are defensive items that are equipped in your off hand, usually granting Armour. While holding a Shield you have a chance to passively Block. Shields also grant a Skill that lets you Block incoming Hits more actively, either raising your Shield to absorb the Hit or Parrying the Hit depending on the type of Shield.\nBucklers are a special type of Shield that do not grant any Armour and can Parry enemy skills instead of being raised to Block.",
    "url": "https://poe2db.tw/us/Shields",
-   "lines": [
-    "gainbasechancetoblockfromequippedshieldinsteadoftheshieldsvalue",
-    "shield"
-   ]
+   "lines": []
   }
  },
  {
@@ -41779,16 +41306,10 @@
    ]
   },
   "us": {
-   "name": "Recouped",
+   "name": "Recoup",
    "description": "When you take damage from a Hit, Recoup causes you to recover an amount of the stated resource equal to a percentage of the damage you took over 8 seconds.",
    "url": "https://poe2db.tw/us/Recoup",
-   "lines": [
-    "commandnaviratoturnnearbychilledgroundintonavirasoasisamiragewhichgrantsyouandalliesstandinginitflaskchargesanddamagerecoupedaslifeandmanaplantsintheareabecomeovergrown",
-    "oasisgrantsofdamagetakenrecoupedaslife",
-    "oasisgrantsofdamagetakenrecoupedasmana",
-    "recouped",
-    "supportsskillsthatcreatecompanionswhichcanbedamagedminionscreatedbysupportedskillstakeaportionofhitdamageyouwouldotherwisehavetakenbuthaveloweredmaximumlifeapercentageofdamagetakenthiswayisrecoupedbyyouaslife"
-   ]
+   "lines": []
   }
  },
  {
@@ -43228,14 +42749,10 @@
    ]
   },
   "cn": {
-   "name": "存在",
+   "name": "在场",
    "description": "在场范围指的是角色周围的产生某些特定效果的范围（例如光环的生效范围）。该范围默认为 4 米，可以被在场范围词缀调整，但不受技能范围词缀影响。",
    "url": "https://poe2db.tw/cn/Presence",
-   "lines": [
-    "存在",
-    "辅助持续性增益状态技能技能激活时定期为你存在范围内的盟友提供防卫",
-    "辅助持续性增益状态技能技能激活时进入你存在范围内的敌人会被威吓"
-   ]
+   "lines": []
   },
   "us": {
    "name": "Presence",
@@ -43887,13 +43404,10 @@
    ]
   },
   "us": {
-   "name": "Allied",
+   "name": "Allies",
    "description": "Your allies include other players, Minions, and any other entity that fights alongside you and has its own stats.\nYou do not count as your own Ally.",
    "url": "https://poe2db.tw/us/Allies",
-   "lines": [
-    "allied",
-    "supportsskillswhichcreatepersistentminionssupportedminionswillrestorelifetonearbyalliedminionsondeathaswellasremovingailmentsfromthoseminions"
-   ]
+   "lines": []
   }
  },
  {
@@ -44344,13 +43858,10 @@
    "lines": []
   },
   "us": {
-   "name": "Commandable Minions",
+   "name": "Minion Commands",
    "description": "Some Minions can be Commanded to perform certain actions. This requires you to use the corresponding Command skill, which will cause one of your Minions to carry out the Command.",
    "url": "https://poe2db.tw/us/Minion_Commands",
-   "lines": [
-    "commandableminions",
-    "supportscommandableminionscausingyouandthesupportedminiontogainunholymightwhenyoucommandthem"
-   ]
+   "lines": []
   }
  },
  {
@@ -44695,17 +44206,10 @@
    ]
   },
   "us": {
-   "name": "Charm",
+   "name": "Charms",
    "description": "Charms are protective trinkets you can equip that automatically trigger a defensive effect when a specific condition is met. Similar to Flasks, Charms require charges to trigger. Charm charges can be regained by killing monsters, granting charges equal to half of the monster's Power. Checkpoints and Wells completely recharge Charms when activated.\nThe maximum number of Charm slots is capped at 3.",
    "url": "https://poe2db.tw/us/Charms",
-   "lines": [
-    "charm",
-    "charmslots",
-    "increasedcharmchargesgained",
-    "morecharmchargesgained",
-    "supportsanyskillthathitsenemiescausingenemiesitkillstograntmoreflaskandcharmcharges",
-    "tospiritforeachofyouremptycharmslots"
-   ]
+   "lines": []
   }
  },
  {
@@ -44987,19 +44491,10 @@
    ]
   },
   "us": {
-   "name": "Remnant",
+   "name": "Remnants",
    "description": "Remnants are lingering objects in the world which are generally created by player Skills. Walking over a Remnant collects it to grant a bonus based on the type of Remnant. Remnants will generally disappear if not collected for some time.",
    "url": "https://poe2db.tw/us/Remnants",
-   "lines": [
-    "chancetospawnaremnantonkillinganenemy",
-    "drinkthebloodofyourenemiestorestoreyourlifewhileactiveenemiesyoukillhaveachancetospawnaliferemnantandhittingatargetspawnsaliferemnanteveryfewsecondspickingupaliferemnantgrantsyoulifewhichcanoverflowmaximumlife",
-    "eachremnantgrantslife",
-    "remnant",
-    "spawnaremnantonhittingatargetnomorethanonceeveryseconds",
-    "supportsanyskillthatdealsdamageenemiesyoukillwithsupportedskillshaveachancetodropaverisiuminfusionremnant",
-    "supportsmeleeattackskillsyouuseortriggeryourselfkillingblowswithsupportedskillsonbleedingenemiescreateabloodremnantbloodremnantsincreaseyourliferegenerationrateforashortwhileafterbeingcollected",
-    "supportsskillswhichcreateremnantsallowingthoseremnantstobecollectedfromfurtherawaywithachancetocreateanadditionalremnant"
-   ]
+   "lines": []
   }
  },
  {
@@ -46811,32 +46306,16 @@
    ]
   },
   "cn": {
-   "name": "减益状态",
+   "name": "减益",
    "description": "减益状态是负面效果，可以造成伤害，或扣除实体的属性。效果会持续一定时间，或在满足条件时持续生效。\n除非另有说明，否则同类减益状态无法叠加，仅有最强效的减益状态能够生效。",
    "url": "https://poe2db.tw/cn/Debuffs",
-   "lines": [
-    "减益状态",
-    "对区域内的所有目标施加一个减益状态其承受的部分击中伤害会被减益状态追踪减益状态结束时或当追踪的伤害足以击杀目标时目标将一性承受等同于追踪伤害量的生命损失",
-    "辅助你使用或你自己触发的攻击使其在击中时消耗被招架的减益状态使你获得一个狂怒球无法辅助本就可以消耗被招架的减益状态的技能",
-    "辅助能够对敌人造成伤害的技能被辅助技能的非伤害性异常状态造成的持续伤害会使敌人的生命回复速度降低仅有最强效的该减益状态能够生效无法辅助召唤生物使用的技能",
-    "辅助造成非异常状态的持续伤害的法术缩短持续时间但大幅提高对满血敌人施加的减益状态所造成的持续伤害"
-   ]
+   "lines": []
   },
   "us": {
-   "name": "Debuff",
+   "name": "Debuffs",
    "description": "Debuffs are negative effects that deal damage or penalise an entity's stats, either for a set duration or when a condition is met.\nUnless otherwise stated, Debuffs of the same type do not stack — only the copy with the strongest effect applies.",
    "url": "https://poe2db.tw/us/Debuffs",
-   "lines": [
-    "cullsenemiesifdebuffreachescullingstrikethreshold",
-    "debuff",
-    "debuffalltargetsinanareacausingaportionofdamagetheytakefromhitstobetrackedbythedebuffwhenthedebuffsdurationexpiresorcankillthetargetthetargetloseslifeequaltothattrackeddamageallatonce",
-    "debuffdurationisseconds",
-    "debuffedtargetsloselifeequaltoofhitdamagedealttothemwhiledebuffedwhendebuffexpires",
-    "debuffedtargetsloselifeequaltoofhitdamagedealttothemwhiledebuffedwhendebuffexpiresncullsenemiesifdebuffreachescullingstrikethreshold",
-    "generatesofmonsterpowerasgloryforthisskillondealingchaoshitdamagetoanenemyorinflictingachaosdamageovertimedebuffonanenemy",
-    "supportsattacksyouuseortriggeryourselfcausingthemtoconsumetheparrieddebuffonhittograntyouafrenzychargecannotsupportskillswhichalreadyconsumetheparrieddebuff",
-    "supportsskillswhichcandamageenemiesenemiesaffectedbydamageovertimefromsupportedskillswhichwasnotcausedbyadamagingailmenthavereducedliferegenerationrateonlythestrongestinstanceofthisdebuffwillapplydoesnotsupportskillsusedbyminions"
-   ]
+   "lines": []
   }
  },
  {
@@ -46973,15 +46452,10 @@
    ]
   },
   "us": {
-   "name": "Slows",
+   "name": "Slow",
    "description": "Slows are modifiers from Debuffs that cause actions to take longer. Slows can apply to a specific stat (such as attack speed or movement speed) — if a specific type of slow is not specified, it applies to everything the affected entity does. Slows are always multiplicative with each other.\nHigher Rarity enemies are less affected by Slows:\n15% less Slow effect on Magic monsters\n30% less Slow effect on Rare monsters\n50% less Slow effect on Unique monsters\nAdditionally, Slows have 10% less effect on all monsters for each player in the area beyond the first and monsters cannot be slowed below 25% of their base speed.",
    "url": "https://poe2db.tw/us/Slow",
-   "lines": [
-    "conjureachaostornadothatchasesdownandslowsenemies",
-    "slows",
-    "supportsanyskillcausinginflictedslowstobemorepowerful",
-    "yourspeedisunaffectedbyslows"
-   ]
+   "lines": []
   }
  },
  {
@@ -47295,13 +46769,10 @@
    ]
   },
   "us": {
-   "name": "Damaging Ailment",
+   "name": "Damaging Ailments",
    "description": "Ailments that deal damage are Bleeding, Ignite, and Poison.",
    "url": "https://poe2db.tw/us/Damaging_Ailments",
-   "lines": [
-    "damagingailment",
-    "supportsskillswhichcandamageenemiesenemiesaffectedbydamageovertimefromsupportedskillswhichwasnotcausedbyadamagingailmenthavereducedliferegenerationrateonlythestrongestinstanceofthisdebuffwillapplydoesnotsupportskillsusedbyminions"
-   ]
+   "lines": []
   }
  },
  {
@@ -47636,22 +47107,16 @@
    ]
   },
   "cn": {
-   "name": "灌注",
+   "name": "元素灌注",
    "description": "某些技能在满足特定条件时会创造元素灌注残片。拾取残片会使你获得灌注，持续 20 秒或直到被其他技能消耗。默认情况下，你最多可拥有 3 个同类别灌注。\n能够消耗灌注的技能会明确说明它们可以消耗的灌注类型以及消耗的受益。如果技能重复或再次发生，每次都必须单独消耗一个灌注来获得效果。",
    "url": "https://poe2db.tw/cn/Elemental_Infusions",
-   "lines": [
-    "灌注",
-    "辅助你自己使用或你自己触发的技能被辅助技能无法以任何方式消耗能量球或灌注无法辅助需要消耗能量球或灌注才能使用的技能"
-   ]
+   "lines": []
   },
   "us": {
-   "name": "Infusion",
+   "name": "Elemental Infusions",
    "description": "Some Skills create Elemental Infusion Remnants when specific conditions are met. Picking up the Remnant grants you the Infusion for 20 seconds or until it is Consumed by another Skill. You can have up to 3 of each Infusion by default.\nSkills that can Consume Infusions specifically mention the type(s) of Infusion they can Consume and the benefits for doing so. If a Skill repeats or reoccurs, each of them must Consume an Infusion separately to gain the effect.",
    "url": "https://poe2db.tw/us/Elemental_Infusions",
-   "lines": [
-    "infusion",
-    "supportsanyskillyouuseortriggeryourselfsupportedskillscannotconsumechargesorinfusionbyanymeanscannotsupportskillswhichrequirechargesorinfusiontobeused"
-   ]
+   "lines": []
   }
  },
  {
@@ -49145,13 +48610,10 @@
    "lines": []
   },
   "us": {
-   "name": "contributes",
+   "name": "Damage Contributing to Ailments",
    "description": "By default, specific Ailments are calculated based on only specific damage types, such as only the Fire damage of a Hit mattering when inflicting Ignite.\nAllowing another damage type to contribute to an Ailment means that all damage of the relevant types is summed when performing calculations for that Ailment.\nFor Ailments that use Hit damage to determine Ailment chance or buildup, this means that the damage type becomes capable of inflicting that Ailment. For Ailments that only use Hit damage to determine Ailment Magnitude (i.e. Bleeding and Poison), you still need a way to apply those Ailments (e.g. a source of Bleeding or Poison chance).",
    "url": "https://poe2db.tw/us/Damage_Contributing_to_Ailments",
-   "lines": [
-    "contributes",
-    "contributestoflammabilityandignitemagnitudes"
-   ]
+   "lines": []
   }
  },
  {
@@ -51330,10 +50792,12 @@
    ]
   },
   "us": {
-   "name": "Biome",
+   "name": "Non-City",
    "description": "Biomes are found throughout Endgame Maps.\nGrass, Forest, Swamp, Desert, Mountain and Water Biomes are all commonly found.\nCities and special biomes are less likely to be encountered.",
    "url": "https://poe2db.tw/us/Biome",
-   "lines": []
+   "lines": [
+    "summoningcirclesinnoncityareashavechancetoinstead"
+   ]
   }
  },
  {
@@ -51872,10 +51336,25 @@
    ]
   },
   "us": {
-   "name": "Shrine",
+   "name": "Shrines",
    "description": "Shrines are Precursor Artifacts that empower monsters with its Presence with various effects.\nDefeat all the monsters Worshipping the Shrine and interact with it to temporarily gain the power for yourself.",
    "url": "https://poe2db.tw/us/Shrine",
-   "lines": []
+   "lines": [
+    "additionalshrines",
+    "chanceforshrinestohaveanadditionaleffect",
+    "fariduncitiescontainadditionalshrines",
+    "increasedchanceofshrines",
+    "increasedchanceofshrinesinmountainareas",
+    "increasedchanceofshrinesinwaterareas",
+    "increasedchancetoencountercertainshrines",
+    "increaseddurationofbuffsgrantedbyshrines",
+    "increasedeffectofbuffsgrantedbyshrines",
+    "increasedeffectofbuffsgrantedbyshrinesinmountainareas",
+    "shrines",
+    "shrineshaveachancetomanifestanazmerispirittheshrinebuffisreappliedwhenitpossessesamonster",
+    "shrineshavechancetobebeworshippedbyarogueexile",
+    "shrinesinwaterareasareworshippedbyadditionalpacksofmonsters"
+   ]
   }
  },
  {
@@ -51964,10 +51443,31 @@
    ]
   },
   "us": {
-   "name": "Strongbox",
+   "name": "Strongboxes",
    "description": "Strongboxes are locked chests that contain various items.\nAttempting to unlock a Strongbox will unleash Packs of monsters that must be defeated in order to get the items within.\nStrongboxes can be modified to increase the difficulty and reward of the monsters and rewards within respectively.\nMost Strongboxes can be opened a single time. Some sources may allow you to open Strongboxes an additional time, these only apply to Strongboxes which return to an openable state after first opening, and do not apply if the Strongbox already allows multiple openings.",
    "url": "https://poe2db.tw/us/Strongbox",
-   "lines": []
+   "lines": [
+    "additionalstrongboxes",
+    "allowsblacksmithsarmourersandbasicstrongboxestorollprefixmodifiersthatcausedroppeditemstorequireparticularattributes",
+    "arcanecartographersjewellersandresearchersstrongboxescanrolladditionalprefixmodifiersthatchangethetypesofitemstheycontain",
+    "azmerispiritsmayseekoutandpossessstrongboxes",
+    "chanceforstrongboxestobesecuredstrongboxes",
+    "corruptionareashaveincreasedchanceofstrongboxes",
+    "increasedchanceofstrongboxes",
+    "mountainareashaveincreasedchancetocontainstrongboxes",
+    "possessedstrongboxeshaveincreaseditemrarity",
+    "strongboxes",
+    "strongboxesareguardedbyadditionalmonsterpacks",
+    "strongboxescannotbebasicstrongboxes",
+    "strongboxeshavechancetobeopenabletwice",
+    "strongboxeshaveincreasedchancetobeguardedbymagicmonsterpacks",
+    "strongboxeshaveincreasedchancetobeguardedbyraremonsterpacks",
+    "strongboxeshaveincreaseditemquantitypermodifier",
+    "strongboxesinmountainareasgrantarandomshrinebuff",
+    "strongboxesmayrollgreaterversionsofexistingsuffixmodifiers",
+    "tomaximumprefixesandtotalmodifiersonrarestrongboxes",
+    "tomaximumsuffixesandtotalmodifiersonrarestrongboxes"
+   ]
   }
  },
  {
@@ -52239,16 +51739,29 @@
    ]
   },
   "cn": {
-   "name": "群落",
+   "name": "怪物群落",
    "description": "群落及怪物仆从是自然生成于区域中的怪物群的一部分，或来自诸如保险箱等机制。\n怪物群规模的相关词缀也会使群落有几率出现一个额外稀有怪物。\n由其他怪物创造或召唤的怪物，不计为群落怪物或怪物仆从。",
    "url": "https://poe2db.tw/cn/Pack",
-   "lines": []
+   "lines": [
+    "为魔法怪物群落选择一个加成"
+   ]
   },
   "us": {
-   "name": "Pack",
+   "name": "Packs",
    "description": "A Pack Monster or Minion is a Monster that naturally spawns as a part of a Monster Pack in areas or from mechanics like Strongboxes.\nModifiers to Pack Size also provide a chance that there is an Additional Rare Monster in the Pack.\nMonsters summoned or created by other Monsters do not count as Pack Monsters or Minions.",
    "url": "https://poe2db.tw/us/Pack",
-   "lines": []
+   "lines": [
+    "essencemonsterpackshaveaincreasedchancetohaveanadditionalraremonster",
+    "increasednumberofmonsterpacksinuntaintedparadise",
+    "magicmonsterpackshavechancetohaveanadditionalmodifier",
+    "magicmonsterpacksinwaterareashaveachancetohaveanadditionalmodifier",
+    "raremonsterpacksincityareashaveaincreasedchancetohaveanadditionalraremonster",
+    "raremonsterpacksindesertareashaveaincreasedchancetohaveanadditionalraremonster",
+    "raremonsterpacksindesertareaswithadditionalraremonstersinsteadhaveasingleraremonsterwithdoubledeffectiveness",
+    "raremonsterpacksinyourmapshaveaincreasedchancetohaveanadditionalraremonster",
+    "selectabonusformagicpacks",
+    "shrinesinwaterareasareworshippedbyadditionalpacksofmonsters"
+   ]
   }
  },
  {
@@ -52357,13 +51870,10 @@
    ]
   },
   "cn": {
-   "name": "异常状态抗性",
+   "name": "元素异常状态阈值",
    "description": "较高的元素异常状态阈值能够使你被元素伤害击中时不太容易受到相应的异常状态影响，也会降低受到的冻结和触电积蓄值。较低的元素异常状态阈值会使你更容易受到它们的影响，并提高受到的冻结和触电积蓄值。在默认情况下，玩家的异常状态阈值等于其生命的一半。",
    "url": "https://poe2db.tw/cn/Elemental_Ailment_Threshold",
-   "lines": [
-    "异常状态抗性",
-    "获得闪避值的额外异常状态抗性"
-   ]
+   "lines": []
   },
   "us": {
    "name": "Elemental Ailment Threshold",
@@ -52842,13 +52352,10 @@
    ]
   },
   "us": {
-   "name": "Deflection",
+   "name": "Deflect",
    "description": "Deflection Rating provides a chance to Deflect damage from Hits, preventing 40% of the damage from those Hits. Exact chance to Deflect also depends on the attacker's Accuracy.",
    "url": "https://poe2db.tw/us/Deflect",
-   "lines": [
-    "deflection",
-    "supportsskillswhichsummoncompanionscausingthemtobegiganticandgainevasionanddeflectionbasedonyourown"
-   ]
+   "lines": []
   }
  },
  {
@@ -52965,13 +52472,10 @@
    ]
   },
   "us": {
-   "name": "Cooldown Recovery Speed",
+   "name": "Cooldown Recovery Rate",
    "description": "Cooldown Recovery Rate modifies the speed at which your Skill cooldowns are restored. For example, with 100% increased Cooldown Recovery Rate your Skill cooldowns will effectively be halved.\nCooldown Recovery Rate does not affect anything other than Skill cooldowns.",
    "url": "https://poe2db.tw/us/Cooldown_Recovery_Rate",
-   "lines": [
-    "cooldownrecoveryspeed",
-    "supportsskillswhichcreategroundsurfacescausingcreatedsurfacestolastmuchlongeraswellasloweringthecooldownrecoveryspeedofaffectedenemiesgroundsurfacesfromsupportedskillsonlyendwhentheirdurationexpires"
-   ]
+   "lines": []
   }
  },
  {
@@ -53515,13 +53019,10 @@
    ]
   },
   "us": {
-   "name": "Cursing",
+   "name": "Curses",
    "description": "Curses significantly Debuff affected targets. By default a target can have one Curse on them at a time.\nHigher Rarity enemies are less affected by Curses:\n15% less Curse effect on Magic monsters\n30% less Curse effect on Rare monsters\n50% less Curse effect on Unique monsters",
    "url": "https://poe2db.tw/us/Curses",
-   "lines": [
-    "cursing",
-    "supportsskillswhichhavealimitdoublingthatlimitbutcursingyourselfonsupportedskilluseonlyappliestorestrictionsthatusethewordlimitcannotsupportpersistentskills"
-   ]
+   "lines": []
   }
  },
  {
@@ -55293,15 +54794,10 @@
    ]
   },
   "us": {
-   "name": "Wither",
+   "name": "Withered",
    "description": "Withered applies 5% increased Chaos damage Taken, and can be inflicted up to 10 times.",
    "url": "https://poe2db.tw/us/Withered",
-   "lines": [
-    "grantschancetowitherenemiesforsecondsonhit",
-    "supportsanyskillthathitsenemiesgivingitachancetowitherenemiesonhit",
-    "wither",
-    "youdealmorephysicalandchaosdamagewitherenemiesonhitandperiodicallycreatechaostornados"
-   ]
+   "lines": []
   }
  },
  {
@@ -55441,22 +54937,16 @@
    "lines": []
   },
   "cn": {
-   "name": "复活过",
+   "name": "可复活的召唤生物",
    "description": "可复活的召唤生物会在避免受到伤害一段时间后回复生命，被击败时会在短暂的延迟后自动复活。每当有其他可复活的召唤生物被击败时，复活延迟都会重置。",
    "url": "https://poe2db.tw/cn/Reviving_Minions",
-   "lines": [
-    "复活过",
-    "辅助能够召唤可复活的召唤生物的召唤生物技能被辅助的召唤生物若近期复活过则造成的伤害大幅提高"
-   ]
+   "lines": []
   },
   "us": {
-   "name": "Revived",
+   "name": "Reviving Minions",
    "description": "Reviving Minions heal after avoiding damage for a short time, and automatically revive after a short delay when killed. This delay is reset whenever another Reviving Minion dies.",
    "url": "https://poe2db.tw/us/Reviving_Minions",
-   "lines": [
-    "revived",
-    "supportsminionskillswhichsummonrevivingminionssupportedminionsdealsignificantlymoredamageiftheyhaverevivedrecently"
-   ]
+   "lines": []
   }
  },
  {
@@ -55626,17 +55116,10 @@
    ]
   },
   "us": {
-   "name": "Elemental Ailment",
+   "name": "Elemental Ailments",
    "description": "Elemental Ailments are Ignite, Chill, Freeze, Shock, and Electrocute.",
    "url": "https://poe2db.tw/us/Elemental_Ailments",
-   "lines": [
-    "elementalailment",
-    "gainunboundfurywhenyouinflictanelementalailmentwithahitonanenemy",
-    "gainunboundfurywhenyouinflictanelementalailmentwithahitonanenemynmaximumunboundfuryncannotgainunboundfurywhileunbound",
-    "gainvolatilityoninflictinganelementalailment",
-    "moreelementalailmentbuildupwhileunbound",
-    "supportsattackscausingthemtodealmoredamageforeachelementalailmentonenemiestheyhitsupportedskillscannotthemselvesinflictelementalailments"
-   ]
+   "lines": []
   }
  },
  {
@@ -56801,22 +56284,16 @@
    ]
   },
   "cn": {
-   "name": "危害性",
+   "name": "危害",
    "description": "危害是在世界场景中产生的物体（通常由玩家击败敌人而生成），敌人穿越时会将其摧毁，对触发危害的敌人造成伤害并/或施加效果。",
    "url": "https://poe2db.tw/cn/Hazards",
-   "lines": [
-    "危害性",
-    "辅助猛击技能使其触发触发荆棘制造出会造成伤害并瘫痪敌人的危害性荆棘无法修改召唤生物或图腾使用的技能"
-   ]
+   "lines": []
   },
   "us": {
-   "name": "Hazardous",
+   "name": "Hazards",
    "description": "Hazards are objects created in the world (usually by some player skill) and which are destroyed when traversed by an enemy, dealing damage and/or applying some effect to the enemy which triggered the Hazard.",
    "url": "https://poe2db.tw/us/Hazards",
-   "lines": [
-    "hazardous",
-    "supportsslamskillsmakingthemtriggerbramblestocreatehazardousbrambleswhichdamageandmaimenemiesdoesnotmodifyskillsusedbyminionsortotems"
-   ]
+   "lines": []
   }
  },
  {
@@ -57419,13 +56896,10 @@
    ]
   },
   "cn": {
-   "name": "被定身",
+   "name": "定身",
    "description": "部分技能和效果可以使伤害产生定身积蓄值。该积蓄值超过目标的定身阈值后，目标就会被定身，使其无法移动、被强制移动或闪避，持续 3 秒，被定身的时候还会造成轻度晕眩。\n被定身的目标也会被视作不可移动。",
    "url": "https://poe2db.tw/cn/Pinned",
-   "lines": [
-    "被定身",
-    "被定身的敌人无法做出行动"
-   ]
+   "lines": []
   },
   "us": {
    "name": "Pinned",
@@ -57842,14 +57316,11 @@
    ]
   },
   "us": {
-   "name": "Idol",
+   "name": "Idols",
    "description": "Idols are a type of Augment fashioned by the Azmeri.",
    "url": "https://poe2db.tw/us/Idol",
    "lines": [
-    "companionsdealincreaseddamageperidolinyourequipment",
-    "idol",
-    "increasedreservationefficiencyofskillsperidolinyourequipment",
-    "toallelementalresistancespernonidolaugmentinyourequipment"
+    "possessedmonstershaveincreasedchancetodropidols"
    ]
   }
  },
@@ -58433,14 +57904,10 @@
    ]
   },
   "cn": {
-   "name": "特别幸运",
+   "name": "幸运",
    "description": "幸运会重复判断两次数值，取其中好的结果生效。",
    "url": "https://poe2db.tw/cn/Lucky",
-   "lines": [
-    "特别幸运",
-    "辅助你使用的攻击技能如果你被包围被辅助技能的击中伤害特别幸运魔力不足不会阻止被辅助技能的使用",
-    "辅助你使用的攻击技能如果你被被包围被辅助技能的击中伤害特别幸运"
-   ]
+   "lines": []
   },
   "us": {
    "name": "Lucky",
@@ -59732,14 +59199,10 @@
    "lines": []
   },
   "us": {
-   "name": "Banners",
+   "name": "Banner Skills",
    "description": "Banner Skills generate Glory when you attack a Monster while it is activated. Glory generated corresponds to the Power of the Monster hit. Once at full Glory, the Banner can be placed to create powerful Buffing Areas.\nNormally you have a limit of a single Banner placed at one time.",
    "url": "https://poe2db.tw/us/Banner_Skills",
-   "lines": [
-    "banners",
-    "bannersgainglorypersecond",
-    "thereisnolimitonthenumberofbannersyoucanplace"
-   ]
+   "lines": []
   }
  },
  {
@@ -60935,14 +60398,10 @@
    ]
   },
   "us": {
-   "name": "Heavy Stunned",
+   "name": "Heavy Stun",
    "description": "Heavy Stuns occur when a target's Stun bar is filled, interrupts the target's current action and prevent them from taking actions for a few seconds. Hits cause Heavy Stun buildup based on the damage dealt. Players and their Minions usually cannot be Heavily Stunned, but players can receive Heavy Stun buildup where specifically mentioned while taking specific actions (such as raising their Shield, Parrying with a Buckler, or riding a mount).\nWhile an enemy is Heavy Stunned, they cannot act and count as Immobilised. It will also be harder to Heavy Stun them again for a short time afterwards.\nPhysical damage, and player (but not monster) Melee Damage, each cause 50% more Heavy Stun buildup. For players, these bonuses are multiplicative with each other.",
    "url": "https://poe2db.tw/us/Heavy_Stun",
-   "lines": [
-    "cannotbeheavystunnedwhilesprinting",
-    "heavystunned",
-    "moredamageagainstheavystunnedenemies"
-   ]
+   "lines": []
   }
  },
  {
@@ -61783,13 +61242,10 @@
    ]
   },
   "us": {
-   "name": "Jewel",
+   "name": "Jewels",
    "description": "Jewels are items that can be socketed into Jewel Sockets on the Passive Skill Tree to grant bonuses. Basic Jewels simply grant you the listed stats, while some other kinds of Jewel can have more complicated effects, such as modifying other Passive Skills within a certain radius.",
    "url": "https://poe2db.tw/us/Jewels",
-   "lines": [
-    "increasedeffectofbonusesgainedfromsocketedjewel",
-    "jewel"
-   ]
+   "lines": []
   }
  },
  {
@@ -61896,13 +61352,10 @@
    ]
   },
   "cn": {
-   "name": "包围",
+   "name": "被包围",
    "description": "当你的 3 米范围内存在至少 5 个敌人时，你视作被包围。触发该效果所需的敌人数量无法被降低至1以下。",
    "url": "https://poe2db.tw/cn/Surrounded",
-   "lines": [
-    "包围",
-    "辅助你使用的攻击技能如果你被包围被辅助技能的击中伤害特别幸运魔力不足不会阻止被辅助技能的使用"
-   ]
+   "lines": []
   },
   "us": {
    "name": "Surrounded",
@@ -62150,18 +61603,10 @@
    ]
   },
   "us": {
-   "name": "Corpse",
+   "name": "Corpses",
    "description": "Corpses are left behind by slain Enemies and can be used or consumed by a number of different Skills or effects, though Corpses of Unique monsters cannot be destroyed or consumed. Generally, slain Allies do not leave usable Corpses.",
    "url": "https://poe2db.tw/us/Corpses",
-   "lines": [
-    "corpse",
-    "sacrificethecorpseofararemonstertograntyouitsmodifiersforadurationorgainasinglerandommodifieratthecostofyourownlifeforce",
-    "seconddurationbetweencorpseconsumptions",
-    "summonsbeetlespercorpseconsumed",
-    "supportsskillsthatconsumecorpsesgivingthemachancetotakeeffectwithoutdestroyingthecorpse",
-    "supportsskillsyouuseyourselfsupportedskillsconsumeacorpseonusedealingmorechaosdamageiftheydo",
-    "supportsskillsyouuseyourselfsupportedskillsconsumemanycorpsesonusedealingmorechaosdamagepercorpseconsumed"
-   ]
+   "lines": []
   }
  },
  {
@@ -62442,25 +61887,16 @@
    ]
   },
   "cn": {
-   "name": "恶性",
+   "name": "恶性流血",
    "description": "恶性的流血始终将目标视作正在移动，造成 100% 的额外伤害。\n流血减益状态变为恶性之后，它将在持续期间始终维持恶性状态。\n每个流血减益状态的恶性状态都是独立的，使一个流血减益状态变为恶性不代表目标身上的其他流血减益状态也会变为恶性，使部分或全部效果变为恶性也不会影响后续施加的流血减益状态。然而，除非另有说明，否则使流血变为恶性的效果会对目标当前所具有的所有流血减益状态生效。",
    "url": "https://poe2db.tw/cn/Aggravated_Bleeding",
-   "lines": [
-    "你对被诅咒目标施加的流血效果为恶性",
-    "击中时使流血效果变为恶性",
-    "恶性",
-    "辅助击中敌人的技能被辅助技能击中重度晕眩的敌人时使流血效果变为恶性",
-    "辅助能够击中敌人并造成伤害的技能被辅助技能使敌人定身时还会使利刃受到的流血变为恶性"
-   ]
+   "lines": []
   },
   "us": {
-   "name": "Aggravated",
+   "name": "Aggravated Bleeding",
    "description": "Bleeding that has been Aggravated always treats the target as moving, which causes it to deal 100% extra damage.\nOnce a Bleeding Debuff has been Aggravated, it will remain Aggravated until its duration expires.\nEach Bleeding Debuff can be Aggravated, or not, independently — one Bleeding Debuff being Aggravated does not mean other Bleeding Debuffs on the target are also Aggravated, and Aggravating some or all of them will have no effect on new Bleeding Debuffs applied afterwards. However, effects which Aggravate Bleeding on a target do so to all Bleeding Debuffs currently on that target unless otherwise specified.",
    "url": "https://poe2db.tw/us/Aggravated_Bleeding",
-   "lines": [
-    "aggravated",
-    "bleedingyouinflictoncursedtargetsisaggravated"
-   ]
+   "lines": []
   }
  },
  {
@@ -62578,16 +62014,10 @@
    ]
   },
   "us": {
-   "name": "Culls",
+   "name": "Culling Strike",
    "description": "Culling Strikes kill Normal enemies if their life is at 35% or below. Magic enemies are instead killed at 20%, Rare at 10% and Unique at 5%. These thresholds are checked before the damage of the Hit is applied.",
    "url": "https://poe2db.tw/us/Culling_Strike",
-   "lines": [
-    "culls",
-    "cullsenemiesifdebuffreachescullingstrikethreshold",
-    "debuffedtargetsloselifeequaltoofhitdamagedealttothemwhiledebuffedwhendebuffexpiresncullsenemiesifdebuffreachescullingstrikethreshold",
-    "supportsanyskillthathitsenemiescausingyoutorecoverlifewhenitcullsanenemy",
-    "supportsanyskillthathitsenemiescausingyoutorecovermanawhenitcullsanenemy"
-   ]
+   "lines": []
   }
  },
  {
@@ -62952,13 +62382,10 @@
    ]
   },
   "us": {
-   "name": "Chilled",
+   "name": "Chill",
    "description": "Chill is an Ailment that Slows the afflicted target, and lasts 2 seconds on players or 8 seconds on non-players by default. Chill Magnitude depends on the Chilling damage dealt relative to the target's Elemental Ailment Threshold, with a minimum of 30% and a default maximum of 50%.\nCold damage from Hits can Chill by default, and does not require a chance to inflict Chill. However, Chills smaller than 30% will be ignored, so small Hits can fail to Chill.",
    "url": "https://poe2db.tw/us/Chill",
-   "lines": [
-    "chilled",
-    "supportsanyskillthathitsenemiescausingthemtodealmoredamagetofrozenenemiesbutconsumetheirfreezeleavingthemchilledcannotsupportskillsthatconsumefreeze"
-   ]
+   "lines": []
   }
  },
  {
@@ -63422,15 +62849,10 @@
    ]
   },
   "us": {
-   "name": "Electrocute",
+   "name": "Electrocution",
    "description": "Electrocution is an Ailment that interrupts the target's actions and prevents them performing any action, and lasts 5 seconds by default.\nOnly Lightning damage from Hits with specific skills or effects Contributes to Electrocution Buildup on enemies until they become Electrocuted. Other sources of Lightning damage will not build up towards Electrocution.",
    "url": "https://poe2db.tw/us/Electrocution",
-   "lines": [
-    "electrocute",
-    "supportsanyskillthathitsenemiesnearbyenemiesaremarkedwhentheyareprimedforelectrocutionandhittingamarkedenemywithasupportedskillwillelectrocutethem",
-    "supportsanyskillwhichcandealdamagelightningdamagefromsupportedskillscaninflictelectrocutebutsupportedskillscannotinflictshock",
-    "supportsanyskillwhichcandealdamagelightningdamagefromsupportedskillscaninflictelectrocutebutsupportedskillscannotinflictshockenemiesslainwhileelectrocutedbysupportedskillsexplodedealingapercentageoftheirmaximumlifeaslightningdamage"
-   ]
+   "lines": []
   }
  },
  {
@@ -63750,13 +63172,10 @@
    ]
   },
   "us": {
-   "name": "Knock Back",
+   "name": "Knockback",
    "description": "Knockback pushes Enemies away when Hit.",
    "url": "https://poe2db.tw/us/Knockback",
-   "lines": [
-    "knockback",
-    "supportsanyskillthathitsenemiescausingittoknockbackenemies"
-   ]
+   "lines": []
   }
  },
  {
@@ -63798,13 +63217,10 @@
    ]
   },
   "us": {
-   "name": "Hindering",
+   "name": "Hinder",
    "description": "Hinder is a Debuff that Slows movement speed by 30% unless otherwise specified. Unless Specified, Hinder has a duration of 4 seconds.",
    "url": "https://poe2db.tw/us/Hinder",
-   "lines": [
-    "hindering",
-    "supportsskillsthathitenemieswhensupportedskillsshockanenemythatisnearbyothershockedenemiestriggerelectromagnetismsuckinginnearbyenemieshinderingthemanddealinglightningdamageataninterval"
-   ]
+   "lines": []
   }
  },
  {
@@ -64027,40 +63443,16 @@
    "lines": []
   },
   "cn": {
-   "name": "被强化",
+   "name": "强化技能",
    "description": "强化技能不具有固有加成，但一些属性和词缀会专门对强化技能生效。",
    "url": "https://poe2db.tw/cn/Empowered_Skills",
-   "lines": [
-    "吟唱每打击铁砧都会被强化你的下近战攻击",
-    "吟唱每打击铁砧都会被强化你的下近战攻击被强化的攻击击中时触发燃尽",
-    "在下一个幻影前施放匹配的法术会被强化该法术",
-    "在下一个幻影前施放匹配的法术会被强化该法术被强化法术造成伤害总增",
-    "枭之羽毛被强化技能的中央投射物会留下腾飞之地轨迹",
-    "被强化",
-    "被强化技能发射枚额外投射物",
-    "被强化技能的投射物速度提高",
-    "被强化攻击上限为",
-    "被强化法术造成伤害总增",
-    "被强化的攻击击中时触发燃尽"
-   ]
+   "lines": []
   },
   "us": {
-   "name": "Empowered",
+   "name": "Empowered Skills",
    "description": "Empowered Skills do not have any inherent bonuses, but a number of stats and modifiers specifically apply to Empowered Skills.",
    "url": "https://poe2db.tw/us/Empowered_Skills",
-   "lines": [
-    "castingthematchingspellbeforethenextnvisageappearsempowersthatspellnempoweredspellsdealmoredamage",
-    "centralprojectileofowlfeatherempoweredskillsleavesatrailofsoaringground",
-    "empowered",
-    "empoweredattackstriggercombustonhit",
-    "empoweredskillsfireadditionalprojectiles",
-    "empoweredskillshaveincreasedprojectilespeed",
-    "empoweredspellsdealmoredamage",
-    "maximumofempoweredattacks",
-    "supportsslamsyouuseyourselfallowingthemtospendlargeamountsofrunicwardtobecomerunicallyboostedrunicallyboostedslamsareempoweredwithextraphysicaldamageandcreatearunethefirsttimetheyhitanenemytheruneeruptsinanaftershockafteradurationcannotsupportchannellingskills",
-    "supportswarcryskillsattacksempoweredbysupportedskillshaveachancenottolowertheempowermentcountofsupportedskillswhentheyareused",
-    "whilechannellingeachstrikeoftheanvilempowersyournextmeleeattacksnempoweredattackstriggercombustonhit"
-   ]
+   "lines": []
   }
  },
  {
@@ -65026,13 +64418,10 @@
    ]
   },
   "cn": {
-   "name": "类型伤害",
+   "name": "伤害类型",
    "description": "伤害类型分为物理、火焰、冰霜、闪电和混沌。",
    "url": "https://poe2db.tw/cn/Damage_Types",
-   "lines": [
-    "类型伤害",
-    "辅助任意可以造成伤害的技能使其牺牲其它类型伤害提高物理伤害"
-   ]
+   "lines": []
   },
   "us": {
    "name": "Damage Types",
@@ -65451,14 +64840,10 @@
    "lines": []
   },
   "us": {
-   "name": "Consumed",
+   "name": "Effect Consumption",
    "description": "Multiple effects on enemies can be Consumed. Only one Consumption benefit can occur at once, and Consumption effects from Skills will take priority over those from other sources.\nConsuming a Debuff on an enemy causes the enemy to be immune to that Debuff for 1 seconds.",
    "url": "https://poe2db.tw/us/Effect_Consumption",
-   "lines": [
-    "consumed",
-    "enemiesloselifeequaltooftheexpectedremainingdamageoftheconsumedpoison",
-    "supportedskillswillmarkanotherenemywithinmetresofmarkedenemywhenconsumed"
-   ]
+   "lines": []
   }
  },
  {
@@ -65803,16 +65188,10 @@
    "lines": []
   },
   "us": {
-   "name": "Seals",
+   "name": "Seals and Sealed Skills",
    "description": "Sealed Skills are skills which gain Seals. Only skills you use yourself can be Sealed.\nWhen you use a Sealed Skill, its Seals are broken, and that use of the skill will gain some benefit based on how many Seals it had.",
    "url": "https://poe2db.tw/us/Seals_and_Sealed_Skills",
-   "lines": [
-    "seals",
-    "supportsattackskillsyouuseyourselfwhichfireprojectilessealingthemovertimethesealsarebrokenwhenusedcausingadditionalprojectilestobefiredprojectilesfromsupportedskillsarefiredinrandomdirectionscannotsupportskillswhichrequirecombohaveacooldownorwhichalreadygainseals",
-    "supportscascadablespellsyoucastyourselfsealingthemwhenyoublockthesealsarebrokenwhenusedeachmakingthespellechocannotsupportskillswithacooldownorwhichalreadygainseals",
-    "supportsrepeatablespellsyoucastyourselfsealingthemovertimeandgivingthemamoderatecooldownthesealsarebrokenwhencasteachcausingthespelltorepeatcannotsupportskillswhichalreadyhaveacooldownorgainseals",
-    "supportsspellsyoucastyourselfsealingthemovertimethesealsarebrokenwhencastincreasingareaofeffectcannotsupportchannellingskillsorskillswithacooldownorwhichalreadygainseals"
-   ]
+   "lines": []
   }
  },
  {
@@ -66688,13 +66067,10 @@
    "lines": []
   },
   "cn": {
-   "name": "扩散",
+   "name": "可扩散技能",
    "description": "战吼，以及影响你周围或目标地点的非持续吟唱法术，都是可扩散的。\n某些效果可以使可扩散技能产生扩散，使其也影响其他位置，或者产生回响，在延迟后再次影响同一个目标位置。\n一个可扩散且可重复的法术在重复期间不会扩散或回响。",
    "url": "https://poe2db.tw/cn/Cascadable_Skills",
-   "lines": [
-    "扩散",
-    "辅助可扩散法术使其沿随机选择的轴向目标区域两侧扩散"
-   ]
+   "lines": []
   },
   "us": {
    "name": "Cascadable Skills",
@@ -73576,15 +72952,10 @@
    ]
   },
   "us": {
-   "name": "Weapon Set",
+   "name": "Weapon Sets",
    "description": "Your character has two Weapon Sets that can be used independently by equipping items into both sets.\nBy default your Skills will use the currently active Weapon Set if possible, or automatically swap to your other Weapon Set if required to use the Skill. You can also specify the Weapon Set you want to automatically swap to for each Skill in that Skill's information panel.\nIn addition to changing your active items, Weapon Sets also have dedicated Passive Skill Points that can be allocated differently in each Weapon Set.\nWeapon Sets can have differing amounts of available Spirit, due to weapons with Spirit (such as Sceptres), Weapon Set Passive Skills, or Persistent Skills that are active in specific Weapon Sets.",
    "url": "https://poe2db.tw/us/Weapon_Sets",
-   "lines": [
-    "skillscanbuildandretaincomboregardlessofweaponset",
-    "supportsattackskillsgrantingthemattackspeedatthecostofdamageordamageatthecostofattackspeeddependingonweaponsettheyareusedindoesnotmodifyskillsusedbyminions",
-    "weaponset",
-    "whileactivevisagesofyourselffromalternatetimelineswilloccasionallyappearandcastoneofyourspellsfromyourfirstvalidweaponsetuntilthenextvisageappearsyournextcastofthesamespellalignsyourfateempoweringthatspellvisagescanonlycastdamagingnonchannellingnonbuffspellsyoucouldcastthathavenocooldown"
-   ]
+   "lines": []
   }
  },
  {
@@ -74006,24 +73377,16 @@
    ]
   },
   "cn": {
-   "name": "反击",
+   "name": "用荆棘进行反击",
    "description": "反击特指敌人击中你时对其造成的荆棘伤害。\n部分效果能使你通过其他途径造成荆棘伤害，但这些途径不属于反击，特别指明反击的效果将忽略这些途径。",
    "url": "https://poe2db.tw/cn/Retaliate_with_Thorns",
-   "lines": [
-    "反击",
-    "辅助近战打击技能当你用荆棘伤害进行反击后你会对被辅助技能击中的敌人造成两你的荆棘伤害",
-    "辅助近战打击技能当你用荆棘伤害进行反击后你同时会对被辅助技能击中的敌人造成你的荆棘伤害"
-   ]
+   "lines": []
   },
   "us": {
-   "name": "Retaliate",
+   "name": "Retaliate with Thorns",
    "description": "Retaliating specifically refers only to the inherent ability to deal Thorns damage to enemies when they Hit you.\nSome effects may cause you to deal Thorns damage in other ways, but those are not Retaliation, and effects which specifically care about when you Retaliate will ignore them.",
    "url": "https://poe2db.tw/us/Retaliate_with_Thorns",
-   "lines": [
-    "retaliate",
-    "supportsmeleestrikeskillsafteryouretaliatewiththornsdamageyoualsodealyourthornsdamagetoenemiesyouhitwithsupportedskills",
-    "supportsmeleestrikeskillsafteryouretaliatewiththornsdamageyoualsodealyourthornsdamagetwicetoenemiesyouhitwithsupportedskills"
-   ]
+   "lines": []
   }
  },
  {
@@ -74052,14 +73415,10 @@
    ]
   },
   "us": {
-   "name": "Killing Blows",
+   "name": "Killing Blow",
    "description": "A Killing Blow is any Hit Damage which successfully reduces a target to zero Life, killing them. Damage over time cannot cause Killing Blows.",
    "url": "https://poe2db.tw/us/Killing_Blow",
-   "lines": [
-    "killingblows",
-    "supportsmeleeattackskillsyouuseortriggeryourselfkillingblowswithsupportedskillsonbleedingenemiescreateabloodremnantbloodremnantsincreaseyourliferegenerationrateforashortwhileafterbeingcollected",
-    "supportsmeleeattacksyouuseortriggeryourselfonkilleffectscausedbykillingblowswithsupportedskillsonbleedingenemieshaveachancetooccurtwice"
-   ]
+   "lines": []
   }
  },
  {
@@ -74115,22 +73474,16 @@
    ]
   },
   "cn": {
-   "name": "分叉暴击率",
+   "name": "分叉暴击",
    "description": "该武器的击中结算是否造成暴击时，会根据其暴击率判断两次。\n如果任意一次结算成功，则击中为暴击，并使暴击伤害加成正常生效。\n如果两次结算全部成功，则击中为暴击，并使该次击中的暴击伤害加成翻倍。\n如果有词缀使你的暴击率特别幸运，两次结算会独立判断幸运。",
    "url": "https://poe2db.tw/cn/Bifurcated_Critical_Hits",
-   "lines": [
-    "分叉暴击率",
-    "辅助你自己使用且不具有使用条件的攻击技能被辅助技能将拥有最大暴击率但会分叉暴击率"
-   ]
+   "lines": []
   },
   "us": {
-   "name": "Bifurcate Critical Hit Chance",
+   "name": "Bifurcated Critical Hits",
    "description": "Hits with this weapon roll against their Critical Hit chance twice when determining if they are a Critical Hit.\nIf either roll succeeds, the hit will be a Critical Hit, and thus the Critical Damage Bonus will apply as normal.\nIf both rolls succeed, the hit will be a Critical Hit, and the Critical Damage Bonus will apply twice to that Hit.\nIf a modifier makes your Critical Hit Chance Lucky, that Luck will apply individually to both of these rolls.",
    "url": "https://poe2db.tw/us/Bifurcated_Critical_Hits",
-   "lines": [
-    "bifurcatecriticalhitchance",
-    "supportsattackskillsyouuseyourselfwhichdonotalreadyhavesomeconditionforusesupportedskillshaveamaximumcriticalhitchancebutwillbifurcatecriticalhitchance"
-   ]
+   "lines": []
   }
  },
  {
@@ -77260,13 +76613,10 @@
    "lines": []
   },
   "us": {
-   "name": "Surges",
+   "name": "Elemental Surges",
    "description": "Elemental Surges are consumed when you use a non-Melee Projectile Attack to suffuse the Projectiles fired by that Attack, causing them to trigger a Surging Blast when they reach the end of their flight.\nYour weapon can have a maximum of 6 of each type of Surge active by default. Surges last 15 seconds. Surges are specific to your current weapon, so do not affect non-weapon damage and are not carried over if you weapon swap.\nProjectiles which Split or Fork do not gain the benefits of Surges.",
    "url": "https://poe2db.tw/us/Elemental_Surges",
-   "lines": [
-    "grantsyourweaponsurgesnonmeleeprojectileattackswiththatweaponconsumesurgestocausetheprojectilesfiredtoexplodeattheendoftheirflight",
-    "surges"
-   ]
+   "lines": []
   }
  },
  {
@@ -82876,15 +82226,10 @@
    ]
   },
   "us": {
-   "name": "Support Gem",
+   "name": "Support Gems",
    "description": "Support Gems can be inserted into sockets on a Skill Gem in order to modify the effects of that Skill. They only apply to the Skill Gem they are socketed into.\nYou cannot use multiple copies of the exact same Lineage Support across multiple Skills, or for Supports that grant global benefits to persistent reservation Skills while active.\nCannot use multiple Support Gems of the same Category in one Skill.",
    "url": "https://poe2db.tw/us/Support_Gems",
-   "lines": [
-    "skillsdealincreaseddamageperconnectedredsupportgem",
-    "skillshaveincreasedcriticalhitchanceperconnectedbluesupportgem",
-    "skillshaveincreasedskillspeedperconnectedgreensupportgem",
-    "supportgem"
-   ]
+   "lines": []
   }
  },
  {
@@ -83415,17 +82760,10 @@
    ]
   },
   "us": {
-   "name": "Unarmed Attack",
+   "name": "Unarmed Attacks",
    "description": "Unarmed Attacks are Attacks which are performed while Unarmed and use your character's base Unarmed Damage where other Attacks would use the base Damage from a Martial Weapon.\nAttacks which can be performed while Unarmed but draw their base damage from other sources, such as skills which use a Shield to attack, are not considered Unarmed Attacks.",
    "url": "https://poe2db.tw/us/Unarmed_Attacks",
-   "lines": [
-    "consumechargesfromyourmanaflasktothrowaflaskthatexplodesdealingcoldattackdamageinanareaandinflictingexposurethisdamageisnotbasedonyourunarmeddamagesothisisnotconsideredanunarmedattack",
-    "consumechargesfromyourmanaflasktothrowaflaskthatexplodesdealingfireattackdamageinanareaadditionalsmallerflasksarethrownatnearbyignitedenemiesthisdamageisnotbasedonyourunarmeddamagesothisisnotconsideredanunarmedattack",
-    "consumechargesfromyourmanaflasktothrowaflaskthatexplodesdealinglightningattackdamageinanareawithhighchancetoshockthisdamageisnotbasedonyourunarmeddamagesothisisnotconsideredanunarmedattack",
-    "consumechargesfromyourmanaflasktothrowaflaskthatexplodesdealingphysicalattackdamageinanareaandaggravatingbleedingonenemieshitthisdamageisnotbasedonyourunarmeddamagesothisisnotconsideredanunarmedattack",
-    "consumechargesfromyourmanaflasktothrowaflaskthatexplodesdealingphysicalattackdamageinanareathethrownflaskconsumespoisononhittocauseanacidicburstthisdamageisnotbasedonyourunarmeddamagesothisisnotconsideredanunarmedattack",
-    "unarmedattack"
-   ]
+   "lines": []
   }
  },
  {
@@ -85089,13 +84427,10 @@
    ]
   },
   "cn": {
-   "name": "卡塔尔的复苏",
+   "name": "卡哈塔的复苏",
    "description": "卡哈塔的复苏可叠加8层，每层提高 5%冷却回复速度。每层持续 10 秒。",
    "url": "https://poe2db.tw/cn/Khatals_Rejuvenation",
-   "lines": [
-    "卡塔尔的复苏",
-    "辅助可生成残片的技能拾取被辅助技能生成的残片时将获得卡塔尔的复苏"
-   ]
+   "lines": []
   },
   "us": {
    "name": "Khatal's Rejuvenation",
@@ -87025,24 +86360,16 @@
    "lines": []
   },
   "cn": {
-   "name": "损失生命",
+   "name": "生命损失",
    "description": "生命损失不属于伤害，无法减免或被能量护盾吸收。不过生命损失依然能够令你败北。",
    "url": "https://poe2db.tw/cn/Life_Loss",
-   "lines": [
-    "减益结束时受到减益影响的目标损失生命数值等同于其在减益期间所受击中伤害总和的",
-    "减益结束时受到减益影响的目标损失生命数值等同于其在减益期间所受击中伤害总和的若减益达到终结阈值则终结敌人",
-    "损失生命"
-   ]
+   "lines": []
   },
   "us": {
-   "name": "lose life",
+   "name": "Life Loss",
    "description": "Life Loss is not damage, and can't be mitigated or absorbed by Energy Shield. Life Loss can still kill you.",
    "url": "https://poe2db.tw/us/Life_Loss",
-   "lines": [
-    "debuffedtargetsloselifeequaltoofhitdamagedealttothemwhiledebuffedwhendebuffexpires",
-    "debuffedtargetsloselifeequaltoofhitdamagedealttothemwhiledebuffedwhendebuffexpiresncullsenemiesifdebuffreachescullingstrikethreshold",
-    "loselife"
-   ]
+   "lines": []
   }
  },
  {
@@ -87306,13 +86633,10 @@
    ]
   },
   "us": {
-   "name": "Reveal Weaknesses",
+   "name": "Revealing Weaknesses",
    "description": "Revealed Weaknesses are highlighted on enemy Life bars, and occupy a total of 45% of their maximum Life (but in random segments). While the enemy's current Life is within a highlighted segment, they are considered to have an Open Weakness.",
    "url": "https://poe2db.tw/us/Revealing_Weaknesses",
-   "lines": [
-    "revealweaknesses",
-    "revealweaknessesagainstrareanduniqueenemies"
-   ]
+   "lines": []
   }
  },
  {
@@ -87687,22 +87011,16 @@
    "lines": []
   },
   "cn": {
-   "name": "减速强度",
+   "name": "减速强度词缀",
    "description": "这类词缀会对使敌人减速的减益状态生效，并且仅影响减速的强度。如果减益除了减速之外还具有其他效果，这部分效果的强度将不受影响。",
    "url": "https://poe2db.tw/cn/Slow_Magnitude_Modifier",
-   "lines": [
-    "你造成的减益的减速强度提高",
-    "减速强度"
-   ]
+   "lines": []
   },
   "us": {
-   "name": "Slow Magnitude",
+   "name": "Slow Magnitude Modifier",
    "description": "This modifier applies to Debuffs you inflict that Slow enemies, and scales only the specific Magnitude that slows the target. It will not affect any other Magnitudes that Debuff has if it does other things in addition to the Slow.",
    "url": "https://poe2db.tw/us/Slow_Magnitude_Modifier",
-   "lines": [
-    "debuffsyouinflicthaveincreasedslowmagnitude",
-    "slowmagnitude"
-   ]
+   "lines": []
   }
  },
  {
@@ -92234,13 +91552,10 @@
    ]
   },
   "us": {
-   "name": "Small Passive",
+   "name": "Small Passives",
    "description": "Small Passive Skills are Passives that are not Notables, Keystones, Ascendancy Passive Skills or Passive Skills where you can select an Attribute.",
    "url": "https://poe2db.tw/us/Small_Passives",
-   "lines": [
-    "increasedeffectofsmallpassiveskills",
-    "smallpassive"
-   ]
+   "lines": []
   }
  },
  {
@@ -94071,10 +93386,25 @@
    ]
   },
   "us": {
-   "name": "Essence",
+   "name": "Essences",
    "description": "Essence monsters are powerful monsters trapped in crystallised corruption.\nBreaking these monsters free allows them to be defeated, dropping the Essence that can then be used to modify equipment.\nAny monsters with Essences Modifiers drop an additional Essence of that type.",
    "url": "https://poe2db.tw/us/Essence",
-   "lines": []
+   "lines": [
+    "additionalessences",
+    "corruptionareashaveincreasedchanceofessences",
+    "desertareashaveincreasedchancetocontainessences",
+    "essences",
+    "essencesfoundindesertareashaveincreasedchancetobeperfectessences",
+    "essencesinswampareashavechancetotransfertoarandomuniquemonsterwhentheessencemonsterisslain",
+    "essencesnearbreachesorinareaswithhiveshavechancetogainanessenceofthebreach",
+    "exaltedorbsmaybeusedtoaddessencestoessencemonstersuptoadditionalessences",
+    "increasedchanceofessences",
+    "increasedchanceofessencesbeinginfluencedbyabysses",
+    "increasedchancetofindperfectessences",
+    "summoningcircleshaveachancetobeencrustedwithessencesaddingmultipleessencestotheboss",
+    "swampareashaveincreasedchancetocontainessences",
+    "vaalcitiescontainadditionalessences"
+   ]
   }
  },
  {
@@ -96311,13 +95641,10 @@
    ]
   },
   "cn": {
-   "name": "基础种类",
+   "name": "基底类型",
    "description": "物品的基底类型指其具体种类，并赋予其固有属性，例如战斗武器的伤害、护甲的防御加成，或生命药剂的回复量。基底类型通常也决定了装备该物品所需的等级和/或属性需求。\n例如：\n•裹布节杖和长柄节杖均为节杖基底类型\n•敦实护手和亚麻裹手均为手套基底类型\n•次级魔力药剂和良质魔力药剂均为魔力药剂基底类型",
    "url": "https://poe2db.tw/cn/Base_Type",
-   "lines": [
-    "你装备的手套会在已装备期间将其基础种类转化为石拳并",
-    "基础种类"
-   ]
+   "lines": []
   },
   "us": {
    "name": "Base Type",
@@ -96584,19 +95911,10 @@
    ]
   },
   "us": {
-   "name": "Flames of Chayula",
+   "name": "Flame of Chayula",
    "description": "Flames of Chayula are Remnants that grant the following bonuses when collected:\nRed Flames of Chayula Leech 20% of your maximum Life to you\nBlue Flames of Chayula Leech 20% of your maximum Mana to you\nPurple Flames of Chayula provide a stacking Buff granting 7% of damage as extra Chaos damage for 8 seconds, and stacks up to 10 times.",
    "url": "https://poe2db.tw/us/Flame_of_Chayula",
-   "lines": [
-    "allflamesofchayulathatyoumanifestareblue",
-    "allflamesofchayulathatyoumanifestarepurple",
-    "allflamesofchayulathatyoumanifestarered",
-    "allowsyoutoseenearbyflamesofchayula",
-    "createabreacharoundyouallowingyoutoseenearbyflamesofchayulayouareconsideredtobeinabreachwhilethisskillisactive",
-    "flamesofchayula",
-    "flamesofchayulafadeaftersecondsifnotpickedup",
-    "flamesofchayulahaveincreasedeffect"
-   ]
+   "lines": []
   }
  },
  {
@@ -96907,13 +96225,10 @@
    ]
   },
   "cn": {
-   "name": "黑影灵魂",
+   "name": "幽影灵魂",
    "description": "幽影灵魂根据被替换的魔侍召唤生物类型提供不同的增益状态，如下 -\n幽影灵魂来源：\n• 魔侍武士使攻击伤害提高 15%。\n• 魔侍神射手使投射物速度提高 15%。\n• 魔侍祭司使能量护盾充能率提高 30%。\n• 魔侍焚焰使使效果范围扩大 15%。\n• 魔侍风暴法师使法术伤害提高 25%。\n• 魔侍冰霜法师使最大能量护盾提高 35%。\n• 魔侍蛮兵使晕眩积蓄提高 60%。\n• 魔侍掠夺者使技能速度提高 6%。",
    "url": "https://poe2db.tw/cn/Umbral_Souls",
-   "lines": [
-    "你本该创造的每个魔侍召唤生物改为每个召唤生物为你提供一层黑影灵魂",
-    "黑影灵魂"
-   ]
+   "lines": []
   },
   "us": {
    "name": "Umbral Souls",
@@ -97157,13 +96472,10 @@
    ]
   },
   "cn": {
-   "name": "移灵形态",
+   "name": "迷踪形态",
    "description": "迷踪形态是塑时术师升华天赋提供的一个核心天赋，具有以下属性：\n承受的伤害总降 30%。\n在受到敌人击中伤害的 4 秒后，承受相当于该击中伤害 30% 的伤害。",
    "url": "https://poe2db.tw/cn/Phased_Form",
-   "lines": [
-    "移灵形态",
-    "移除因移灵形态而延迟的伤害"
-   ]
+   "lines": []
   },
   "us": {
    "name": "Phased Form",
@@ -97870,13 +97182,10 @@
    ]
   },
   "cn": {
-   "name": "壁垒光环",
+   "name": "堤防光环",
    "description": "你放置的提供堤防光环的图腾会根据图腾类型为范围内的玩家提供不同的光环增益状态，具体如下：\n火力弩炮使技能速度提高 20%。\n攻城炮台对不可移动敌人的伤害提高 25%。\n迫击大炮获得相当于伤害 25% 的额外火焰伤害。\n震波图腾使效果范围扩大 30%。\n先祖战士图腾使荣耀生成量提高 40%。\n黑暗塑像使持续伤害提高 40%。\n法术图腾使暴击率提高 50%。",
    "url": "https://poe2db.tw/cn/Embankment_Auras",
-   "lines": [
-    "你放置的图腾提供壁垒光环",
-    "壁垒光环"
-   ]
+   "lines": []
   },
   "us": {
    "name": "Embankment Auras",
@@ -98250,25 +97559,16 @@
    ]
   },
   "cn": {
-   "name": "适应",
+   "name": "适者生存",
    "description": "适者生存可通过承受来自击中的元素伤害获得，并使你在后续击中时受到的相同类型元素伤害降低。\n除非另有说明，否则你最多可同时拥有 3 层适者生存，且效果没有持续时间限制。",
    "url": "https://poe2db.tw/cn/Adaptation",
-   "lines": [
-    "双倍适应效果",
-    "每受到击中时你会适应击中伤害最高的元素伤害类型",
-    "每层匹配的适应使受到的每种元素伤害类型总降",
-    "适应",
-    "适应的持续时间为秒"
-   ]
+   "lines": []
   },
   "us": {
-   "name": "Adapt",
+   "name": "Adaptation",
    "description": "Adaptations are gained by taking Elemental Damage from Hits and cause you to take less damage of that Type from subsequent Hits.\nUnless otherwise specified, you can have 3 Adaptations at a time, and Adaptations do not have a duration.",
    "url": "https://poe2db.tw/us/Adaptation",
-   "lines": [
-    "adapt",
-    "adapttimestothehighestelementaldamagetypeofeachhityoutake"
-   ]
+   "lines": []
   }
  },
  {
@@ -106620,13 +105920,10 @@
    ]
   },
   "us": {
-   "name": "Sacrificing",
+   "name": "Sacrifice",
    "description": "Sacrificing is loss of a resource (commonly Life, Mana or Energy Shield) that does not count as taking damage. You cannot Sacrifice a resource you do not have. Sacrificing Life cannot reduce you below 1 Life, but Sacrifices you cause on others (such as Sacrificing Minion Life) can lead to their death.",
    "url": "https://poe2db.tw/us/Sacrifice",
-   "lines": [
-    "sacrificing",
-    "sacrificingenergyshielddoesnotinterruptrecharge"
-   ]
+   "lines": []
   }
  },
  {
@@ -106685,13 +105982,10 @@
    ]
   },
   "us": {
-   "name": "Staff",
+   "name": "Staves",
    "description": "Staves are Two-Handed Spellcasting weapons that require Intelligence to equip.\nStaves cannot be used to Attack. However, they grant inbuilt Spells based on the staff type and powerful bonuses to spells.",
    "url": "https://poe2db.tw/us/Staves",
-   "lines": [
-    "staff",
-    "youcanequipafocuswhilewieldingastaff"
-   ]
+   "lines": []
   }
  },
  {
@@ -108725,6 +108019,7 @@
    "description": "碑牌是特殊物品，可在地圖裝置中使用，為你輿圖上的地圖加入更多終盤機制。",
    "url": "https://poe2db.tw/tw/Tablet",
    "lines": [
+    "你城市地圖內碑牌的固定詞綴效果",
     "你的碑牌可以被升級成稀有等級並最大詞綴數量",
     "地圖區域每被一個碑牌影響即找到的碑牌數量",
     "地圖區域每被一個碑牌影響即碑牌的固定詞綴效果",
