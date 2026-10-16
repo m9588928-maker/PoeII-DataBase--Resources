@@ -1,0 +1,3898 @@
+{
+  "baseItems": [
+    {
+      "category": "armor",
+      "subKey": "quivers",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Quivers/Basetypes/Broadhead_Quiver.webp",
+      "name": {
+        "zh-Hant": "寬頭箭袋",
+        "zh-Hans": "宽矢箭袋",
+        "en": "Broadhead Quiver"
+      },
+      "type1": {
+        "zh-Hant": "箭袋",
+        "zh-Hans": "箭袋",
+        "en": "Quiver"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [],
+      "affixes": [
+        {
+          "zh-Hant": "攻擊附加1至3物理傷害",
+          "zh-Hans": "攻击附加 1 - 3 物理伤害",
+          "en": "Adds 1 to 3 Physical Damage to Attacks"
+        }
+      ],
+      "level": 1,
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "quivers",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Quivers/Basetypes/Fire_Quiver.webp",
+      "name": {
+        "zh-Hant": "火焰箭袋",
+        "zh-Hans": "火灵箭袋",
+        "en": "Fire Quiver"
+      },
+      "type1": {
+        "zh-Hant": "箭袋",
+        "zh-Hans": "箭袋",
+        "en": "Quiver"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [],
+      "affixes": [
+        {
+          "zh-Hant": "攻擊附加3至5火焰傷害",
+          "zh-Hans": "攻击附加 3 - 5 基础火焰伤害",
+          "en": "Adds 3 to 5 Fire damage to Attacks"
+        }
+      ],
+      "level": 8,
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "quivers",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Quivers/Basetypes/Sacral_Quiver.webp",
+      "name": {
+        "zh-Hant": "聖禮箭袋",
+        "zh-Hans": "圣骨箭袋",
+        "en": "Sacral Quiver"
+      },
+      "type1": {
+        "zh-Hant": "箭袋",
+        "zh-Hans": "箭袋",
+        "en": "Quiver"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [],
+      "affixes": [
+        {
+          "zh-Hant": "攻擊每擊中一名敵人，獲得(2—3)生命",
+          "zh-Hans": "攻击每击中一名敌人获得(2—3)点生命",
+          "en": "Gain (2—3) Life per Enemy Hit with Attacks"
+        }
+      ],
+      "level": 16,
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "quivers",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Quivers/Basetypes/Two-Point_Quiver.webp",
+      "name": {
+        "zh-Hant": "雙尖箭袋",
+        "zh-Hans": "双锋箭袋",
+        "en": "Two-Point Quiver"
+      },
+      "type1": {
+        "zh-Hant": "箭袋",
+        "zh-Hans": "箭袋",
+        "en": "Quiver"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [],
+      "affixes": [
+        {
+          "zh-Hant": "增加(20—30)%命中值",
+          "zh-Hans": "命中值提高 (20—30)%",
+          "en": "(20—30)% increased Accuracy Rating"
+        }
+      ],
+      "level": 24,
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "quivers",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Quivers/Basetypes/QuiverBlunt.webp",
+      "name": {
+        "zh-Hant": "鈍箭袋",
+        "zh-Hans": "钝矢箭袋",
+        "en": "Blunt Quiver"
+      },
+      "type1": {
+        "zh-Hant": "箭袋",
+        "zh-Hans": "箭袋",
+        "en": "Quiver"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [],
+      "affixes": [
+        {
+          "zh-Hant": "增加(25—40)%暈眩累積",
+          "zh-Hans": "晕眩积蓄值提高 (25—40)%",
+          "en": "(25—40)% increased Stun Buildup"
+        }
+      ],
+      "level": 33,
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "quivers",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Quivers/Basetypes/Toxic_Quiver.webp",
+      "name": {
+        "zh-Hant": "劇毒箭袋",
+        "zh-Hans": "淬毒箭袋",
+        "en": "Toxic Quiver"
+      },
+      "type1": {
+        "zh-Hant": "箭袋",
+        "zh-Hans": "箭袋",
+        "en": "Quiver"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [],
+      "affixes": [
+        {
+          "zh-Hant": "攻擊有(20—30)%機率在擊中時造成中毒",
+          "zh-Hans": "攻击击中时有 (20—30)% 的几率使目标中毒",
+          "en": "(20—30)% chance to Poison on Hit with Attacks"
+        }
+      ],
+      "level": 39,
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "quivers",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Quivers/Basetypes/Serrated_Quiver.webp",
+      "name": {
+        "zh-Hant": "鋸齒箭袋",
+        "zh-Hans": "锯齿箭袋",
+        "en": "Serrated Quiver"
+      },
+      "type1": {
+        "zh-Hant": "箭袋",
+        "zh-Hans": "箭袋",
+        "en": "Quiver"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [],
+      "affixes": [
+        {
+          "zh-Hant": "攻擊有(20—30)%機率造成流血",
+          "zh-Hans": "攻击有 (20—30)% 的几率导致流血",
+          "en": "Attacks have (20—30)% chance to cause Bleeding"
+        }
+      ],
+      "level": 44,
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "quivers",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Quivers/Basetypes/Primed_Quiver.webp",
+      "name": {
+        "zh-Hant": "灌注箭袋",
+        "zh-Hans": "精工箭袋",
+        "en": "Primed Quiver"
+      },
+      "type1": {
+        "zh-Hant": "箭袋",
+        "zh-Hans": "箭袋",
+        "en": "Quiver"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [],
+      "affixes": [
+        {
+          "zh-Hant": "增加(7—10)%攻擊速度",
+          "zh-Hans": "攻击速度提高 (7—10)%",
+          "en": "(7—10)% increased Attack Speed"
+        }
+      ],
+      "level": 51,
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "quivers",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Quivers/Basetypes/Penetrating_Quiver.webp",
+      "name": {
+        "zh-Hant": "穿透箭袋",
+        "zh-Hans": "穿射箭袋",
+        "en": "Penetrating Quiver"
+      },
+      "type1": {
+        "zh-Hant": "箭袋",
+        "zh-Hans": "箭袋",
+        "en": "Quiver"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [],
+      "affixes": [
+        {
+          "zh-Hant": "有100%機率穿透一個敵人",
+          "zh-Hans": "100% 的几率穿透一个敌人",
+          "en": "100% chance to Pierce an Enemy"
+        }
+      ],
+      "level": 55,
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "quivers",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Quivers/Basetypes/Volant_Quiver.webp",
+      "name": {
+        "zh-Hant": "速射箭袋",
+        "zh-Hans": "飞矢箭袋",
+        "en": "Volant Quiver"
+      },
+      "type1": {
+        "zh-Hant": "箭袋",
+        "zh-Hans": "箭袋",
+        "en": "Quiver"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [],
+      "affixes": [
+        {
+          "zh-Hant": "增加(20—30)%箭矢速度",
+          "zh-Hans": "箭矢速度提高 (20—30)%",
+          "en": "(20—30)% increased Arrow Speed"
+        }
+      ],
+      "level": 61,
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "quivers",
+      "rarity": "basic",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Quivers/Basetypes/Visceral_Quiver.webp",
+      "name": {
+        "zh-Hant": "內臟箭袋",
+        "zh-Hans": "贯心箭袋",
+        "en": "Visceral Quiver"
+      },
+      "type1": {
+        "zh-Hant": "箭袋",
+        "zh-Hans": "箭袋",
+        "en": "Quiver"
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [],
+      "affixes": [
+        {
+          "zh-Hant": "增加(20—30)%攻擊暴擊率",
+          "zh-Hans": "攻击暴击率提高 (20—30)%",
+          "en": "(20—30)% increased Critical Hit Chance for Attacks"
+        }
+      ],
+      "level": 65,
+      "grantedSkillsExtra": []
+    }
+  ],
+  "uniqueItems": [
+    {
+      "category": "armor",
+      "subKey": "quivers",
+      "rarity": "unique",
+      "id": "asphyxias-wrath",
+      "name": {
+        "zh-Hant": "冰靈之吼",
+        "zh-Hans": "冰灵之吼",
+        "en": "Asphyxia's Wrath"
+      },
+      "type1": {
+        "zh-Hant": "箭袋",
+        "zh-Hans": "箭袋",
+        "en": "Quiver"
+      },
+      "type2": {
+        "zh-Hant": "寬頭箭袋",
+        "zh-Hans": "宽矢箭袋",
+        "en": "Broadhead Quiver"
+      },
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Quivers/Uniques/AsphyxiasWrath.webp",
+      "stats": [],
+      "affixes": [
+        {
+          "zh-Hant": "攻擊附加1至3物理傷害",
+          "zh-Hans": "攻击附加 1 - 3 物理伤害",
+          "en": "Adds 1 to 3 Physical Damage to Attacks"
+        },
+        {
+          "zh-Hant": "攻擊附加(3—4)至(5—8)冰冷傷害",
+          "zh-Hans": "攻击附加 (3—4) - (5—8) 基础冰霜伤害",
+          "en": "Adds (3—4) to (5—8) Cold damage to Attacks"
+        },
+        {
+          "zh-Hant": "攻擊獲得等同於傷害(5—10)%的額外冰冷傷害",
+          "zh-Hans": "攻击获得相当于伤害 (5—10)% 的额外冰霜伤害",
+          "en": "Attacks Gain (5—10)% of Damage as Extra Cold Damage"
+        },
+        {
+          "zh-Hant": "增加(5—10)%攻擊速度",
+          "zh-Hans": "攻击速度提高 (5—10)%",
+          "en": "(5—10)% increased Attack Speed"
+        },
+        {
+          "zh-Hant": "+(5—10)%冰冷抗性",
+          "zh-Hans": "冰霜抗性 +(5—10)%",
+          "en": "+(5—10)% to Cold Resistance"
+        },
+        {
+          "zh-Hant": "被你的擊中所冰緩的敵人根據冰緩幅度增加承受傷害",
+          "zh-Hans": "被你的击中冰缓的敌人受到的伤害提高，取决于冰缓强度",
+          "en": "Enemies Chilled by your Hits increase damage taken by Chill Magnitude"
+        }
+      ],
+      "flavor": {
+        "zh-Hant": "如斯霧氣，化為冰霜刺進口鼻\n那是凍原旅人窒息倒地前\n最後一次的呼吸",
+        "zh-Hans": "如斯雾气，化为冰霜刺进口鼻\n那是冻原旅人窒息倒地前\n最后一次的呼吸。",
+        "en": "Mist of breath\nIcing to lips and throat\nAs the warm ones choke and fall\nUpon the frozen wasteland."
+      },
+      "level": 1,
+      "_flavorEnabled": true,
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "quivers",
+      "rarity": "unique",
+      "id": "blackgleam",
+      "name": {
+        "zh-Hant": "黑炎之芒",
+        "zh-Hans": "黑炎之芒",
+        "en": "Blackgleam"
+      },
+      "type1": {
+        "zh-Hant": "箭袋",
+        "zh-Hans": "箭袋",
+        "en": "Quiver"
+      },
+      "type2": {
+        "zh-Hant": "火焰箭袋",
+        "zh-Hans": "火灵箭袋",
+        "en": "Fire Quiver"
+      },
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Quivers/Uniques/Blackgleam.webp",
+      "stats": [],
+      "affixes": [
+        {
+          "zh-Hant": "攻擊附加3至5火焰傷害",
+          "zh-Hans": "攻击附加 3 - 5 基础火焰伤害",
+          "en": "Adds 3 to 5 Fire damage to Attacks"
+        },
+        {
+          "zh-Hant": "攻擊附加(3—5)至(6—9)火焰傷害",
+          "zh-Hans": "攻击附加 (3—5) - (6—9) 基础火焰伤害",
+          "en": "Adds (3—5) to (6—9) Fire damage to Attacks"
+        },
+        {
+          "zh-Hant": "攻擊獲得等同於傷害(5—10)%的額外火焰傷害",
+          "zh-Hans": "攻击获得相当于伤害 (5—10)% 的额外火焰伤害",
+          "en": "Attacks Gain (5—10)% of Damage as Extra Fire Damage"
+        },
+        {
+          "zh-Hant": "+(30—50)最大魔力",
+          "zh-Hans": "+(30—50) 魔力上限",
+          "en": "+(30—50) to maximum Mana"
+        },
+        {
+          "zh-Hant": "增加50%易燃幅度",
+          "zh-Hans": "易燃强度提高 50%",
+          "en": "50% increased Flammability Magnitude"
+        },
+        {
+          "zh-Hant": "投射物會穿透所有被點燃的敵人",
+          "zh-Hans": "投射物穿透所有点燃的敌人",
+          "en": "Projectiles Pierce all Ignited enemies"
+        }
+      ],
+      "flavor": {
+        "zh-Hant": "熾羽疾馳化濁影，\n烈矢奔騰照光明。",
+        "zh-Hans": "炽羽疾驰化浊影，\n烈矢奔腾照光明。",
+        "en": "Molten feathers, veiled spark,\nHissing arrows from the dark."
+      },
+      "level": 8,
+      "_flavorEnabled": true,
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "quivers",
+      "rarity": "unique",
+      "id": "beyond-reach",
+      "name": {
+        "zh-Hant": "無法到達",
+        "zh-Hans": "望而不及",
+        "en": "Beyond Reach"
+      },
+      "type1": {
+        "zh-Hant": "箭袋",
+        "zh-Hans": "箭袋",
+        "en": "Quiver"
+      },
+      "type2": {
+        "zh-Hant": "內臟箭袋",
+        "zh-Hans": "贯心箭袋",
+        "en": "Visceral Quiver"
+      },
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Quivers/Uniques/BreachQuiver.webp",
+      "stats": [],
+      "affixes": [
+        {
+          "zh-Hant": "增加(20—30)%攻擊暴擊率",
+          "zh-Hans": "攻击暴击率提高 (20—30)%",
+          "en": "(20—30)% increased Critical Hit Chance for Attacks"
+        },
+        {
+          "zh-Hant": "減少(10—15)%攻擊速度",
+          "zh-Hans": "攻击速度降低 (10—15)%",
+          "en": "(10—15)% reduced Attack Speed"
+        },
+        {
+          "zh-Hant": "攻擊獲得等同於物理傷害(10—20)%的額外混沌傷害",
+          "zh-Hans": "攻击获得相当于物理伤害 (10—20)% 的额外混沌伤害",
+          "en": "Attacks Gain (10—20)% of Physical Damage as extra Chaos Damage"
+        },
+        {
+          "zh-Hant": "擊中的混沌傷害也會貢獻至冰凍累積",
+          "zh-Hans": "击中造成的混沌伤害也会作用于冻结积蓄",
+          "en": "Chaos Damage from Hits also Contributes to Freeze Buildup"
+        },
+        {
+          "zh-Hant": "擊中的混沌傷害也會貢獻至觸電累積",
+          "zh-Hans": "击中混沌伤害同时作用于触电积蓄",
+          "en": "Chaos Damage from Hits also Contributes to Electrocute Buildup"
+        }
+      ],
+      "flavor": {
+        "zh-Hant": "認知的邊界，是一道保護我們\n免於自我毀滅的屏障。",
+        "zh-Hans": "知识的局限是一道屏障，\n让我们不被自己所害。",
+        "en": "The limit of our knowledge is a barrier\nthat protects us from ourselves."
+      },
+      "level": 65,
+      "_flavorEnabled": true,
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "quivers",
+      "rarity": "unique",
+      "id": "the-lethal-draw",
+      "name": {
+        "zh-Hant": "致命抽取",
+        "zh-Hans": "攫命",
+        "en": "The Lethal Draw"
+      },
+      "type1": {
+        "zh-Hant": "箭袋",
+        "zh-Hans": "箭袋",
+        "en": "Quiver"
+      },
+      "type2": {
+        "zh-Hant": "聖禮箭袋",
+        "zh-Hans": "圣骨箭袋",
+        "en": "Sacral Quiver"
+      },
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Quivers/Uniques/TheLethalDraw.webp",
+      "stats": [],
+      "affixes": [
+        {
+          "zh-Hant": "攻擊每擊中一名敵人，獲得(2—3)生命",
+          "zh-Hans": "攻击每击中一名敌人获得(2—3)点生命",
+          "en": "Gain (2—3) Life per Enemy Hit with Attacks"
+        },
+        {
+          "zh-Hant": "增加(5—10)%攻擊速度",
+          "zh-Hans": "攻击速度提高 (5—10)%",
+          "en": "(5—10)% increased Attack Speed"
+        },
+        {
+          "zh-Hant": "攻擊每擊中一名敵人，獲得5生命",
+          "zh-Hans": "攻击每击中一名敌人获得5点生命",
+          "en": "Gain 5 Life per Enemy Hit with Attacks"
+        },
+        {
+          "zh-Hant": "有(15—25)%機率穿透一個敵人",
+          "zh-Hans": "(15—25)% 的几率穿透一个敌人",
+          "en": "(15—25)% chance to Pierce an Enemy"
+        },
+        {
+          "zh-Hant": "情況許可時，弓的攻擊會消耗你所擁有最大生命藥劑充能的10%，造成等同於藥劑生命恢復量(5—10)%的附加物理傷害",
+          "zh-Hans": "弓类攻击尽量消耗生命上限药剂充能的 10%，附加相当于药剂生命回复量 (5—10)% 的物理伤害",
+          "en": "Bow Attacks consume 10% of your maximum Life Flask Charges if possible to deal added Physical damage equal to (5—10)% of Flask's Life Recovery amount"
+        }
+      ],
+      "flavor": {
+        "zh-Hant": "流溢的汁液既是生命，也是死亡。",
+        "zh-Hans": "生死同源，承自一脉。",
+        "en": "Life and death ooze from the same sap."
+      },
+      "level": 16,
+      "_flavorEnabled": true,
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "quivers",
+      "rarity": "unique",
+      "id": "rearguard",
+      "name": {
+        "zh-Hant": "寒鋒之衛",
+        "zh-Hans": "寒锋之卫",
+        "en": "Rearguard"
+      },
+      "type1": {
+        "zh-Hant": "箭袋",
+        "zh-Hans": "箭袋",
+        "en": "Quiver"
+      },
+      "type2": {
+        "zh-Hant": "鈍箭袋",
+        "zh-Hans": "钝矢箭袋",
+        "en": "Blunt Quiver"
+      },
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Quivers/Uniques/Rearguard.webp",
+      "stats": [],
+      "affixes": [
+        {
+          "zh-Hant": "增加(25—40)%暈眩累積",
+          "zh-Hans": "晕眩积蓄值提高 (25—40)%",
+          "en": "(25—40)% increased Stun Buildup"
+        },
+        {
+          "zh-Hant": "攻擊附加(7—11)至(14—20)物理傷害",
+          "zh-Hans": "攻击附加 (7—11) - (14—20) 物理伤害",
+          "en": "Adds (7—11) to (14—20) Physical Damage to Attacks"
+        },
+        {
+          "zh-Hant": "+(150—200)護甲值",
+          "zh-Hans": "+(150—200) 护甲",
+          "en": "+(150—200) to Armour"
+        },
+        {
+          "zh-Hant": "增加(20—30)%投射物速度",
+          "zh-Hans": "投射物速度提高 (20—30)%",
+          "en": "(20—30)% increased Projectile Speed"
+        },
+        {
+          "zh-Hant": "+(15—25)%至格擋率",
+          "zh-Hans": "格挡几率 +(15—25)%",
+          "en": "+(15—25)% to Block chance"
+        }
+      ],
+      "flavor": {
+        "zh-Hant": "\"背後有眼的人極其罕見。\"\n- 瓦爾弓箭手奇拉維",
+        "zh-Hans": "“很少人能像背后生出双眼一般地感应空气的流动。”\n——瓦尔箭术师奇拉维",
+        "en": "\"It's a rare man that has eyes in the back of his head.\"\n- Kiravi, Vaal Archer"
+      },
+      "level": 33,
+      "_flavorEnabled": true,
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "quivers",
+      "rarity": "unique",
+      "id": "rearguard-cultivated",
+      "name": {
+        "zh-Hant": "寒鋒之衛",
+        "zh-Hans": "寒锋之卫",
+        "en": "Rearguard"
+      },
+      "type1": {
+        "zh-Hant": "箭袋",
+        "zh-Hans": "箭袋",
+        "en": "Quiver"
+      },
+      "type2": {
+        "zh-Hant": "鈍箭袋",
+        "zh-Hans": "钝矢箭袋",
+        "en": "Blunt Quiver"
+      },
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Quivers/Uniques/Rearguard.webp",
+      "stats": [],
+      "affixes": [
+        {
+          "zh-Hant": "增加(25—40)%暈眩累積",
+          "zh-Hans": "晕眩积蓄值提高 (25—40)%",
+          "en": "(25—40)% increased Stun Buildup"
+        },
+        {
+          "zh-Hant": "攻擊附加(7—11)至(14—20)物理傷害",
+          "zh-Hans": "攻击附加 (7—11) - (14—20) 物理伤害",
+          "en": "Adds (7—11) to (14—20) Physical Damage to Attacks"
+        },
+        {
+          "zh-Hant": "+(150—200)護甲值",
+          "zh-Hans": "+(150—200) 护甲",
+          "en": "+(150—200) to Armour"
+        },
+        {
+          "zh-Hant": "增加(20—30)%投射物速度",
+          "zh-Hans": "投射物速度提高 (20—30)%",
+          "en": "(20—30)% increased Projectile Speed"
+        },
+        {
+          "zh-Hant": "+(15—25)%至格擋率",
+          "zh-Hans": "格挡几率 +(15—25)%",
+          "en": "+(15—25)% to Block chance"
+        },
+        {
+          "zh-Hant": "+(50—150)閃避值",
+          "zh-Hans": "+(50—150) 点闪避值",
+          "en": "+(50—150) to Evasion Rating",
+          "_cultivated": true
+        },
+        {
+          "zh-Hant": "增加(20—30)%被包圍的範圍效果",
+          "zh-Hans": "被包围效果范围提高 (20—30)%",
+          "en": "(20—30)% increased Surrounded Area of Effect",
+          "_cultivated": true
+        },
+        {
+          "zh-Hant": "增加25%攻擊速度",
+          "zh-Hans": "攻击速度提高 25%",
+          "en": "25% increased Attack Speed",
+          "_cultivated": true
+        },
+        {
+          "zh-Hant": "增加(15—25)%偏斜值",
+          "zh-Hans": "偏转值提高 (15—25)%",
+          "en": "(15—25)% increased Deflection Rating",
+          "_cultivated": true
+        }
+      ],
+      "flavor": {
+        "zh-Hant": "\"背後有眼的人極其罕見。\"\n- 瓦爾弓箭手奇拉維",
+        "zh-Hans": "“很少人能像背后生出双眼一般地感应空气的流动。”\n——瓦尔箭术师奇拉维",
+        "en": "\"It's a rare man that has eyes in the back of his head.\"\n- Kiravi, Vaal Archer"
+      },
+      "level": 33,
+      "_flavorEnabled": true,
+      "grantedSkillsExtra": [],
+      "variantOf": "rearguard",
+      "variantKind": "cultivated",
+      "variantLabel": {
+        "zh-Hant": "栽培",
+        "zh-Hans": "培育",
+        "en": "Cultivated"
+      }
+    },
+    {
+      "category": "armor",
+      "subKey": "quivers",
+      "rarity": "unique",
+      "id": "murkshaft",
+      "name": {
+        "zh-Hant": "陰暗通道",
+        "zh-Hans": "沉郁之棍",
+        "en": "Murkshaft"
+      },
+      "type1": {
+        "zh-Hant": "箭袋",
+        "zh-Hans": "箭袋",
+        "en": "Quiver"
+      },
+      "type2": {
+        "zh-Hant": "劇毒箭袋",
+        "zh-Hans": "淬毒箭袋",
+        "en": "Toxic Quiver"
+      },
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Quivers/Uniques/Murkshaft.webp",
+      "stats": [],
+      "grantedSkill": {
+        "name": {
+          "zh-Hant": "爆發沼地蟾蜍",
+          "zh-Hans": "爆裂沼蟾",
+          "en": "Bursting Fen Toad"
+        },
+        "level": 10,
+        "icon": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Quivers/SkillIcons/Murkshaft.webp",
+        "skillRef": "Bursting_Fen_Toad",
+        "_activeTab": 0
+      },
+      "affixes": [
+        {
+          "zh-Hant": "攻擊有(20—30)%機率在擊中時造成中毒",
+          "zh-Hans": "攻击击中时有 (20—30)% 的几率使目标中毒",
+          "en": "(20—30)% chance to Poison on Hit with Attacks"
+        },
+        {
+          "zh-Hant": "攻擊附加(6—10)至(13—17)物理傷害",
+          "zh-Hans": "攻击附加 (6—10) - (13—17) 物理伤害",
+          "en": "Adds (6—10) to (13—17) Physical Damage to Attacks"
+        },
+        {
+          "zh-Hant": "每個被擊殺的敵人，獲得(10—15)魔力",
+          "zh-Hans": "每击败一名敌人获得 (10—15) 点魔力",
+          "en": "Gain (10—15) Mana per enemy killed"
+        },
+        {
+          "zh-Hant": "增加(10—20)%中毒持續時間",
+          "zh-Hans": "中毒持续时间提高 (10—20)%",
+          "en": "(10—20)% increased Poison Duration"
+        },
+        {
+          "zh-Hant": "攻擊有(20—30)%機率在擊中時造成中毒",
+          "zh-Hans": "攻击击中时有 (20—30)% 的几率使目标中毒",
+          "en": "(20—30)% chance to Poison on Hit with Attacks"
+        },
+        {
+          "zh-Hant": "對目標施加中毒時，對其致盲",
+          "zh-Hans": "使目标中毒时还会使其致盲",
+          "en": "Blind Targets when you Poison them"
+        }
+      ],
+      "flavor": {
+        "zh-Hant": "\"燉蛙不是為了法術，那是對知識的汙辱。\n真正目的是為了煉毒。\"\n- 漆黑沼地的瑟菈席",
+        "zh-Hans": "“水煮青蛙不是为了施法，亲爱的。那是\n歹毒的谣传。这其实是用来制备毒药的。”\n——黑沼的瑟莱西",
+        "en": "\"Boiling frogs isn't for spells, dear. That's a disgusting\nrumour. They're actually for brewing poisons.\"\n- Selassie of the Black Fen"
+      },
+      "level": 39,
+      "_flavorEnabled": true,
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "quivers",
+      "rarity": "unique",
+      "id": "cadiros-gambit",
+      "name": {
+        "zh-Hant": "卡迪羅的詭計",
+        "zh-Hans": "卡迪罗的赌局",
+        "en": "Cadiro's Gambit"
+      },
+      "type1": {
+        "zh-Hant": "箭袋",
+        "zh-Hans": "箭袋",
+        "en": "Quiver"
+      },
+      "type2": {
+        "zh-Hant": "灌注箭袋",
+        "zh-Hans": "精工箭袋",
+        "en": "Primed Quiver"
+      },
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Quivers/Uniques/PerandusTurnstile.webp",
+      "stats": [],
+      "affixes": [
+        {
+          "zh-Hant": "增加(7—10)%攻擊速度",
+          "zh-Hans": "攻击速度提高 (7—10)%",
+          "en": "(7—10)% increased Attack Speed"
+        },
+        {
+          "zh-Hant": "每支射出的箭矢為逐漸增強、碎片、倒轉、鑽石、貪婪，或重擊箭矢",
+          "zh-Hans": "每支射出的箭都是渐强、裂片、回转、金刚、贪婪或钝击箭矢",
+          "en": "Each Arrow fired is a Crescendo, Splinter, Reversing, Diamond, Covetous, or Blunt Arrow"
+        }
+      ],
+      "flavor": {
+        "zh-Hant": "\"人無法克服機運，但只要操縱得當，\n所有結果都能有其裨益……\"\n- 卡迪羅．普蘭德斯",
+        "zh-Hans": "“无论如何抹除，世间总有机遇。\n只要机制得当，一切果效都能转为己用……”\n——卡迪罗·佩兰德斯",
+        "en": "\"One can never fully eliminate Chance, but with the right\nmachinations, all the outcomes may be turned in your favour...\"\n- Cadiro Perandus"
+      },
+      "level": 66,
+      "_flavorEnabled": true,
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "quivers",
+      "rarity": "unique",
+      "id": "drillneck",
+      "name": {
+        "zh-Hant": "穿心",
+        "zh-Hans": "穿心",
+        "en": "Drillneck"
+      },
+      "type1": {
+        "zh-Hant": "箭袋",
+        "zh-Hans": "箭袋",
+        "en": "Quiver"
+      },
+      "type2": {
+        "zh-Hant": "穿透箭袋",
+        "zh-Hans": "穿射箭袋",
+        "en": "Penetrating Quiver"
+      },
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Quivers/Uniques/Drillneck.webp",
+      "stats": [],
+      "affixes": [
+        {
+          "zh-Hant": "有100%機率穿透一個敵人",
+          "zh-Hans": "100% 的几率穿透一个敌人",
+          "en": "100% chance to Pierce an Enemy"
+        },
+        {
+          "zh-Hant": "+(60—90)最大生命",
+          "zh-Hans": "+(60—90) 生命上限",
+          "en": "+(60—90) to maximum Life"
+        },
+        {
+          "zh-Hant": "增加(8—12)%攻擊速度",
+          "zh-Hans": "攻击速度提高 (8—12)%",
+          "en": "(8—12)% increased Attack Speed"
+        },
+        {
+          "zh-Hant": "獲得等同(24—32)%閃避值的偏斜值",
+          "zh-Hans": "获得相当于闪避值 (24—32)% 的偏转值",
+          "en": "Gain Deflection Rating equal to (24—32)% of Evasion Rating"
+        },
+        {
+          "zh-Hant": "攻擊投射物會在穿透(2—4)次後返回",
+          "zh-Hans": "攻击投射物会在穿透至少 (2—4) 次后归返",
+          "en": "Attack Projectiles Return if they Pierced at least (2—4) times"
+        },
+        {
+          "zh-Hant": "投射物每穿透1次，增加(42—64)%暴擊機率",
+          "zh-Hans": "投射物每穿透一次，暴击几率提高 (42—64)%",
+          "en": "Projectiles have (42—64)% increased Critical Hit chance for each time they have Pierced"
+        },
+        {
+          "zh-Hant": "投射物每穿透1次，增加(42—64)%造成的擊中傷害",
+          "zh-Hans": "投射物每穿透一次，造成的击中伤害提高 (42—64)%",
+          "en": "Projectiles deal (42—64)% increased Damage with Hits for each time they have Pierced"
+        }
+      ],
+      "flavor": {
+        "zh-Hant": "\"為何要浪費此等上好箭矢在一人身上？\"\n- 瓦爾箭術師．奇拉維",
+        "zh-Hans": "“何须为这一人耗费如此良箭？”\n——瓦尔箭术师奇拉维",
+        "en": "\"Why waste such a fine arrow on just one man?\"\n- Kiravi, Vaal Archer"
+      },
+      "level": 55,
+      "_flavorEnabled": true,
+      "grantedSkillsExtra": []
+    },
+    {
+      "category": "armor",
+      "subKey": "quivers",
+      "rarity": "unique",
+      "id": "drillneck-cultivated",
+      "name": {
+        "zh-Hant": "穿心",
+        "zh-Hans": "穿心",
+        "en": "Drillneck"
+      },
+      "type1": {
+        "zh-Hant": "箭袋",
+        "zh-Hans": "箭袋",
+        "en": "Quiver"
+      },
+      "type2": {
+        "zh-Hant": "穿透箭袋",
+        "zh-Hans": "穿射箭袋",
+        "en": "Penetrating Quiver"
+      },
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Quivers/Uniques/Drillneck.webp",
+      "stats": [],
+      "affixes": [
+        {
+          "zh-Hant": "有100%機率穿透一個敵人",
+          "zh-Hans": "100% 的几率穿透一个敌人",
+          "en": "100% chance to Pierce an Enemy"
+        },
+        {
+          "zh-Hant": "+(60—90)最大生命",
+          "zh-Hans": "+(60—90) 生命上限",
+          "en": "+(60—90) to maximum Life"
+        },
+        {
+          "zh-Hant": "增加(8—12)%攻擊速度",
+          "zh-Hans": "攻击速度提高 (8—12)%",
+          "en": "(8—12)% increased Attack Speed"
+        },
+        {
+          "zh-Hant": "獲得等同(24—32)%閃避值的偏斜值",
+          "zh-Hans": "获得相当于闪避值 (24—32)% 的偏转值",
+          "en": "Gain Deflection Rating equal to (24—32)% of Evasion Rating"
+        },
+        {
+          "zh-Hant": "攻擊投射物會在穿透(2—4)次後返回",
+          "zh-Hans": "攻击投射物会在穿透至少 (2—4) 次后归返",
+          "en": "Attack Projectiles Return if they Pierced at least (2—4) times"
+        },
+        {
+          "zh-Hant": "投射物每穿透1次，增加(42—64)%暴擊機率",
+          "zh-Hans": "投射物每穿透一次，暴击几率提高 (42—64)%",
+          "en": "Projectiles have (42—64)% increased Critical Hit chance for each time they have Pierced"
+        },
+        {
+          "zh-Hant": "投射物每穿透1次，增加(42—64)%造成的擊中傷害",
+          "zh-Hans": "投射物每穿透一次，造成的击中伤害提高 (42—64)%",
+          "en": "Projectiles deal (42—64)% increased Damage with Hits for each time they have Pierced"
+        },
+        {
+          "zh-Hant": "增加(16—24)%投射物速度",
+          "zh-Hans": "投射物速度提高 (16—24)%",
+          "en": "(16—24)% increased Projectile Speed",
+          "_cultivated": true
+        },
+        {
+          "zh-Hant": "衝刺期間增加(100—150)%閃避值",
+          "zh-Hans": "奔跑时闪避值提高 (100—150)%",
+          "en": "(100—150)% increased Evasion Rating while Sprinting",
+          "_cultivated": true
+        },
+        {
+          "zh-Hant": "箭矢會穿透額外1名目標",
+          "zh-Hans": "箭矢会穿透 1 个额外目标",
+          "en": "Arrows Pierce 1 additional Targets",
+          "_cultivated": true
+        }
+      ],
+      "flavor": {
+        "zh-Hant": "\"為何要浪費此等上好箭矢在一人身上？\"\n- 瓦爾箭術師．奇拉維",
+        "zh-Hans": "“何须为这一人耗费如此良箭？”\n——瓦尔箭术师奇拉维",
+        "en": "\"Why waste such a fine arrow on just one man?\"\n- Kiravi, Vaal Archer"
+      },
+      "level": 55,
+      "_flavorEnabled": true,
+      "grantedSkillsExtra": [],
+      "variantOf": "drillneck",
+      "variantKind": "cultivated",
+      "variantLabel": {
+        "zh-Hant": "栽培",
+        "zh-Hans": "培育",
+        "en": "Cultivated"
+      }
+    }
+  ],
+  "affixes": {
+    "combos": [],
+    "sections": [
+      {
+        "id": "base_suffix",
+        "entries": [
+          {
+            "group": "Dexterity",
+            "text": {
+              "zh-Hant": "#點敏捷",
+              "zh-Hans": "# 敏捷",
+              "en": "# to Dexterity"
+            },
+            "tags": [
+              "attribute"
+            ],
+            "tiers": [
+              {
+                "ilvl": 1,
+                "text": {
+                  "zh-Hant": "+(5—8)點敏捷",
+                  "zh-Hans": "+(5—8) 敏捷",
+                  "en": "+(5—8) to Dexterity"
+                },
+                "name": {
+                  "zh-Hant": "貓鼬之",
+                  "zh-Hans": "猫鼬之",
+                  "en": "of the Mongoose"
+                },
+                "weight": 1000
+              },
+              {
+                "ilvl": 11,
+                "text": {
+                  "zh-Hant": "+(9—12)點敏捷",
+                  "zh-Hans": "+(9—12) 敏捷",
+                  "en": "+(9—12) to Dexterity"
+                },
+                "name": {
+                  "zh-Hant": "山貓之",
+                  "zh-Hans": "山猫之",
+                  "en": "of the Lynx"
+                },
+                "weight": 1000
+              },
+              {
+                "ilvl": 22,
+                "text": {
+                  "zh-Hant": "+(13—16)點敏捷",
+                  "zh-Hans": "+(13—16) 敏捷",
+                  "en": "+(13—16) to Dexterity"
+                },
+                "name": {
+                  "zh-Hant": "狐狸之",
+                  "zh-Hans": "狐狸之",
+                  "en": "of the Fox"
+                },
+                "weight": 1000
+              },
+              {
+                "ilvl": 33,
+                "text": {
+                  "zh-Hant": "+(17—20)點敏捷",
+                  "zh-Hans": "+(17—20) 敏捷",
+                  "en": "+(17—20) to Dexterity"
+                },
+                "name": {
+                  "zh-Hant": "獵鷹之",
+                  "zh-Hans": "猎鹰之",
+                  "en": "of the Falcon"
+                },
+                "weight": 1000
+              },
+              {
+                "ilvl": 44,
+                "text": {
+                  "zh-Hant": "+(21—24)點敏捷",
+                  "zh-Hans": "+(21—24) 敏捷",
+                  "en": "+(21—24) to Dexterity"
+                },
+                "name": {
+                  "zh-Hant": "豹之",
+                  "zh-Hans": "豹之",
+                  "en": "of the Panther"
+                },
+                "weight": 1000
+              },
+              {
+                "ilvl": 55,
+                "text": {
+                  "zh-Hant": "+(25—27)點敏捷",
+                  "zh-Hans": "+(25—27) 敏捷",
+                  "en": "+(25—27) to Dexterity"
+                },
+                "name": {
+                  "zh-Hant": "花豹之",
+                  "zh-Hans": "花豹之",
+                  "en": "of the Leopard"
+                },
+                "weight": 1000
+              },
+              {
+                "ilvl": 66,
+                "text": {
+                  "zh-Hant": "+(28—30)點敏捷",
+                  "zh-Hans": "+(28—30) 敏捷",
+                  "en": "+(28—30) to Dexterity"
+                },
+                "name": {
+                  "zh-Hant": "美洲豹之",
+                  "zh-Hans": "美洲豹之",
+                  "en": "of the Jaguar"
+                },
+                "weight": 1000
+              },
+              {
+                "ilvl": 74,
+                "text": {
+                  "zh-Hant": "+(31—33)點敏捷",
+                  "zh-Hans": "+(31—33) 敏捷",
+                  "en": "+(31—33) to Dexterity"
+                },
+                "name": {
+                  "zh-Hant": "幻影之",
+                  "zh-Hans": "幻影之",
+                  "en": "of the Phantom"
+                },
+                "weight": 1000
+              }
+            ]
+          },
+          {
+            "group": "IncreaseSocketedGemLevel",
+            "text": {
+              "zh-Hant": "全部投射物技能等級#",
+              "zh-Hans": "所有投射物技能等级 #",
+              "en": "# to Level of all Projectile Skills"
+            },
+            "tags": [],
+            "tiers": [
+              {
+                "ilvl": 5,
+                "text": {
+                  "zh-Hant": "全部投射物技能等級+1",
+                  "zh-Hans": "所有投射物技能等级 +1",
+                  "en": "+1 to Level of all Projectile Skills"
+                },
+                "name": {
+                  "zh-Hant": "弓箭手之",
+                  "zh-Hans": "射手之",
+                  "en": "of the Archer"
+                },
+                "weight": 500
+              }
+            ]
+          },
+          {
+            "group": "LifeGainedFromEnemyDeath",
+            "text": {
+              "zh-Hant": "每個被擊殺的敵人，獲得#生命",
+              "zh-Hans": "每击败一名敌人获得 # 点生命",
+              "en": "Gain # Life per enemy killed"
+            },
+            "tags": [
+              "life"
+            ],
+            "tiers": [
+              {
+                "ilvl": 1,
+                "text": {
+                  "zh-Hant": "每個被擊殺的敵人，獲得(4—6)生命",
+                  "zh-Hans": "每击败一名敌人获得 (4—6) 点生命",
+                  "en": "Gain (4—6) Life per enemy killed"
+                },
+                "name": {
+                  "zh-Hant": "成功之",
+                  "zh-Hans": "成功之",
+                  "en": "of Success"
+                },
+                "weight": 750
+              },
+              {
+                "ilvl": 11,
+                "text": {
+                  "zh-Hant": "每個被擊殺的敵人，獲得(7—9)生命",
+                  "zh-Hans": "每击败一名敌人获得 (7—9) 点生命",
+                  "en": "Gain (7—9) Life per enemy killed"
+                },
+                "name": {
+                  "zh-Hant": "勝利之",
+                  "zh-Hans": "胜利之",
+                  "en": "of Victory"
+                },
+                "weight": 750
+              },
+              {
+                "ilvl": 22,
+                "text": {
+                  "zh-Hant": "每個被擊殺的敵人，獲得(10—18)生命",
+                  "zh-Hans": "每击败一名敌人获得 (10—18) 点生命",
+                  "en": "Gain (10—18) Life per enemy killed"
+                },
+                "name": {
+                  "zh-Hant": "凱旋之",
+                  "zh-Hans": "凯旋之",
+                  "en": "of Triumph"
+                },
+                "weight": 750
+              },
+              {
+                "ilvl": 33,
+                "text": {
+                  "zh-Hant": "每個被擊殺的敵人，獲得(19—28)生命",
+                  "zh-Hans": "每击败一名敌人获得 (19—28) 点生命",
+                  "en": "Gain (19—28) Life per enemy killed"
+                },
+                "name": {
+                  "zh-Hant": "征服之",
+                  "zh-Hans": "征服之",
+                  "en": "of Conquest"
+                },
+                "weight": 750
+              },
+              {
+                "ilvl": 44,
+                "text": {
+                  "zh-Hant": "每個被擊殺的敵人，獲得(29—40)生命",
+                  "zh-Hans": "每击败一名敌人获得 (29—40) 点生命",
+                  "en": "Gain (29—40) Life per enemy killed"
+                },
+                "name": {
+                  "zh-Hant": "征服之",
+                  "zh-Hans": "称霸之",
+                  "en": "of Vanquishing"
+                },
+                "weight": 750
+              },
+              {
+                "ilvl": 55,
+                "text": {
+                  "zh-Hant": "每個被擊殺的敵人，獲得(41—53)生命",
+                  "zh-Hans": "每击败一名敌人获得 (41—53) 点生命",
+                  "en": "Gain (41—53) Life per enemy killed"
+                },
+                "name": {
+                  "zh-Hant": "勇氣之",
+                  "zh-Hans": "勇气之",
+                  "en": "of Valour"
+                },
+                "weight": 750
+              }
+            ]
+          },
+          {
+            "group": "ManaGainedFromEnemyDeath",
+            "text": {
+              "zh-Hant": "每個被擊殺的敵人，獲得#魔力",
+              "zh-Hans": "每击败一名敌人获得 # 点魔力",
+              "en": "Gain # Mana per enemy killed"
+            },
+            "tags": [
+              "mana"
+            ],
+            "tiers": [
+              {
+                "ilvl": 1,
+                "text": {
+                  "zh-Hant": "每個被擊殺的敵人，獲得(2—3)魔力",
+                  "zh-Hans": "每击败一名敌人获得 (2—3) 点魔力",
+                  "en": "Gain (2—3) Mana per enemy killed"
+                },
+                "name": {
+                  "zh-Hant": "吸收之",
+                  "zh-Hans": "吸收之",
+                  "en": "of Absorption"
+                },
+                "weight": 750
+              },
+              {
+                "ilvl": 12,
+                "text": {
+                  "zh-Hant": "每個被擊殺的敵人，獲得(4—5)魔力",
+                  "zh-Hans": "每击败一名敌人获得 (4—5) 点魔力",
+                  "en": "Gain (4—5) Mana per enemy killed"
+                },
+                "name": {
+                  "zh-Hant": "逆滲透之",
+                  "zh-Hans": "逆渗透之",
+                  "en": "of Osmosis"
+                },
+                "weight": 750
+              },
+              {
+                "ilvl": 23,
+                "text": {
+                  "zh-Hant": "每個被擊殺的敵人，獲得(6—9)魔力",
+                  "zh-Hans": "每击败一名敌人获得 (6—9) 点魔力",
+                  "en": "Gain (6—9) Mana per enemy killed"
+                },
+                "name": {
+                  "zh-Hant": "注入之",
+                  "zh-Hans": "灌输之",
+                  "en": "of Infusion"
+                },
+                "weight": 750
+              },
+              {
+                "ilvl": 34,
+                "text": {
+                  "zh-Hant": "每個被擊殺的敵人，獲得(10—14)魔力",
+                  "zh-Hans": "每击败一名敌人获得 (10—14) 点魔力",
+                  "en": "Gain (10—14) Mana per enemy killed"
+                },
+                "name": {
+                  "zh-Hant": "包覆之",
+                  "zh-Hans": "裹挟之",
+                  "en": "of Enveloping"
+                },
+                "weight": 750
+              },
+              {
+                "ilvl": 45,
+                "text": {
+                  "zh-Hant": "每個被擊殺的敵人，獲得(15—20)魔力",
+                  "zh-Hans": "每击败一名敌人获得 (15—20) 点魔力",
+                  "en": "Gain (15—20) Mana per enemy killed"
+                },
+                "name": {
+                  "zh-Hant": "消耗之",
+                  "zh-Hans": "消耗之",
+                  "en": "of Consumption"
+                },
+                "weight": 750
+              },
+              {
+                "ilvl": 56,
+                "text": {
+                  "zh-Hant": "每個被擊殺的敵人，獲得(21—27)魔力",
+                  "zh-Hans": "每击败一名敌人获得 (21—27) 点魔力",
+                  "en": "Gain (21—27) Mana per enemy killed"
+                },
+                "name": {
+                  "zh-Hant": "虹吸之",
+                  "zh-Hans": "虹吸之",
+                  "en": "of Siphoning"
+                },
+                "weight": 750
+              }
+            ]
+          },
+          {
+            "group": "IncreasedAttackSpeed",
+            "text": {
+              "zh-Hant": "增加#%攻擊速度",
+              "zh-Hans": "攻击速度提高 #%",
+              "en": "#% increased Attack Speed"
+            },
+            "tags": [
+              "attack",
+              "speed"
+            ],
+            "tiers": [
+              {
+                "ilvl": 1,
+                "text": {
+                  "zh-Hant": "增加(5—7)%攻擊速度",
+                  "zh-Hans": "攻击速度提高 (5—7)%",
+                  "en": "(5—7)% increased Attack Speed"
+                },
+                "name": {
+                  "zh-Hant": "技巧之",
+                  "zh-Hans": "技巧之",
+                  "en": "of Skill"
+                },
+                "weight": 500
+              },
+              {
+                "ilvl": 22,
+                "text": {
+                  "zh-Hant": "增加(8—10)%攻擊速度",
+                  "zh-Hans": "攻击速度提高 (8—10)%",
+                  "en": "(8—10)% increased Attack Speed"
+                },
+                "name": {
+                  "zh-Hant": "輕鬆之",
+                  "zh-Hans": "轻松之",
+                  "en": "of Ease"
+                },
+                "weight": 500
+              },
+              {
+                "ilvl": 37,
+                "text": {
+                  "zh-Hant": "增加(11—13)%攻擊速度",
+                  "zh-Hans": "攻击速度提高 (11—13)%",
+                  "en": "(11—13)% increased Attack Speed"
+                },
+                "name": {
+                  "zh-Hant": "成熟之",
+                  "zh-Hans": "成熟之",
+                  "en": "of Mastery"
+                },
+                "weight": 500
+              },
+              {
+                "ilvl": 60,
+                "text": {
+                  "zh-Hant": "增加(14—16)%攻擊速度",
+                  "zh-Hans": "攻击速度提高 (14—16)%",
+                  "en": "(14—16)% increased Attack Speed"
+                },
+                "name": {
+                  "zh-Hant": "聲望之",
+                  "zh-Hans": "声望之",
+                  "en": "of Renown"
+                },
+                "weight": 500
+              }
+            ]
+          },
+          {
+            "group": "CriticalStrikeChanceIncrease",
+            "text": {
+              "zh-Hant": "增加#%攻擊暴擊率",
+              "zh-Hans": "攻击暴击率提高 #%",
+              "en": "#% increased Critical Hit Chance for Attacks"
+            },
+            "tags": [
+              "attack",
+              "critical"
+            ],
+            "tiers": [
+              {
+                "ilvl": 5,
+                "text": {
+                  "zh-Hant": "增加(10—14)%攻擊暴擊率",
+                  "zh-Hans": "攻击暴击率提高 (10—14)%",
+                  "en": "(10—14)% increased Critical Hit Chance for Attacks"
+                },
+                "name": {
+                  "zh-Hant": "威脅之",
+                  "zh-Hans": "威胁之",
+                  "en": "of Menace"
+                },
+                "weight": 1000
+              },
+              {
+                "ilvl": 20,
+                "text": {
+                  "zh-Hant": "增加(15—19)%攻擊暴擊率",
+                  "zh-Hans": "攻击暴击率提高 (15—19)%",
+                  "en": "(15—19)% increased Critical Hit Chance for Attacks"
+                },
+                "name": {
+                  "zh-Hant": "浩劫之",
+                  "zh-Hans": "浩劫之",
+                  "en": "of Havoc"
+                },
+                "weight": 1000
+              },
+              {
+                "ilvl": 30,
+                "text": {
+                  "zh-Hant": "增加(20—24)%攻擊暴擊率",
+                  "zh-Hans": "攻击暴击率提高 (20—24)%",
+                  "en": "(20—24)% increased Critical Hit Chance for Attacks"
+                },
+                "name": {
+                  "zh-Hant": "災害之",
+                  "zh-Hans": "灾害之",
+                  "en": "of Disaster"
+                },
+                "weight": 1000
+              },
+              {
+                "ilvl": 44,
+                "text": {
+                  "zh-Hant": "增加(25—29)%攻擊暴擊率",
+                  "zh-Hans": "攻击暴击率提高 (25—29)%",
+                  "en": "(25—29)% increased Critical Hit Chance for Attacks"
+                },
+                "name": {
+                  "zh-Hant": "血禍之",
+                  "zh-Hans": "灾难之",
+                  "en": "of Calamity"
+                },
+                "weight": 500
+              },
+              {
+                "ilvl": 58,
+                "text": {
+                  "zh-Hant": "增加(30—34)%攻擊暴擊率",
+                  "zh-Hans": "攻击暴击率提高 (30—34)%",
+                  "en": "(30—34)% increased Critical Hit Chance for Attacks"
+                },
+                "name": {
+                  "zh-Hant": "滅絕之",
+                  "zh-Hans": "灭绝之",
+                  "en": "of Ruin"
+                },
+                "weight": 250
+              },
+              {
+                "ilvl": 72,
+                "text": {
+                  "zh-Hant": "增加(35—38)%攻擊暴擊率",
+                  "zh-Hans": "攻击暴击率提高 (35—38)%",
+                  "en": "(35—38)% increased Critical Hit Chance for Attacks"
+                },
+                "name": {
+                  "zh-Hant": "奪位之",
+                  "zh-Hans": "解构之",
+                  "en": "of Unmaking"
+                },
+                "weight": 125
+              }
+            ]
+          },
+          {
+            "group": "CriticalStrikeMultiplier",
+            "text": {
+              "zh-Hant": "增加#%攻擊傷害的暴擊傷害加成",
+              "zh-Hans": "攻击伤害的暴击伤害加成 #%",
+              "en": "#% increased Critical Damage Bonus for Attack Damage"
+            },
+            "tags": [
+              "damage",
+              "attack",
+              "critical"
+            ],
+            "tiers": [
+              {
+                "ilvl": 8,
+                "text": {
+                  "zh-Hant": "增加(10—14)%攻擊傷害的暴擊傷害加成",
+                  "zh-Hans": "攻击伤害的暴击伤害加成 (10—14)%",
+                  "en": "(10—14)% increased Critical Damage Bonus for Attack Damage"
+                },
+                "name": {
+                  "zh-Hant": "怒火之",
+                  "zh-Hans": "怒火之",
+                  "en": "of Ire"
+                },
+                "weight": 1000
+              },
+              {
+                "ilvl": 21,
+                "text": {
+                  "zh-Hant": "增加(15—19)%攻擊傷害的暴擊傷害加成",
+                  "zh-Hans": "攻击伤害的暴击伤害加成 (15—19)%",
+                  "en": "(15—19)% increased Critical Damage Bonus for Attack Damage"
+                },
+                "name": {
+                  "zh-Hant": "憤怒之",
+                  "zh-Hans": "愤怒之",
+                  "en": "of Anger"
+                },
+                "weight": 1000
+              },
+              {
+                "ilvl": 31,
+                "text": {
+                  "zh-Hant": "增加(20—24)%攻擊傷害的暴擊傷害加成",
+                  "zh-Hans": "攻击伤害的暴击伤害加成 (20—24)%",
+                  "en": "(20—24)% increased Critical Damage Bonus for Attack Damage"
+                },
+                "name": {
+                  "zh-Hant": "狂怒之",
+                  "zh-Hans": "震怒之",
+                  "en": "of Rage"
+                },
+                "weight": 1000
+              },
+              {
+                "ilvl": 45,
+                "text": {
+                  "zh-Hant": "增加(25—29)%攻擊傷害的暴擊傷害加成",
+                  "zh-Hans": "攻击伤害的暴击伤害加成 (25—29)%",
+                  "en": "(25—29)% increased Critical Damage Bonus for Attack Damage"
+                },
+                "name": {
+                  "zh-Hant": "憤恨之",
+                  "zh-Hans": "狂暴之",
+                  "en": "of Fury"
+                },
+                "weight": 500
+              },
+              {
+                "ilvl": 59,
+                "text": {
+                  "zh-Hant": "增加(30—34)%攻擊傷害的暴擊傷害加成",
+                  "zh-Hans": "攻击伤害的暴击伤害加成 (30—34)%",
+                  "en": "(30—34)% increased Critical Damage Bonus for Attack Damage"
+                },
+                "name": {
+                  "zh-Hant": "狂暴之",
+                  "zh-Hans": "凶暴之",
+                  "en": "of Ferocity"
+                },
+                "weight": 250
+              },
+              {
+                "ilvl": 74,
+                "text": {
+                  "zh-Hant": "增加(35—39)%攻擊傷害的暴擊傷害加成",
+                  "zh-Hans": "攻击伤害的暴击伤害加成 (35—39)%",
+                  "en": "(35—39)% increased Critical Damage Bonus for Attack Damage"
+                },
+                "name": {
+                  "zh-Hant": "毀滅之",
+                  "zh-Hans": "毁灭之",
+                  "en": "of Destruction"
+                },
+                "weight": 125
+              }
+            ]
+          },
+          {
+            "group": "ChanceToPierce",
+            "text": {
+              "zh-Hant": "有#%機率穿透一個敵人",
+              "zh-Hans": "#% 的几率穿透一个敌人",
+              "en": "#% chance to Pierce an Enemy"
+            },
+            "tags": [],
+            "tiers": [
+              {
+                "ilvl": 11,
+                "text": {
+                  "zh-Hant": "有(12—14)%機率穿透一個敵人",
+                  "zh-Hans": "(12—14)% 的几率穿透一个敌人",
+                  "en": "(12—14)% chance to Pierce an Enemy"
+                },
+                "name": {
+                  "zh-Hant": "刺穿之",
+                  "zh-Hans": "刺穿之",
+                  "en": "of Piercing"
+                },
+                "weight": 500
+              },
+              {
+                "ilvl": 26,
+                "text": {
+                  "zh-Hant": "有(15—17)%機率穿透一個敵人",
+                  "zh-Hans": "(15—17)% 的几率穿透一个敌人",
+                  "en": "(15—17)% chance to Pierce an Enemy"
+                },
+                "name": {
+                  "zh-Hant": "訓練之",
+                  "zh-Hans": "钻取之",
+                  "en": "of Drilling"
+                },
+                "weight": 500
+              },
+              {
+                "ilvl": 44,
+                "text": {
+                  "zh-Hant": "有(18—20)%機率穿透一個敵人",
+                  "zh-Hans": "(18—20)% 的几率穿透一个敌人",
+                  "en": "(18—20)% chance to Pierce an Enemy"
+                },
+                "name": {
+                  "zh-Hant": "穿孔之",
+                  "zh-Hans": "穿孔之",
+                  "en": "of Puncturing"
+                },
+                "weight": 500
+              },
+              {
+                "ilvl": 61,
+                "text": {
+                  "zh-Hant": "有(21—23)%機率穿透一個敵人",
+                  "zh-Hans": "(21—23)% 的几率穿透一个敌人",
+                  "en": "(21—23)% chance to Pierce an Enemy"
+                },
+                "name": {
+                  "zh-Hant": "串起之",
+                  "zh-Hans": "穿钩之",
+                  "en": "of Skewering"
+                },
+                "weight": 500
+              },
+              {
+                "ilvl": 77,
+                "text": {
+                  "zh-Hant": "有(24—26)%機率穿透一個敵人",
+                  "zh-Hans": "(24—26)% 的几率穿透一个敌人",
+                  "en": "(24—26)% chance to Pierce an Enemy"
+                },
+                "name": {
+                  "zh-Hant": "穿透之",
+                  "zh-Hans": "穿透之",
+                  "en": "of Penetrating"
+                },
+                "weight": 500
+              }
+            ]
+          },
+          {
+            "group": "AdditionalArrows",
+            "text": {
+              "zh-Hant": "#%滿溢機率發射額外一枚箭矢",
+              "zh-Hans": "#% 的溢出几率发射一支额外箭矢",
+              "en": "#% Surpassing chance to fire an additional Arrow"
+            },
+            "tags": [
+              "attack"
+            ],
+            "tiers": [
+              {
+                "ilvl": 46,
+                "text": {
+                  "zh-Hant": "+(25—40)%滿溢機率發射額外一枚箭矢",
+                  "zh-Hans": "+(25—40)% 的溢出几率发射一支额外箭矢",
+                  "en": "+(25—40)% Surpassing chance to fire an additional Arrow"
+                },
+                "name": {
+                  "zh-Hant": "剩餘之",
+                  "zh-Hans": "盈余之",
+                  "en": "of Surplus"
+                },
+                "weight": 1
+              },
+              {
+                "ilvl": 80,
+                "text": {
+                  "zh-Hant": "+(41—60)%滿溢機率發射額外一枚箭矢",
+                  "zh-Hans": "+(41—60)% 的溢出几率发射一支额外箭矢",
+                  "en": "+(41—60)% Surpassing chance to fire an additional Arrow"
+                },
+                "name": {
+                  "zh-Hant": "分裂之",
+                  "zh-Hans": "碎片之",
+                  "en": "of Splintering"
+                },
+                "weight": 1
+              }
+            ]
+          }
+        ],
+        "title": {
+          "zh-Hant": "基礎 後綴",
+          "zh-Hans": "基础 后缀",
+          "en": "Base Suffixes"
+        }
+      },
+      {
+        "id": "base_prefix",
+        "entries": [
+          {
+            "group": "PhysicalDamage",
+            "text": {
+              "zh-Hant": "攻擊附加#至#物理傷害",
+              "zh-Hans": "攻击附加 # - # 物理伤害",
+              "en": "Adds # to # Physical Damage to Attacks"
+            },
+            "tags": [
+              "damage",
+              "physical",
+              "attack"
+            ],
+            "tiers": [
+              {
+                "ilvl": 1,
+                "text": {
+                  "zh-Hant": "攻擊附加(1—2)至3物理傷害",
+                  "zh-Hans": "攻击附加 (1—2) - 3 物理伤害",
+                  "en": "Adds (1—2) to 3 Physical Damage to Attacks"
+                },
+                "name": {
+                  "zh-Hant": "反光的",
+                  "zh-Hans": "闪烁的",
+                  "en": "Glinting"
+                },
+                "weight": 1000
+              },
+              {
+                "ilvl": 8,
+                "text": {
+                  "zh-Hant": "攻擊附加(2—3)至(4—6)物理傷害",
+                  "zh-Hans": "攻击附加 (2—3) - (4—6) 物理伤害",
+                  "en": "Adds (2—3) to (4—6) Physical Damage to Attacks"
+                },
+                "name": {
+                  "zh-Hant": "磨光的",
+                  "zh-Hans": "磨光的",
+                  "en": "Burnished"
+                },
+                "weight": 1000
+              },
+              {
+                "ilvl": 16,
+                "text": {
+                  "zh-Hant": "攻擊附加(2—4)至(5—8)物理傷害",
+                  "zh-Hans": "攻击附加 (2—4) - (5—8) 物理伤害",
+                  "en": "Adds (2—4) to (5—8) Physical Damage to Attacks"
+                },
+                "name": {
+                  "zh-Hant": "拋光的",
+                  "zh-Hans": "抛光的",
+                  "en": "Polished"
+                },
+                "weight": 1000
+              },
+              {
+                "ilvl": 33,
+                "text": {
+                  "zh-Hant": "攻擊附加(4—6)至(8—11)物理傷害",
+                  "zh-Hans": "攻击附加 (4—6) - (8—11) 物理伤害",
+                  "en": "Adds (4—6) to (8—11) Physical Damage to Attacks"
+                },
+                "name": {
+                  "zh-Hant": "砥礪的",
+                  "zh-Hans": "砥砺的",
+                  "en": "Honed"
+                },
+                "weight": 1000
+              },
+              {
+                "ilvl": 46,
+                "text": {
+                  "zh-Hant": "攻擊附加(5—7)至(9—13)物理傷害",
+                  "zh-Hans": "攻击附加 (5—7) - (9—13) 物理伤害",
+                  "en": "Adds (5—7) to (9—13) Physical Damage to Attacks"
+                },
+                "name": {
+                  "zh-Hant": "熠熠的",
+                  "zh-Hans": "熠熠的",
+                  "en": "Gleaming"
+                },
+                "weight": 1000
+              },
+              {
+                "ilvl": 54,
+                "text": {
+                  "zh-Hant": "攻擊附加(6—10)至(12—17)物理傷害",
+                  "zh-Hans": "攻击附加 (6—10) - (12—17) 物理伤害",
+                  "en": "Adds (6—10) to (12—17) Physical Damage to Attacks"
+                },
+                "name": {
+                  "zh-Hant": "韌煉的",
+                  "zh-Hans": "韧炼的",
+                  "en": "Annealed"
+                },
+                "weight": 1000
+              },
+              {
+                "ilvl": 60,
+                "text": {
+                  "zh-Hant": "攻擊附加(7—11)至(14—20)物理傷害",
+                  "zh-Hans": "攻击附加 (7—11) - (14—20) 物理伤害",
+                  "en": "Adds (7—11) to (14—20) Physical Damage to Attacks"
+                },
+                "name": {
+                  "zh-Hant": "鋒利的",
+                  "zh-Hans": "锋利的",
+                  "en": "Razor-sharp"
+                },
+                "weight": 800
+              },
+              {
+                "ilvl": 65,
+                "text": {
+                  "zh-Hant": "攻擊附加(10—15)至(18—26)物理傷害",
+                  "zh-Hans": "攻击附加 (10—15) - (18—26) 物理伤害",
+                  "en": "Adds (10—15) to (18—26) Physical Damage to Attacks"
+                },
+                "name": {
+                  "zh-Hant": "鍛煉的",
+                  "zh-Hans": "锻炼的",
+                  "en": "Tempered"
+                },
+                "weight": 600
+              },
+              {
+                "ilvl": 75,
+                "text": {
+                  "zh-Hant": "攻擊附加(12—19)至(22—32)物理傷害",
+                  "zh-Hans": "攻击附加 (12—19) - (22—32) 物理伤害",
+                  "en": "Adds (12—19) to (22—32) Physical Damage to Attacks"
+                },
+                "name": {
+                  "zh-Hant": "迸出的",
+                  "zh-Hans": "迸出的",
+                  "en": "Flaring"
+                },
+                "weight": 400
+              }
+            ]
+          },
+          {
+            "group": "FireDamage",
+            "text": {
+              "zh-Hant": "攻擊附加#至#火焰傷害",
+              "zh-Hans": "攻击附加 # - # 基础火焰伤害",
+              "en": "Adds # to # Fire damage to Attacks"
+            },
+            "tags": [
+              "damage",
+              "elemental",
+              "fire",
+              "attack"
+            ],
+            "tiers": [
+              {
+                "ilvl": 1,
+                "text": {
+                  "zh-Hant": "攻擊附加(1—2)至3火焰傷害",
+                  "zh-Hans": "攻击附加 (1—2) - 3 基础火焰伤害",
+                  "en": "Adds (1—2) to 3 Fire damage to Attacks"
+                },
+                "name": {
+                  "zh-Hant": "加熱的",
+                  "zh-Hans": "加热的",
+                  "en": "Heated"
+                },
+                "weight": 500
+              },
+              {
+                "ilvl": 8,
+                "text": {
+                  "zh-Hant": "攻擊附加(3—5)至(6—9)火焰傷害",
+                  "zh-Hans": "攻击附加 (3—5) - (6—9) 基础火焰伤害",
+                  "en": "Adds (3—5) to (6—9) Fire damage to Attacks"
+                },
+                "name": {
+                  "zh-Hant": "悶燒的",
+                  "zh-Hans": "闷烧的",
+                  "en": "Smouldering"
+                },
+                "weight": 500
+              },
+              {
+                "ilvl": 16,
+                "text": {
+                  "zh-Hant": "攻擊附加(6—8)至(10—13)火焰傷害",
+                  "zh-Hans": "攻击附加 (6—8) - (10—13) 基础火焰伤害",
+                  "en": "Adds (6—8) to (10—13) Fire damage to Attacks"
+                },
+                "name": {
+                  "zh-Hant": "冒煙的",
+                  "zh-Hans": "冒烟的",
+                  "en": "Smoking"
+                },
+                "weight": 500
+              },
+              {
+                "ilvl": 33,
+                "text": {
+                  "zh-Hant": "攻擊附加(9—11)至(14—17)火焰傷害",
+                  "zh-Hans": "攻击附加 (9—11) - (14—17) 基础火焰伤害",
+                  "en": "Adds (9—11) to (14—17) Fire damage to Attacks"
+                },
+                "name": {
+                  "zh-Hant": "燃燒的",
+                  "zh-Hans": "燃烧的",
+                  "en": "Burning"
+                },
+                "weight": 500
+              },
+              {
+                "ilvl": 46,
+                "text": {
+                  "zh-Hant": "攻擊附加(12—13)至(18—20)火焰傷害",
+                  "zh-Hans": "攻击附加 (12—13) - (18—20) 基础火焰伤害",
+                  "en": "Adds (12—13) to (18—20) Fire damage to Attacks"
+                },
+                "name": {
+                  "zh-Hant": "火焰的",
+                  "zh-Hans": "烈火的",
+                  "en": "Flaming"
+                },
+                "weight": 500
+              },
+              {
+                "ilvl": 54,
+                "text": {
+                  "zh-Hant": "攻擊附加(11—16)至(21—26)火焰傷害",
+                  "zh-Hans": "攻击附加 (11—16) - (21—26) 基础火焰伤害",
+                  "en": "Adds (11—16) to (21—26) Fire damage to Attacks"
+                },
+                "name": {
+                  "zh-Hant": "酷熱的",
+                  "zh-Hans": "酷热的",
+                  "en": "Scorching"
+                },
+                "weight": 500
+              },
+              {
+                "ilvl": 60,
+                "text": {
+                  "zh-Hant": "攻擊附加(13—19)至(27—32)火焰傷害",
+                  "zh-Hans": "攻击附加 (13—19) - (27—32) 基础火焰伤害",
+                  "en": "Adds (13—19) to (27—32) Fire damage to Attacks"
+                },
+                "name": {
+                  "zh-Hant": "焚燒的",
+                  "zh-Hans": "焚烧的",
+                  "en": "Incinerating"
+                },
+                "weight": 400
+              },
+              {
+                "ilvl": 65,
+                "text": {
+                  "zh-Hant": "攻擊附加(20—24)至(33—36)火焰傷害",
+                  "zh-Hans": "攻击附加 (20—24) - (33—36) 基础火焰伤害",
+                  "en": "Adds (20—24) to (33—36) Fire damage to Attacks"
+                },
+                "name": {
+                  "zh-Hant": "爆破的",
+                  "zh-Hans": "爆破的",
+                  "en": "Blasting"
+                },
+                "weight": 300
+              },
+              {
+                "ilvl": 75,
+                "text": {
+                  "zh-Hant": "攻擊附加(25—29)至(37—45)火焰傷害",
+                  "zh-Hans": "攻击附加 (25—29) - (37—45) 基础火焰伤害",
+                  "en": "Adds (25—29) to (37—45) Fire damage to Attacks"
+                },
+                "name": {
+                  "zh-Hant": "火化的",
+                  "zh-Hans": "火化的",
+                  "en": "Cremating"
+                },
+                "weight": 200
+              }
+            ]
+          },
+          {
+            "group": "ColdDamage",
+            "text": {
+              "zh-Hant": "攻擊附加#至#冰冷傷害",
+              "zh-Hans": "攻击附加 # - # 基础冰霜伤害",
+              "en": "Adds # to # Cold damage to Attacks"
+            },
+            "tags": [
+              "damage",
+              "elemental",
+              "cold",
+              "attack"
+            ],
+            "tiers": [
+              {
+                "ilvl": 1,
+                "text": {
+                  "zh-Hant": "攻擊附加1至(2—3)冰冷傷害",
+                  "zh-Hans": "攻击附加 1 - (2—3) 基础冰霜伤害",
+                  "en": "Adds 1 to (2—3) Cold damage to Attacks"
+                },
+                "name": {
+                  "zh-Hant": "結霜的",
+                  "zh-Hans": "结霜的",
+                  "en": "Frosted"
+                },
+                "weight": 500
+              },
+              {
+                "ilvl": 8,
+                "text": {
+                  "zh-Hant": "攻擊附加(3—4)至(5—8)冰冷傷害",
+                  "zh-Hans": "攻击附加 (3—4) - (5—8) 基础冰霜伤害",
+                  "en": "Adds (3—4) to (5—8) Cold damage to Attacks"
+                },
+                "name": {
+                  "zh-Hant": "冷凍的",
+                  "zh-Hans": "冰缓的",
+                  "en": "Chilled"
+                },
+                "weight": 500
+              },
+              {
+                "ilvl": 16,
+                "text": {
+                  "zh-Hant": "攻擊附加(5—6)至(9—11)冰冷傷害",
+                  "zh-Hans": "攻击附加 (5—6) - (9—11) 基础冰霜伤害",
+                  "en": "Adds (5—6) to (9—11) Cold damage to Attacks"
+                },
+                "name": {
+                  "zh-Hant": "結冰的",
+                  "zh-Hans": "结冰的",
+                  "en": "Icy"
+                },
+                "weight": 500
+              },
+              {
+                "ilvl": 33,
+                "text": {
+                  "zh-Hant": "攻擊附加(7—8)至(12—14)冰冷傷害",
+                  "zh-Hans": "攻击附加 (7—8) - (12—14) 基础冰霜伤害",
+                  "en": "Adds (7—8) to (12—14) Cold damage to Attacks"
+                },
+                "name": {
+                  "zh-Hant": "寒風的",
+                  "zh-Hans": "寒风的",
+                  "en": "Frigid"
+                },
+                "weight": 500
+              },
+              {
+                "ilvl": 46,
+                "text": {
+                  "zh-Hant": "攻擊附加(9—10)至(15—17)冰冷傷害",
+                  "zh-Hans": "攻击附加 (9—10) - (15—17) 基础冰霜伤害",
+                  "en": "Adds (9—10) to (15—17) Cold damage to Attacks"
+                },
+                "name": {
+                  "zh-Hant": "急凍的",
+                  "zh-Hans": "冰冻的",
+                  "en": "Freezing"
+                },
+                "weight": 500
+              },
+              {
+                "ilvl": 54,
+                "text": {
+                  "zh-Hant": "攻擊附加(11—13)至(18—21)冰冷傷害",
+                  "zh-Hans": "攻击附加 (11—13) - (18—21) 基础冰霜伤害",
+                  "en": "Adds (11—13) to (18—21) Cold damage to Attacks"
+                },
+                "name": {
+                  "zh-Hant": "冰凍",
+                  "zh-Hans": "冻结的",
+                  "en": "Frozen"
+                },
+                "weight": 500
+              },
+              {
+                "ilvl": 60,
+                "text": {
+                  "zh-Hant": "攻擊附加(14—15)至(22—24)冰冷傷害",
+                  "zh-Hans": "攻击附加 (14—15) - (22—24) 基础冰霜伤害",
+                  "en": "Adds (14—15) to (22—24) Cold damage to Attacks"
+                },
+                "name": {
+                  "zh-Hant": "冰河的",
+                  "zh-Hans": "冰河的",
+                  "en": "Glaciated"
+                },
+                "weight": 400
+              },
+              {
+                "ilvl": 65,
+                "text": {
+                  "zh-Hant": "攻擊附加(16—20)至(25—31)冰冷傷害",
+                  "zh-Hans": "攻击附加 (16—20) - (25—31) 基础冰霜伤害",
+                  "en": "Adds (16—20) to (25—31) Cold damage to Attacks"
+                },
+                "name": {
+                  "zh-Hant": "極地的",
+                  "zh-Hans": "极地的",
+                  "en": "Polar"
+                },
+                "weight": 300
+              },
+              {
+                "ilvl": 75,
+                "text": {
+                  "zh-Hant": "攻擊附加(21—24)至(32—37)冰冷傷害",
+                  "zh-Hans": "攻击附加 (21—24) - (32—37) 基础冰霜伤害",
+                  "en": "Adds (21—24) to (32—37) Cold damage to Attacks"
+                },
+                "name": {
+                  "zh-Hant": "埋葬的",
+                  "zh-Hans": "埋葬的",
+                  "en": "Entombing"
+                },
+                "weight": 200
+              }
+            ]
+          },
+          {
+            "group": "LightningDamage",
+            "text": {
+              "zh-Hant": "攻擊附加#至#閃電傷害",
+              "zh-Hans": "攻击附加 # - # 基础闪电伤害",
+              "en": "Adds # to # Lightning damage to Attacks"
+            },
+            "tags": [
+              "damage",
+              "elemental",
+              "lightning",
+              "attack"
+            ],
+            "tiers": [
+              {
+                "ilvl": 1,
+                "text": {
+                  "zh-Hant": "攻擊附加1至(4—6)閃電傷害",
+                  "zh-Hans": "攻击附加 1 - (4—6) 基础闪电伤害",
+                  "en": "Adds 1 to (4—6) Lightning damage to Attacks"
+                },
+                "name": {
+                  "zh-Hant": "低鳴的",
+                  "zh-Hans": "低鸣的",
+                  "en": "Humming"
+                },
+                "weight": 500
+              },
+              {
+                "ilvl": 8,
+                "text": {
+                  "zh-Hant": "攻擊附加1至(10—15)閃電傷害",
+                  "zh-Hans": "攻击附加 1 - (10—15) 基础闪电伤害",
+                  "en": "Adds 1 to (10—15) Lightning damage to Attacks"
+                },
+                "name": {
+                  "zh-Hant": "嗡嗡的",
+                  "zh-Hans": "嗡嗡的",
+                  "en": "Buzzing"
+                },
+                "weight": 500
+              },
+              {
+                "ilvl": 16,
+                "text": {
+                  "zh-Hant": "攻擊附加1至(16—22)閃電傷害",
+                  "zh-Hans": "攻击附加 1 - (16—22) 基础闪电伤害",
+                  "en": "Adds 1 to (16—22) Lightning damage to Attacks"
+                },
+                "name": {
+                  "zh-Hant": "捕捉的",
+                  "zh-Hans": "捕捉的",
+                  "en": "Snapping"
+                },
+                "weight": 500
+              },
+              {
+                "ilvl": 33,
+                "text": {
+                  "zh-Hant": "攻擊附加1至(23—27)閃電傷害",
+                  "zh-Hans": "攻击附加 1 - (23—27) 基础闪电伤害",
+                  "en": "Adds 1 to (23—27) Lightning damage to Attacks"
+                },
+                "name": {
+                  "zh-Hant": "劈哩啪啦的",
+                  "zh-Hans": "劈哩啪啦的",
+                  "en": "Crackling"
+                },
+                "weight": 500
+              },
+              {
+                "ilvl": 46,
+                "text": {
+                  "zh-Hant": "攻擊附加1至(28—32)閃電傷害",
+                  "zh-Hans": "攻击附加 1 - (28—32) 基础闪电伤害",
+                  "en": "Adds 1 to (28—32) Lightning damage to Attacks"
+                },
+                "name": {
+                  "zh-Hant": "火花的",
+                  "zh-Hans": "火花的",
+                  "en": "Sparking"
+                },
+                "weight": 500
+              },
+              {
+                "ilvl": 54,
+                "text": {
+                  "zh-Hant": "攻擊附加(1—2)至(33—40)閃電傷害",
+                  "zh-Hans": "攻击附加 (1—2) - (33—40) 基础闪电伤害",
+                  "en": "Adds (1—2) to (33—40) Lightning damage to Attacks"
+                },
+                "name": {
+                  "zh-Hant": "電弧的",
+                  "zh-Hans": "电弧的",
+                  "en": "Arcing"
+                },
+                "weight": 500
+              },
+              {
+                "ilvl": 60,
+                "text": {
+                  "zh-Hant": "攻擊附加(1—2)至(41—47)閃電傷害",
+                  "zh-Hans": "攻击附加 (1—2) - (41—47) 基础闪电伤害",
+                  "en": "Adds (1—2) to (41—47) Lightning damage to Attacks"
+                },
+                "name": {
+                  "zh-Hant": "電震的",
+                  "zh-Hans": "感电的",
+                  "en": "Shocking"
+                },
+                "weight": 400
+              },
+              {
+                "ilvl": 65,
+                "text": {
+                  "zh-Hant": "攻擊附加(1—3)至(48—59)閃電傷害",
+                  "zh-Hans": "攻击附加 (1—3) - (48—59) 基础闪电伤害",
+                  "en": "Adds (1—3) to (48—59) Lightning damage to Attacks"
+                },
+                "name": {
+                  "zh-Hant": "放電的",
+                  "zh-Hans": "放电的",
+                  "en": "Discharging"
+                },
+                "weight": 300
+              },
+              {
+                "ilvl": 75,
+                "text": {
+                  "zh-Hant": "攻擊附加(1—4)至(60—71)閃電傷害",
+                  "zh-Hans": "攻击附加 (1—4) - (60—71) 基础闪电伤害",
+                  "en": "Adds (1—4) to (60—71) Lightning damage to Attacks"
+                },
+                "name": {
+                  "zh-Hant": "電極的",
+                  "zh-Hans": "电殛的",
+                  "en": "Electrocuting"
+                },
+                "weight": 200
+              }
+            ]
+          },
+          {
+            "group": "IncreasedAccuracy",
+            "text": {
+              "zh-Hant": "#命中值",
+              "zh-Hans": "# 命中值",
+              "en": "# to Accuracy Rating"
+            },
+            "tags": [
+              "attack"
+            ],
+            "tiers": [
+              {
+                "ilvl": 1,
+                "text": {
+                  "zh-Hant": "+(11—32)命中值",
+                  "zh-Hans": "+(11—32) 命中值",
+                  "en": "+(11—32) to Accuracy Rating"
+                },
+                "name": {
+                  "zh-Hant": "精確的",
+                  "zh-Hans": "精确的",
+                  "en": "Precise"
+                },
+                "weight": 800
+              },
+              {
+                "ilvl": 11,
+                "text": {
+                  "zh-Hant": "+(33—60)命中值",
+                  "zh-Hans": "+(33—60) 命中值",
+                  "en": "+(33—60) to Accuracy Rating"
+                },
+                "name": {
+                  "zh-Hant": "可靠的",
+                  "zh-Hans": "可靠的",
+                  "en": "Reliable"
+                },
+                "weight": 800
+              },
+              {
+                "ilvl": 18,
+                "text": {
+                  "zh-Hant": "+(61—84)命中值",
+                  "zh-Hans": "+(61—84) 命中值",
+                  "en": "+(61—84) to Accuracy Rating"
+                },
+                "name": {
+                  "zh-Hant": "專注的",
+                  "zh-Hans": "专注的",
+                  "en": "Focused"
+                },
+                "weight": 800
+              },
+              {
+                "ilvl": 26,
+                "text": {
+                  "zh-Hant": "+(85—123)命中值",
+                  "zh-Hans": "+(85—123) 命中值",
+                  "en": "+(85—123) to Accuracy Rating"
+                },
+                "name": {
+                  "zh-Hant": "慎重之",
+                  "zh-Hans": "从容的",
+                  "en": "Deliberate"
+                },
+                "weight": 800
+              },
+              {
+                "ilvl": 36,
+                "text": {
+                  "zh-Hant": "+(124—167)命中值",
+                  "zh-Hans": "+(124—167) 命中值",
+                  "en": "+(124—167) to Accuracy Rating"
+                },
+                "name": {
+                  "zh-Hant": "穩定之",
+                  "zh-Hans": "如一的",
+                  "en": "Consistent"
+                },
+                "weight": 800
+              },
+              {
+                "ilvl": 48,
+                "text": {
+                  "zh-Hant": "+(168—236)命中值",
+                  "zh-Hans": "+(168—236) 命中值",
+                  "en": "+(168—236) to Accuracy Rating"
+                },
+                "name": {
+                  "zh-Hant": "安穩的",
+                  "zh-Hans": "稳健的",
+                  "en": "Steady"
+                },
+                "weight": 800
+              },
+              {
+                "ilvl": 58,
+                "text": {
+                  "zh-Hant": "+(237—346)命中值",
+                  "zh-Hans": "+(237—346) 命中值",
+                  "en": "+(237—346) to Accuracy Rating"
+                },
+                "name": {
+                  "zh-Hant": "狩獵者的",
+                  "zh-Hans": "狩猎者的",
+                  "en": "Hunter's"
+                },
+                "weight": 800
+              },
+              {
+                "ilvl": 67,
+                "text": {
+                  "zh-Hant": "+(347—450)命中值",
+                  "zh-Hans": "+(347—450) 命中值",
+                  "en": "+(347—450) to Accuracy Rating"
+                },
+                "name": {
+                  "zh-Hant": "遊俠的",
+                  "zh-Hans": "游侠的",
+                  "en": "Ranger's"
+                },
+                "weight": 400
+              },
+              {
+                "ilvl": 76,
+                "text": {
+                  "zh-Hant": "+(451—550)命中值",
+                  "zh-Hans": "+(451—550) 命中值",
+                  "en": "+(451—550) to Accuracy Rating"
+                },
+                "name": {
+                  "zh-Hant": "亞馬遜的",
+                  "zh-Hans": "亚马逊的",
+                  "en": "Amazon's"
+                },
+                "weight": 200
+              }
+            ]
+          },
+          {
+            "group": "ProjectileSpeed",
+            "text": {
+              "zh-Hant": "增加#%投射物速度",
+              "zh-Hans": "投射物速度提高 #%",
+              "en": "#% increased Projectile Speed"
+            },
+            "tags": [
+              "speed"
+            ],
+            "tiers": [
+              {
+                "ilvl": 14,
+                "text": {
+                  "zh-Hant": "增加(10—17)%投射物速度",
+                  "zh-Hans": "投射物速度提高 (10—17)%",
+                  "en": "(10—17)% increased Projectile Speed"
+                },
+                "name": {
+                  "zh-Hant": "疾速的",
+                  "zh-Hans": "疾速的",
+                  "en": "Darting"
+                },
+                "weight": 1000
+              },
+              {
+                "ilvl": 27,
+                "text": {
+                  "zh-Hant": "增加(18—25)%投射物速度",
+                  "zh-Hans": "投射物速度提高 (18—25)%",
+                  "en": "(18—25)% increased Projectile Speed"
+                },
+                "name": {
+                  "zh-Hant": "輕快的",
+                  "zh-Hans": "轻快的",
+                  "en": "Brisk"
+                },
+                "weight": 1000
+              },
+              {
+                "ilvl": 41,
+                "text": {
+                  "zh-Hant": "增加(26—33)%投射物速度",
+                  "zh-Hans": "投射物速度提高 (26—33)%",
+                  "en": "(26—33)% increased Projectile Speed"
+                },
+                "name": {
+                  "zh-Hant": "快速的",
+                  "zh-Hans": "快速的",
+                  "en": "Quick"
+                },
+                "weight": 1000
+              },
+              {
+                "ilvl": 55,
+                "text": {
+                  "zh-Hant": "增加(34—41)%投射物速度",
+                  "zh-Hans": "投射物速度提高 (34—41)%",
+                  "en": "(34—41)% increased Projectile Speed"
+                },
+                "name": {
+                  "zh-Hant": "疾速的",
+                  "zh-Hans": "急速的",
+                  "en": "Rapid"
+                },
+                "weight": 1000
+              },
+              {
+                "ilvl": 82,
+                "text": {
+                  "zh-Hant": "增加(42—46)%投射物速度",
+                  "zh-Hans": "投射物速度提高 (42—46)%",
+                  "en": "(42—46)% increased Projectile Speed"
+                },
+                "name": {
+                  "zh-Hant": "靈活的",
+                  "zh-Hans": "灵敏的",
+                  "en": "Nimble"
+                },
+                "weight": 1000
+              }
+            ]
+          },
+          {
+            "group": "DamageWithWeaponTypeSkill",
+            "text": {
+              "zh-Hant": "增加#%弓技能的傷害",
+              "zh-Hans": "弓类技能伤害提高 #%",
+              "en": "#% increased Damage with Bow Skills"
+            },
+            "tags": [
+              "damage"
+            ],
+            "tiers": [
+              {
+                "ilvl": 1,
+                "text": {
+                  "zh-Hant": "增加(11—20)%弓技能的傷害",
+                  "zh-Hans": "弓类技能伤害提高 (11—20)%",
+                  "en": "(11—20)% increased Damage with Bow Skills"
+                },
+                "name": {
+                  "zh-Hant": "急性的",
+                  "zh-Hans": "敏锐的",
+                  "en": "Acute"
+                },
+                "weight": 500
+              },
+              {
+                "ilvl": 16,
+                "text": {
+                  "zh-Hant": "增加(21—30)%弓技能的傷害",
+                  "zh-Hans": "弓类技能伤害提高 (21—30)%",
+                  "en": "(21—30)% increased Damage with Bow Skills"
+                },
+                "name": {
+                  "zh-Hant": "迷幻的",
+                  "zh-Hans": "尖刻的",
+                  "en": "Trenchant"
+                },
+                "weight": 500
+              },
+              {
+                "ilvl": 33,
+                "text": {
+                  "zh-Hant": "增加(31—36)%弓技能的傷害",
+                  "zh-Hans": "弓类技能伤害提高 (31—36)%",
+                  "en": "(31—36)% increased Damage with Bow Skills"
+                },
+                "name": {
+                  "zh-Hant": "穿孔的",
+                  "zh-Hans": "凿击的",
+                  "en": "Perforating"
+                },
+                "weight": 500
+              },
+              {
+                "ilvl": 46,
+                "text": {
+                  "zh-Hant": "增加(37—42)%弓技能的傷害",
+                  "zh-Hans": "弓类技能伤害提高 (37—42)%",
+                  "en": "(37—42)% increased Damage with Bow Skills"
+                },
+                "name": {
+                  "zh-Hant": "尖銳的",
+                  "zh-Hans": "锋尖的",
+                  "en": "Incisive"
+                },
+                "weight": 500
+              },
+              {
+                "ilvl": 60,
+                "text": {
+                  "zh-Hant": "增加(43—50)%弓技能的傷害",
+                  "zh-Hans": "弓类技能伤害提高 (43—50)%",
+                  "en": "(43—50)% increased Damage with Bow Skills"
+                },
+                "name": {
+                  "zh-Hant": "撕裂的",
+                  "zh-Hans": "破空的",
+                  "en": "Lacerating"
+                },
+                "weight": 500
+              },
+              {
+                "ilvl": 81,
+                "text": {
+                  "zh-Hant": "增加(51—59)%弓技能的傷害",
+                  "zh-Hans": "弓类技能伤害提高 (51—59)%",
+                  "en": "(51—59)% increased Damage with Bow Skills"
+                },
+                "name": {
+                  "zh-Hant": "穿刺的",
+                  "zh-Hans": "穿刺的",
+                  "en": "Impaling"
+                },
+                "weight": 500
+              }
+            ]
+          }
+        ],
+        "title": {
+          "zh-Hant": "基礎 前綴",
+          "zh-Hans": "基础 前缀",
+          "en": "Base Prefixes"
+        }
+      },
+      {
+        "id": "corrupted",
+        "entries": [
+          {
+            "group": "IncreasedMana",
+            "text": {
+              "zh-Hant": "#最大魔力",
+              "zh-Hans": "# 魔力上限",
+              "en": "# to maximum Mana"
+            },
+            "tags": [
+              "mana"
+            ],
+            "tiers": [
+              {
+                "ilvl": 1,
+                "text": {
+                  "zh-Hant": "+(20—25)最大魔力",
+                  "zh-Hans": "+(20—25) 魔力上限",
+                  "en": "+(20—25) to maximum Mana"
+                },
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "group": "IncreasedAccuracy",
+            "text": {
+              "zh-Hant": "#命中值",
+              "zh-Hans": "# 命中值",
+              "en": "# to Accuracy Rating"
+            },
+            "tags": [
+              "attack"
+            ],
+            "tiers": [
+              {
+                "ilvl": 1,
+                "text": {
+                  "zh-Hant": "+(50—100)命中值",
+                  "zh-Hans": "+(50—100) 命中值",
+                  "en": "+(50—100) to Accuracy Rating"
+                },
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "group": "AllDamage",
+            "text": {
+              "zh-Hant": "增加#%傷害",
+              "zh-Hans": "伤害提高 #%",
+              "en": "#% increased Damage"
+            },
+            "tags": [
+              "damage"
+            ],
+            "tiers": [
+              {
+                "ilvl": 1,
+                "text": {
+                  "zh-Hant": "增加(20—30)%傷害",
+                  "zh-Hans": "伤害提高 (20—30)%",
+                  "en": "(20—30)% increased Damage"
+                },
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "group": "IncreasedSpeed",
+            "text": {
+              "zh-Hant": "增加#%技能速度",
+              "zh-Hans": "技能速度提高 #%",
+              "en": "#% increased Skill Speed"
+            },
+            "tags": [
+              "speed"
+            ],
+            "tiers": [
+              {
+                "ilvl": 1,
+                "text": {
+                  "zh-Hant": "增加(4—6)%技能速度",
+                  "zh-Hans": "技能速度提高 (4—6)%",
+                  "en": "(4—6)% increased Skill Speed"
+                },
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "group": "CriticalStrikeMultiplier",
+            "text": {
+              "zh-Hant": "增加#%暴擊傷害加成",
+              "zh-Hans": "暴击伤害加成提高 #%",
+              "en": "#% increased Critical Damage Bonus"
+            },
+            "tags": [
+              "damage",
+              "critical"
+            ],
+            "tiers": [
+              {
+                "ilvl": 1,
+                "text": {
+                  "zh-Hant": "增加(15—20)%暴擊傷害加成",
+                  "zh-Hans": "暴击伤害加成提高 (15—20)%",
+                  "en": "(15—20)% increased Critical Damage Bonus"
+                },
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "group": "LifeGainedFromEnemyDeath",
+            "text": {
+              "zh-Hant": "每個被擊殺的敵人，獲得#生命",
+              "zh-Hans": "每击败一名敌人获得 # 点生命",
+              "en": "Gain # Life per enemy killed"
+            },
+            "tags": [
+              "life"
+            ],
+            "tiers": [
+              {
+                "ilvl": 1,
+                "text": {
+                  "zh-Hant": "每個被擊殺的敵人，獲得(20—25)生命",
+                  "zh-Hans": "每击败一名敌人获得 (20—25) 点生命",
+                  "en": "Gain (20—25) Life per enemy killed"
+                },
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "group": "ManaGainedFromEnemyDeath",
+            "text": {
+              "zh-Hant": "每個被擊殺的敵人，獲得#魔力",
+              "zh-Hans": "每击败一名敌人获得 # 点魔力",
+              "en": "Gain # Mana per enemy killed"
+            },
+            "tags": [
+              "mana"
+            ],
+            "tiers": [
+              {
+                "ilvl": 1,
+                "text": {
+                  "zh-Hant": "每個被擊殺的敵人，獲得(10—15)魔力",
+                  "zh-Hans": "每击败一名敌人获得 (10—15) 点魔力",
+                  "en": "Gain (10—15) Mana per enemy killed"
+                },
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "group": "ChanceToPierce",
+            "text": {
+              "zh-Hant": "有#%機率穿透一個敵人",
+              "zh-Hans": "#% 的几率穿透一个敌人",
+              "en": "#% chance to Pierce an Enemy"
+            },
+            "tags": [],
+            "tiers": [
+              {
+                "ilvl": 1,
+                "text": {
+                  "zh-Hant": "有(20—30)%機率穿透一個敵人",
+                  "zh-Hans": "(20—30)% 的几率穿透一个敌人",
+                  "en": "(20—30)% chance to Pierce an Enemy"
+                },
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "group": "ChainFromTerrain",
+            "text": {
+              "zh-Hant": "投射物有#%機率從地形額外連鎖一次",
+              "zh-Hans": "投射物击中地形时有 #% 的几率额外连锁一次",
+              "en": "Projectiles have #% chance to Chain an additional time from terrain"
+            },
+            "tags": [],
+            "tiers": [
+              {
+                "ilvl": 1,
+                "text": {
+                  "zh-Hant": "投射物有(10—20)%機率從地形額外連鎖一次",
+                  "zh-Hans": "投射物击中地形时有 (10—20)% 的几率额外连锁一次",
+                  "en": "Projectiles have (10—20)% chance to Chain an additional time from terrain"
+                },
+                "weight": 1
+              }
+            ]
+          }
+        ],
+        "title": {
+          "zh-Hant": "瓦爾寶珠",
+          "zh-Hans": "瓦尔宝珠",
+          "en": "Vaal Orb"
+        }
+      },
+      {
+        "id": "desecrated_prefix",
+        "entries": [
+          {
+            "group": "ProjectileDamage",
+            "text": {
+              "zh-Hant": "增加#%投射物對距離#公尺內的敵人造成的擊中傷害",
+              "zh-Hans": "投射物对 # 米内的敌人造成的击中伤害提高 #%",
+              "en": "Projectiles deal #% increased Damage with Hits against Enemies within #m"
+            },
+            "tags": [
+              "amanamu",
+              "damage"
+            ],
+            "tiers": [
+              {
+                "ilvl": 65,
+                "text": {
+                  "zh-Hant": "增加(20—30)%投射物對距離2公尺內的敵人造成的擊中傷害",
+                  "zh-Hans": "投射物对 2 米内的敌人造成的击中伤害提高 (20—30)%",
+                  "en": "Projectiles deal (20—30)% increased Damage with Hits against Enemies within 2m"
+                },
+                "name": {
+                  "zh-Hant": "阿姆那姆的",
+                  "zh-Hans": "阿曼娜姆的",
+                  "en": "Amanamu's"
+                },
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "group": "ProjectileDamage",
+            "text": {
+              "zh-Hant": "增加#%投射物對距離超過#公尺的敵人造成的擊中傷害",
+              "zh-Hans": "投射物对 # 米外的敌人造成的击中伤害提高 #%",
+              "en": "Projectiles deal #% increased Damage with Hits against Enemies further than #m"
+            },
+            "tags": [
+              "kurgal"
+            ],
+            "tiers": [
+              {
+                "ilvl": 65,
+                "text": {
+                  "zh-Hant": "增加(20—30)%投射物對距離超過6公尺的敵人造成的擊中傷害",
+                  "zh-Hans": "投射物对 6 米外的敌人造成的击中伤害提高 (20—30)%",
+                  "en": "Projectiles deal (20—30)% increased Damage with Hits against Enemies further than 6m"
+                },
+                "name": {
+                  "zh-Hant": "柯戈的",
+                  "zh-Hans": "古加尔的",
+                  "en": "Kurgal's"
+                },
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "group": "ProjectileDamage",
+            "text": {
+              "zh-Hant": "投射物速度增減也會套用於弓的傷害",
+              "zh-Hans": "投射物速度的增幅和减益也会作用于弓类伤害",
+              "en": "Increases and Reductions to Projectile Speed also apply to Damage with Bows"
+            },
+            "tags": [
+              "ulaman"
+            ],
+            "tiers": [
+              {
+                "ilvl": 65,
+                "text": {
+                  "zh-Hant": "投射物速度增減也會套用於弓的傷害",
+                  "zh-Hans": "投射物速度的增幅和减益也会作用于弓类伤害",
+                  "en": "Increases and Reductions to Projectile Speed also apply to Damage with Bows"
+                },
+                "name": {
+                  "zh-Hant": "烏拉曼的",
+                  "zh-Hans": "乌拉曼的",
+                  "en": "Ulaman's"
+                },
+                "weight": 1
+              }
+            ]
+          }
+        ],
+        "title": {
+          "zh-Hant": "褻瀆 前綴",
+          "zh-Hans": "渎灵 前缀",
+          "en": "Desecrated Prefixes"
+        }
+      },
+      {
+        "id": "desecrated_suffix",
+        "entries": [
+          {
+            "group": "CriticalStrikeMultiplier",
+            "text": {
+              "zh-Hant": "增加#%投射物對#公尺內敵人的暴擊傷害加成",
+              "zh-Hans": "投射物对 # 米内的敌人的暴击伤害加成提高 #%",
+              "en": "Projectiles have #% increased Critical Damage Bonus against Enemies within #m"
+            },
+            "tags": [
+              "amanamu"
+            ],
+            "tiers": [
+              {
+                "ilvl": 65,
+                "text": {
+                  "zh-Hant": "增加(18—26)%投射物對2公尺內敵人的暴擊傷害加成",
+                  "zh-Hans": "投射物对 2 米内的敌人的暴击伤害加成提高 (18—26)%",
+                  "en": "Projectiles have (18—26)% increased Critical Damage Bonus against Enemies within 2m"
+                },
+                "name": {
+                  "zh-Hant": "阿姆那姆之",
+                  "zh-Hans": "阿曼娜姆之",
+                  "en": "of Amanamu"
+                },
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "group": "ManaCostEfficiency",
+            "text": {
+              "zh-Hant": "增加#%魔力消耗效用",
+              "zh-Hans": "魔力消耗效能提高 #%",
+              "en": "#% increased Mana Cost Efficiency"
+            },
+            "tags": [
+              "kurgal",
+              "mana"
+            ],
+            "tiers": [
+              {
+                "ilvl": 65,
+                "text": {
+                  "zh-Hant": "增加(6—10)%魔力消耗效用",
+                  "zh-Hans": "魔力消耗效能提高 (6—10)%",
+                  "en": "(6—10)% increased Mana Cost Efficiency"
+                },
+                "name": {
+                  "zh-Hant": "柯戈之",
+                  "zh-Hans": "古加尔之",
+                  "en": "of Kurgal"
+                },
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "group": "CriticalStrikeChanceIncrease",
+            "text": {
+              "zh-Hant": "增加#%投射物對距離超過#公尺的敵人暴擊機率",
+              "zh-Hans": "投射物对 # 米外的敌人的暴击几率提高 #%",
+              "en": "Projectiles have #% increased Critical Hit Chance against Enemies further than #m"
+            },
+            "tags": [
+              "kurgal"
+            ],
+            "tiers": [
+              {
+                "ilvl": 65,
+                "text": {
+                  "zh-Hant": "增加(18—26)%投射物對距離超過6公尺的敵人暴擊機率",
+                  "zh-Hans": "投射物对 6 米外的敌人的暴击几率提高 (18—26)%",
+                  "en": "Projectiles have (18—26)% increased Critical Hit Chance against Enemies further than 6m"
+                },
+                "name": {
+                  "zh-Hant": "柯戈之",
+                  "zh-Hans": "古加尔之",
+                  "en": "of Kurgal"
+                },
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "group": "AdditionalProjectiles",
+            "text": {
+              "zh-Hant": "移動時，投射物攻擊有#%機率發射#個額外投射物",
+              "zh-Hans": "移动时，投射物攻击有 #% 的几率额外发射两个投射物",
+              "en": "Projectile Attacks have a #% chance to fire two additional Projectiles while moving"
+            },
+            "tags": [
+              "ulaman"
+            ],
+            "tiers": [
+              {
+                "ilvl": 65,
+                "text": {
+                  "zh-Hant": "移動時，投射物攻擊有(8—12)%機率發射2個額外投射物",
+                  "zh-Hans": "移动时，投射物攻击有 (8—12)% 的几率额外发射两个投射物",
+                  "en": "Projectile Attacks have a (8—12)% chance to fire two additional Projectiles while moving"
+                },
+                "name": {
+                  "zh-Hant": "烏拉曼之",
+                  "zh-Hans": "乌拉曼之",
+                  "en": "of Ulaman"
+                },
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "group": "LifeCost",
+            "text": {
+              "zh-Hant": "#%技能魔力消耗轉換為生命消耗",
+              "zh-Hans": "技能的魔力消耗的 #% 转化为生命消耗",
+              "en": "#% of Skill Mana Costs Converted to Life Costs"
+            },
+            "tags": [
+              "ulaman",
+              "life"
+            ],
+            "tiers": [
+              {
+                "ilvl": 65,
+                "text": {
+                  "zh-Hant": "(10—14)%技能魔力消耗轉換為生命消耗",
+                  "zh-Hans": "技能的魔力消耗的 (10—14)% 转化为生命消耗",
+                  "en": "(10—14)% of Skill Mana Costs Converted to Life Costs"
+                },
+                "name": {
+                  "zh-Hant": "烏拉曼之",
+                  "zh-Hans": "乌拉曼之",
+                  "en": "of Ulaman"
+                },
+                "weight": 1
+              }
+            ]
+          }
+        ],
+        "title": {
+          "zh-Hant": "褻瀆 後綴",
+          "zh-Hans": "渎灵 后缀",
+          "en": "Desecrated Suffixes"
+        }
+      },
+      {
+        "id": "sanctified",
+        "entries": [
+          {
+            "group": "AllDamage",
+            "text": {
+              "zh-Hant": "增加#%傷害",
+              "zh-Hans": "伤害提高 #%",
+              "en": "#% increased Damage"
+            },
+            "tags": [
+              "damage"
+            ],
+            "tiers": [
+              {
+                "ilvl": 1,
+                "text": {
+                  "zh-Hant": "增加(40—60)%傷害",
+                  "zh-Hans": "伤害提高 (40—60)%",
+                  "en": "(40—60)% increased Damage"
+                },
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "group": "ChainFromTerrain",
+            "text": {
+              "zh-Hant": "投射物有#%機率從地形額外連鎖一次",
+              "zh-Hans": "投射物击中地形时有 #% 的几率额外连锁一次",
+              "en": "Projectiles have #% chance to Chain an additional time from terrain"
+            },
+            "tags": [],
+            "tiers": [
+              {
+                "ilvl": 1,
+                "text": {
+                  "zh-Hant": "投射物有(25—40)%機率從地形額外連鎖一次",
+                  "zh-Hans": "投射物击中地形时有 (25—40)% 的几率额外连锁一次",
+                  "en": "Projectiles have (25—40)% chance to Chain an additional time from terrain"
+                },
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "group": "ChanceToPierce",
+            "text": {
+              "zh-Hant": "有#%機率穿透一個敵人",
+              "zh-Hans": "#% 的几率穿透一个敌人",
+              "en": "#% chance to Pierce an Enemy"
+            },
+            "tags": [],
+            "tiers": [
+              {
+                "ilvl": 1,
+                "text": {
+                  "zh-Hant": "有(50—75)%機率穿透一個敵人",
+                  "zh-Hans": "(50—75)% 的几率穿透一个敌人",
+                  "en": "(50—75)% chance to Pierce an Enemy"
+                },
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "group": "CriticalStrikeMultiplier",
+            "text": {
+              "zh-Hant": "增加#%暴擊傷害加成",
+              "zh-Hans": "暴击伤害加成提高 #%",
+              "en": "#% increased Critical Damage Bonus"
+            },
+            "tags": [
+              "damage",
+              "critical"
+            ],
+            "tiers": [
+              {
+                "ilvl": 1,
+                "text": {
+                  "zh-Hant": "增加(30—50)%暴擊傷害加成",
+                  "zh-Hans": "暴击伤害加成提高 (30—50)%",
+                  "en": "(30—50)% increased Critical Damage Bonus"
+                },
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "group": "IncreasedAccuracy",
+            "text": {
+              "zh-Hant": "#命中值",
+              "zh-Hans": "# 命中值",
+              "en": "# to Accuracy Rating"
+            },
+            "tags": [
+              "attack"
+            ],
+            "tiers": [
+              {
+                "ilvl": 1,
+                "text": {
+                  "zh-Hant": "+(150—300)命中值",
+                  "zh-Hans": "+(150—300) 命中值",
+                  "en": "+(150—300) to Accuracy Rating"
+                },
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "group": "IncreasedMana",
+            "text": {
+              "zh-Hant": "#最大魔力",
+              "zh-Hans": "# 魔力上限",
+              "en": "# to maximum Mana"
+            },
+            "tags": [
+              "mana"
+            ],
+            "tiers": [
+              {
+                "ilvl": 1,
+                "text": {
+                  "zh-Hant": "+(80—100)最大魔力",
+                  "zh-Hans": "+(80—100) 魔力上限",
+                  "en": "+(80—100) to maximum Mana"
+                },
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "group": "IncreasedSpeed",
+            "text": {
+              "zh-Hant": "增加#%技能速度",
+              "zh-Hans": "技能速度提高 #%",
+              "en": "#% increased Skill Speed"
+            },
+            "tags": [
+              "speed"
+            ],
+            "tiers": [
+              {
+                "ilvl": 1,
+                "text": {
+                  "zh-Hant": "增加(8—16)%技能速度",
+                  "zh-Hans": "技能速度提高 (8—16)%",
+                  "en": "(8—16)% increased Skill Speed"
+                },
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "group": "ChaosResistance",
+            "text": {
+              "zh-Hant": "#%混沌抗性",
+              "zh-Hans": "混沌抗性 #%",
+              "en": "#% to Chaos Resistance"
+            },
+            "tags": [
+              "chaos",
+              "resistance"
+            ],
+            "tiers": [
+              {
+                "ilvl": 1,
+                "text": {
+                  "zh-Hant": "+(10—13)%混沌抗性",
+                  "zh-Hans": "混沌抗性 +(10—13)%",
+                  "en": "+(10—13)% to Chaos Resistance"
+                },
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "group": "ColdResistance",
+            "text": {
+              "zh-Hant": "#%冰冷抗性",
+              "zh-Hans": "冰霜抗性 #%",
+              "en": "#% to Cold Resistance"
+            },
+            "tags": [
+              "elemental",
+              "cold",
+              "resistance"
+            ],
+            "tiers": [
+              {
+                "ilvl": 1,
+                "text": {
+                  "zh-Hant": "+(15—20)%冰冷抗性",
+                  "zh-Hans": "冰霜抗性 +(15—20)%",
+                  "en": "+(15—20)% to Cold Resistance"
+                },
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "group": "Dexterity",
+            "text": {
+              "zh-Hant": "#點敏捷",
+              "zh-Hans": "# 敏捷",
+              "en": "# to Dexterity"
+            },
+            "tags": [
+              "attribute"
+            ],
+            "tiers": [
+              {
+                "ilvl": 1,
+                "text": {
+                  "zh-Hant": "+(14—16)點敏捷",
+                  "zh-Hans": "+(14—16) 敏捷",
+                  "en": "+(14—16) to Dexterity"
+                },
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "group": "FireResistance",
+            "text": {
+              "zh-Hant": "#%火焰抗性",
+              "zh-Hans": "火焰抗性 #%",
+              "en": "#% to Fire Resistance"
+            },
+            "tags": [
+              "elemental",
+              "fire",
+              "resistance"
+            ],
+            "tiers": [
+              {
+                "ilvl": 1,
+                "text": {
+                  "zh-Hant": "+(15—20)%火焰抗性",
+                  "zh-Hans": "火焰抗性 +(15—20)%",
+                  "en": "+(15—20)% to Fire Resistance"
+                },
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "group": "Intelligence",
+            "text": {
+              "zh-Hant": "#點智慧",
+              "zh-Hans": "# 智慧",
+              "en": "# to Intelligence"
+            },
+            "tags": [
+              "attribute"
+            ],
+            "tiers": [
+              {
+                "ilvl": 1,
+                "text": {
+                  "zh-Hant": "+(14—16)點智慧",
+                  "zh-Hans": "+(14—16) 智慧",
+                  "en": "+(14—16) to Intelligence"
+                },
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "group": "LightningResistance",
+            "text": {
+              "zh-Hant": "#%閃電抗性",
+              "zh-Hans": "闪电抗性 #%",
+              "en": "#% to Lightning Resistance"
+            },
+            "tags": [
+              "elemental",
+              "lightning",
+              "resistance"
+            ],
+            "tiers": [
+              {
+                "ilvl": 1,
+                "text": {
+                  "zh-Hant": "+(15—20)%閃電抗性",
+                  "zh-Hans": "闪电抗性 +(15—20)%",
+                  "en": "+(15—20)% to Lightning Resistance"
+                },
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "group": "Strength",
+            "text": {
+              "zh-Hant": "#點力量",
+              "zh-Hans": "# 力量",
+              "en": "# to Strength"
+            },
+            "tags": [
+              "attribute"
+            ],
+            "tiers": [
+              {
+                "ilvl": 1,
+                "text": {
+                  "zh-Hant": "+(14—16)點力量",
+                  "zh-Hans": "+(14—16) 力量",
+                  "en": "+(14—16) to Strength"
+                },
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "group": "LifeGainedFromEnemyDeath",
+            "text": {
+              "zh-Hant": "每個被擊殺的敵人，獲得#生命",
+              "zh-Hans": "每击败一名敌人获得 # 点生命",
+              "en": "Gain # Life per enemy killed"
+            },
+            "tags": [
+              "life"
+            ],
+            "tiers": [
+              {
+                "ilvl": 1,
+                "text": {
+                  "zh-Hant": "每個被擊殺的敵人，獲得(40—55)生命",
+                  "zh-Hans": "每击败一名敌人获得 (40—55) 点生命",
+                  "en": "Gain (40—55) Life per enemy killed"
+                },
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "group": "ManaGainedFromEnemyDeath",
+            "text": {
+              "zh-Hant": "每個被擊殺的敵人，獲得#魔力",
+              "zh-Hans": "每击败一名敌人获得 # 点魔力",
+              "en": "Gain # Mana per enemy killed"
+            },
+            "tags": [
+              "mana"
+            ],
+            "tiers": [
+              {
+                "ilvl": 1,
+                "text": {
+                  "zh-Hant": "每個被擊殺的敵人，獲得(20—30)魔力",
+                  "zh-Hans": "每击败一名敌人获得 (20—30) 点魔力",
+                  "en": "Gain (20—30) Mana per enemy killed"
+                },
+                "weight": 1
+              }
+            ]
+          }
+        ],
+        "title": {
+          "zh-Hant": "奉獻寶珠",
+          "zh-Hans": "献祭宝珠",
+          "en": "Sanctified"
+        }
+      },
+      {
+        "id": "essence_suffix",
+        "entries": [
+          {
+            "group": "Strength",
+            "text": {
+              "zh-Hant": "#力量、敏捷或智慧",
+              "zh-Hans": "力量、敏捷或智慧 #",
+              "en": "# to Strength, Dexterity or Intelligence"
+            },
+            "tags": [
+              "attribute"
+            ],
+            "tiers": [
+              {
+                "ilvl": 11,
+                "text": {
+                  "zh-Hant": "+(9—12)力量、敏捷或智慧",
+                  "zh-Hans": "力量、敏捷或智慧 +(9—12)",
+                  "en": "+(9—12) to Strength, Dexterity or Intelligence"
+                },
+                "name": {
+                  "zh-Hant": "低階無限精髓",
+                  "zh-Hans": "次级永恒精华",
+                  "en": "Lesser Essence of the Infinite"
+                },
+                "weight": 0,
+                "image": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/Essences/Lesser_Essence_of_the_Infinite.webp"
+              },
+              {
+                "ilvl": 33,
+                "text": {
+                  "zh-Hant": "+(17—20)力量、敏捷或智慧",
+                  "zh-Hans": "力量、敏捷或智慧 +(17—20)",
+                  "en": "+(17—20) to Strength, Dexterity or Intelligence"
+                },
+                "name": {
+                  "zh-Hant": "無限精髓",
+                  "zh-Hans": "永恒精华",
+                  "en": "Essence of the Infinite"
+                },
+                "weight": 0,
+                "image": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/Essences/Essence_of_the_Infinite.webp"
+              },
+              {
+                "ilvl": 55,
+                "text": {
+                  "zh-Hant": "+(25—27)力量、敏捷或智慧",
+                  "zh-Hans": "力量、敏捷或智慧 +(25—27)",
+                  "en": "+(25—27) to Strength, Dexterity or Intelligence"
+                },
+                "name": {
+                  "zh-Hant": "高階無限精髓",
+                  "zh-Hans": "强效永恒精华",
+                  "en": "Greater Essence of the Infinite"
+                },
+                "weight": 0,
+                "image": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/Essences/Greater_Essence_of_the_Infinite.webp"
+              }
+            ]
+          },
+          {
+            "group": "Dexterity",
+            "text": {
+              "zh-Hant": "#力量、敏捷或智慧",
+              "zh-Hans": "力量、敏捷或智慧 #",
+              "en": "# to Strength, Dexterity or Intelligence"
+            },
+            "tags": [
+              "attribute"
+            ],
+            "tiers": [
+              {
+                "ilvl": 11,
+                "text": {
+                  "zh-Hant": "+(9—12)力量、敏捷或智慧",
+                  "zh-Hans": "力量、敏捷或智慧 +(9—12)",
+                  "en": "+(9—12) to Strength, Dexterity or Intelligence"
+                },
+                "name": {
+                  "zh-Hant": "低階無限精髓",
+                  "zh-Hans": "次级永恒精华",
+                  "en": "Lesser Essence of the Infinite"
+                },
+                "weight": 0,
+                "image": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/Essences/Lesser_Essence_of_the_Infinite.webp"
+              },
+              {
+                "ilvl": 33,
+                "text": {
+                  "zh-Hant": "+(17—20)力量、敏捷或智慧",
+                  "zh-Hans": "力量、敏捷或智慧 +(17—20)",
+                  "en": "+(17—20) to Strength, Dexterity or Intelligence"
+                },
+                "name": {
+                  "zh-Hant": "無限精髓",
+                  "zh-Hans": "永恒精华",
+                  "en": "Essence of the Infinite"
+                },
+                "weight": 0,
+                "image": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/Essences/Essence_of_the_Infinite.webp"
+              },
+              {
+                "ilvl": 55,
+                "text": {
+                  "zh-Hant": "+(25—27)力量、敏捷或智慧",
+                  "zh-Hans": "力量、敏捷或智慧 +(25—27)",
+                  "en": "+(25—27) to Strength, Dexterity or Intelligence"
+                },
+                "name": {
+                  "zh-Hant": "高階無限精髓",
+                  "zh-Hans": "强效永恒精华",
+                  "en": "Greater Essence of the Infinite"
+                },
+                "weight": 0,
+                "image": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/Essences/Greater_Essence_of_the_Infinite.webp"
+              }
+            ]
+          },
+          {
+            "group": "Intelligence",
+            "text": {
+              "zh-Hant": "#力量、敏捷或智慧",
+              "zh-Hans": "力量、敏捷或智慧 #",
+              "en": "# to Strength, Dexterity or Intelligence"
+            },
+            "tags": [
+              "attribute"
+            ],
+            "tiers": [
+              {
+                "ilvl": 11,
+                "text": {
+                  "zh-Hant": "+(9—12)力量、敏捷或智慧",
+                  "zh-Hans": "力量、敏捷或智慧 +(9—12)",
+                  "en": "+(9—12) to Strength, Dexterity or Intelligence"
+                },
+                "name": {
+                  "zh-Hant": "低階無限精髓",
+                  "zh-Hans": "次级永恒精华",
+                  "en": "Lesser Essence of the Infinite"
+                },
+                "weight": 0,
+                "image": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/Essences/Lesser_Essence_of_the_Infinite.webp"
+              },
+              {
+                "ilvl": 33,
+                "text": {
+                  "zh-Hant": "+(17—20)力量、敏捷或智慧",
+                  "zh-Hans": "力量、敏捷或智慧 +(17—20)",
+                  "en": "+(17—20) to Strength, Dexterity or Intelligence"
+                },
+                "name": {
+                  "zh-Hant": "無限精髓",
+                  "zh-Hans": "永恒精华",
+                  "en": "Essence of the Infinite"
+                },
+                "weight": 0,
+                "image": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/Essences/Essence_of_the_Infinite.webp"
+              },
+              {
+                "ilvl": 55,
+                "text": {
+                  "zh-Hant": "+(25—27)力量、敏捷或智慧",
+                  "zh-Hans": "力量、敏捷或智慧 +(25—27)",
+                  "en": "+(25—27) to Strength, Dexterity or Intelligence"
+                },
+                "name": {
+                  "zh-Hant": "高階無限精髓",
+                  "zh-Hans": "强效永恒精华",
+                  "en": "Greater Essence of the Infinite"
+                },
+                "weight": 0,
+                "image": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/Essences/Greater_Essence_of_the_Infinite.webp"
+              }
+            ]
+          },
+          {
+            "group": "EssenceAbyss",
+            "text": {
+              "zh-Hant": "深淵領主印記",
+              "zh-Hans": "深渊领主的印记",
+              "en": "Mark of the Abyssal Lord"
+            },
+            "tags": [],
+            "tiers": [
+              {
+                "ilvl": 1,
+                "text": {
+                  "zh-Hant": "深淵領主印記",
+                  "zh-Hans": "深渊领主的印记",
+                  "en": "Mark of the Abyssal Lord"
+                },
+                "name": {
+                  "zh-Hant": "深淵精髓",
+                  "zh-Hans": "深渊精华",
+                  "en": "Essence of the Abyss"
+                },
+                "weight": 0,
+                "image": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/Essences/Essence_of_the_Abyss.webp"
+              }
+            ]
+          },
+          {
+            "group": "Chain",
+            "text": {
+              "zh-Hant": "有#%機率額外連鎖一次",
+              "zh-Hans": "#% 的几率额外连锁一次",
+              "en": "#% chance to Chain an additional time"
+            },
+            "tags": [],
+            "tiers": [
+              {
+                "ilvl": 45,
+                "text": {
+                  "zh-Hant": "有(25—35)%機率額外連鎖一次",
+                  "zh-Hans": "(25—35)% 的几率额外连锁一次",
+                  "en": "(25—35)% chance to Chain an additional time"
+                },
+                "name": {
+                  "zh-Hant": "秘能合金",
+                  "zh-Hans": "神秘合金",
+                  "en": "Mystic Alloy"
+                },
+                "weight": 0,
+                "image": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/Essences/Mystic_Alloy.webp"
+              }
+            ]
+          }
+        ],
+        "title": {
+          "zh-Hant": "精髓 後綴",
+          "zh-Hans": "精华 后缀",
+          "en": "Essence Suffixes"
+        }
+      },
+      {
+        "id": "essence_prefix",
+        "entries": [
+          {
+            "group": "IncreasedAccuracy",
+            "text": {
+              "zh-Hant": "#命中值",
+              "zh-Hans": "# 命中值",
+              "en": "# to Accuracy Rating"
+            },
+            "tags": [
+              "attack"
+            ],
+            "tiers": [
+              {
+                "ilvl": 58,
+                "text": {
+                  "zh-Hant": "+(237—346)命中值",
+                  "zh-Hans": "+(237—346) 命中值",
+                  "en": "+(237—346) to Accuracy Rating"
+                },
+                "name": {
+                  "zh-Hant": "高階戰鬥精髓",
+                  "zh-Hans": "强效激战精华",
+                  "en": "Greater Essence of Battle"
+                },
+                "weight": 0,
+                "image": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/Essences/Greater_Essence_of_Battle.webp"
+              },
+              {
+                "ilvl": 58,
+                "text": {
+                  "zh-Hant": "+(237—346)命中值",
+                  "zh-Hans": "+(237—346) 命中值",
+                  "en": "+(237—346) to Accuracy Rating"
+                },
+                "name": {
+                  "zh-Hant": "高階戰鬥精髓",
+                  "zh-Hans": "强效激战精华",
+                  "en": "Greater Essence of Battle"
+                },
+                "weight": 0,
+                "image": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/Essences/Greater_Essence_of_Battle.webp"
+              }
+            ]
+          },
+          {
+            "group": "DamageWithWeaponTypeSkill",
+            "text": {
+              "zh-Hant": "增加#%弓技能的傷害",
+              "zh-Hans": "弓类技能伤害提高 #%",
+              "en": "#% increased Damage with Bow Skills"
+            },
+            "tags": [
+              "damage"
+            ],
+            "tiers": [
+              {
+                "ilvl": 60,
+                "text": {
+                  "zh-Hant": "增加(43—50)%弓技能的傷害",
+                  "zh-Hans": "弓类技能伤害提高 (43—50)%",
+                  "en": "(43—50)% increased Damage with Bow Skills"
+                },
+                "name": {
+                  "zh-Hant": "浮誇精髓",
+                  "zh-Hans": "浮夸精华",
+                  "en": "Essence of Hysteria"
+                },
+                "weight": 0,
+                "image": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/Essences/Essence_of_Hysteria.webp"
+              }
+            ]
+          },
+          {
+            "group": "EssenceAbyss",
+            "text": {
+              "zh-Hant": "深淵領主印記",
+              "zh-Hans": "深渊领主的印记",
+              "en": "Mark of the Abyssal Lord"
+            },
+            "tags": [],
+            "tiers": [
+              {
+                "ilvl": 1,
+                "text": {
+                  "zh-Hant": "深淵領主印記",
+                  "zh-Hans": "深渊领主的印记",
+                  "en": "Mark of the Abyssal Lord"
+                },
+                "name": {
+                  "zh-Hant": "深淵精髓",
+                  "zh-Hans": "深渊精华",
+                  "en": "Essence of the Abyss"
+                },
+                "weight": 0,
+                "image": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/Essences/Essence_of_the_Abyss.webp"
+              }
+            ]
+          }
+        ],
+        "title": {
+          "zh-Hant": "精髓 前綴",
+          "zh-Hans": "精华 前缀",
+          "en": "Essence Prefixes"
+        }
+      }
+    ]
+  },
+  "skillLibrary": {
+    "Bursting_Fen_Toad": {
+      "info": [
+        {
+          "zh-Hant": "攻擊",
+          "zh-Hans": "攻击",
+          "en": "Attack"
+        },
+        {
+          "zh-Hant": "範圍效果, 觸發, 物理, 混沌",
+          "zh-Hans": "效果区域, 触发, 物理, 混沌",
+          "en": "AoE, Trigger, Physical, Chaos"
+        },
+        {
+          "zh-Hant": "等級: 1 ~ 20",
+          "zh-Hans": "等级: 1 ~ 20",
+          "en": "Level: 1 ~ 20"
+        },
+        {
+          "zh-Hant": "消耗: 0 魔力",
+          "zh-Hans": "消耗: 0 点魔力",
+          "en": "Cost: 0 Mana"
+        },
+        {
+          "zh-Hant": "暴擊率: 5.00 %",
+          "zh-Hans": "暴击率: 5.00 %",
+          "en": "Critical Hit Chance: 5.00 %"
+        },
+        {
+          "zh-Hant": "攻擊傷害: 基礎的 225 ~ 702 %",
+          "zh-Hans": "攻击伤害: 225 ~ 702 % 基础",
+          "en": "Attack Damage: 225 ~ 702 % of base"
+        },
+        {
+          "zh-Hant": "需求: 等級 1 ~ 90",
+          "zh-Hans": "需求： 等级 1 ~ 90",
+          "en": "Requires: Level 1 ~ 90"
+        },
+        {
+          "zh-Hant": "此技能會創造一隻會短暫四處跳躍並爆炸的劇毒蟾蜍，對一片區域造成攻擊傷害並施加中毒。此技能所造成的傷害不會基於你的武器。",
+          "zh-Hans": "创造一只短暂跳跃的蟾蜍，随后蟾蜍会爆炸，对范围内造成攻击伤害并施加中毒。该技能造成的伤害不基于你的武器。",
+          "en": "This skill creates a toad that jumps around briefly, the toad then explodes, dealing Attack damage in an area and inflicting Poison. Damage you deal with this skill is not based on your Weapon."
+        },
+        {
+          "zh-Hant": "來自品質的額外效果",
+          "zh-Hans": "品质额外效果",
+          "en": "Additional Effects From Quality:"
+        },
+        {
+          "zh-Hant": "擊殺時有 0 ~ 10 % 機率觸發此技能",
+          "zh-Hans": "击败时有 0 ~ 10 % 的几率触发此技能",
+          "en": "0 ~ 10 % chance to Trigger this Skill on Kill"
+        }
+      ],
+      "tabs": [
+        {
+          "name": {
+            "zh-Hant": "說明",
+            "zh-Hans": "说明",
+            "en": "Info"
+          },
+          "lines": [
+            {
+              "zh-Hant": "擊殺時有 25 % 機率觸發此技能",
+              "zh-Hans": "击败时有 25 % 的几率触发此技能",
+              "en": "25 % chance to Trigger this Skill on Kill"
+            },
+            {
+              "zh-Hant": "蟾蜍爆炸範圍為 2.5 公尺",
+              "zh-Hans": "蟾蜍引爆范围为 2.5 米",
+              "en": "Toad Explosion radius is 2.5 metres"
+            },
+            {
+              "zh-Hant": "擊中有 100 % 機率使敵人中毒",
+              "zh-Hans": "击中时有 100 % 的几率使目标中毒",
+              "en": "100 % chance to Poison on Hit"
+            },
+            {
+              "zh-Hant": "6 ~ 171 至 9 ~ 256 基礎物理傷害",
+              "zh-Hans": "6 ~ 171 - 9 ~ 256 基础物理伤害",
+              "en": "6 ~ 171 to 9 ~ 256 Base Physical Damage"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
