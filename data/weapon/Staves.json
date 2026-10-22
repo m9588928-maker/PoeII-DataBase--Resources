@@ -1044,6 +1044,11 @@
       "level": 78,
       "_flavorEnabled": true,
       "grantedSkillsExtra": [],
+      "limit": {
+        "zh-Hant": "迷霧之王",
+        "zh-Hans": "迷雾之王",
+        "en": "The King in the Mists"
+      },
       "requirements": {
         "int": 46
       }
@@ -1335,6 +1340,11 @@
       "level": 65,
       "_flavorEnabled": true,
       "grantedSkillsExtra": [],
+      "limit": {
+        "zh-Hant": "深淵",
+        "zh-Hans": "深渊",
+        "en": "Abyss"
+      },
       "requirements": {
         "int": 114
       }
@@ -1406,6 +1416,11 @@
       "level": 70,
       "_flavorEnabled": true,
       "grantedSkillsExtra": [],
+      "limit": {
+        "zh-Hant": "瓦爾命途",
+        "zh-Hans": "瓦尔的宿命",
+        "en": "Fate of the Vaal"
+      },
       "requirements": {
         "int": 114
       }
@@ -1501,6 +1516,11 @@
       "level": 70,
       "_flavorEnabled": true,
       "grantedSkillsExtra": [],
+      "limit": {
+        "zh-Hant": "瓦爾命途",
+        "zh-Hans": "瓦尔的宿命",
+        "en": "Fate of the Vaal"
+      },
       "requirements": {
         "int": 114
       },
@@ -1579,6 +1599,11 @@
       "level": 65,
       "_flavorEnabled": true,
       "grantedSkillsExtra": [],
+      "limit": {
+        "zh-Hant": "渡鴉欺詐者",
+        "zh-Hans": "黑鸦欺诈者",
+        "en": "The Raven Trickster"
+      },
       "requirements": {
         "int": 114
       }

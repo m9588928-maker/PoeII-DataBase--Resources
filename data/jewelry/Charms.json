@@ -1224,7 +1224,12 @@
       },
       "level": 50,
       "_flavorEnabled": true,
-      "grantedSkillsExtra": []
+      "grantedSkillsExtra": [],
+      "limit": {
+        "zh-Hant": "阿茲莫里魂靈",
+        "zh-Hans": "阿兹莫里之灵",
+        "en": "Azmeri Spirit"
+      }
     }
   ],
   "affixes": {

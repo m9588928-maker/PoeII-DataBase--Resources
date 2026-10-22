@@ -960,6 +960,11 @@
       "level": 55,
       "_flavorEnabled": true,
       "grantedSkillsExtra": [],
+      "limit": {
+        "zh-Hant": "灰燼仲裁者",
+        "zh-Hans": "灰烬仲裁官",
+        "en": "The Arbiter of Ash"
+      },
       "requirements": {
         "str": 17,
         "int": 38
@@ -1397,6 +1402,11 @@
           "_activeTab": 0
         }
       ],
+      "limit": {
+        "zh-Hant": "博德克",
+        "zh-Hans": "伯达克",
+        "en": "The Bodach"
+      },
       "requirements": {
         "int": 12
       }

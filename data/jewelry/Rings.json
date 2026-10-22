@@ -2964,7 +2964,12 @@
       },
       "level": 40,
       "_flavorEnabled": true,
-      "grantedSkillsExtra": []
+      "grantedSkillsExtra": [],
+      "limit": {
+        "zh-Hant": "時空之靈．澤洛克",
+        "zh-Hans": "扎洛卡，时空之灵",
+        "en": "Zarokh, the Temporal"
+      }
     },
     {
       "category": "jewelry",
@@ -3017,7 +3022,12 @@
       },
       "level": 1,
       "_flavorEnabled": true,
-      "grantedSkillsExtra": []
+      "grantedSkillsExtra": [],
+      "limit": {
+        "zh-Hant": "時空之靈．澤洛克",
+        "zh-Hans": "扎洛卡，时空之灵",
+        "en": "Zarokh, the Temporal"
+      }
     },
     {
       "category": "jewelry",
@@ -3070,7 +3080,12 @@
       },
       "level": 40,
       "_flavorEnabled": true,
-      "grantedSkillsExtra": []
+      "grantedSkillsExtra": [],
+      "limit": {
+        "zh-Hant": "時空之靈．澤洛克",
+        "zh-Hans": "扎洛卡，时空之灵",
+        "en": "Zarokh, the Temporal"
+      }
     },
     {
       "category": "jewelry",
@@ -3128,7 +3143,12 @@
       },
       "level": 60,
       "_flavorEnabled": true,
-      "grantedSkillsExtra": []
+      "grantedSkillsExtra": [],
+      "limit": {
+        "zh-Hant": "腐化聖域",
+        "zh-Hans": "腐化枢纽",
+        "en": "Corrupted Nexus"
+      }
     },
     {
       "category": "jewelry",
@@ -3409,6 +3429,11 @@
       "level": 1,
       "_flavorEnabled": true,
       "grantedSkillsExtra": [],
+      "limit": {
+        "zh-Hant": "深淵",
+        "zh-Hans": "深渊",
+        "en": "Abyss"
+      },
       "affixPool": {
         "entries": [
           {
@@ -4130,7 +4155,12 @@
       },
       "level": 20,
       "_flavorEnabled": true,
-      "grantedSkillsExtra": []
+      "grantedSkillsExtra": [],
+      "limit": {
+        "zh-Hant": "渡鴉欺詐者",
+        "zh-Hans": "黑鸦欺诈者",
+        "en": "The Raven Trickster"
+      }
     },
     {
       "category": "jewelry",
@@ -4184,6 +4214,11 @@
       "level": 1,
       "_flavorEnabled": true,
       "grantedSkillsExtra": [],
+      "limit": {
+        "zh-Hant": "深淵",
+        "zh-Hans": "深渊",
+        "en": "Abyss"
+      },
       "variantOf": "grip-of-kulemak",
       "variantKind": "alt",
       "variantLabel": {
@@ -4893,6 +4928,11 @@
       "level": 1,
       "_flavorEnabled": true,
       "grantedSkillsExtra": [],
+      "limit": {
+        "zh-Hant": "深淵",
+        "zh-Hans": "深渊",
+        "en": "Abyss"
+      },
       "variantOf": "grip-of-kulemak",
       "variantKind": "alt",
       "variantLabel": {
@@ -5602,6 +5642,11 @@
       "level": 1,
       "_flavorEnabled": true,
       "grantedSkillsExtra": [],
+      "limit": {
+        "zh-Hant": "深淵",
+        "zh-Hans": "深渊",
+        "en": "Abyss"
+      },
       "variantOf": "grip-of-kulemak",
       "variantKind": "alt",
       "variantLabel": {
@@ -6311,6 +6356,11 @@
       "level": 1,
       "_flavorEnabled": true,
       "grantedSkillsExtra": [],
+      "limit": {
+        "zh-Hant": "深淵",
+        "zh-Hans": "深渊",
+        "en": "Abyss"
+      },
       "variantOf": "grip-of-kulemak",
       "variantKind": "alt",
       "variantLabel": {

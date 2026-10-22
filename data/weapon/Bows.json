@@ -3393,6 +3393,11 @@
       "level": 67,
       "_flavorEnabled": true,
       "grantedSkillsExtra": [],
+      "limit": {
+        "zh-Hant": "博德克",
+        "zh-Hans": "伯达克",
+        "en": "The Bodach"
+      },
       "requirements": {
         "dex": 134
       }

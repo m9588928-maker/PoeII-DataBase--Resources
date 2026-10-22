@@ -417,7 +417,12 @@
       },
       "level": 60,
       "_flavorEnabled": true,
-      "grantedSkillsExtra": []
+      "grantedSkillsExtra": [],
+      "limit": {
+        "zh-Hant": "墮落起源．奧爾羅斯",
+        "zh-Hans": "欧罗什，堕落之源",
+        "en": "Olroth, Origin of the Fall"
+      }
     },
     {
       "category": "jewelry",
@@ -548,7 +553,12 @@
       },
       "level": 60,
       "_flavorEnabled": true,
-      "grantedSkillsExtra": []
+      "grantedSkillsExtra": [],
+      "limit": {
+        "zh-Hant": "神聖仲裁者",
+        "zh-Hans": "神圣仲裁官",
+        "en": "The Arbiter of Divinity"
+      }
     }
   ],
   "affixes": {

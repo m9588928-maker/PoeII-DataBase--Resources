@@ -3295,6 +3295,11 @@
       "level": 65,
       "_flavorEnabled": true,
       "grantedSkillsExtra": [],
+      "limit": {
+        "zh-Hant": "天譴啟示．科賽斯",
+        "zh-Hans": "天启勇士卡西斯",
+        "en": "Kosis, The Revelation"
+      },
       "requirements": {
         "dex": 89,
         "int": 36

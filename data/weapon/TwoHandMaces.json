@@ -4874,6 +4874,11 @@
       "level": 70,
       "_flavorEnabled": true,
       "grantedSkillsExtra": [],
+      "limit": {
+        "zh-Hant": "異變體",
+        "zh-Hans": "畸变者",
+        "en": "The Aberration"
+      },
       "requirements": {
         "str": 163
       }
@@ -4975,6 +4980,11 @@
       "level": 70,
       "_flavorEnabled": true,
       "grantedSkillsExtra": [],
+      "limit": {
+        "zh-Hant": "異變體",
+        "zh-Hans": "畸变者",
+        "en": "The Aberration"
+      },
       "requirements": {
         "str": 163
       },
@@ -5141,6 +5151,11 @@
       "level": 70,
       "_flavorEnabled": true,
       "grantedSkillsExtra": [],
+      "limit": {
+        "zh-Hant": "異變體",
+        "zh-Hans": "畸变者",
+        "en": "The Aberration"
+      },
       "requirements": {
         "str": 163
       },
@@ -5307,6 +5322,11 @@
       "level": 70,
       "_flavorEnabled": true,
       "grantedSkillsExtra": [],
+      "limit": {
+        "zh-Hant": "異變體",
+        "zh-Hans": "畸变者",
+        "en": "The Aberration"
+      },
       "requirements": {
         "str": 163
       },
@@ -5473,6 +5493,11 @@
       "level": 70,
       "_flavorEnabled": true,
       "grantedSkillsExtra": [],
+      "limit": {
+        "zh-Hant": "異變體",
+        "zh-Hans": "畸变者",
+        "en": "The Aberration"
+      },
       "requirements": {
         "str": 163
       },

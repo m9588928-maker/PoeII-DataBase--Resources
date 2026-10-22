@@ -422,7 +422,12 @@
       },
       "level": 60,
       "_flavorEnabled": true,
-      "grantedSkillsExtra": []
+      "grantedSkillsExtra": [],
+      "limit": {
+        "zh-Hant": "天譴啟示．科賽斯",
+        "zh-Hans": "天启勇士卡西斯",
+        "en": "Kosis, The Revelation"
+      }
     },
     {
       "category": "jewelry",
@@ -523,7 +528,12 @@
       },
       "level": 50,
       "_flavorEnabled": true,
-      "grantedSkillsExtra": []
+      "grantedSkillsExtra": [],
+      "limit": {
+        "zh-Hant": "死境探險",
+        "zh-Hans": "先祖秘藏",
+        "en": "Expedition"
+      }
     }
   ],
   "affixes": {
