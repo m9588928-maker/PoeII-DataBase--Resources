@@ -15823,6 +15823,11 @@
       "level": 65,
       "_flavorEnabled": true,
       "grantedSkillsExtra": [],
+      "limit": {
+        "zh-Hant": "灰燼仲裁者",
+        "zh-Hans": "灰烬仲裁官",
+        "en": "The Arbiter of Ash"
+      },
       "requirements": {
         "str": 32,
         "dex": 32,
@@ -15977,6 +15982,11 @@
       "level": 65,
       "_flavorEnabled": true,
       "grantedSkillsExtra": [],
+      "limit": {
+        "zh-Hant": "灰燼仲裁者",
+        "zh-Hans": "灰烬仲裁官",
+        "en": "The Arbiter of Ash"
+      },
       "requirements": {
         "str": 32,
         "dex": 32,
@@ -16106,6 +16116,11 @@
       "level": 60,
       "_flavorEnabled": true,
       "grantedSkillsExtra": [],
+      "limit": {
+        "zh-Hant": "試煉大師",
+        "zh-Hans": "试炼使者",
+        "en": "The Trialmaster"
+      },
       "requirements": {
         "str": 42
       }
@@ -16250,6 +16265,11 @@
       "level": 55,
       "_flavorEnabled": true,
       "grantedSkillsExtra": [],
+      "limit": {
+        "zh-Hant": "試煉大師",
+        "zh-Hans": "试炼使者",
+        "en": "The Trialmaster"
+      },
       "requirements": {
         "str": 68
       },
@@ -16401,6 +16421,11 @@
       "level": 60,
       "_flavorEnabled": true,
       "grantedSkillsExtra": [],
+      "limit": {
+        "zh-Hant": "試煉大師",
+        "zh-Hans": "试炼使者",
+        "en": "The Trialmaster"
+      },
       "requirements": {
         "str": 42
       },
@@ -16744,6 +16769,11 @@
       "level": 33,
       "_flavorEnabled": true,
       "grantedSkillsExtra": [],
+      "limit": {
+        "zh-Hant": "萬眾歸一．烈許",
+        "zh-Hans": "薛斯，万魔一体",
+        "en": "Xesht, We That Are One"
+      },
       "requirements": {
         "dex": 24,
         "int": 24
@@ -16888,6 +16918,11 @@
       "level": 55,
       "_flavorEnabled": true,
       "grantedSkillsExtra": [],
+      "limit": {
+        "zh-Hant": "萬眾歸一．烈許",
+        "zh-Hans": "薛斯，万魔一体",
+        "en": "Xesht, We That Are One"
+      },
       "requirements": {
         "dex": 38,
         "int": 38
@@ -17335,6 +17370,11 @@
       "level": 65,
       "_flavorEnabled": true,
       "grantedSkillsExtra": [],
+      "limit": {
+        "zh-Hant": "腐化聖域",
+        "zh-Hans": "腐化枢纽",
+        "en": "Corrupted Nexus"
+      },
       "requirements": {
         "str": 44,
         "dex": 44
@@ -19325,6 +19365,11 @@
       "level": 65,
       "_flavorEnabled": true,
       "grantedSkillsExtra": [],
+      "limit": {
+        "zh-Hant": "渡鴉欺詐者",
+        "zh-Hans": "黑鸦欺诈者",
+        "en": "The Raven Trickster"
+      },
       "requirements": {
         "dex": 80
       }
@@ -19491,6 +19536,11 @@
       "level": 65,
       "_flavorEnabled": true,
       "grantedSkillsExtra": [],
+      "limit": {
+        "zh-Hant": "渡鴉欺詐者",
+        "zh-Hans": "黑鸦欺诈者",
+        "en": "The Raven Trickster"
+      },
       "requirements": {
         "dex": 80
       },
@@ -19953,6 +20003,11 @@
       "level": 65,
       "_flavorEnabled": true,
       "grantedSkillsExtra": [],
+      "limit": {
+        "zh-Hant": "骷髏馬克的容器",
+        "zh-Hans": "库勒马克之躯",
+        "en": "Vessel of Kulemak"
+      },
       "requirements": {
         "str": 55,
         "int": 55
@@ -20120,6 +20175,11 @@
       "level": 65,
       "_flavorEnabled": true,
       "grantedSkillsExtra": [],
+      "limit": {
+        "zh-Hant": "渡鴉欺詐者",
+        "zh-Hans": "黑鸦欺诈者",
+        "en": "The Raven Trickster"
+      },
       "requirements": {
         "dex": 80
       },

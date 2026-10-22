@@ -2398,7 +2398,12 @@
       },
       "level": 56,
       "_flavorEnabled": true,
-      "grantedSkillsExtra": []
+      "grantedSkillsExtra": [],
+      "limit": {
+        "zh-Hant": "試煉大師",
+        "zh-Hans": "试炼使者",
+        "en": "The Trialmaster"
+      }
     },
     {
       "category": "armor",
@@ -2496,6 +2501,11 @@
       "level": 56,
       "_flavorEnabled": true,
       "grantedSkillsExtra": [],
+      "limit": {
+        "zh-Hant": "試煉大師",
+        "zh-Hans": "试炼使者",
+        "en": "The Trialmaster"
+      },
       "variantOf": "zerphis-genesis",
       "variantKind": "cultivated",
       "variantLabel": {
@@ -2628,7 +2638,12 @@
       },
       "level": 55,
       "_flavorEnabled": true,
-      "grantedSkillsExtra": []
+      "grantedSkillsExtra": [],
+      "limit": {
+        "zh-Hant": "迷霧之王",
+        "zh-Hans": "迷雾之王",
+        "en": "The King in the Mists"
+      }
     },
     {
       "category": "armor",
@@ -2691,7 +2706,12 @@
       },
       "level": 60,
       "_flavorEnabled": true,
-      "grantedSkillsExtra": []
+      "grantedSkillsExtra": [],
+      "limit": {
+        "zh-Hant": "腐化聖域",
+        "zh-Hans": "腐化枢纽",
+        "en": "Corrupted Nexus"
+      }
     },
     {
       "category": "armor",
@@ -2824,6 +2844,11 @@
       "level": 62,
       "_flavorEnabled": true,
       "grantedSkillsExtra": [],
+      "limit": {
+        "zh-Hant": "深淵",
+        "zh-Hans": "深渊",
+        "en": "Abyss"
+      },
       "originalLabel": {
         "zh-Hant": "胸甲",
         "zh-Hans": "护甲",
@@ -2882,6 +2907,11 @@
       "level": 62,
       "_flavorEnabled": true,
       "grantedSkillsExtra": [],
+      "limit": {
+        "zh-Hant": "深淵",
+        "zh-Hans": "深渊",
+        "en": "Abyss"
+      },
       "variantOf": "darkness-enthroned",
       "variantKind": "alt",
       "variantLabel": {
@@ -2942,6 +2972,11 @@
       "level": 62,
       "_flavorEnabled": true,
       "grantedSkillsExtra": [],
+      "limit": {
+        "zh-Hant": "深淵",
+        "zh-Hans": "深渊",
+        "en": "Abyss"
+      },
       "variantOf": "darkness-enthroned",
       "variantKind": "alt",
       "variantLabel": {
@@ -3002,6 +3037,11 @@
       "level": 62,
       "_flavorEnabled": true,
       "grantedSkillsExtra": [],
+      "limit": {
+        "zh-Hant": "深淵",
+        "zh-Hans": "深渊",
+        "en": "Abyss"
+      },
       "variantOf": "darkness-enthroned",
       "variantKind": "alt",
       "variantLabel": {
@@ -3062,6 +3102,11 @@
       "level": 62,
       "_flavorEnabled": true,
       "grantedSkillsExtra": [],
+      "limit": {
+        "zh-Hant": "深淵",
+        "zh-Hans": "深渊",
+        "en": "Abyss"
+      },
       "variantOf": "darkness-enthroned",
       "variantKind": "alt",
       "variantLabel": {

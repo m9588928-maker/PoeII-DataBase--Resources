@@ -4,7 +4,7 @@
       "category": "currency",
       "subKey": "currency_endgame",
       "rarity": "currency_waystone",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/Waystones/Waystone_(Tier_1).webp",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/Waystones/Waystone_%28Tier_1%29.webp",
       "name": {
         "zh-Hant": "換界石（階級 1）",
         "zh-Hans": "引路石（ 1 阶）",
@@ -36,7 +36,7 @@
       "category": "currency",
       "subKey": "currency_endgame",
       "rarity": "currency_waystone",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/Waystones/Waystone_(Tier_2).webp",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/Waystones/Waystone_%28Tier_2%29.webp",
       "name": {
         "zh-Hant": "換界石（階級 2）",
         "zh-Hans": "引路石（ 2 阶）",
@@ -68,7 +68,7 @@
       "category": "currency",
       "subKey": "currency_endgame",
       "rarity": "currency_waystone",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/Waystones/Waystone_(Tier_3).webp",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/Waystones/Waystone_%28Tier_3%29.webp",
       "name": {
         "zh-Hant": "換界石（階級 3）",
         "zh-Hans": "引路石（ 3 阶）",
@@ -100,7 +100,7 @@
       "category": "currency",
       "subKey": "currency_endgame",
       "rarity": "currency_waystone",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/Waystones/Waystone_(Tier_4).webp",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/Waystones/Waystone_%28Tier_4%29.webp",
       "name": {
         "zh-Hant": "換界石（階級 4）",
         "zh-Hans": "引路石（ 4 阶）",
@@ -132,7 +132,7 @@
       "category": "currency",
       "subKey": "currency_endgame",
       "rarity": "currency_waystone",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/Waystones/Waystone_(Tier_5).webp",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/Waystones/Waystone_%28Tier_5%29.webp",
       "name": {
         "zh-Hant": "換界石（階級 5）",
         "zh-Hans": "引路石（ 5 阶）",
@@ -164,7 +164,7 @@
       "category": "currency",
       "subKey": "currency_endgame",
       "rarity": "currency_waystone",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/Waystones/Waystone_(Tier_6).webp",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/Waystones/Waystone_%28Tier_6%29.webp",
       "name": {
         "zh-Hant": "換界石（階級 6）",
         "zh-Hans": "引路石（ 6 阶）",
@@ -196,7 +196,7 @@
       "category": "currency",
       "subKey": "currency_endgame",
       "rarity": "currency_waystone",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/Waystones/Waystone_(Tier_7).webp",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/Waystones/Waystone_%28Tier_7%29.webp",
       "name": {
         "zh-Hant": "換界石（階級 7）",
         "zh-Hans": "引路石（ 7 阶）",
@@ -228,7 +228,7 @@
       "category": "currency",
       "subKey": "currency_endgame",
       "rarity": "currency_waystone",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/Waystones/Waystone_(Tier_8).webp",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/Waystones/Waystone_%28Tier_8%29.webp",
       "name": {
         "zh-Hant": "換界石（階級 8）",
         "zh-Hans": "引路石（ 8 阶）",
@@ -260,7 +260,7 @@
       "category": "currency",
       "subKey": "currency_endgame",
       "rarity": "currency_waystone",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/Waystones/Waystone_(Tier_9).webp",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/Waystones/Waystone_%28Tier_9%29.webp",
       "name": {
         "zh-Hant": "換界石（階級 9）",
         "zh-Hans": "引路石（ 9 阶）",
@@ -292,7 +292,7 @@
       "category": "currency",
       "subKey": "currency_endgame",
       "rarity": "currency_waystone",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/Waystones/Waystone_(Tier_10).webp",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/Waystones/Waystone_%28Tier_10%29.webp",
       "name": {
         "zh-Hant": "換界石（階級 10）",
         "zh-Hans": "引路石（ 10 阶）",
@@ -324,7 +324,7 @@
       "category": "currency",
       "subKey": "currency_endgame",
       "rarity": "currency_waystone",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/Waystones/Waystone_(Tier_11).webp",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/Waystones/Waystone_%28Tier_11%29.webp",
       "name": {
         "zh-Hant": "換界石（階級 11）",
         "zh-Hans": "引路石（ 11 阶）",
@@ -356,7 +356,7 @@
       "category": "currency",
       "subKey": "currency_endgame",
       "rarity": "currency_waystone",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/Waystones/Waystone_(Tier_12).webp",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/Waystones/Waystone_%28Tier_12%29.webp",
       "name": {
         "zh-Hant": "換界石（階級 12）",
         "zh-Hans": "引路石（ 12 阶）",
@@ -388,7 +388,7 @@
       "category": "currency",
       "subKey": "currency_endgame",
       "rarity": "currency_waystone",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/Waystones/Waystone_(Tier_13).webp",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/Waystones/Waystone_%28Tier_13%29.webp",
       "name": {
         "zh-Hant": "換界石（階級 13）",
         "zh-Hans": "引路石（ 13 阶）",
@@ -420,7 +420,7 @@
       "category": "currency",
       "subKey": "currency_endgame",
       "rarity": "currency_waystone",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/Waystones/Waystone_(Tier_14).webp",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/Waystones/Waystone_%28Tier_14%29.webp",
       "name": {
         "zh-Hant": "換界石（階級 14）",
         "zh-Hans": "引路石（ 14 阶）",
@@ -452,7 +452,7 @@
       "category": "currency",
       "subKey": "currency_endgame",
       "rarity": "currency_waystone",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/Waystones/Waystone_(Tier_15).webp",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/Waystones/Waystone_%28Tier_15%29.webp",
       "name": {
         "zh-Hant": "換界石（階級 15）",
         "zh-Hans": "引路石（ 15 阶）",
@@ -484,7 +484,7 @@
       "category": "currency",
       "subKey": "currency_endgame",
       "rarity": "currency_waystone",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/Waystones/Waystone_(Tier_16).webp",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/Waystones/Waystone_%28Tier_16%29.webp",
       "name": {
         "zh-Hant": "換界石（階級 16）",
         "zh-Hans": "引路石（ 16 阶）",
@@ -1575,6 +1575,64 @@
       "cardStyle": "unique",
       "id": "visions-of-paradise",
       "level": 65
+    },
+    {
+      "category": "currency",
+      "subKey": "currency_endgame",
+      "rarity": "currency_tablet",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/Tablets/Unforeseen_Consequences.webp",
+      "name": {
+        "zh-Hant": "始料未及的後果",
+        "zh-Hans": "无常因果",
+        "en": "Unforeseen Consequences"
+      },
+      "type1": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "type2": {
+        "zh-Hant": "深淵碑牌",
+        "zh-Hans": "深渊石板",
+        "en": "Abyss Tablet"
+      },
+      "stats": [],
+      "affixes": [
+        {
+          "zh-Hant": "在地圖內加入一個深淵",
+          "zh-Hans": "为一张地图增加深渊",
+          "en": "Adds Abysses to a Map"
+        },
+        {
+          "zh-Hant": "剩餘1次使用次數",
+          "zh-Hans": "剩余次数：1",
+          "en": "1 uses remaining"
+        },
+        {
+          "zh-Hant": "此區域找到%更多換界石",
+          "zh-Hans": "区域内找到的引路石数量总增 %",
+          "en": "% more Waystones found in Area"
+        },
+        {
+          "zh-Hant": "地圖內的深淵生成隻額外稀有怪物",
+          "zh-Hans": "地图中的深渊额外生成 个稀有怪物",
+          "en": "additional Rare Monsters are spawned from Abysses in Map"
+        },
+        {
+          "zh-Hant": "區域被深淵佔據",
+          "zh-Hans": "地图被深渊侵占",
+          "en": "Map contains (14—18) additional Abysses"
+        },
+        {
+          "zh-Hant": "地圖內含有額外(14—18)道深淵",
+          "zh-Hans": "地图额外包含 (14—18) 个深渊",
+          "en": "Map is overrun by the Abyssal"
+        }
+      ],
+      "cardStyle": "unique",
+      "id": "unforeseen-consequences",
+      "level": 65,
+      "imageSrc": "https://cdn.poe2db.tw/image/Art/2DItems/Currency/PrecursorTablets/PrecursorTabletAbyssUnique1.webp"
     },
     {
       "category": "currency",

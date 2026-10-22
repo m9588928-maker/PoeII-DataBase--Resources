@@ -525,7 +525,12 @@
       },
       "level": 65,
       "_flavorEnabled": true,
-      "grantedSkillsExtra": []
+      "grantedSkillsExtra": [],
+      "limit": {
+        "zh-Hant": "萬眾歸一．烈許",
+        "zh-Hans": "薛斯，万魔一体",
+        "en": "Xesht, We That Are One"
+      }
     },
     {
       "category": "armor",
@@ -915,7 +920,12 @@
       },
       "level": 55,
       "_flavorEnabled": true,
-      "grantedSkillsExtra": []
+      "grantedSkillsExtra": [],
+      "limit": {
+        "zh-Hant": "瓦爾命途",
+        "zh-Hans": "瓦尔的宿命",
+        "en": "Fate of the Vaal"
+      }
     },
     {
       "category": "armor",
@@ -1002,6 +1012,11 @@
       "level": 55,
       "_flavorEnabled": true,
       "grantedSkillsExtra": [],
+      "limit": {
+        "zh-Hant": "瓦爾命途",
+        "zh-Hans": "瓦尔的宿命",
+        "en": "Fate of the Vaal"
+      },
       "variantOf": "drillneck",
       "variantKind": "cultivated",
       "variantLabel": {

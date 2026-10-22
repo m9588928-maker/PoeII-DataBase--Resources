@@ -118,6 +118,98 @@
     {
       "category": "currency",
       "subKey": "currency_ascend",
+      "rarity": "currency_trial_chaos",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/InscribedUltimatum/Inscribed_Ultimatum.webp",
+      "name": {
+        "zh-Hant": "最後通牒雕刻",
+        "zh-Hans": "贪婪战书",
+        "en": "Inscribed Ultimatum"
+      },
+      "type1": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [],
+      "affixes": []
+    },
+    {
+      "category": "currency",
+      "subKey": "currency_ascend",
+      "rarity": "currency_trial_chaos",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/MapFragments/Cowardly_Fate.webp",
+      "name": {
+        "zh-Hant": "怯懦之運",
+        "zh-Hans": "懦弱的命运",
+        "en": "Cowardly Fate"
+      },
+      "type1": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [],
+      "affixes": []
+    },
+    {
+      "category": "currency",
+      "subKey": "currency_ascend",
+      "rarity": "currency_trial_chaos",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/MapFragments/Deadly_Fate.webp",
+      "name": {
+        "zh-Hant": "致命之運",
+        "zh-Hans": "危难的命运",
+        "en": "Deadly Fate"
+      },
+      "type1": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [],
+      "affixes": []
+    },
+    {
+      "category": "currency",
+      "subKey": "currency_ascend",
+      "rarity": "currency_trial_chaos",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/MapFragments/Victorious_Fate.webp",
+      "name": {
+        "zh-Hant": "勝利之運",
+        "zh-Hans": "胜利的命运",
+        "en": "Victorious Fate"
+      },
+      "type1": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [],
+      "affixes": []
+    },
+    {
+      "category": "currency",
+      "subKey": "currency_ascend",
       "rarity": "currency_trial_sekhema",
       "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/TrialCoins/Urn_Relic.webp",
       "name": {
@@ -282,29 +374,6 @@
       "stats": [],
       "affixes": [],
       "imageSrc": "https://cdn.poe2db.tw/image/Art/2DItems/Relics/RelicBase4x1.webp"
-    },
-    {
-      "category": "currency",
-      "subKey": "currency_ascend",
-      "rarity": "currency_trial_chaos",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/InscribedUltimatum/Inscribed_Ultimatum.webp",
-      "name": {
-        "zh-Hant": "最後通牒雕刻",
-        "zh-Hans": "贪婪战书",
-        "en": "Inscribed Ultimatum"
-      },
-      "type1": {
-        "zh-Hant": "",
-        "zh-Hans": "",
-        "en": ""
-      },
-      "type2": {
-        "zh-Hant": "",
-        "zh-Hans": "",
-        "en": ""
-      },
-      "stats": [],
-      "affixes": []
     }
   ],
   "uniqueItems": [
@@ -358,8 +427,226 @@
       ],
       "cardStyle": "unique",
       "id": "the-last-flame",
-      "level": 65,
-      "imageSrc": "https://cdn.poe2db.tw/image/Art/2DItems/Relics/RelicUnique4x1.webp"
+      "level": 65
+    },
+    {
+      "category": "currency",
+      "subKey": "currency_ascend",
+      "rarity": "currency_trial_sekhema",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Helmets/Uniques/SandstormVisage.webp",
+      "name": {
+        "zh-Hant": "沙瀑面紗",
+        "zh-Hans": "禁域面容",
+        "en": "Sandstorm Visage"
+      },
+      "type1": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "type2": {
+        "zh-Hant": "鎖鍊頭冠",
+        "zh-Hans": "锁链冠冕",
+        "en": "Chain Tiara"
+      },
+      "stats": [],
+      "affixes": [
+        {
+          "zh-Hant": "+(80—120)最大能量護盾",
+          "zh-Hans": "+(80—120) 能量护盾上限",
+          "en": "+(80—120) to maximum Energy Shield"
+        },
+        {
+          "zh-Hant": "+(20—30)點敏捷",
+          "zh-Hans": "+(20—30) 敏捷",
+          "en": "+(20—30) to Dexterity"
+        },
+        {
+          "zh-Hant": "你存在範圍內的敵人會受到致盲",
+          "zh-Hans": "在场的敌人被致盲",
+          "en": "Enemies in your Presence are Blinded"
+        },
+        {
+          "zh-Hant": "每秒對你存在範圍內的敵人造成暴擊弱點，持續(15—20)秒",
+          "zh-Hans": "每秒对在场的敌人施加暴击弱点，持续 (15—20) 秒",
+          "en": "Every second, inflicts Critical Weakness on enemies in your Presence for (15—20) seconds"
+        }
+      ],
+      "cardStyle": "unique",
+      "id": "sandstorm-visage",
+      "level": 52,
+      "requirements": {
+        "int": 38
+      }
+    },
+    {
+      "category": "currency",
+      "subKey": "currency_ascend",
+      "rarity": "currency_trial_sekhema",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/TrialCoins/Temporalis.webp",
+      "name": {
+        "zh-Hant": "時空之物",
+        "zh-Hans": "时空之肌",
+        "en": "Temporalis"
+      },
+      "type1": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "type2": {
+        "zh-Hant": "絲質之袍",
+        "zh-Hans": "丝质之袍",
+        "en": "Silk Robe"
+      },
+      "stats": [],
+      "affixes": [
+        {
+          "zh-Hant": "+(100—150)最大能量護盾",
+          "zh-Hans": "+(100—150) 能量护盾上限",
+          "en": "+(100—150) to maximum Energy Shield"
+        },
+        {
+          "zh-Hant": "+(10—20)%全元素抗性",
+          "zh-Hans": "所有元素抗性 +(10—20)%",
+          "en": "+(10—20)% to all Elemental Resistances"
+        },
+        {
+          "zh-Hant": "承受的(5—30)%傷害補償為生命",
+          "zh-Hans": "将所受伤害的(5—30)%吸纳为生命",
+          "en": "(5—30)% of Damage taken Recouped as Life"
+        },
+        {
+          "zh-Hant": "承受的(5—30)%傷害補償為魔力",
+          "zh-Hans": "将所受伤害的(5—30)%吸纳为魔力",
+          "en": "(5—30)% of Damage taken Recouped as Mana"
+        },
+        {
+          "zh-Hant": "技能有(-2—-1)秒冷卻時間",
+          "zh-Hans": "技能的冷却时间 (-2—-1)",
+          "en": "Skills have (-2—-1) seconds to Cooldown"
+        }
+      ],
+      "cardStyle": "unique",
+      "id": "temporalis",
+      "level": 64,
+      "requirements": {
+        "int": 37
+      },
+      "imageSrc": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Uniques/PilgrimsImage.webp"
+    },
+    {
+      "category": "currency",
+      "subKey": "currency_ascend",
+      "rarity": "currency_trial_sekhema",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Jewellery/Rings/Uniques/Safrin_s_Resolve.webp",
+      "name": {
+        "zh-Hant": "薩弗林的決心",
+        "zh-Hans": "萨芙琳的决心",
+        "en": "Safrin's Resolve"
+      },
+      "type1": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "type2": {
+        "zh-Hant": "戒指",
+        "zh-Hans": "戒指",
+        "en": "Ring"
+      },
+      "stats": [],
+      "affixes": [
+        {
+          "zh-Hant": "你只能在這件物品上鑲嵌紅寶石珠寶",
+          "zh-Hans": "你只能在该物品中镶嵌红玉珠宝",
+          "en": "You can only Socket Ruby Jewels in this item"
+        },
+        {
+          "zh-Hant": "增加(10—20)%找到的物品稀有度",
+          "zh-Hans": "物品稀有度提高 (10—20)%",
+          "en": "(10—20)% increased Rarity of Items found"
+        },
+        {
+          "zh-Hant": "+(10—20)點全部能力值",
+          "zh-Hans": "+(10—20) 全属性",
+          "en": "+(10—20) to all Attributes"
+        },
+        {
+          "zh-Hant": "每裝備一件帶有火焰抗性詞綴的物品，+(5—10)%冰冷與閃電抗性",
+          "zh-Hans": "每件有火焰抗性词缀的装备物品，使冰霜与闪电抗性 +(5—10)%",
+          "en": "+(5—10)% to Cold and Lightning Resistances per Equipped Item with a Fire Resistance Modifier"
+        }
+      ],
+      "cardStyle": "unique",
+      "id": "safrins-resolve",
+      "level": 40
+    },
+    {
+      "category": "currency",
+      "subKey": "currency_ascend",
+      "rarity": "currency_trial_sekhema",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/TrialCoins/Grand_Spectrum.webp",
+      "name": {
+        "zh-Hant": "巨光譜",
+        "zh-Hans": "聚光之石",
+        "en": "Grand Spectrum"
+      },
+      "type1": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "type2": {
+        "zh-Hant": "紅寶石",
+        "zh-Hans": "红玉",
+        "en": "Ruby"
+      },
+      "stats": [],
+      "affixes": [
+        {
+          "zh-Hant": "每顆巨光譜增加2%最大生命",
+          "zh-Hans": "每块聚光之石使生命上限提高 2%",
+          "en": "2% increased Maximum Life per socketed Grand Spectrum"
+        }
+      ],
+      "cardStyle": "unique",
+      "id": "grand-spectrum",
+      "level": 20,
+      "imageSrc": "https://cdn.poe2db.tw/image/Art/2DItems/Jewels/Uniques/GrandSpectrum_Sapphire.webp"
+    },
+    {
+      "category": "currency",
+      "subKey": "currency_ascend",
+      "rarity": "currency_trial_sekhema",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/TrialCoins/Against_the_Darkness.webp",
+      "name": {
+        "zh-Hant": "力抗黑暗",
+        "zh-Hans": "抗衡黑暗",
+        "en": "Against the Darkness"
+      },
+      "type1": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "type2": {
+        "zh-Hant": "時迭鑽石",
+        "zh-Hans": "失落的宝钻",
+        "en": "Time-Lost Diamond"
+      },
+      "stats": [],
+      "affixes": [
+        {
+          "zh-Hant": "[2 Random Jewel Modifiers]",
+          "zh-Hans": "[2 Random Jewel Modifiers]",
+          "en": "[2 Random Jewel Modifiers]"
+        }
+      ],
+      "cardStyle": "unique",
+      "id": "against-the-darkness",
+      "level": 20,
+      "imageSrc": "https://cdn.poe2db.tw/image/Art/2DItems/Jewels/SanctumJewel.webp"
     },
     {
       "category": "currency",
@@ -401,8 +688,7 @@
       ],
       "cardStyle": "unique",
       "id": "the-peacemakers-draught",
-      "level": 64,
-      "imageSrc": "https://cdn.poe2db.tw/image/Art/2DItems/Relics/RelicUnique1x3.webp"
+      "level": 64
     },
     {
       "category": "currency",
@@ -449,8 +735,7 @@
       ],
       "cardStyle": "unique",
       "id": "the-desperate-alliance",
-      "level": 65,
-      "imageSrc": "https://cdn.poe2db.tw/image/Art/2DItems/Relics/RelicUnique1x4.webp"
+      "level": 65
     },
     {
       "category": "currency",
@@ -492,8 +777,7 @@
       ],
       "cardStyle": "unique",
       "id": "the-burden-of-leadership",
-      "level": 64,
-      "imageSrc": "https://cdn.poe2db.tw/image/Art/2DItems/Relics/RelicUnique3x1.webp"
+      "level": 64
     },
     {
       "category": "currency",
@@ -535,8 +819,101 @@
       ],
       "cardStyle": "unique",
       "id": "the-changing-seasons",
-      "level": 64,
-      "imageSrc": "https://cdn.poe2db.tw/image/Art/2DItems/Relics/RelicUnique2x1.webp"
+      "level": 64
+    },
+    {
+      "category": "currency",
+      "subKey": "currency_ascend",
+      "rarity": "currency_trial_sekhema",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Jewellery/Rings/Uniques/Eshtera_s_Path.webp",
+      "name": {
+        "zh-Hant": "艾許特拉之路",
+        "zh-Hans": "埃斯特拉的道路",
+        "en": "Eshtera's Path"
+      },
+      "type1": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "type2": {
+        "zh-Hant": "戒指",
+        "zh-Hans": "戒指",
+        "en": "Ring"
+      },
+      "stats": [],
+      "affixes": [
+        {
+          "zh-Hant": "你只能在這件物品上鑲嵌藍寶石珠寶",
+          "zh-Hans": "你只能在该物品中镶嵌蓝玉珠宝",
+          "en": "You can only Socket Sapphire Jewels in this item"
+        },
+        {
+          "zh-Hant": "增加(10—20)%找到的物品稀有度",
+          "zh-Hans": "物品稀有度提高 (10—20)%",
+          "en": "(10—20)% increased Rarity of Items found"
+        },
+        {
+          "zh-Hant": "+(10—20)點全部能力值",
+          "zh-Hans": "+(10—20) 全属性",
+          "en": "+(10—20) to all Attributes"
+        },
+        {
+          "zh-Hant": "每裝備一件帶有閃電抗性詞綴的物品，+(5—10)%火焰與冰冷抗性",
+          "zh-Hans": "每件有闪电抗性词缀的装备物品，使火焰与冰霜抗性 +(5—10)%",
+          "en": "+(5—10)% to Fire and Cold Resistances per Equipped Item with a Lightning Resistance Modifier"
+        }
+      ],
+      "cardStyle": "unique",
+      "id": "eshteras-path",
+      "level": 1
+    },
+    {
+      "category": "currency",
+      "subKey": "currency_ascend",
+      "rarity": "currency_trial_sekhema",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Jewellery/Rings/Uniques/Zaida_s_Longevity.webp",
+      "name": {
+        "zh-Hant": "扎伊達的長壽",
+        "zh-Hans": "寨达的长寿",
+        "en": "Zaida's Longevity"
+      },
+      "type1": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "type2": {
+        "zh-Hant": "戒指",
+        "zh-Hans": "戒指",
+        "en": "Ring"
+      },
+      "stats": [],
+      "affixes": [
+        {
+          "zh-Hant": "你只能在這件物品上鑲嵌綠寶石",
+          "zh-Hans": "你只能在该物品中镶嵌翡翠珠宝",
+          "en": "You can only Socket Emerald Jewels in this item"
+        },
+        {
+          "zh-Hant": "增加(10—20)%找到的物品稀有度",
+          "zh-Hans": "物品稀有度提高 (10—20)%",
+          "en": "(10—20)% increased Rarity of Items found"
+        },
+        {
+          "zh-Hant": "+(10—20)點全部能力值",
+          "zh-Hans": "+(10—20) 全属性",
+          "en": "+(10—20) to all Attributes"
+        },
+        {
+          "zh-Hant": "每裝備一件帶有冰冷抗性詞綴的物品，+(5—10)%火焰與閃電抗性",
+          "zh-Hans": "每件有冰霜抗性词缀的装备物品，使火焰与闪电抗性 +(5—10)%",
+          "en": "+(5—10)% to Fire and Lightning Resistances per Equipped Item with a Cold Resistance Modifier"
+        }
+      ],
+      "cardStyle": "unique",
+      "id": "zaidas-longevity",
+      "level": 40
     }
   ],
   "affixes": {

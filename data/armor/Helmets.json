@@ -13166,6 +13166,11 @@
       "level": 45,
       "_flavorEnabled": true,
       "grantedSkillsExtra": [],
+      "limit": {
+        "zh-Hant": "天譴啟示．科賽斯",
+        "zh-Hans": "天启勇士卡西斯",
+        "en": "Kosis, The Revelation"
+      },
       "requirements": {
         "str": 36,
         "dex": 36
@@ -13240,6 +13245,11 @@
       "level": 62,
       "_flavorEnabled": true,
       "grantedSkillsExtra": [],
+      "limit": {
+        "zh-Hant": "墮落起源．奧爾羅斯",
+        "zh-Hans": "欧罗什，堕落之源",
+        "en": "Olroth, Origin of the Fall"
+      },
       "requirements": {
         "str": 36,
         "int": 36
@@ -13331,6 +13341,11 @@
       "level": 65,
       "_flavorEnabled": true,
       "grantedSkillsExtra": [],
+      "limit": {
+        "zh-Hant": "墮落起源．奧爾羅斯",
+        "zh-Hans": "欧罗什，堕落之源",
+        "en": "Olroth, Origin of the Fall"
+      },
       "requirements": {
         "str": 50,
         "int": 50
@@ -13498,6 +13513,11 @@
       "level": 65,
       "_flavorEnabled": true,
       "grantedSkillsExtra": [],
+      "limit": {
+        "zh-Hant": "墮落起源．奧爾羅斯",
+        "zh-Hans": "欧罗什，堕落之源",
+        "en": "Olroth, Origin of the Fall"
+      },
       "requirements": {
         "str": 50,
         "int": 50
@@ -13653,6 +13673,11 @@
       "level": 65,
       "_flavorEnabled": true,
       "grantedSkillsExtra": [],
+      "limit": {
+        "zh-Hant": "墮落起源．奧爾羅斯",
+        "zh-Hans": "欧罗什，堕落之源",
+        "en": "Olroth, Origin of the Fall"
+      },
       "requirements": {
         "str": 50,
         "int": 50
@@ -19628,6 +19653,11 @@
       "level": 65,
       "_flavorEnabled": true,
       "grantedSkillsExtra": [],
+      "limit": {
+        "zh-Hant": "灰燼仲裁者",
+        "zh-Hans": "灰烬仲裁官",
+        "en": "The Arbiter of Ash"
+      },
       "requirements": {
         "str": 36,
         "dex": 36,
@@ -19728,6 +19758,11 @@
       "level": 65,
       "_flavorEnabled": true,
       "grantedSkillsExtra": [],
+      "limit": {
+        "zh-Hant": "灰燼仲裁者",
+        "zh-Hans": "灰烬仲裁官",
+        "en": "The Arbiter of Ash"
+      },
       "requirements": {
         "str": 36,
         "dex": 36,
@@ -19852,6 +19887,11 @@
       "level": 52,
       "_flavorEnabled": true,
       "grantedSkillsExtra": [],
+      "limit": {
+        "zh-Hant": "時空之靈．澤洛克",
+        "zh-Hans": "扎洛卡，时空之灵",
+        "en": "Zarokh, the Temporal"
+      },
       "requirements": {
         "int": 38
       }
@@ -19918,6 +19958,11 @@
       "level": 40,
       "_flavorEnabled": true,
       "grantedSkillsExtra": [],
+      "limit": {
+        "zh-Hant": "時空之靈．澤洛克",
+        "zh-Hans": "扎洛卡，时空之灵",
+        "en": "Zarokh, the Temporal"
+      },
       "requirements": {
         "int": 58
       },
@@ -20065,6 +20110,11 @@
       "level": 52,
       "_flavorEnabled": true,
       "grantedSkillsExtra": [],
+      "limit": {
+        "zh-Hant": "試煉大師",
+        "zh-Hans": "试炼使者",
+        "en": "The Trialmaster"
+      },
       "requirements": {
         "dex": 27,
         "int": 27
@@ -20165,6 +20215,11 @@
       "level": 52,
       "_flavorEnabled": true,
       "grantedSkillsExtra": [],
+      "limit": {
+        "zh-Hant": "試煉大師",
+        "zh-Hans": "试炼使者",
+        "en": "The Trialmaster"
+      },
       "requirements": {
         "dex": 41,
         "int": 41
@@ -20349,6 +20404,11 @@
       "level": 52,
       "_flavorEnabled": true,
       "grantedSkillsExtra": [],
+      "limit": {
+        "zh-Hant": "試煉大師",
+        "zh-Hans": "试炼使者",
+        "en": "The Trialmaster"
+      },
       "requirements": {
         "dex": 27,
         "int": 27
@@ -23124,6 +23184,11 @@
       "level": 65,
       "_flavorEnabled": true,
       "grantedSkillsExtra": [],
+      "limit": {
+        "zh-Hant": "神聖仲裁者",
+        "zh-Hans": "神圣仲裁官",
+        "en": "The Arbiter of Divinity"
+      },
       "requirements": {
         "str": 59,
         "dex": 59
@@ -23214,6 +23279,11 @@
       "level": 65,
       "_flavorEnabled": true,
       "grantedSkillsExtra": [],
+      "limit": {
+        "zh-Hant": "神聖仲裁者",
+        "zh-Hans": "神圣仲裁官",
+        "en": "The Arbiter of Divinity"
+      },
       "requirements": {
         "str": 59,
         "dex": 59
@@ -23350,6 +23420,11 @@
       "level": 65,
       "_flavorEnabled": true,
       "grantedSkillsExtra": [],
+      "limit": {
+        "zh-Hant": "博德克",
+        "zh-Hans": "伯达克",
+        "en": "The Bodach"
+      },
       "requirements": {
         "str": 59,
         "int": 59
@@ -23440,6 +23515,11 @@
       "level": 65,
       "_flavorEnabled": true,
       "grantedSkillsExtra": [],
+      "limit": {
+        "zh-Hant": "博德克",
+        "zh-Hans": "伯达克",
+        "en": "The Bodach"
+      },
       "requirements": {
         "str": 59,
         "int": 59

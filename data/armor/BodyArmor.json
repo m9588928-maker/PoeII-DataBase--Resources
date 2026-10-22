@@ -31338,7 +31338,12 @@
       },
       "level": 1,
       "_flavorEnabled": true,
-      "grantedSkillsExtra": []
+      "grantedSkillsExtra": [],
+      "limit": {
+        "zh-Hant": "萬眾歸一．烈許",
+        "zh-Hans": "薛斯，万魔一体",
+        "en": "Xesht, We That Are One"
+      }
     },
     {
       "category": "armor",
@@ -31407,6 +31412,11 @@
       "level": 1,
       "_flavorEnabled": true,
       "grantedSkillsExtra": [],
+      "limit": {
+        "zh-Hant": "萬眾歸一．烈許",
+        "zh-Hans": "薛斯，万魔一体",
+        "en": "Xesht, We That Are One"
+      },
       "variantOf": "skin-of-the-loyal",
       "variantKind": "runeforged",
       "variantLabel": {
@@ -31543,6 +31553,11 @@
       "level": 52,
       "_flavorEnabled": true,
       "grantedSkillsExtra": [],
+      "limit": {
+        "zh-Hant": "迷霧之王",
+        "zh-Hans": "迷雾之王",
+        "en": "The King in the Mists"
+      },
       "requirements": {
         "str": 31,
         "dex": 31
@@ -31636,6 +31651,11 @@
       "level": 55,
       "_flavorEnabled": true,
       "grantedSkillsExtra": [],
+      "limit": {
+        "zh-Hant": "迷霧之王",
+        "zh-Hans": "迷雾之王",
+        "en": "The King in the Mists"
+      },
       "requirements": {
         "str": 49,
         "dex": 49
@@ -32478,6 +32498,11 @@
       "level": 45,
       "_flavorEnabled": true,
       "grantedSkillsExtra": [],
+      "limit": {
+        "zh-Hant": "天譴啟示．科賽斯",
+        "zh-Hans": "天启勇士卡西斯",
+        "en": "Kosis, The Revelation"
+      },
       "requirements": {
         "str": 41,
         "dex": 41
@@ -32586,6 +32611,11 @@
       "level": 55,
       "_flavorEnabled": true,
       "grantedSkillsExtra": [],
+      "limit": {
+        "zh-Hant": "天譴啟示．科賽斯",
+        "zh-Hans": "天启勇士卡西斯",
+        "en": "Kosis, The Revelation"
+      },
       "requirements": {
         "str": 49,
         "dex": 49
@@ -33208,6 +33238,11 @@
       "level": 65,
       "_flavorEnabled": true,
       "grantedSkillsExtra": [],
+      "limit": {
+        "zh-Hant": "灰燼仲裁者",
+        "zh-Hans": "灰烬仲裁官",
+        "en": "The Arbiter of Ash"
+      },
       "requirements": {
         "str": 41,
         "dex": 41,
@@ -33381,6 +33416,11 @@
       "level": 65,
       "_flavorEnabled": true,
       "grantedSkillsExtra": [],
+      "limit": {
+        "zh-Hant": "灰燼仲裁者",
+        "zh-Hans": "灰烬仲裁官",
+        "en": "The Arbiter of Ash"
+      },
       "requirements": {
         "str": 41,
         "dex": 41,
@@ -33605,6 +33645,11 @@
       "level": 64,
       "_flavorEnabled": true,
       "grantedSkillsExtra": [],
+      "limit": {
+        "zh-Hant": "時空之靈．澤洛克",
+        "zh-Hans": "扎洛卡，时空之灵",
+        "en": "Zarokh, the Temporal"
+      },
       "requirements": {
         "int": 37
       }
@@ -33693,6 +33738,11 @@
       "level": 38,
       "_flavorEnabled": true,
       "grantedSkillsExtra": [],
+      "limit": {
+        "zh-Hant": "時空之靈．澤洛克",
+        "zh-Hans": "扎洛卡，时空之灵",
+        "en": "Zarokh, the Temporal"
+      },
       "requirements": {
         "int": 61
       },
@@ -36347,7 +36397,12 @@
       },
       "level": 65,
       "_flavorEnabled": true,
-      "grantedSkillsExtra": []
+      "grantedSkillsExtra": [],
+      "limit": {
+        "zh-Hant": "瓦爾命途",
+        "zh-Hans": "瓦尔的宿命",
+        "en": "Fate of the Vaal"
+      }
     },
     {
       "category": "armor",
@@ -36461,6 +36516,11 @@
       "level": 65,
       "_flavorEnabled": true,
       "grantedSkillsExtra": [],
+      "limit": {
+        "zh-Hant": "瓦爾命途",
+        "zh-Hans": "瓦尔的宿命",
+        "en": "Fate of the Vaal"
+      },
       "variantOf": "atziris-splendour",
       "variantKind": "runeforged",
       "variantLabel": {
@@ -36687,6 +36747,11 @@
       "level": 65,
       "_flavorEnabled": true,
       "grantedSkillsExtra": [],
+      "limit": {
+        "zh-Hant": "瓦爾命途",
+        "zh-Hans": "瓦尔的宿命",
+        "en": "Fate of the Vaal"
+      },
       "variantOf": "atziris-splendour",
       "variantKind": "cultivated",
       "variantLabel": {
@@ -36777,6 +36842,11 @@
       "level": 65,
       "_flavorEnabled": true,
       "grantedSkillsExtra": [],
+      "limit": {
+        "zh-Hant": "異變體",
+        "zh-Hans": "畸变者",
+        "en": "The Aberration"
+      },
       "requirements": {
         "str": 67,
         "int": 67
@@ -36881,6 +36951,11 @@
       "level": 70,
       "_flavorEnabled": true,
       "grantedSkillsExtra": [],
+      "limit": {
+        "zh-Hant": "異變體",
+        "zh-Hans": "畸变者",
+        "en": "The Aberration"
+      },
       "requirements": {
         "str": 67,
         "int": 67
@@ -37047,6 +37122,11 @@
       "level": 70,
       "_flavorEnabled": true,
       "grantedSkillsExtra": [],
+      "limit": {
+        "zh-Hant": "異變體",
+        "zh-Hans": "畸变者",
+        "en": "The Aberration"
+      },
       "requirements": {
         "str": 57,
         "int": 85
@@ -37209,6 +37289,11 @@
       "level": 70,
       "_flavorEnabled": true,
       "grantedSkillsExtra": [],
+      "limit": {
+        "zh-Hant": "異變體",
+        "zh-Hans": "畸变者",
+        "en": "The Aberration"
+      },
       "requirements": {
         "str": 67,
         "int": 67
@@ -37361,6 +37446,11 @@
       "level": 65,
       "_flavorEnabled": true,
       "grantedSkillsExtra": [],
+      "limit": {
+        "zh-Hant": "渡鴉欺詐者",
+        "zh-Hans": "黑鸦欺诈者",
+        "en": "The Raven Trickster"
+      },
       "requirements": {
         "dex": 242
       }
@@ -37460,6 +37550,11 @@
       "level": 70,
       "_flavorEnabled": true,
       "grantedSkillsExtra": [],
+      "limit": {
+        "zh-Hant": "渡鴉欺詐者",
+        "zh-Hans": "黑鸦欺诈者",
+        "en": "The Raven Trickster"
+      },
       "requirements": {
         "dex": 121
       },
@@ -37614,6 +37709,11 @@
       "level": 70,
       "_flavorEnabled": true,
       "grantedSkillsExtra": [],
+      "limit": {
+        "zh-Hant": "神聖仲裁者",
+        "zh-Hans": "神圣仲裁官",
+        "en": "The Arbiter of Divinity"
+      },
       "requirements": {
         "str": 67,
         "int": 67
@@ -37717,6 +37817,11 @@
       "level": 70,
       "_flavorEnabled": true,
       "grantedSkillsExtra": [],
+      "limit": {
+        "zh-Hant": "神聖仲裁者",
+        "zh-Hans": "神圣仲裁官",
+        "en": "The Arbiter of Divinity"
+      },
       "requirements": {
         "str": 67,
         "int": 67
@@ -37746,7 +37851,7 @@
               "zh-Hans": "忠诚法令",
               "en": "Decree of Loyalty"
             },
-            "icon": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/BodyArmor/Uniques/Loreweave.webp",
+            "icon": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/BodyArmor/Basetypes/Ancient_Mail.webp",
             "iconSrc": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Uniques/Loreweave.webp"
           },
           {
@@ -37872,6 +37977,11 @@
       "level": 70,
       "_flavorEnabled": true,
       "grantedSkillsExtra": [],
+      "limit": {
+        "zh-Hant": "博德克",
+        "zh-Hans": "伯达克",
+        "en": "The Bodach"
+      },
       "requirements": {
         "dex": 67,
         "int": 67
@@ -37981,6 +38091,11 @@
       "level": 80,
       "_flavorEnabled": true,
       "grantedSkillsExtra": [],
+      "limit": {
+        "zh-Hant": "博德克",
+        "zh-Hans": "伯达克",
+        "en": "The Bodach"
+      },
       "requirements": {
         "dex": 67,
         "int": 67
@@ -40970,6 +41085,11 @@
       "level": 65,
       "_flavorEnabled": true,
       "grantedSkillsExtra": [],
+      "limit": {
+        "zh-Hant": "渡鴉欺詐者",
+        "zh-Hans": "黑鸦欺诈者",
+        "en": "The Raven Trickster"
+      },
       "requirements": {
         "dex": 242
       },

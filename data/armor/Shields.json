@@ -11413,6 +11413,11 @@
           "_activeTab": 0
         }
       ],
+      "limit": {
+        "zh-Hant": "墮落起源．奧爾羅斯",
+        "zh-Hans": "欧罗什，堕落之源",
+        "en": "Olroth, Origin of the Fall"
+      },
       "requirements": {
         "str": 64
       }
@@ -11517,6 +11522,11 @@
           "_activeTab": 0
         }
       ],
+      "limit": {
+        "zh-Hant": "墮落起源．奧爾羅斯",
+        "zh-Hans": "欧罗什，堕落之源",
+        "en": "Olroth, Origin of the Fall"
+      },
       "requirements": {
         "str": 91
       },
@@ -11699,6 +11709,11 @@
           "_activeTab": 0
         }
       ],
+      "limit": {
+        "zh-Hant": "墮落起源．奧爾羅斯",
+        "zh-Hans": "欧罗什，堕落之源",
+        "en": "Olroth, Origin of the Fall"
+      },
       "requirements": {
         "str": 91
       },
@@ -11875,6 +11890,11 @@
           "_activeTab": 0
         }
       ],
+      "limit": {
+        "zh-Hant": "墮落起源．奧爾羅斯",
+        "zh-Hans": "欧罗什，堕落之源",
+        "en": "Olroth, Origin of the Fall"
+      },
       "requirements": {
         "dex": 91
       },
@@ -12058,6 +12078,11 @@
           "_activeTab": 0
         }
       ],
+      "limit": {
+        "zh-Hant": "墮落起源．奧爾羅斯",
+        "zh-Hans": "欧罗什，堕落之源",
+        "en": "Olroth, Origin of the Fall"
+      },
       "requirements": {
         "str": 91
       },
@@ -15156,6 +15181,11 @@
       "level": 48,
       "_flavorEnabled": true,
       "grantedSkillsExtra": [],
+      "limit": {
+        "zh-Hant": "試煉大師",
+        "zh-Hans": "试炼使者",
+        "en": "The Trialmaster"
+      },
       "requirements": {
         "str": 30,
         "int": 30
@@ -15263,6 +15293,11 @@
       "level": 48,
       "_flavorEnabled": true,
       "grantedSkillsExtra": [],
+      "limit": {
+        "zh-Hant": "試煉大師",
+        "zh-Hans": "试炼使者",
+        "en": "The Trialmaster"
+      },
       "requirements": {
         "str": 30,
         "int": 30
@@ -16082,6 +16117,11 @@
           "_activeTab": 0
         }
       ],
+      "limit": {
+        "zh-Hant": "裂痕",
+        "zh-Hans": "裂隙",
+        "en": "Breach"
+      },
       "requirements": {
         "str": 249
       }
@@ -16205,6 +16245,11 @@
           "_activeTab": 0
         }
       ],
+      "limit": {
+        "zh-Hant": "裂痕",
+        "zh-Hans": "裂隙",
+        "en": "Breach"
+      },
       "requirements": {
         "str": 99
       },
@@ -16383,6 +16428,11 @@
       "level": 62,
       "_flavorEnabled": true,
       "grantedSkillsExtra": [],
+      "limit": {
+        "zh-Hant": "異變體",
+        "zh-Hans": "畸变者",
+        "en": "The Aberration"
+      },
       "requirements": {
         "str": 64,
         "dex": 64
@@ -16492,6 +16542,11 @@
       "level": 65,
       "_flavorEnabled": true,
       "grantedSkillsExtra": [],
+      "limit": {
+        "zh-Hant": "異變體",
+        "zh-Hans": "畸变者",
+        "en": "The Aberration"
+      },
       "requirements": {
         "str": 107
       },
@@ -16663,6 +16718,11 @@
       "level": 65,
       "_flavorEnabled": true,
       "grantedSkillsExtra": [],
+      "limit": {
+        "zh-Hant": "異變體",
+        "zh-Hans": "畸变者",
+        "en": "The Aberration"
+      },
       "requirements": {
         "int": 107
       },
@@ -16835,6 +16895,11 @@
       "level": 65,
       "_flavorEnabled": true,
       "grantedSkillsExtra": [],
+      "limit": {
+        "zh-Hant": "異變體",
+        "zh-Hans": "畸变者",
+        "en": "The Aberration"
+      },
       "requirements": {
         "dex": 107
       },

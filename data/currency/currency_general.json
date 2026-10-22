@@ -14302,7 +14302,7 @@
       "category": "currency",
       "subKey": "currency_general",
       "rarity": "currency_kalguuranrune",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/KalguuranRunes/Legacy_of_Mjölner.webp",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/KalguuranRunes/Legacy_of_Mj%C3%B6lner.webp",
       "name": {
         "zh-Hant": "傳承．沉默之雷",
         "zh-Hans": "沉默之雷之遗产",
@@ -17003,7 +17003,7 @@
       "category": "currency",
       "subKey": "currency_general",
       "rarity": "basic",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/General/Thaumaturgic_Flux_(Level_5).webp",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/General/Thaumaturgic_Flux_%28Level_5%29.webp",
       "name": {
         "zh-Hant": "奇術熔劑（等級5）",
         "zh-Hans": "秘术溶剂（等级5）",
@@ -17035,7 +17035,7 @@
       "category": "currency",
       "subKey": "currency_general",
       "rarity": "basic",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/General/Thaumaturgic_Flux_(Level_6).webp",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/General/Thaumaturgic_Flux_%28Level_6%29.webp",
       "name": {
         "zh-Hant": "奇術熔劑（等級6）",
         "zh-Hans": "秘术溶剂（等级6）",
@@ -17067,7 +17067,7 @@
       "category": "currency",
       "subKey": "currency_general",
       "rarity": "basic",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/General/Thaumaturgic_Flux_(Level_7).webp",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/General/Thaumaturgic_Flux_%28Level_7%29.webp",
       "name": {
         "zh-Hant": "奇術熔劑（等級7）",
         "zh-Hans": "秘术溶剂（等级7）",
@@ -17099,7 +17099,7 @@
       "category": "currency",
       "subKey": "currency_general",
       "rarity": "basic",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/General/Thaumaturgic_Flux_(Level_8).webp",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/General/Thaumaturgic_Flux_%28Level_8%29.webp",
       "name": {
         "zh-Hant": "奇術熔劑（等級8）",
         "zh-Hans": "秘术溶剂（等级8）",
@@ -17131,7 +17131,7 @@
       "category": "currency",
       "subKey": "currency_general",
       "rarity": "basic",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/General/Thaumaturgic_Flux_(Level_9).webp",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/General/Thaumaturgic_Flux_%28Level_9%29.webp",
       "name": {
         "zh-Hant": "奇術熔劑（等級9）",
         "zh-Hans": "秘术溶剂（等级9）",
@@ -17163,7 +17163,7 @@
       "category": "currency",
       "subKey": "currency_general",
       "rarity": "basic",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/General/Thaumaturgic_Flux_(Level_10).webp",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/General/Thaumaturgic_Flux_%28Level_10%29.webp",
       "name": {
         "zh-Hant": "奇術熔劑（等級10）",
         "zh-Hans": "秘术溶剂（等级10）",
@@ -17195,7 +17195,7 @@
       "category": "currency",
       "subKey": "currency_general",
       "rarity": "basic",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/General/Thaumaturgic_Flux_(Level_11).webp",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/General/Thaumaturgic_Flux_%28Level_11%29.webp",
       "name": {
         "zh-Hant": "奇術熔劑（等級11）",
         "zh-Hans": "秘术溶剂（等级11）",
@@ -17227,7 +17227,7 @@
       "category": "currency",
       "subKey": "currency_general",
       "rarity": "basic",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/General/Thaumaturgic_Flux_(Level_12).webp",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/General/Thaumaturgic_Flux_%28Level_12%29.webp",
       "name": {
         "zh-Hant": "奇術熔劑（等級12）",
         "zh-Hans": "秘术溶剂（等级12）",
@@ -17259,7 +17259,7 @@
       "category": "currency",
       "subKey": "currency_general",
       "rarity": "basic",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/General/Thaumaturgic_Flux_(Level_13).webp",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/General/Thaumaturgic_Flux_%28Level_13%29.webp",
       "name": {
         "zh-Hant": "奇術熔劑（等級13）",
         "zh-Hans": "秘术溶剂（等级13）",
@@ -17291,7 +17291,7 @@
       "category": "currency",
       "subKey": "currency_general",
       "rarity": "basic",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/General/Thaumaturgic_Flux_(Level_14).webp",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/General/Thaumaturgic_Flux_%28Level_14%29.webp",
       "name": {
         "zh-Hant": "奇術熔劑（等級14）",
         "zh-Hans": "秘术溶剂（等级14）",
@@ -17323,7 +17323,7 @@
       "category": "currency",
       "subKey": "currency_general",
       "rarity": "basic",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/General/Thaumaturgic_Flux_(Level_15).webp",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/General/Thaumaturgic_Flux_%28Level_15%29.webp",
       "name": {
         "zh-Hant": "奇術熔劑（等級15）",
         "zh-Hans": "秘术溶剂（等级15）",
@@ -17355,7 +17355,7 @@
       "category": "currency",
       "subKey": "currency_general",
       "rarity": "basic",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/General/Thaumaturgic_Flux_(Level_16).webp",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/General/Thaumaturgic_Flux_%28Level_16%29.webp",
       "name": {
         "zh-Hant": "奇術熔劑（等級16）",
         "zh-Hans": "秘术溶剂（等级16）",
@@ -17387,7 +17387,7 @@
       "category": "currency",
       "subKey": "currency_general",
       "rarity": "basic",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/General/Thaumaturgic_Flux_(Level_17).webp",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/General/Thaumaturgic_Flux_%28Level_17%29.webp",
       "name": {
         "zh-Hant": "奇術熔劑（等級17）",
         "zh-Hans": "秘术溶剂（等级17）",
@@ -17419,7 +17419,7 @@
       "category": "currency",
       "subKey": "currency_general",
       "rarity": "basic",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/General/Thaumaturgic_Flux_(Level_18).webp",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/General/Thaumaturgic_Flux_%28Level_18%29.webp",
       "name": {
         "zh-Hant": "奇術熔劑（等級18）",
         "zh-Hans": "秘术溶剂（等级18）",
@@ -17451,7 +17451,7 @@
       "category": "currency",
       "subKey": "currency_general",
       "rarity": "basic",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/General/Thaumaturgic_Flux_(Level_19).webp",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/General/Thaumaturgic_Flux_%28Level_19%29.webp",
       "name": {
         "zh-Hant": "奇術熔劑（等級19）",
         "zh-Hans": "秘术溶剂（等级19）",
@@ -17483,7 +17483,7 @@
       "category": "currency",
       "subKey": "currency_general",
       "rarity": "basic",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/General/Thaumaturgic_Flux_(Level_20).webp",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/General/Thaumaturgic_Flux_%28Level_20%29.webp",
       "name": {
         "zh-Hant": "奇術熔劑（等級20）",
         "zh-Hans": "秘术溶剂（等级20）",
@@ -17958,4 +17958,4 @@
     }
   ],
   "uniqueItems": []
-}
+}

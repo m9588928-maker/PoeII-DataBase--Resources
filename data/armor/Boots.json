@@ -12673,6 +12673,11 @@
       "level": 65,
       "_flavorEnabled": true,
       "grantedSkillsExtra": [],
+      "limit": {
+        "zh-Hant": "灰燼仲裁者",
+        "zh-Hans": "灰烬仲裁官",
+        "en": "The Arbiter of Ash"
+      },
       "requirements": {
         "str": 34,
         "dex": 34,
@@ -12773,6 +12778,11 @@
       "level": 65,
       "_flavorEnabled": true,
       "grantedSkillsExtra": [],
+      "limit": {
+        "zh-Hant": "灰燼仲裁者",
+        "zh-Hans": "灰烬仲裁官",
+        "en": "The Arbiter of Ash"
+      },
       "requirements": {
         "str": 34,
         "dex": 34,
@@ -13320,6 +13330,11 @@
       "level": 52,
       "_flavorEnabled": true,
       "grantedSkillsExtra": [],
+      "limit": {
+        "zh-Hant": "迷霧之王",
+        "zh-Hans": "迷雾之王",
+        "en": "The King in the Mists"
+      },
       "requirements": {
         "dex": 38,
         "int": 38
@@ -13405,6 +13420,11 @@
       "level": 65,
       "_flavorEnabled": true,
       "grantedSkillsExtra": [],
+      "limit": {
+        "zh-Hant": "迷霧之王",
+        "zh-Hans": "迷雾之王",
+        "en": "The King in the Mists"
+      },
       "requirements": {
         "dex": 47,
         "int": 47
@@ -13545,6 +13565,11 @@
       "level": 65,
       "_flavorEnabled": true,
       "grantedSkillsExtra": [],
+      "limit": {
+        "zh-Hant": "瓦爾命途",
+        "zh-Hans": "瓦尔的宿命",
+        "en": "Fate of the Vaal"
+      },
       "requirements": {
         "dex": 86
       }
@@ -13630,6 +13655,11 @@
       "level": 65,
       "_flavorEnabled": true,
       "grantedSkillsExtra": [],
+      "limit": {
+        "zh-Hant": "瓦爾命途",
+        "zh-Hans": "瓦尔的宿命",
+        "en": "Fate of the Vaal"
+      },
       "requirements": {
         "dex": 86
       },
@@ -13780,6 +13810,11 @@
       "level": 65,
       "_flavorEnabled": true,
       "grantedSkillsExtra": [],
+      "limit": {
+        "zh-Hant": "瓦爾命途",
+        "zh-Hans": "瓦尔的宿命",
+        "en": "Fate of the Vaal"
+      },
       "requirements": {
         "dex": 86
       },
@@ -13870,6 +13905,11 @@
       "level": 65,
       "_flavorEnabled": true,
       "grantedSkillsExtra": [],
+      "limit": {
+        "zh-Hant": "神聖仲裁者",
+        "zh-Hans": "神圣仲裁官",
+        "en": "The Arbiter of Divinity"
+      },
       "requirements": {
         "str": 56,
         "int": 56
@@ -13965,6 +14005,11 @@
       "level": 65,
       "_flavorEnabled": true,
       "grantedSkillsExtra": [],
+      "limit": {
+        "zh-Hant": "神聖仲裁者",
+        "zh-Hans": "神圣仲裁官",
+        "en": "The Arbiter of Divinity"
+      },
       "requirements": {
         "str": 56,
         "int": 56
