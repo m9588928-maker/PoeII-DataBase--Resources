@@ -1,0 +1,3782 @@
+{
+  "baseItems": [
+    {
+      "category": "currency",
+      "subKey": "currency_ascend",
+      "rarity": "currency_trial_sekhema",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/TrialCoins/Djinn_Barya.webp",
+      "name": {
+        "zh-Hant": "巨靈之幣",
+        "zh-Hans": "巨灵币",
+        "en": "Djinn Barya"
+      },
+      "type1": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [],
+      "affixes": []
+    },
+    {
+      "category": "currency",
+      "subKey": "currency_ascend",
+      "rarity": "currency_trial_sekhema",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/TrialCoins/Test_of_Strength_Barya.webp",
+      "name": {
+        "zh-Hant": "力量的測試代幣",
+        "zh-Hans": "力量测试硬币",
+        "en": "Test of Strength Barya"
+      },
+      "type1": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [],
+      "affixes": []
+    },
+    {
+      "category": "currency",
+      "subKey": "currency_ascend",
+      "rarity": "currency_trial_sekhema",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/TrialCoins/Test_of_Will_Barya.webp",
+      "name": {
+        "zh-Hant": "意志的測試代幣",
+        "zh-Hans": "意志测试硬币",
+        "en": "Test of Will Barya"
+      },
+      "type1": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [],
+      "affixes": []
+    },
+    {
+      "category": "currency",
+      "subKey": "currency_ascend",
+      "rarity": "currency_trial_sekhema",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/TrialCoins/Test_of_Cunning_Barya.webp",
+      "name": {
+        "zh-Hant": "計謀的測試代幣",
+        "zh-Hans": "灵巧测试硬币",
+        "en": "Test of Cunning Barya"
+      },
+      "type1": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [],
+      "affixes": []
+    },
+    {
+      "category": "currency",
+      "subKey": "currency_ascend",
+      "rarity": "currency_trial_sekhema",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/TrialCoins/Test_of_Time_Barya.webp",
+      "name": {
+        "zh-Hant": "時間的測試代幣",
+        "zh-Hans": "时间测试硬币",
+        "en": "Test of Time Barya"
+      },
+      "type1": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [],
+      "affixes": []
+    },
+    {
+      "category": "currency",
+      "subKey": "currency_ascend",
+      "rarity": "currency_trial_chaos",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/InscribedUltimatum/Inscribed_Ultimatum.webp",
+      "name": {
+        "zh-Hant": "最後通牒雕刻",
+        "zh-Hans": "贪婪战书",
+        "en": "Inscribed Ultimatum"
+      },
+      "type1": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [],
+      "affixes": []
+    },
+    {
+      "category": "currency",
+      "subKey": "currency_ascend",
+      "rarity": "currency_trial_chaos",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/MapFragments/Cowardly_Fate.webp",
+      "name": {
+        "zh-Hant": "怯懦之運",
+        "zh-Hans": "懦弱的命运",
+        "en": "Cowardly Fate"
+      },
+      "type1": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [],
+      "affixes": []
+    },
+    {
+      "category": "currency",
+      "subKey": "currency_ascend",
+      "rarity": "currency_trial_chaos",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/MapFragments/Deadly_Fate.webp",
+      "name": {
+        "zh-Hant": "致命之運",
+        "zh-Hans": "危难的命运",
+        "en": "Deadly Fate"
+      },
+      "type1": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [],
+      "affixes": []
+    },
+    {
+      "category": "currency",
+      "subKey": "currency_ascend",
+      "rarity": "currency_trial_chaos",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/MapFragments/Victorious_Fate.webp",
+      "name": {
+        "zh-Hant": "勝利之運",
+        "zh-Hans": "胜利的命运",
+        "en": "Victorious Fate"
+      },
+      "type1": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [],
+      "affixes": []
+    },
+    {
+      "category": "currency",
+      "subKey": "currency_ascend",
+      "rarity": "currency_trial_sekhema",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/TrialCoins/Urn_Relic.webp",
+      "name": {
+        "zh-Hant": "古甕聖物",
+        "zh-Hans": "壶瓮遗物",
+        "en": "Urn Relic"
+      },
+      "type1": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [],
+      "affixes": [],
+      "imageSrc": "https://cdn.poe2db.tw/image/Art/2DItems/Relics/RelicBase1x2.webp"
+    },
+    {
+      "category": "currency",
+      "subKey": "currency_ascend",
+      "rarity": "currency_trial_sekhema",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/TrialCoins/Amphora_Relic.webp",
+      "name": {
+        "zh-Hant": "陶罐聖物",
+        "zh-Hans": "土罐遗物",
+        "en": "Amphora Relic"
+      },
+      "type1": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [],
+      "affixes": [],
+      "imageSrc": "https://cdn.poe2db.tw/image/Art/2DItems/Relics/RelicBase1x3.webp"
+    },
+    {
+      "category": "currency",
+      "subKey": "currency_ascend",
+      "rarity": "currency_trial_sekhema",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/TrialCoins/Vase_Relic.webp",
+      "name": {
+        "zh-Hant": "器皿聖物",
+        "zh-Hans": "花瓶遗物",
+        "en": "Vase Relic"
+      },
+      "type1": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [],
+      "affixes": [],
+      "imageSrc": "https://cdn.poe2db.tw/image/Art/2DItems/Relics/RelicBase1x4.webp"
+    },
+    {
+      "category": "currency",
+      "subKey": "currency_ascend",
+      "rarity": "currency_trial_sekhema",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/TrialCoins/Seal_Relic.webp",
+      "name": {
+        "zh-Hant": "草紙聖物",
+        "zh-Hans": "封印遗物",
+        "en": "Seal Relic"
+      },
+      "type1": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [],
+      "affixes": [],
+      "imageSrc": "https://cdn.poe2db.tw/image/Art/2DItems/Relics/RelicBase2x1.webp"
+    },
+    {
+      "category": "currency",
+      "subKey": "currency_ascend",
+      "rarity": "currency_trial_sekhema",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/TrialCoins/Coffer_Relic.webp",
+      "name": {
+        "zh-Hant": "寶箱聖物",
+        "zh-Hans": "匣柜遗物",
+        "en": "Coffer Relic"
+      },
+      "type1": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [],
+      "affixes": [],
+      "imageSrc": "https://cdn.poe2db.tw/image/Art/2DItems/Relics/RelicBase2x2.webp"
+    },
+    {
+      "category": "currency",
+      "subKey": "currency_ascend",
+      "rarity": "currency_trial_sekhema",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/TrialCoins/Tapestry_Relic.webp",
+      "name": {
+        "zh-Hant": "聖經聖物",
+        "zh-Hans": "挂毯遗物",
+        "en": "Tapestry Relic"
+      },
+      "type1": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [],
+      "affixes": [],
+      "imageSrc": "https://cdn.poe2db.tw/image/Art/2DItems/Relics/RelicBase3x1.webp"
+    },
+    {
+      "category": "currency",
+      "subKey": "currency_ascend",
+      "rarity": "currency_trial_sekhema",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/TrialCoins/Incense_Relic.webp",
+      "name": {
+        "zh-Hant": "香爐聖物",
+        "zh-Hans": "熏香遗物",
+        "en": "Incense Relic"
+      },
+      "type1": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [],
+      "affixes": [],
+      "imageSrc": "https://cdn.poe2db.tw/image/Art/2DItems/Relics/RelicBase4x1.webp"
+    }
+  ],
+  "uniqueItems": [
+    {
+      "category": "currency",
+      "subKey": "currency_ascend",
+      "rarity": "currency_trial_sekhema",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Mechanics/Itemicons/The_Last_Flame.webp",
+      "name": {
+        "zh-Hant": "終焉烈焰",
+        "zh-Hans": "终末之火",
+        "en": "The Last Flame"
+      },
+      "type1": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "type2": {
+        "zh-Hant": "香爐聖物",
+        "zh-Hans": "熏香遗物",
+        "en": "Incense Relic"
+      },
+      "stats": [],
+      "affixes": [
+        {
+          "zh-Hant": "澤洛克，永恆之靈掉落時空之物",
+          "zh-Hans": "扎洛卡，时空之灵会掉落时空之肌",
+          "en": "Zarokh, the Temporal drops Temporalis"
+        },
+        {
+          "zh-Hant": "受到的傷害無法被吸收",
+          "zh-Hans": "受到的伤害无法被吸收",
+          "en": "Damage taken cannot be Absorbed"
+        },
+        {
+          "zh-Hant": "最大榮譽為1",
+          "zh-Hans": "荣誉上限为 1",
+          "en": "Maximum Honour is 1"
+        },
+        {
+          "zh-Hant": "不能和等級低於80的試煉一起使用",
+          "zh-Hans": "无法在等级低于 80 的试炼中使用",
+          "en": "Cannot be used with Trials below level 80"
+        },
+        {
+          "zh-Hant": "當套用至試煉時，此物品會被摧毀",
+          "zh-Hans": "对试炼使用时摧毁该物品",
+          "en": "This item is destroyed when applied to a Trial"
+        }
+      ],
+      "cardStyle": "unique",
+      "id": "the-last-flame",
+      "level": 65
+    },
+    {
+      "category": "currency",
+      "subKey": "currency_ascend",
+      "rarity": "currency_trial_sekhema",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Armor/Helmets/Uniques/SandstormVisage.webp",
+      "name": {
+        "zh-Hant": "沙瀑面紗",
+        "zh-Hans": "禁域面容",
+        "en": "Sandstorm Visage"
+      },
+      "type1": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "type2": {
+        "zh-Hant": "鎖鍊頭冠",
+        "zh-Hans": "锁链冠冕",
+        "en": "Chain Tiara"
+      },
+      "stats": [],
+      "affixes": [
+        {
+          "zh-Hant": "+(80—120)最大能量護盾",
+          "zh-Hans": "+(80—120) 能量护盾上限",
+          "en": "+(80—120) to maximum Energy Shield"
+        },
+        {
+          "zh-Hant": "+(20—30)點敏捷",
+          "zh-Hans": "+(20—30) 敏捷",
+          "en": "+(20—30) to Dexterity"
+        },
+        {
+          "zh-Hant": "你存在範圍內的敵人會受到致盲",
+          "zh-Hans": "在场的敌人被致盲",
+          "en": "Enemies in your Presence are Blinded"
+        },
+        {
+          "zh-Hant": "每秒對你存在範圍內的敵人造成暴擊弱點，持續(15—20)秒",
+          "zh-Hans": "每秒对在场的敌人施加暴击弱点，持续 (15—20) 秒",
+          "en": "Every second, inflicts Critical Weakness on enemies in your Presence for (15—20) seconds"
+        }
+      ],
+      "cardStyle": "unique",
+      "id": "sandstorm-visage",
+      "level": 52,
+      "requirements": {
+        "int": 38
+      }
+    },
+    {
+      "category": "currency",
+      "subKey": "currency_ascend",
+      "rarity": "currency_trial_sekhema",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/TrialCoins/Temporalis.webp",
+      "name": {
+        "zh-Hant": "時空之物",
+        "zh-Hans": "时空之肌",
+        "en": "Temporalis"
+      },
+      "type1": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "type2": {
+        "zh-Hant": "絲質之袍",
+        "zh-Hans": "丝质之袍",
+        "en": "Silk Robe"
+      },
+      "stats": [],
+      "affixes": [
+        {
+          "zh-Hant": "+(100—150)最大能量護盾",
+          "zh-Hans": "+(100—150) 能量护盾上限",
+          "en": "+(100—150) to maximum Energy Shield"
+        },
+        {
+          "zh-Hant": "+(10—20)%全元素抗性",
+          "zh-Hans": "所有元素抗性 +(10—20)%",
+          "en": "+(10—20)% to all Elemental Resistances"
+        },
+        {
+          "zh-Hant": "承受的(5—30)%傷害補償為生命",
+          "zh-Hans": "将所受伤害的(5—30)%吸纳为生命",
+          "en": "(5—30)% of Damage taken Recouped as Life"
+        },
+        {
+          "zh-Hant": "承受的(5—30)%傷害補償為魔力",
+          "zh-Hans": "将所受伤害的(5—30)%吸纳为魔力",
+          "en": "(5—30)% of Damage taken Recouped as Mana"
+        },
+        {
+          "zh-Hant": "技能有(-2—-1)秒冷卻時間",
+          "zh-Hans": "技能的冷却时间 (-2—-1)",
+          "en": "Skills have (-2—-1) seconds to Cooldown"
+        }
+      ],
+      "cardStyle": "unique",
+      "id": "temporalis",
+      "level": 64,
+      "requirements": {
+        "int": 37
+      },
+      "imageSrc": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Uniques/PilgrimsImage.webp"
+    },
+    {
+      "category": "currency",
+      "subKey": "currency_ascend",
+      "rarity": "currency_trial_sekhema",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Jewellery/Rings/Uniques/Safrin_s_Resolve.webp",
+      "name": {
+        "zh-Hant": "薩弗林的決心",
+        "zh-Hans": "萨芙琳的决心",
+        "en": "Safrin's Resolve"
+      },
+      "type1": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "type2": {
+        "zh-Hant": "戒指",
+        "zh-Hans": "戒指",
+        "en": "Ring"
+      },
+      "stats": [],
+      "affixes": [
+        {
+          "zh-Hant": "你只能在這件物品上鑲嵌紅寶石珠寶",
+          "zh-Hans": "你只能在该物品中镶嵌红玉珠宝",
+          "en": "You can only Socket Ruby Jewels in this item"
+        },
+        {
+          "zh-Hant": "增加(10—20)%找到的物品稀有度",
+          "zh-Hans": "物品稀有度提高 (10—20)%",
+          "en": "(10—20)% increased Rarity of Items found"
+        },
+        {
+          "zh-Hant": "+(10—20)點全部能力值",
+          "zh-Hans": "+(10—20) 全属性",
+          "en": "+(10—20) to all Attributes"
+        },
+        {
+          "zh-Hant": "每裝備一件帶有火焰抗性詞綴的物品，+(5—10)%冰冷與閃電抗性",
+          "zh-Hans": "每件有火焰抗性词缀的装备物品，使冰霜与闪电抗性 +(5—10)%",
+          "en": "+(5—10)% to Cold and Lightning Resistances per Equipped Item with a Fire Resistance Modifier"
+        }
+      ],
+      "cardStyle": "unique",
+      "id": "safrins-resolve",
+      "level": 40
+    },
+    {
+      "category": "currency",
+      "subKey": "currency_ascend",
+      "rarity": "currency_trial_sekhema",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/TrialCoins/Grand_Spectrum.webp",
+      "name": {
+        "zh-Hant": "巨光譜",
+        "zh-Hans": "聚光之石",
+        "en": "Grand Spectrum"
+      },
+      "type1": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "type2": {
+        "zh-Hant": "紅寶石",
+        "zh-Hans": "红玉",
+        "en": "Ruby"
+      },
+      "stats": [],
+      "affixes": [
+        {
+          "zh-Hant": "每顆巨光譜增加2%最大生命",
+          "zh-Hans": "每块聚光之石使生命上限提高 2%",
+          "en": "2% increased Maximum Life per socketed Grand Spectrum"
+        }
+      ],
+      "cardStyle": "unique",
+      "id": "grand-spectrum",
+      "level": 20,
+      "imageSrc": "https://cdn.poe2db.tw/image/Art/2DItems/Jewels/Uniques/GrandSpectrum_Sapphire.webp"
+    },
+    {
+      "category": "currency",
+      "subKey": "currency_ascend",
+      "rarity": "currency_trial_sekhema",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/TrialCoins/Against_the_Darkness.webp",
+      "name": {
+        "zh-Hant": "力抗黑暗",
+        "zh-Hans": "抗衡黑暗",
+        "en": "Against the Darkness"
+      },
+      "type1": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "type2": {
+        "zh-Hant": "時迭鑽石",
+        "zh-Hans": "失落的宝钻",
+        "en": "Time-Lost Diamond"
+      },
+      "stats": [],
+      "affixes": [
+        {
+          "zh-Hant": "[2 Random Jewel Modifiers]",
+          "zh-Hans": "[2 Random Jewel Modifiers]",
+          "en": "[2 Random Jewel Modifiers]"
+        }
+      ],
+      "cardStyle": "unique",
+      "id": "against-the-darkness",
+      "level": 20,
+      "imageSrc": "https://cdn.poe2db.tw/image/Art/2DItems/Jewels/SanctumJewel.webp"
+    },
+    {
+      "category": "currency",
+      "subKey": "currency_ascend",
+      "rarity": "currency_trial_sekhema",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Mechanics/Itemicons/The_Peacemakers_Draught.webp",
+      "name": {
+        "zh-Hant": "和平使者藥水",
+        "zh-Hans": "求和者的饮剂",
+        "en": "The Peacemaker's Draught"
+      },
+      "type1": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "type2": {
+        "zh-Hant": "陶罐聖物",
+        "zh-Hans": "土罐遗物",
+        "en": "Amphora Relic"
+      },
+      "stats": [],
+      "affixes": [
+        {
+          "zh-Hant": "澤洛克，永恆之靈掉落額外1個巨靈之幣",
+          "zh-Hans": "扎洛卡，时空之灵额外掉落 1 个巴雅",
+          "en": "Zarokh, the Temporal drops 1 additional Baryas"
+        },
+        {
+          "zh-Hant": "你的護甲、閃避、和能量護盾為0",
+          "zh-Hans": "你的护甲，闪避与能量护盾为 0",
+          "en": "Your Armour, Evasion and Energy Shield are zero"
+        },
+        {
+          "zh-Hant": "當套用至試煉時，此物品會被摧毀",
+          "zh-Hans": "对试炼使用时摧毁该物品",
+          "en": "This item is destroyed when applied to a Trial"
+        }
+      ],
+      "cardStyle": "unique",
+      "id": "the-peacemakers-draught",
+      "level": 64
+    },
+    {
+      "category": "currency",
+      "subKey": "currency_ascend",
+      "rarity": "currency_trial_sekhema",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Mechanics/Itemicons/The_Desperate_Alliance.webp",
+      "name": {
+        "zh-Hant": "絕望的同盟",
+        "zh-Hans": "绝境同盟",
+        "en": "The Desperate Alliance"
+      },
+      "type1": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "type2": {
+        "zh-Hant": "器皿聖物",
+        "zh-Hans": "花瓶遗物",
+        "en": "Vase Relic"
+      },
+      "stats": [],
+      "affixes": [
+        {
+          "zh-Hant": "澤洛克，永恆之靈掉落力抗黑暗",
+          "zh-Hans": "扎洛卡，时空之灵会掉落抗衡黑暗",
+          "en": "Zarokh, the Temporal drops Against the Darkness"
+        },
+        {
+          "zh-Hant": "澤洛克．永恆之靈造成100%更多傷害",
+          "zh-Hans": "扎洛卡，时空之灵造成的伤害总增 100%",
+          "en": "Zarokh, the Temporal deals 100% more Damage"
+        },
+        {
+          "zh-Hant": "澤洛克．永恆之靈承受75%更少傷害",
+          "zh-Hans": "扎洛卡，时空之灵受到的伤害总降 75%",
+          "en": "Zarokh, the Temporal takes 75% less Damage"
+        },
+        {
+          "zh-Hant": "當套用至試煉時，此物品會被摧毀",
+          "zh-Hans": "对试炼使用时摧毁该物品",
+          "en": "This item is destroyed when applied to a Trial"
+        }
+      ],
+      "cardStyle": "unique",
+      "id": "the-desperate-alliance",
+      "level": 65
+    },
+    {
+      "category": "currency",
+      "subKey": "currency_ascend",
+      "rarity": "currency_trial_sekhema",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Mechanics/Itemicons/The_Burden_of_Leadership.webp",
+      "name": {
+        "zh-Hant": "領袖的重擔",
+        "zh-Hans": "领袖的重负",
+        "en": "The Burden of Leadership"
+      },
+      "type1": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "type2": {
+        "zh-Hant": "聖經聖物",
+        "zh-Hans": "挂毯遗物",
+        "en": "Tapestry Relic"
+      },
+      "stats": [],
+      "affixes": [
+        {
+          "zh-Hant": "澤洛克，永恆之靈掉落絲克瑪的決意",
+          "zh-Hans": "扎洛卡，时空之灵会掉落丝克玛的决心",
+          "en": "Zarokh, the Temporal drops Sekhema's Resolve"
+        },
+        {
+          "zh-Hant": "試煉地圖上的房間為未知",
+          "zh-Hans": "试炼地图上的房间变为未知",
+          "en": "Rooms are unknown on the Trial Map"
+        },
+        {
+          "zh-Hant": "當套用至試煉時，此物品會被摧毀",
+          "zh-Hans": "对试炼使用时摧毁该物品",
+          "en": "This item is destroyed when applied to a Trial"
+        }
+      ],
+      "cardStyle": "unique",
+      "id": "the-burden-of-leadership",
+      "level": 64
+    },
+    {
+      "category": "currency",
+      "subKey": "currency_ascend",
+      "rarity": "currency_trial_sekhema",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Mechanics/Itemicons/The_Changing_Seasons.webp",
+      "name": {
+        "zh-Hant": "流轉的季節",
+        "zh-Hans": "季节变迁",
+        "en": "The Changing Seasons"
+      },
+      "type1": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "type2": {
+        "zh-Hant": "草紙聖物",
+        "zh-Hans": "封印遗物",
+        "en": "Seal Relic"
+      },
+      "stats": [],
+      "affixes": [
+        {
+          "zh-Hant": "澤洛克，永恆之靈掉落沙瀑面紗",
+          "zh-Hans": "扎洛卡，时空之灵会掉落禁域面容",
+          "en": "Zarokh, the Temporal drops Sandstorm Visage"
+        },
+        {
+          "zh-Hant": "不會恢復榮譽",
+          "zh-Hans": "无法恢复荣誉",
+          "en": "Cannot restore Honour"
+        },
+        {
+          "zh-Hant": "當套用至試煉時，此物品會被摧毀",
+          "zh-Hans": "对试炼使用时摧毁该物品",
+          "en": "This item is destroyed when applied to a Trial"
+        }
+      ],
+      "cardStyle": "unique",
+      "id": "the-changing-seasons",
+      "level": 64
+    },
+    {
+      "category": "currency",
+      "subKey": "currency_ascend",
+      "rarity": "currency_trial_sekhema",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Jewellery/Rings/Uniques/Eshtera_s_Path.webp",
+      "name": {
+        "zh-Hant": "艾許特拉之路",
+        "zh-Hans": "埃斯特拉的道路",
+        "en": "Eshtera's Path"
+      },
+      "type1": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "type2": {
+        "zh-Hant": "戒指",
+        "zh-Hans": "戒指",
+        "en": "Ring"
+      },
+      "stats": [],
+      "affixes": [
+        {
+          "zh-Hant": "你只能在這件物品上鑲嵌藍寶石珠寶",
+          "zh-Hans": "你只能在该物品中镶嵌蓝玉珠宝",
+          "en": "You can only Socket Sapphire Jewels in this item"
+        },
+        {
+          "zh-Hant": "增加(10—20)%找到的物品稀有度",
+          "zh-Hans": "物品稀有度提高 (10—20)%",
+          "en": "(10—20)% increased Rarity of Items found"
+        },
+        {
+          "zh-Hant": "+(10—20)點全部能力值",
+          "zh-Hans": "+(10—20) 全属性",
+          "en": "+(10—20) to all Attributes"
+        },
+        {
+          "zh-Hant": "每裝備一件帶有閃電抗性詞綴的物品，+(5—10)%火焰與冰冷抗性",
+          "zh-Hans": "每件有闪电抗性词缀的装备物品，使火焰与冰霜抗性 +(5—10)%",
+          "en": "+(5—10)% to Fire and Cold Resistances per Equipped Item with a Lightning Resistance Modifier"
+        }
+      ],
+      "cardStyle": "unique",
+      "id": "eshteras-path",
+      "level": 1
+    },
+    {
+      "category": "currency",
+      "subKey": "currency_ascend",
+      "rarity": "currency_trial_sekhema",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Jewellery/Rings/Uniques/Zaida_s_Longevity.webp",
+      "name": {
+        "zh-Hant": "扎伊達的長壽",
+        "zh-Hans": "寨达的长寿",
+        "en": "Zaida's Longevity"
+      },
+      "type1": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "type2": {
+        "zh-Hant": "戒指",
+        "zh-Hans": "戒指",
+        "en": "Ring"
+      },
+      "stats": [],
+      "affixes": [
+        {
+          "zh-Hant": "你只能在這件物品上鑲嵌綠寶石",
+          "zh-Hans": "你只能在该物品中镶嵌翡翠珠宝",
+          "en": "You can only Socket Emerald Jewels in this item"
+        },
+        {
+          "zh-Hant": "增加(10—20)%找到的物品稀有度",
+          "zh-Hans": "物品稀有度提高 (10—20)%",
+          "en": "(10—20)% increased Rarity of Items found"
+        },
+        {
+          "zh-Hant": "+(10—20)點全部能力值",
+          "zh-Hans": "+(10—20) 全属性",
+          "en": "+(10—20) to all Attributes"
+        },
+        {
+          "zh-Hant": "每裝備一件帶有冰冷抗性詞綴的物品，+(5—10)%火焰與閃電抗性",
+          "zh-Hans": "每件有冰霜抗性词缀的装备物品，使火焰与闪电抗性 +(5—10)%",
+          "en": "+(5—10)% to Fire and Lightning Resistances per Equipped Item with a Cold Resistance Modifier"
+        }
+      ],
+      "cardStyle": "unique",
+      "id": "zaidas-longevity",
+      "level": 40
+    }
+  ],
+  "affixes": {
+    "combos": [
+      "urn_relic",
+      "amphora_relic",
+      "vase_relic",
+      "seal_relic",
+      "coffer_relic",
+      "tapestry_relic",
+      "incense_relic"
+    ],
+    "sections": [
+      {
+        "id": "base_prefix",
+        "entries": [
+          {
+            "group": "SanctumMaximumLife",
+            "text": {
+              "zh-Hant": "增加#%最大生命",
+              "zh-Hans": "生命上限提高 #%",
+              "en": "#% increased maximum Life"
+            },
+            "tags": [],
+            "bases": [
+              "urn_relic",
+              "seal_relic"
+            ],
+            "tiers": [
+              {
+                "ilvl": 1,
+                "text": {
+                  "zh-Hant": "增加(5—8)%最大生命",
+                  "zh-Hans": "生命上限提高 (5—8)%",
+                  "en": "(5—8)% increased maximum Life"
+                },
+                "name": {
+                  "zh-Hant": "堅韌的",
+                  "zh-Hans": "坚韧的",
+                  "en": "Steadfast"
+                },
+                "weight": 1
+              },
+              {
+                "ilvl": 40,
+                "text": {
+                  "zh-Hant": "增加(9—12)%最大生命",
+                  "zh-Hans": "生命上限提高 (9—12)%",
+                  "en": "(9—12)% increased maximum Life"
+                },
+                "name": {
+                  "zh-Hant": "耐久的",
+                  "zh-Hans": "持久的",
+                  "en": "Enduring"
+                },
+                "weight": 1
+              },
+              {
+                "ilvl": 55,
+                "text": {
+                  "zh-Hant": "增加(13—16)%最大生命",
+                  "zh-Hans": "生命上限提高 (13—16)%",
+                  "en": "(13—16)% increased maximum Life"
+                },
+                "name": {
+                  "zh-Hant": "堅定不移",
+                  "zh-Hans": "金钟罩",
+                  "en": "Adamant"
+                },
+                "weight": 1
+              },
+              {
+                "ilvl": 67,
+                "text": {
+                  "zh-Hant": "增加(17—20)%最大生命",
+                  "zh-Hans": "生命上限提高 (17—20)%",
+                  "en": "(17—20)% increased maximum Life"
+                },
+                "name": {
+                  "zh-Hant": "熱烈的",
+                  "zh-Hans": "炽热的",
+                  "en": "Ardent"
+                },
+                "weight": 1
+              },
+              {
+                "ilvl": 76,
+                "text": {
+                  "zh-Hant": "增加(21—25)%最大生命",
+                  "zh-Hans": "生命上限提高 (21—25)%",
+                  "en": "(21—25)% increased maximum Life"
+                },
+                "name": {
+                  "zh-Hant": "堅決的",
+                  "zh-Hans": "坚决的",
+                  "en": "Resolute"
+                },
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "group": "SanctumMaximumHonour",
+            "text": {
+              "zh-Hant": "增加#%最大榮譽",
+              "zh-Hans": "荣誉上限提高 #%",
+              "en": "#% increased maximum Honour"
+            },
+            "tags": [],
+            "bases": [
+              "urn_relic",
+              "amphora_relic",
+              "seal_relic",
+              "tapestry_relic"
+            ],
+            "tiers": [
+              {
+                "ilvl": 1,
+                "text": {
+                  "zh-Hant": "增加(9—12)%最大榮譽",
+                  "zh-Hans": "荣誉上限提高 (9—12)%",
+                  "en": "(9—12)% increased maximum Honour"
+                },
+                "name": {
+                  "zh-Hant": "光榮的",
+                  "zh-Hans": "荣耀的",
+                  "en": "Honourable"
+                },
+                "bases": [
+                  "urn_relic",
+                  "seal_relic"
+                ],
+                "weight": 1
+              },
+              {
+                "ilvl": 40,
+                "text": {
+                  "zh-Hant": "增加(13—16)%最大榮譽",
+                  "zh-Hans": "荣誉上限提高 (13—16)%",
+                  "en": "(13—16)% increased maximum Honour"
+                },
+                "name": {
+                  "zh-Hant": "道德的",
+                  "zh-Hans": "端正的",
+                  "en": "Moral"
+                },
+                "bases": [
+                  "urn_relic",
+                  "seal_relic"
+                ],
+                "weight": 1
+              },
+              {
+                "ilvl": 55,
+                "text": {
+                  "zh-Hant": "增加(17—20)%最大榮譽",
+                  "zh-Hans": "荣誉上限提高 (17—20)%",
+                  "en": "(17—20)% increased maximum Honour"
+                },
+                "name": {
+                  "zh-Hant": "原則的",
+                  "zh-Hans": "守序的",
+                  "en": "Principled"
+                },
+                "bases": [
+                  "urn_relic",
+                  "seal_relic"
+                ],
+                "weight": 1
+              },
+              {
+                "ilvl": 67,
+                "text": {
+                  "zh-Hant": "增加(21—24)%最大榮譽",
+                  "zh-Hans": "荣誉上限提高 (21—24)%",
+                  "en": "(21—24)% increased maximum Honour"
+                },
+                "name": {
+                  "zh-Hant": "尊敬的",
+                  "zh-Hans": "敬重的",
+                  "en": "Respected"
+                },
+                "bases": [
+                  "urn_relic",
+                  "seal_relic"
+                ],
+                "weight": 1
+              },
+              {
+                "ilvl": 76,
+                "text": {
+                  "zh-Hant": "增加(25—30)%最大榮譽",
+                  "zh-Hans": "荣誉上限提高 (25—30)%",
+                  "en": "(25—30)% increased maximum Honour"
+                },
+                "name": {
+                  "zh-Hant": "德高望重的",
+                  "zh-Hans": "庄严的",
+                  "en": "Venerable"
+                },
+                "bases": [
+                  "urn_relic",
+                  "seal_relic"
+                ],
+                "weight": 1
+              },
+              {
+                "ilvl": 1,
+                "text": {
+                  "zh-Hant": "增加(17—20)%最大榮譽",
+                  "zh-Hans": "荣誉上限提高 (17—20)%",
+                  "en": "(17—20)% increased maximum Honour"
+                },
+                "name": {
+                  "zh-Hant": "光榮的",
+                  "zh-Hans": "荣耀的",
+                  "en": "Honourable"
+                },
+                "bases": [
+                  "amphora_relic",
+                  "tapestry_relic"
+                ],
+                "weight": 1
+              },
+              {
+                "ilvl": 40,
+                "text": {
+                  "zh-Hant": "增加(21—24)%最大榮譽",
+                  "zh-Hans": "荣誉上限提高 (21—24)%",
+                  "en": "(21—24)% increased maximum Honour"
+                },
+                "name": {
+                  "zh-Hant": "道德的",
+                  "zh-Hans": "端正的",
+                  "en": "Moral"
+                },
+                "bases": [
+                  "amphora_relic",
+                  "tapestry_relic"
+                ],
+                "weight": 1
+              },
+              {
+                "ilvl": 55,
+                "text": {
+                  "zh-Hant": "增加(25—30)%最大榮譽",
+                  "zh-Hans": "荣誉上限提高 (25—30)%",
+                  "en": "(25—30)% increased maximum Honour"
+                },
+                "name": {
+                  "zh-Hant": "原則的",
+                  "zh-Hans": "守序的",
+                  "en": "Principled"
+                },
+                "bases": [
+                  "amphora_relic",
+                  "tapestry_relic"
+                ],
+                "weight": 1
+              },
+              {
+                "ilvl": 67,
+                "text": {
+                  "zh-Hant": "增加(31—35)%最大榮譽",
+                  "zh-Hans": "荣誉上限提高 (31—35)%",
+                  "en": "(31—35)% increased maximum Honour"
+                },
+                "name": {
+                  "zh-Hant": "尊敬的",
+                  "zh-Hans": "敬重的",
+                  "en": "Respected"
+                },
+                "bases": [
+                  "amphora_relic",
+                  "tapestry_relic"
+                ],
+                "weight": 1
+              },
+              {
+                "ilvl": 76,
+                "text": {
+                  "zh-Hant": "增加(36—45)%最大榮譽",
+                  "zh-Hans": "荣誉上限提高 (36—45)%",
+                  "en": "(36—45)% increased maximum Honour"
+                },
+                "name": {
+                  "zh-Hant": "德高望重的",
+                  "zh-Hans": "庄严的",
+                  "en": "Venerable"
+                },
+                "bases": [
+                  "amphora_relic",
+                  "tapestry_relic"
+                ],
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "group": "SanctumResolveRecovery",
+            "text": {
+              "zh-Hant": "增加#%恢復的榮譽",
+              "zh-Hans": "恢复的荣誉提高 #%",
+              "en": "#% increased Honour restored"
+            },
+            "tags": [],
+            "bases": [
+              "urn_relic",
+              "amphora_relic",
+              "seal_relic",
+              "tapestry_relic"
+            ],
+            "tiers": [
+              {
+                "ilvl": 1,
+                "text": {
+                  "zh-Hant": "增加(6—10)%恢復的榮譽",
+                  "zh-Hans": "恢复的荣誉提高 (6—10)%",
+                  "en": "(6—10)% increased Honour restored"
+                },
+                "name": {
+                  "zh-Hant": "復甦的",
+                  "zh-Hans": "活化的",
+                  "en": "Revitalising"
+                },
+                "bases": [
+                  "urn_relic",
+                  "seal_relic"
+                ],
+                "weight": 1
+              },
+              {
+                "ilvl": 50,
+                "text": {
+                  "zh-Hant": "增加(11—15)%恢復的榮譽",
+                  "zh-Hans": "恢复的荣誉提高 (11—15)%",
+                  "en": "(11—15)% increased Honour restored"
+                },
+                "name": {
+                  "zh-Hant": "刺激的",
+                  "zh-Hans": "通电的",
+                  "en": "Galvanising"
+                },
+                "bases": [
+                  "urn_relic",
+                  "seal_relic"
+                ],
+                "weight": 1
+              },
+              {
+                "ilvl": 70,
+                "text": {
+                  "zh-Hant": "增加(16—20)%恢復的榮譽",
+                  "zh-Hans": "恢复的荣誉提高 (16—20)%",
+                  "en": "(16—20)% increased Honour restored"
+                },
+                "name": {
+                  "zh-Hant": "活躍的",
+                  "zh-Hans": "精力的",
+                  "en": "Enlivening"
+                },
+                "bases": [
+                  "urn_relic",
+                  "seal_relic"
+                ],
+                "weight": 1
+              },
+              {
+                "ilvl": 75,
+                "text": {
+                  "zh-Hant": "增加(21—24)%恢復的榮譽",
+                  "zh-Hans": "恢复的荣誉提高 (21—24)%",
+                  "en": "(21—24)% increased Honour restored"
+                },
+                "name": {
+                  "zh-Hant": "壯膽的",
+                  "zh-Hans": "强化的",
+                  "en": "Emboldening"
+                },
+                "bases": [
+                  "urn_relic",
+                  "seal_relic"
+                ],
+                "weight": 1
+              },
+              {
+                "ilvl": 80,
+                "text": {
+                  "zh-Hant": "增加(25—29)%恢復的榮譽",
+                  "zh-Hans": "恢复的荣誉提高 (25—29)%",
+                  "en": "(25—29)% increased Honour restored"
+                },
+                "name": {
+                  "zh-Hant": "光亮的",
+                  "zh-Hans": "振奋的",
+                  "en": "Brightening"
+                },
+                "bases": [
+                  "urn_relic",
+                  "seal_relic"
+                ],
+                "weight": 1
+              },
+              {
+                "ilvl": 1,
+                "text": {
+                  "zh-Hant": "增加(16—20)%恢復的榮譽",
+                  "zh-Hans": "恢复的荣誉提高 (16—20)%",
+                  "en": "(16—20)% increased Honour restored"
+                },
+                "name": {
+                  "zh-Hant": "復甦的",
+                  "zh-Hans": "活化的",
+                  "en": "Revitalising"
+                },
+                "bases": [
+                  "amphora_relic",
+                  "tapestry_relic"
+                ],
+                "weight": 1
+              },
+              {
+                "ilvl": 50,
+                "text": {
+                  "zh-Hant": "增加(21—24)%恢復的榮譽",
+                  "zh-Hans": "恢复的荣誉提高 (21—24)%",
+                  "en": "(21—24)% increased Honour restored"
+                },
+                "name": {
+                  "zh-Hant": "刺激的",
+                  "zh-Hans": "通电的",
+                  "en": "Galvanising"
+                },
+                "bases": [
+                  "amphora_relic",
+                  "tapestry_relic"
+                ],
+                "weight": 1
+              },
+              {
+                "ilvl": 70,
+                "text": {
+                  "zh-Hant": "增加(25—29)%恢復的榮譽",
+                  "zh-Hans": "恢复的荣誉提高 (25—29)%",
+                  "en": "(25—29)% increased Honour restored"
+                },
+                "name": {
+                  "zh-Hant": "活躍的",
+                  "zh-Hans": "精力的",
+                  "en": "Enlivening"
+                },
+                "bases": [
+                  "amphora_relic",
+                  "tapestry_relic"
+                ],
+                "weight": 1
+              },
+              {
+                "ilvl": 75,
+                "text": {
+                  "zh-Hant": "增加(30—34)%恢復的榮譽",
+                  "zh-Hans": "恢复的荣誉提高 (30—34)%",
+                  "en": "(30—34)% increased Honour restored"
+                },
+                "name": {
+                  "zh-Hant": "有勇氣的",
+                  "zh-Hans": "强化的",
+                  "en": "Emboldening"
+                },
+                "bases": [
+                  "amphora_relic",
+                  "tapestry_relic"
+                ],
+                "weight": 1
+              },
+              {
+                "ilvl": 80,
+                "text": {
+                  "zh-Hant": "增加(35—45)%恢復的榮譽",
+                  "zh-Hans": "恢复的荣誉提高 (35—45)%",
+                  "en": "(35—45)% increased Honour restored"
+                },
+                "name": {
+                  "zh-Hant": "光亮的",
+                  "zh-Hans": "振奋的",
+                  "en": "Brightening"
+                },
+                "bases": [
+                  "amphora_relic",
+                  "tapestry_relic"
+                ],
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "group": "SanctumStartingGold",
+            "text": {
+              "zh-Hant": "在試煉開始時獲得#個聖水",
+              "zh-Hans": "试炼开始时获得 # 圣水",
+              "en": "Gain # Sacred Water at the start of the Trial"
+            },
+            "tags": [],
+            "bases": [
+              "urn_relic",
+              "seal_relic"
+            ],
+            "tiers": [
+              {
+                "ilvl": 1,
+                "text": {
+                  "zh-Hant": "在試煉開始時獲得(30—39)個聖水",
+                  "zh-Hans": "试炼开始时获得 (30—39) 圣水",
+                  "en": "Gain (30—39) Sacred Water at the start of the Trial"
+                },
+                "name": {
+                  "zh-Hant": "布衣的",
+                  "zh-Hans": "平民的",
+                  "en": "Commoner's"
+                },
+                "weight": 1
+              },
+              {
+                "ilvl": 40,
+                "text": {
+                  "zh-Hant": "在試煉開始時獲得(40—49)個聖水",
+                  "zh-Hans": "试炼开始时获得 (40—49) 圣水",
+                  "en": "Gain (40—49) Sacred Water at the start of the Trial"
+                },
+                "name": {
+                  "zh-Hant": "部下的",
+                  "zh-Hans": "德卡拉的",
+                  "en": "Dekhara's"
+                },
+                "weight": 1
+              },
+              {
+                "ilvl": 55,
+                "text": {
+                  "zh-Hant": "在試煉開始時獲得(50—59)個聖水",
+                  "zh-Hans": "试炼开始时获得 (50—59) 圣水",
+                  "en": "Gain (50—59) Sacred Water at the start of the Trial"
+                },
+                "name": {
+                  "zh-Hant": "巨靈的",
+                  "zh-Hans": "巨灵的",
+                  "en": "Djinn's"
+                },
+                "weight": 1
+              },
+              {
+                "ilvl": 67,
+                "text": {
+                  "zh-Hant": "在試煉開始時獲得(40—49)個聖水",
+                  "zh-Hans": "试炼开始时获得 (40—49) 圣水",
+                  "en": "Gain (40—49) Sacred Water at the start of the Trial"
+                },
+                "name": {
+                  "zh-Hant": "絲克瑪的",
+                  "zh-Hans": "丝克玛的",
+                  "en": "Sekhema's"
+                },
+                "weight": 1
+              },
+              {
+                "ilvl": 76,
+                "text": {
+                  "zh-Hant": "在試煉開始時獲得(50—59)個聖水",
+                  "zh-Hans": "试炼开始时获得 (50—59) 圣水",
+                  "en": "Gain (50—59) Sacred Water at the start of the Trial"
+                },
+                "name": {
+                  "zh-Hant": "神聖的",
+                  "zh-Hans": "神性的",
+                  "en": "Divinity's"
+                },
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "group": "SanctumDefences",
+            "text": {
+              "zh-Hant": "增加#%護甲、閃避、和能量護盾",
+              "zh-Hans": "护甲，闪避与能量护盾提高 #%",
+              "en": "#% increased Armour, Evasion and Energy Shield"
+            },
+            "tags": [],
+            "bases": [
+              "urn_relic",
+              "seal_relic"
+            ],
+            "tiers": [
+              {
+                "ilvl": 1,
+                "text": {
+                  "zh-Hant": "增加(20—29)%護甲、閃避、和能量護盾",
+                  "zh-Hans": "护甲，闪避与能量护盾提高 (20—29)%",
+                  "en": "(20—29)% increased Armour, Evasion and Energy Shield"
+                },
+                "name": {
+                  "zh-Hant": "加強的",
+                  "zh-Hans": "增强的",
+                  "en": "Reinforced"
+                },
+                "weight": 1
+              },
+              {
+                "ilvl": 50,
+                "text": {
+                  "zh-Hant": "增加(30—39)%護甲、閃避、和能量護盾",
+                  "zh-Hans": "护甲，闪避与能量护盾提高 (30—39)%",
+                  "en": "(30—39)% increased Armour, Evasion and Energy Shield"
+                },
+                "name": {
+                  "zh-Hant": "分層的",
+                  "zh-Hans": "分层的",
+                  "en": "Layered"
+                },
+                "weight": 1
+              },
+              {
+                "ilvl": 65,
+                "text": {
+                  "zh-Hant": "增加(40—49)%護甲、閃避、和能量護盾",
+                  "zh-Hans": "护甲，闪避与能量护盾提高 (40—49)%",
+                  "en": "(40—49)% increased Armour, Evasion and Energy Shield"
+                },
+                "name": {
+                  "zh-Hant": "加厚的",
+                  "zh-Hans": "加厚的",
+                  "en": "Thickened"
+                },
+                "weight": 1
+              },
+              {
+                "ilvl": 75,
+                "text": {
+                  "zh-Hant": "增加(50—70)%護甲、閃避、和能量護盾",
+                  "zh-Hans": "护甲，闪避与能量护盾提高 (50—70)%",
+                  "en": "(50—70)% increased Armour, Evasion and Energy Shield"
+                },
+                "name": {
+                  "zh-Hant": "束帶的",
+                  "zh-Hans": "围城的",
+                  "en": "Girded"
+                },
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "group": "SanctumTrapDamage",
+            "text": {
+              "zh-Hant": "減少#%陷阱造成的傷害",
+              "zh-Hans": "陷阱造成的伤害降低 #%",
+              "en": "Traps deal #% reduced Damage"
+            },
+            "tags": [],
+            "bases": [
+              "urn_relic",
+              "seal_relic"
+            ],
+            "tiers": [
+              {
+                "ilvl": 1,
+                "text": {
+                  "zh-Hant": "減少(5—7)%陷阱造成的傷害",
+                  "zh-Hans": "陷阱造成的伤害降低 (5—7)%",
+                  "en": "Traps deal (5—7)% reduced Damage"
+                },
+                "name": {
+                  "zh-Hant": "雜技的",
+                  "zh-Hans": "矫健的",
+                  "en": "Acrobatic"
+                },
+                "weight": 1
+              },
+              {
+                "ilvl": 78,
+                "text": {
+                  "zh-Hant": "減少(8—10)%陷阱造成的傷害",
+                  "zh-Hans": "陷阱造成的伤害降低 (8—10)%",
+                  "en": "Traps deal (8—10)% reduced Damage"
+                },
+                "name": {
+                  "zh-Hant": "富有彈性的",
+                  "zh-Hans": "敏锐的",
+                  "en": "Limber"
+                },
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "group": "SanctumMovementSpeed",
+            "text": {
+              "zh-Hant": "增加#%移動速度",
+              "zh-Hans": "移动速度提高 #%",
+              "en": "#% increased Movement Speed"
+            },
+            "tags": [],
+            "bases": [
+              "urn_relic",
+              "seal_relic"
+            ],
+            "tiers": [
+              {
+                "ilvl": 1,
+                "text": {
+                  "zh-Hant": "增加(3—4)%移動速度",
+                  "zh-Hans": "移动速度提高 (3—4)%",
+                  "en": "(3—4)% increased Movement Speed"
+                },
+                "name": {
+                  "zh-Hant": "靈活的",
+                  "zh-Hans": "灵敏的",
+                  "en": "Nimble"
+                },
+                "weight": 1
+              },
+              {
+                "ilvl": 55,
+                "text": {
+                  "zh-Hant": "增加(5—6)%移動速度",
+                  "zh-Hans": "移动速度提高 (5—6)%",
+                  "en": "(5—6)% increased Movement Speed"
+                },
+                "name": {
+                  "zh-Hant": "迅速的",
+                  "zh-Hans": "迅速的",
+                  "en": "Swift"
+                },
+                "weight": 1
+              },
+              {
+                "ilvl": 78,
+                "text": {
+                  "zh-Hant": "增加(7—10)%移動速度",
+                  "zh-Hans": "移动速度提高 (7—10)%",
+                  "en": "(7—10)% increased Movement Speed"
+                },
+                "name": {
+                  "zh-Hant": "急速",
+                  "zh-Hans": "迅捷的",
+                  "en": "Hasted"
+                },
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "group": "SanctumGuardsIncreasedDamageTaken",
+            "text": {
+              "zh-Hant": "增加#%稀有怪物承受傷害",
+              "zh-Hans": "稀有怪物受到的伤害提高 #%",
+              "en": "Rare Monsters take #% increased Damage"
+            },
+            "tags": [],
+            "bases": [
+              "amphora_relic",
+              "tapestry_relic"
+            ],
+            "tiers": [
+              {
+                "ilvl": 1,
+                "text": {
+                  "zh-Hant": "增加(11—15)%稀有怪物承受傷害",
+                  "zh-Hans": "稀有怪物受到的伤害提高 (11—15)%",
+                  "en": "Rare Monsters take (11—15)% increased Damage"
+                },
+                "name": {
+                  "zh-Hant": "違者的",
+                  "zh-Hans": "违规者的",
+                  "en": "Transgressor's"
+                },
+                "weight": 1
+              },
+              {
+                "ilvl": 60,
+                "text": {
+                  "zh-Hant": "增加(16—20)%稀有怪物承受傷害",
+                  "zh-Hans": "稀有怪物受到的伤害提高 (16—20)%",
+                  "en": "Rare Monsters take (16—20)% increased Damage"
+                },
+                "name": {
+                  "zh-Hant": "違規者的",
+                  "zh-Hans": "违法者的",
+                  "en": "Violator's"
+                },
+                "weight": 1
+              },
+              {
+                "ilvl": 78,
+                "text": {
+                  "zh-Hant": "增加(21—30)%稀有怪物承受傷害",
+                  "zh-Hans": "稀有怪物受到的伤害提高 (21—30)%",
+                  "en": "Rare Monsters take (21—30)% increased Damage"
+                },
+                "name": {
+                  "zh-Hant": "恥辱的",
+                  "zh-Hans": "蒙羞者的",
+                  "en": "Disgrace's"
+                },
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "group": "SanctumBossIncreasedDamageTaken",
+            "text": {
+              "zh-Hant": "頭目增加承受#%傷害",
+              "zh-Hans": "首领受到的伤害提高 #%",
+              "en": "Bosses take #% increased Damage"
+            },
+            "tags": [],
+            "bases": [
+              "amphora_relic",
+              "tapestry_relic"
+            ],
+            "tiers": [
+              {
+                "ilvl": 1,
+                "text": {
+                  "zh-Hant": "頭目增加承受(11—15)%傷害",
+                  "zh-Hans": "首领受到的伤害提高 (11—15)%",
+                  "en": "Bosses take (11—15)% increased Damage"
+                },
+                "name": {
+                  "zh-Hant": "挑戰者的",
+                  "zh-Hans": "挑战者的",
+                  "en": "Challenger's"
+                },
+                "weight": 1
+              },
+              {
+                "ilvl": 60,
+                "text": {
+                  "zh-Hant": "頭目增加承受(16—20)%傷害",
+                  "zh-Hans": "首领受到的伤害提高 (16—20)%",
+                  "en": "Bosses take (16—20)% increased Damage"
+                },
+                "name": {
+                  "zh-Hant": "篡奪者的",
+                  "zh-Hans": "篡位者的",
+                  "en": "Usurper's"
+                },
+                "weight": 1
+              },
+              {
+                "ilvl": 78,
+                "text": {
+                  "zh-Hant": "頭目增加承受(21—30)%傷害",
+                  "zh-Hans": "首领受到的伤害提高 (21—30)%",
+                  "en": "Bosses take (21—30)% increased Damage"
+                },
+                "name": {
+                  "zh-Hant": "弒君者的",
+                  "zh-Hans": "弑君的",
+                  "en": "Regicidal"
+                },
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "group": "SanctumMerchantExtraOptions",
+            "text": {
+              "zh-Hant": "商人有#個額外選擇",
+              "zh-Hans": "商人会提供 # 个额外选择",
+              "en": "The Merchant has # additional Choices"
+            },
+            "tags": [],
+            "bases": [
+              "amphora_relic",
+              "tapestry_relic"
+            ],
+            "tiers": [
+              {
+                "ilvl": 60,
+                "text": {
+                  "zh-Hant": "商人有1個額外選擇",
+                  "zh-Hans": "商人会提供 1 个额外选择",
+                  "en": "The Merchant has 1 additional Choices"
+                },
+                "name": {
+                  "zh-Hant": "豐產的",
+                  "zh-Hans": "丰富的",
+                  "en": "Plentiful"
+                },
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "group": "SanctumGuardsReducedDamage",
+            "text": {
+              "zh-Hant": "稀有怪物減少#%傷害",
+              "zh-Hans": "稀有怪物造成的伤害降低 #%",
+              "en": "Rare Monsters deal #% reduced Damage"
+            },
+            "tags": [],
+            "bases": [
+              "amphora_relic",
+              "tapestry_relic"
+            ],
+            "tiers": [
+              {
+                "ilvl": 1,
+                "text": {
+                  "zh-Hant": "稀有怪物減少5%傷害",
+                  "zh-Hans": "稀有怪物造成的伤害降低 5%",
+                  "en": "Rare Monsters deal 5% reduced Damage"
+                },
+                "name": {
+                  "zh-Hant": "守護",
+                  "zh-Hans": "壁垒的",
+                  "en": "Bulwark"
+                },
+                "weight": 1
+              },
+              {
+                "ilvl": 60,
+                "text": {
+                  "zh-Hant": "稀有怪物減少(6—7)%傷害",
+                  "zh-Hans": "稀有怪物造成的伤害降低 (6—7)%",
+                  "en": "Rare Monsters deal (6—7)% reduced Damage"
+                },
+                "name": {
+                  "zh-Hant": "堅堡",
+                  "zh-Hans": "坚堡的",
+                  "en": "Bastion"
+                },
+                "weight": 1
+              },
+              {
+                "ilvl": 78,
+                "text": {
+                  "zh-Hant": "稀有怪物減少(8—10)%傷害",
+                  "zh-Hans": "稀有怪物造成的伤害降低 (8—10)%",
+                  "en": "Rare Monsters deal (8—10)% reduced Damage"
+                },
+                "name": {
+                  "zh-Hant": "城塞",
+                  "zh-Hans": "城堡的",
+                  "en": "Citadel"
+                },
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "group": "SanctumBossReducedDamage",
+            "text": {
+              "zh-Hant": "減少#%頭目傷害",
+              "zh-Hans": "首领造成的伤害降低 #%",
+              "en": "Bosses deal #% reduced Damage"
+            },
+            "tags": [],
+            "bases": [
+              "amphora_relic",
+              "tapestry_relic"
+            ],
+            "tiers": [
+              {
+                "ilvl": 1,
+                "text": {
+                  "zh-Hant": "減少5%頭目傷害",
+                  "zh-Hans": "首领造成的伤害降低 5%",
+                  "en": "Bosses deal 5% reduced Damage"
+                },
+                "name": {
+                  "zh-Hant": "神盾",
+                  "zh-Hans": "护盾的",
+                  "en": "Aegis"
+                },
+                "weight": 1
+              },
+              {
+                "ilvl": 60,
+                "text": {
+                  "zh-Hant": "減少(6—7)%頭目傷害",
+                  "zh-Hans": "首领造成的伤害降低 (6—7)%",
+                  "en": "Bosses deal (6—7)% reduced Damage"
+                },
+                "name": {
+                  "zh-Hant": "無懼先鋒",
+                  "zh-Hans": "先锋的",
+                  "en": "Vanguard"
+                },
+                "weight": 1
+              },
+              {
+                "ilvl": 78,
+                "text": {
+                  "zh-Hant": "減少(8—10)%頭目傷害",
+                  "zh-Hans": "首领造成的伤害降低 (8—10)%",
+                  "en": "Bosses deal (8—10)% reduced Damage"
+                },
+                "name": {
+                  "zh-Hant": "盾影",
+                  "zh-Hans": "军阵的",
+                  "en": "Phalanx"
+                },
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "group": "SanctumMonstersIncreasedDamageTaken",
+            "text": {
+              "zh-Hant": "怪物增加#%傷害",
+              "zh-Hans": "怪物受到的伤害提高 #%",
+              "en": "Monsters take #% increased Damage"
+            },
+            "tags": [],
+            "bases": [
+              "vase_relic",
+              "coffer_relic",
+              "incense_relic"
+            ],
+            "tiers": [
+              {
+                "ilvl": 1,
+                "text": {
+                  "zh-Hant": "怪物增加(11—15)%傷害",
+                  "zh-Hans": "怪物受到的伤害提高 (11—15)%",
+                  "en": "Monsters take (11—15)% increased Damage"
+                },
+                "name": {
+                  "zh-Hant": "粉碎之",
+                  "zh-Hans": "碾压的",
+                  "en": "Crushing"
+                },
+                "weight": 1
+              },
+              {
+                "ilvl": 56,
+                "text": {
+                  "zh-Hant": "怪物增加(16—20)%傷害",
+                  "zh-Hans": "怪物受到的伤害提高 (16—20)%",
+                  "en": "Monsters take (16—20)% increased Damage"
+                },
+                "name": {
+                  "zh-Hant": "懲戒的",
+                  "zh-Hans": "惩罚的",
+                  "en": "Punishing"
+                },
+                "weight": 1
+              },
+              {
+                "ilvl": 77,
+                "text": {
+                  "zh-Hant": "怪物增加(21—30)%傷害",
+                  "zh-Hans": "怪物受到的伤害提高 (21—30)%",
+                  "en": "Monsters take (21—30)% increased Damage"
+                },
+                "name": {
+                  "zh-Hant": "殲滅的",
+                  "zh-Hans": "摧残的",
+                  "en": "Annihilating"
+                },
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "group": "SanctumMonstersReducedDamage",
+            "text": {
+              "zh-Hant": "減少#%怪物造成的傷害",
+              "zh-Hans": "怪物造成的伤害降低 #%",
+              "en": "Monsters deal #% reduced Damage"
+            },
+            "tags": [],
+            "bases": [
+              "vase_relic",
+              "coffer_relic",
+              "incense_relic"
+            ],
+            "tiers": [
+              {
+                "ilvl": 1,
+                "text": {
+                  "zh-Hant": "減少6%怪物造成的傷害",
+                  "zh-Hans": "怪物造成的伤害降低 6%",
+                  "en": "Monsters deal 6% reduced Damage"
+                },
+                "name": {
+                  "zh-Hant": "彈力的",
+                  "zh-Hans": "弹力的",
+                  "en": "Resilient"
+                },
+                "weight": 1
+              },
+              {
+                "ilvl": 56,
+                "text": {
+                  "zh-Hant": "減少(7—8)%怪物造成的傷害",
+                  "zh-Hans": "怪物造成的伤害降低 (7—8)%",
+                  "en": "Monsters deal (7—8)% reduced Damage"
+                },
+                "name": {
+                  "zh-Hant": "強化的",
+                  "zh-Hans": "强化的",
+                  "en": "Fortified"
+                },
+                "weight": 1
+              },
+              {
+                "ilvl": 77,
+                "text": {
+                  "zh-Hant": "減少(9—12)%怪物造成的傷害",
+                  "zh-Hans": "怪物造成的伤害降低 (9—12)%",
+                  "en": "Monsters deal (9—12)% reduced Damage"
+                },
+                "name": {
+                  "zh-Hant": "費解的",
+                  "zh-Hans": "无法通过的",
+                  "en": "Impenetrable"
+                },
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "group": "SanctumAdditionalKeyChance",
+            "text": {
+              "zh-Hant": "當你獲得一把鑰匙時，有#%機率獲得另一把",
+              "zh-Hans": "当你获得钥匙时，有 #% 的几率再获得一把",
+              "en": "When you gain a Key #% chance to gain another"
+            },
+            "tags": [],
+            "bases": [
+              "vase_relic",
+              "coffer_relic",
+              "incense_relic"
+            ],
+            "tiers": [
+              {
+                "ilvl": 1,
+                "text": {
+                  "zh-Hant": "當你獲得一把鑰匙時，有(7—9)%機率獲得另一把",
+                  "zh-Hans": "当你获得钥匙时，有 (7—9)% 的几率再获得一把",
+                  "en": "When you gain a Key (7—9)% chance to gain another"
+                },
+                "name": {
+                  "zh-Hant": "小偷的",
+                  "zh-Hans": "搜掠者的",
+                  "en": "Pilferer's"
+                },
+                "weight": 1
+              },
+              {
+                "ilvl": 60,
+                "text": {
+                  "zh-Hant": "當你獲得一把鑰匙時，有(10—12)%機率獲得另一把",
+                  "zh-Hans": "当你获得钥匙时，有 (10—12)% 的几率再获得一把",
+                  "en": "When you gain a Key (10—12)% chance to gain another"
+                },
+                "name": {
+                  "zh-Hant": "扒竊的",
+                  "zh-Hans": "撬锁者的",
+                  "en": "Picklock's"
+                },
+                "weight": 1
+              },
+              {
+                "ilvl": 78,
+                "text": {
+                  "zh-Hant": "當你獲得一把鑰匙時，有(13—16)%機率獲得另一把",
+                  "zh-Hans": "当你获得钥匙时，有 (13—16)% 的几率再获得一把",
+                  "en": "When you gain a Key (13—16)% chance to gain another"
+                },
+                "name": {
+                  "zh-Hant": "盜賊的",
+                  "zh-Hans": "盗贼的",
+                  "en": "Thief's"
+                },
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "group": "SanctumMonsterSpeed",
+            "text": {
+              "zh-Hant": "怪物減少#%攻擊、施放、移動速度",
+              "zh-Hans": "怪物的攻击，施法，移动速度降低 #%",
+              "en": "Monsters have #% reduced Attack, Cast and Movement Speed"
+            },
+            "tags": [],
+            "bases": [
+              "vase_relic",
+              "coffer_relic",
+              "incense_relic"
+            ],
+            "tiers": [
+              {
+                "ilvl": 1,
+                "text": {
+                  "zh-Hant": "怪物減少4%攻擊、施放、移動速度",
+                  "zh-Hans": "怪物的攻击，施法，移动速度降低 4%",
+                  "en": "Monsters have 4% reduced Attack, Cast and Movement Speed"
+                },
+                "name": {
+                  "zh-Hant": "時間扭曲的",
+                  "zh-Hans": "曲时的",
+                  "en": "Time-warping"
+                },
+                "weight": 1
+              },
+              {
+                "ilvl": 60,
+                "text": {
+                  "zh-Hant": "怪物減少5%攻擊、施放、移動速度",
+                  "zh-Hans": "怪物的攻击，施法，移动速度降低 5%",
+                  "en": "Monsters have 5% reduced Attack, Cast and Movement Speed"
+                },
+                "name": {
+                  "zh-Hant": "時占的",
+                  "zh-Hans": "时术的",
+                  "en": "Chronomancy"
+                },
+                "weight": 1
+              },
+              {
+                "ilvl": 78,
+                "text": {
+                  "zh-Hant": "怪物減少(6—7)%攻擊、施放、移動速度",
+                  "zh-Hans": "怪物的攻击，施法，移动速度降低 (6—7)%",
+                  "en": "Monsters have (6—7)% reduced Attack, Cast and Movement Speed"
+                },
+                "name": {
+                  "zh-Hant": "短暫的",
+                  "zh-Hans": "时空的",
+                  "en": "Temporal"
+                },
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "group": "SanctumChanceToPreventHonourDeath",
+            "text": {
+              "zh-Hant": "有#%機率讓你在失去所有榮譽時，改為保有#榮譽",
+              "zh-Hans": "如果你即将失去所有荣誉，有 #% 的几率改为保留 # 点荣誉",
+              "en": "#% chance if you were to lose all your Honour to have # Honour instead"
+            },
+            "tags": [],
+            "bases": [
+              "vase_relic",
+              "coffer_relic",
+              "incense_relic"
+            ],
+            "tiers": [
+              {
+                "ilvl": 1,
+                "text": {
+                  "zh-Hant": "有(5—8)%機率讓你在失去所有榮譽時，改為保有1榮譽",
+                  "zh-Hans": "如果你即将失去所有荣誉，有 (5—8)% 的几率改为保留 1 点荣誉",
+                  "en": "(5—8)% chance if you were to lose all your Honour to have 1 Honour instead"
+                },
+                "name": {
+                  "zh-Hant": "作弊的",
+                  "zh-Hans": "骗师的",
+                  "en": "Cheater's"
+                },
+                "weight": 1
+              },
+              {
+                "ilvl": 75,
+                "text": {
+                  "zh-Hant": "有(9—12)%機率讓你在失去所有榮譽時，改為保有1榮譽",
+                  "zh-Hans": "如果你即将失去所有荣誉，有 (9—12)% 的几率改为保留 1 点荣誉",
+                  "en": "(9—12)% chance if you were to lose all your Honour to have 1 Honour instead"
+                },
+                "name": {
+                  "zh-Hant": "詐欺的",
+                  "zh-Hans": "诈欺的",
+                  "en": "Deceiver's"
+                },
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "group": "SanctumKeyUpgradeChance",
+            "text": {
+              "zh-Hant": "完成一個樓層時，有#%機率使你的每一把鑰匙升級",
+              "zh-Hans": "完成一个楼层时，你的每一把钥匙有 #% 的几率升级",
+              "en": "#% chance for each of your Keys to upgrade on completing a Floor"
+            },
+            "tags": [],
+            "bases": [
+              "vase_relic",
+              "coffer_relic",
+              "incense_relic"
+            ],
+            "tiers": [
+              {
+                "ilvl": 1,
+                "text": {
+                  "zh-Hant": "完成一個樓層時，有(3—4)%機率使你的每一把鑰匙升級",
+                  "zh-Hans": "完成一个楼层时，你的每一把钥匙有 (3—4)% 的几率升级",
+                  "en": "(3—4)% chance for each of your Keys to upgrade on completing a Floor"
+                },
+                "name": {
+                  "zh-Hant": "增進的",
+                  "zh-Hans": "强化的",
+                  "en": "Enhancing"
+                },
+                "weight": 1
+              },
+              {
+                "ilvl": 60,
+                "text": {
+                  "zh-Hant": "完成一個樓層時，有(5—6)%機率使你的每一把鑰匙升級",
+                  "zh-Hans": "完成一个楼层时，你的每一把钥匙有 (5—6)% 的几率升级",
+                  "en": "(5—6)% chance for each of your Keys to upgrade on completing a Floor"
+                },
+                "name": {
+                  "zh-Hant": "重鑄的",
+                  "zh-Hans": "重铸的",
+                  "en": "Reforging"
+                },
+                "weight": 1
+              },
+              {
+                "ilvl": 77,
+                "text": {
+                  "zh-Hant": "完成一個樓層時，有(7—9)%機率使你的每一把鑰匙升級",
+                  "zh-Hans": "完成一个楼层时，你的每一把钥匙有 (7—9)% 的几率升级",
+                  "en": "(7—9)% chance for each of your Keys to upgrade on completing a Floor"
+                },
+                "name": {
+                  "zh-Hant": "升級的",
+                  "zh-Hans": "升级的",
+                  "en": "Upgrading"
+                },
+                "weight": 1
+              }
+            ]
+          }
+        ],
+        "title": {
+          "zh-Hant": "基礎 前綴",
+          "zh-Hans": "基础 前缀",
+          "en": "Base Prefixes"
+        }
+      },
+      {
+        "id": "base_suffix",
+        "entries": [
+          {
+            "group": "SanctumMonstersDoubleGoldChance",
+            "text": {
+              "zh-Hant": "怪物有#%機率掉落兩倍聖水",
+              "zh-Hans": "怪物有 #% 的几率掉落双倍圣水",
+              "en": "Monsters have #% chance to drop double Sacred Water"
+            },
+            "tags": [],
+            "bases": [
+              "urn_relic",
+              "seal_relic"
+            ],
+            "tiers": [
+              {
+                "ilvl": 1,
+                "text": {
+                  "zh-Hant": "怪物有(5—6)%機率掉落兩倍聖水",
+                  "zh-Hans": "怪物有 (5—6)% 的几率掉落双倍圣水",
+                  "en": "Monsters have (5—6)% chance to drop double Sacred Water"
+                },
+                "name": {
+                  "zh-Hant": "浸濕之",
+                  "zh-Hans": "沾湿之",
+                  "en": "of Dampening"
+                },
+                "weight": 1
+              },
+              {
+                "ilvl": 35,
+                "text": {
+                  "zh-Hant": "怪物有(7—8)%機率掉落兩倍聖水",
+                  "zh-Hans": "怪物有 (7—8)% 的几率掉落双倍圣水",
+                  "en": "Monsters have (7—8)% chance to drop double Sacred Water"
+                },
+                "name": {
+                  "zh-Hant": "浸泡之",
+                  "zh-Hans": "浸润之",
+                  "en": "of Soaking"
+                },
+                "weight": 1
+              },
+              {
+                "ilvl": 54,
+                "text": {
+                  "zh-Hant": "怪物有(9—10)%機率掉落兩倍聖水",
+                  "zh-Hans": "怪物有 (9—10)% 的几率掉落双倍圣水",
+                  "en": "Monsters have (9—10)% chance to drop double Sacred Water"
+                },
+                "name": {
+                  "zh-Hant": "滂沱之",
+                  "zh-Hans": "浸湿之",
+                  "en": "of Drenching"
+                },
+                "weight": 1
+              },
+              {
+                "ilvl": 70,
+                "text": {
+                  "zh-Hant": "怪物有(11—15)%機率掉落兩倍聖水",
+                  "zh-Hans": "怪物有 (11—15)% 的几率掉落双倍圣水",
+                  "en": "Monsters have (11—15)% chance to drop double Sacred Water"
+                },
+                "name": {
+                  "zh-Hant": "滲透之",
+                  "zh-Hans": "浸透之",
+                  "en": "of Saturating"
+                },
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "group": "SanctumFountainDoubleGoldChance",
+            "text": {
+              "zh-Hant": "噴泉有#%機率賦予兩倍聖水",
+              "zh-Hans": "喷泉有 #% 的几率提供双倍圣水",
+              "en": "Fountains have #% chance to grant double Sacred Water"
+            },
+            "tags": [],
+            "bases": [
+              "urn_relic",
+              "seal_relic"
+            ],
+            "tiers": [
+              {
+                "ilvl": 1,
+                "text": {
+                  "zh-Hant": "噴泉有(5—6)%機率賦予兩倍聖水",
+                  "zh-Hans": "喷泉有 (5—6)% 的几率提供双倍圣水",
+                  "en": "Fountains have (5—6)% chance to grant double Sacred Water"
+                },
+                "name": {
+                  "zh-Hant": "流淌之",
+                  "zh-Hans": "流水之",
+                  "en": "of Flowing"
+                },
+                "weight": 1
+              },
+              {
+                "ilvl": 35,
+                "text": {
+                  "zh-Hant": "噴泉有(7—8)%機率賦予兩倍聖水",
+                  "zh-Hans": "喷泉有 (7—8)% 的几率提供双倍圣水",
+                  "en": "Fountains have (7—8)% chance to grant double Sacred Water"
+                },
+                "name": {
+                  "zh-Hant": "充滿之",
+                  "zh-Hans": "盈满之",
+                  "en": "of Brimming"
+                },
+                "weight": 1
+              },
+              {
+                "ilvl": 54,
+                "text": {
+                  "zh-Hant": "噴泉有(9—10)%機率賦予兩倍聖水",
+                  "zh-Hans": "喷泉有 (9—10)% 的几率提供双倍圣水",
+                  "en": "Fountains have (9—10)% chance to grant double Sacred Water"
+                },
+                "name": {
+                  "zh-Hant": "溢出之",
+                  "zh-Hans": "溢出之",
+                  "en": "of Overflowing"
+                },
+                "weight": 1
+              },
+              {
+                "ilvl": 70,
+                "text": {
+                  "zh-Hant": "噴泉有(11—15)%機率賦予兩倍聖水",
+                  "zh-Hans": "喷泉有 (11—15)% 的几率提供双倍圣水",
+                  "en": "Fountains have (11—15)% chance to grant double Sacred Water"
+                },
+                "name": {
+                  "zh-Hant": "豐收之",
+                  "zh-Hans": "丰收之",
+                  "en": "of Abundance"
+                },
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "group": "SanctumRelicQuantity",
+            "text": {
+              "zh-Hant": "增加#%怪物掉落聖物的數量",
+              "zh-Hans": "怪物掉落的遗物数量提高 #%",
+              "en": "#% increased quantity of Relics dropped by Monsters"
+            },
+            "tags": [],
+            "bases": [
+              "urn_relic",
+              "seal_relic"
+            ],
+            "tiers": [
+              {
+                "ilvl": 1,
+                "text": {
+                  "zh-Hant": "增加(6—10)%怪物掉落聖物的數量",
+                  "zh-Hans": "怪物掉落的遗物数量提高 (6—10)%",
+                  "en": "(6—10)% increased quantity of Relics dropped by Monsters"
+                },
+                "name": {
+                  "zh-Hant": "發現之",
+                  "zh-Hans": "披露之",
+                  "en": "of Discovery"
+                },
+                "weight": 1
+              },
+              {
+                "ilvl": 50,
+                "text": {
+                  "zh-Hant": "增加(11—15)%怪物掉落聖物的數量",
+                  "zh-Hans": "怪物掉落的遗物数量提高 (11—15)%",
+                  "en": "(11—15)% increased quantity of Relics dropped by Monsters"
+                },
+                "name": {
+                  "zh-Hant": "學習之",
+                  "zh-Hans": "学习之",
+                  "en": "of Learning"
+                },
+                "weight": 1
+              },
+              {
+                "ilvl": 80,
+                "text": {
+                  "zh-Hant": "增加(16—20)%怪物掉落聖物的數量",
+                  "zh-Hans": "怪物掉落的遗物数量提高 (16—20)%",
+                  "en": "(16—20)% increased quantity of Relics dropped by Monsters"
+                },
+                "name": {
+                  "zh-Hant": "調查之",
+                  "zh-Hans": "调查之",
+                  "en": "of Investigation"
+                },
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "group": "SanctumDodgeRollDistance",
+            "text": {
+              "zh-Hant": "閃避翻滾距離#公尺",
+              "zh-Hans": "闪避翻滚距离 # 米",
+              "en": "# metres to Dodge Roll distance"
+            },
+            "tags": [],
+            "bases": [
+              "urn_relic",
+              "seal_relic"
+            ],
+            "tiers": [
+              {
+                "ilvl": 1,
+                "text": {
+                  "zh-Hant": "閃避翻滾距離+(0.3—0.4)公尺",
+                  "zh-Hans": "闪避翻滚距离 +(0.3—0.4) 米",
+                  "en": "+(0.3—0.4) metres to Dodge Roll distance"
+                },
+                "name": {
+                  "zh-Hant": "衝撞之",
+                  "zh-Hans": "腾跃之",
+                  "en": "of Lunging"
+                },
+                "weight": 1
+              },
+              {
+                "ilvl": 70,
+                "text": {
+                  "zh-Hant": "閃避翻滾距離+(0.5—0.7)公尺",
+                  "zh-Hans": "闪避翻滚距离 +(0.5—0.7) 米",
+                  "en": "+(0.5—0.7) metres to Dodge Roll distance"
+                },
+                "name": {
+                  "zh-Hant": "逃避之",
+                  "zh-Hans": "规避之",
+                  "en": "of Eluding"
+                },
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "group": "SanctumSlowResistance",
+            "text": {
+              "zh-Hant": "減少#%你身上的減益效果緩速程度",
+              "zh-Hans": "你受到的异常状态的减速强度降低 #%",
+              "en": "#% reduced Slowing Potency of Debuffs on You"
+            },
+            "tags": [],
+            "bases": [
+              "urn_relic",
+              "seal_relic"
+            ],
+            "tiers": [
+              {
+                "ilvl": 1,
+                "text": {
+                  "zh-Hant": "減少(8—11)%你身上的減益效果緩速程度",
+                  "zh-Hans": "你受到的异常状态的减速强度降低 (8—11)%",
+                  "en": "(8—11)% reduced Slowing Potency of Debuffs on You"
+                },
+                "name": {
+                  "zh-Hant": "屹立之",
+                  "zh-Hans": "不折之",
+                  "en": "of Unyielding"
+                },
+                "weight": 1
+              },
+              {
+                "ilvl": 55,
+                "text": {
+                  "zh-Hant": "減少(12—15)%你身上的減益效果緩速程度",
+                  "zh-Hans": "你受到的异常状态的减速强度降低 (12—15)%",
+                  "en": "(12—15)% reduced Slowing Potency of Debuffs on You"
+                },
+                "name": {
+                  "zh-Hant": "不屈之",
+                  "zh-Hans": "不屈之",
+                  "en": "of Unrelenting"
+                },
+                "weight": 1
+              },
+              {
+                "ilvl": 76,
+                "text": {
+                  "zh-Hant": "減少(16—20)%你身上的減益效果緩速程度",
+                  "zh-Hans": "你受到的异常状态的减速强度降低 (16—20)%",
+                  "en": "(16—20)% reduced Slowing Potency of Debuffs on You"
+                },
+                "name": {
+                  "zh-Hant": "追獵者之",
+                  "zh-Hans": "追猎者之",
+                  "en": "of the Pathfinder"
+                },
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "group": "SanctumReducedCritDamage",
+            "text": {
+              "zh-Hant": "對你的擊中減少#%暴擊傷害加成",
+              "zh-Hans": "对你的击中的暴击伤害加成降低 #%",
+              "en": "Hits against you have #% reduced Critical Damage Bonus"
+            },
+            "tags": [],
+            "bases": [
+              "urn_relic",
+              "seal_relic"
+            ],
+            "tiers": [
+              {
+                "ilvl": 1,
+                "text": {
+                  "zh-Hant": "對你的擊中減少(12—15)%暴擊傷害加成",
+                  "zh-Hans": "对你的击中的暴击伤害加成降低 (12—15)%",
+                  "en": "Hits against you have (12—15)% reduced Critical Damage Bonus"
+                },
+                "name": {
+                  "zh-Hant": "結實之",
+                  "zh-Hans": "顽强之",
+                  "en": "of Stoutness"
+                },
+                "weight": 1
+              },
+              {
+                "ilvl": 55,
+                "text": {
+                  "zh-Hant": "對你的擊中減少(16—19)%暴擊傷害加成",
+                  "zh-Hans": "对你的击中的暴击伤害加成降低 (16—19)%",
+                  "en": "Hits against you have (16—19)% reduced Critical Damage Bonus"
+                },
+                "name": {
+                  "zh-Hant": "韌性之",
+                  "zh-Hans": "坚韧之",
+                  "en": "of Tenacity"
+                },
+                "weight": 1
+              },
+              {
+                "ilvl": 76,
+                "text": {
+                  "zh-Hant": "對你的擊中減少(20—25)%暴擊傷害加成",
+                  "zh-Hans": "对你的击中的暴击伤害加成降低 (20—25)%",
+                  "en": "Hits against you have (20—25)% reduced Critical Damage Bonus"
+                },
+                "name": {
+                  "zh-Hant": "堅定之",
+                  "zh-Hans": "屹立之",
+                  "en": "of Unwavering"
+                },
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "group": "SanctumHonourResistance",
+            "text": {
+              "zh-Hant": "#%至榮譽抗性",
+              "zh-Hans": "荣誉抗性 #%",
+              "en": "#% to Honour Resistance"
+            },
+            "tags": [],
+            "bases": [
+              "urn_relic",
+              "amphora_relic",
+              "seal_relic",
+              "tapestry_relic"
+            ],
+            "tiers": [
+              {
+                "ilvl": 1,
+                "text": {
+                  "zh-Hant": "+(8—10)%至榮譽抗性",
+                  "zh-Hans": "荣誉抗性 +(8—10)%",
+                  "en": "+(8—10)% to Honour Resistance"
+                },
+                "name": {
+                  "zh-Hant": "價值之",
+                  "zh-Hans": "有能的",
+                  "en": "of Worth"
+                },
+                "bases": [
+                  "urn_relic",
+                  "seal_relic"
+                ],
+                "weight": 1
+              },
+              {
+                "ilvl": 40,
+                "text": {
+                  "zh-Hant": "+(11—13)%至榮譽抗性",
+                  "zh-Hans": "荣誉抗性 +(11—13)%",
+                  "en": "+(11—13)% to Honour Resistance"
+                },
+                "name": {
+                  "zh-Hant": "應得之",
+                  "zh-Hans": "适格的",
+                  "en": "of Deserving"
+                },
+                "bases": [
+                  "urn_relic",
+                  "seal_relic"
+                ],
+                "weight": 1
+              },
+              {
+                "ilvl": 55,
+                "text": {
+                  "zh-Hant": "+(14—16)%至榮譽抗性",
+                  "zh-Hans": "荣誉抗性 +(14—16)%",
+                  "en": "+(14—16)% to Honour Resistance"
+                },
+                "name": {
+                  "zh-Hant": "正當之",
+                  "zh-Hans": "正当的",
+                  "en": "of Justification"
+                },
+                "bases": [
+                  "urn_relic",
+                  "seal_relic"
+                ],
+                "weight": 1
+              },
+              {
+                "ilvl": 67,
+                "text": {
+                  "zh-Hant": "+(17—19)%至榮譽抗性",
+                  "zh-Hans": "荣誉抗性 +(17—19)%",
+                  "en": "+(17—19)% to Honour Resistance"
+                },
+                "name": {
+                  "zh-Hant": "資格之",
+                  "zh-Hans": "赋予的",
+                  "en": "of Entitlement"
+                },
+                "bases": [
+                  "urn_relic",
+                  "seal_relic"
+                ],
+                "weight": 1
+              },
+              {
+                "ilvl": 76,
+                "text": {
+                  "zh-Hant": "+(20—22)%至榮譽抗性",
+                  "zh-Hans": "荣誉抗性 +(20—22)%",
+                  "en": "+(20—22)% to Honour Resistance"
+                },
+                "name": {
+                  "zh-Hant": "長處之",
+                  "zh-Hans": "功勋的",
+                  "en": "of Merit"
+                },
+                "bases": [
+                  "urn_relic",
+                  "seal_relic"
+                ],
+                "weight": 1
+              },
+              {
+                "ilvl": 1,
+                "text": {
+                  "zh-Hant": "+(15—20)%至榮譽抗性",
+                  "zh-Hans": "荣誉抗性 +(15—20)%",
+                  "en": "+(15—20)% to Honour Resistance"
+                },
+                "name": {
+                  "zh-Hant": "價值之",
+                  "zh-Hans": "有能的",
+                  "en": "of Worth"
+                },
+                "bases": [
+                  "amphora_relic",
+                  "tapestry_relic"
+                ],
+                "weight": 1
+              },
+              {
+                "ilvl": 40,
+                "text": {
+                  "zh-Hant": "+(21—25)%至榮譽抗性",
+                  "zh-Hans": "荣誉抗性 +(21—25)%",
+                  "en": "+(21—25)% to Honour Resistance"
+                },
+                "name": {
+                  "zh-Hant": "應得之",
+                  "zh-Hans": "适格的",
+                  "en": "of Deserving"
+                },
+                "bases": [
+                  "amphora_relic",
+                  "tapestry_relic"
+                ],
+                "weight": 1
+              },
+              {
+                "ilvl": 55,
+                "text": {
+                  "zh-Hant": "+(26—30)%至榮譽抗性",
+                  "zh-Hans": "荣誉抗性 +(26—30)%",
+                  "en": "+(26—30)% to Honour Resistance"
+                },
+                "name": {
+                  "zh-Hant": "正當之",
+                  "zh-Hans": "正当的",
+                  "en": "of Justification"
+                },
+                "bases": [
+                  "amphora_relic",
+                  "tapestry_relic"
+                ],
+                "weight": 1
+              },
+              {
+                "ilvl": 67,
+                "text": {
+                  "zh-Hant": "+(31—35)%至榮譽抗性",
+                  "zh-Hans": "荣誉抗性 +(31—35)%",
+                  "en": "+(31—35)% to Honour Resistance"
+                },
+                "name": {
+                  "zh-Hant": "資格之",
+                  "zh-Hans": "赋予的",
+                  "en": "of Entitlement"
+                },
+                "bases": [
+                  "amphora_relic",
+                  "tapestry_relic"
+                ],
+                "weight": 1
+              },
+              {
+                "ilvl": 76,
+                "text": {
+                  "zh-Hant": "+(36—40)%至榮譽抗性",
+                  "zh-Hans": "荣誉抗性 +(36—40)%",
+                  "en": "+(36—40)% to Honour Resistance"
+                },
+                "name": {
+                  "zh-Hant": "長處之",
+                  "zh-Hans": "功勋的",
+                  "en": "of Merit"
+                },
+                "bases": [
+                  "amphora_relic",
+                  "tapestry_relic"
+                ],
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "group": "SanctumKeyDropChance",
+            "text": {
+              "zh-Hant": "增加#%怪物掉落的鑰匙數量",
+              "zh-Hans": "怪物掉落的钥匙数量提高 #%",
+              "en": "#% increased quantity of Keys dropped by Monsters"
+            },
+            "tags": [],
+            "bases": [
+              "urn_relic",
+              "seal_relic"
+            ],
+            "tiers": [
+              {
+                "ilvl": 1,
+                "text": {
+                  "zh-Hant": "增加(6—10)%怪物掉落的鑰匙數量",
+                  "zh-Hans": "怪物掉落的钥匙数量提高 (6—10)%",
+                  "en": "(6—10)% increased quantity of Keys dropped by Monsters"
+                },
+                "name": {
+                  "zh-Hant": "存取之",
+                  "zh-Hans": "启门之",
+                  "en": "of Access"
+                },
+                "weight": 1
+              },
+              {
+                "ilvl": 50,
+                "text": {
+                  "zh-Hant": "增加(11—15)%怪物掉落的鑰匙數量",
+                  "zh-Hans": "怪物掉落的钥匙数量提高 (11—15)%",
+                  "en": "(11—15)% increased quantity of Keys dropped by Monsters"
+                },
+                "name": {
+                  "zh-Hant": "承認之",
+                  "zh-Hans": "准入之",
+                  "en": "of Admission"
+                },
+                "weight": 1
+              },
+              {
+                "ilvl": 65,
+                "text": {
+                  "zh-Hant": "增加(16—20)%怪物掉落的鑰匙數量",
+                  "zh-Hans": "怪物掉落的钥匙数量提高 (16—20)%",
+                  "en": "(16—20)% increased quantity of Keys dropped by Monsters"
+                },
+                "name": {
+                  "zh-Hant": "進入之",
+                  "zh-Hans": "登堂之",
+                  "en": "of Entry"
+                },
+                "weight": 1
+              },
+              {
+                "ilvl": 75,
+                "text": {
+                  "zh-Hant": "增加(21—25)%怪物掉落的鑰匙數量",
+                  "zh-Hans": "怪物掉落的钥匙数量提高 (21—25)%",
+                  "en": "(21—25)% increased quantity of Keys dropped by Monsters"
+                },
+                "name": {
+                  "zh-Hant": "入手之",
+                  "zh-Hans": "入口之",
+                  "en": "of Entrance"
+                },
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "group": "SanctumMerchantReducedCosts",
+            "text": {
+              "zh-Hant": "減少#%販售價格",
+              "zh-Hans": "商人处的出售价格降低 #%",
+              "en": "#% reduced Merchant Prices"
+            },
+            "tags": [],
+            "bases": [
+              "amphora_relic",
+              "tapestry_relic"
+            ],
+            "tiers": [
+              {
+                "ilvl": 1,
+                "text": {
+                  "zh-Hant": "減少(6—7)%販售價格",
+                  "zh-Hans": "商人处的出售价格降低 (6—7)%",
+                  "en": "(6—7)% reduced Merchant Prices"
+                },
+                "name": {
+                  "zh-Hant": "慈善之",
+                  "zh-Hans": "慈爱之",
+                  "en": "of Charity"
+                },
+                "weight": 1
+              },
+              {
+                "ilvl": 74,
+                "text": {
+                  "zh-Hant": "減少(8—10)%販售價格",
+                  "zh-Hans": "商人处的出售价格降低 (8—10)%",
+                  "en": "(8—10)% reduced Merchant Prices"
+                },
+                "name": {
+                  "zh-Hant": "外交之",
+                  "zh-Hans": "外交之",
+                  "en": "of Diplomacy"
+                },
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "group": "SanctumMaximumResolveOnBossKill",
+            "text": {
+              "zh-Hant": "擊殺頭目時，恢復#榮譽",
+              "zh-Hans": "击败首领时恢复 # 荣誉",
+              "en": "Restore # Honour on killing a Boss"
+            },
+            "tags": [],
+            "bases": [
+              "amphora_relic",
+              "tapestry_relic"
+            ],
+            "tiers": [
+              {
+                "ilvl": 1,
+                "text": {
+                  "zh-Hant": "擊殺頭目時，恢復(40—59)榮譽",
+                  "zh-Hans": "击败首领时恢复 (40—59) 荣誉",
+                  "en": "Restore (40—59) Honour on killing a Boss"
+                },
+                "name": {
+                  "zh-Hant": "賦予之",
+                  "zh-Hans": "强化之",
+                  "en": "of Empowerment"
+                },
+                "weight": 1
+              },
+              {
+                "ilvl": 45,
+                "text": {
+                  "zh-Hant": "擊殺頭目時，恢復(60—79)榮譽",
+                  "zh-Hans": "击败首领时恢复 (60—79) 荣誉",
+                  "en": "Restore (60—79) Honour on killing a Boss"
+                },
+                "name": {
+                  "zh-Hant": "冠軍之",
+                  "zh-Hans": "冠军之",
+                  "en": "of Championship"
+                },
+                "weight": 1
+              },
+              {
+                "ilvl": 60,
+                "text": {
+                  "zh-Hant": "擊殺頭目時，恢復(80—99)榮譽",
+                  "zh-Hans": "击败首领时恢复 (80—99) 荣誉",
+                  "en": "Restore (80—99) Honour on killing a Boss"
+                },
+                "name": {
+                  "zh-Hant": "勝利之",
+                  "zh-Hans": "胜利之",
+                  "en": "of Victory"
+                },
+                "weight": 1
+              },
+              {
+                "ilvl": 72,
+                "text": {
+                  "zh-Hant": "擊殺頭目時，恢復(100—119)榮譽",
+                  "zh-Hans": "击败首领时恢复 (100—119) 荣誉",
+                  "en": "Restore (100—119) Honour on killing a Boss"
+                },
+                "name": {
+                  "zh-Hant": "征服之",
+                  "zh-Hans": "征服之",
+                  "en": "of Conquest"
+                },
+                "weight": 1
+              },
+              {
+                "ilvl": 78,
+                "text": {
+                  "zh-Hant": "擊殺頭目時，恢復(120—150)榮譽",
+                  "zh-Hans": "击败首领时恢复 (120—150) 荣誉",
+                  "en": "Restore (120—150) Honour on killing a Boss"
+                },
+                "name": {
+                  "zh-Hant": "凱旋之",
+                  "zh-Hans": "凯旋之",
+                  "en": "of Triumph"
+                },
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "group": "SanctumMaximumResolveOnFountainUse",
+            "text": {
+              "zh-Hant": "膜拜一座馬拉克斯神殿時，恢復#榮譽",
+              "zh-Hans": "敬拜马拉克斯神龛时恢复 # 荣誉",
+              "en": "Restore # Honour on venerating a Maraketh Shrine"
+            },
+            "tags": [],
+            "bases": [
+              "amphora_relic",
+              "tapestry_relic"
+            ],
+            "tiers": [
+              {
+                "ilvl": 1,
+                "text": {
+                  "zh-Hant": "膜拜一座馬拉克斯神殿時，恢復(25—35)榮譽",
+                  "zh-Hans": "敬拜马拉克斯神龛时恢复 (25—35) 荣誉",
+                  "en": "Restore (25—35) Honour on venerating a Maraketh Shrine"
+                },
+                "name": {
+                  "zh-Hant": "刷新之",
+                  "zh-Hans": "恢复之",
+                  "en": "of Refreshment"
+                },
+                "weight": 1
+              },
+              {
+                "ilvl": 45,
+                "text": {
+                  "zh-Hant": "膜拜一座馬拉克斯神殿時，恢復(30—39)榮譽",
+                  "zh-Hans": "敬拜马拉克斯神龛时恢复 (30—39) 荣誉",
+                  "en": "Restore (30—39) Honour on venerating a Maraketh Shrine"
+                },
+                "name": {
+                  "zh-Hant": "康復之",
+                  "zh-Hans": "康复之",
+                  "en": "of Convalescence"
+                },
+                "weight": 1
+              },
+              {
+                "ilvl": 60,
+                "text": {
+                  "zh-Hant": "膜拜一座馬拉克斯神殿時，恢復(40—49)榮譽",
+                  "zh-Hans": "敬拜马拉克斯神龛时恢复 (40—49) 荣誉",
+                  "en": "Restore (40—49) Honour on venerating a Maraketh Shrine"
+                },
+                "name": {
+                  "zh-Hant": "青年之",
+                  "zh-Hans": "年轻之",
+                  "en": "of Youth"
+                },
+                "weight": 1
+              },
+              {
+                "ilvl": 72,
+                "text": {
+                  "zh-Hant": "膜拜一座馬拉克斯神殿時，恢復(50—59)榮譽",
+                  "zh-Hans": "敬拜马拉克斯神龛时恢复 (50—59) 荣誉",
+                  "en": "Restore (50—59) Honour on venerating a Maraketh Shrine"
+                },
+                "name": {
+                  "zh-Hant": "新穎之",
+                  "zh-Hans": "新鲜之",
+                  "en": "of Freshness"
+                },
+                "weight": 1
+              },
+              {
+                "ilvl": 78,
+                "text": {
+                  "zh-Hant": "膜拜一座馬拉克斯神殿時，恢復(60—75)榮譽",
+                  "zh-Hans": "敬拜马拉克斯神龛时恢复 (60—75) 荣誉",
+                  "en": "Restore (60—75) Honour on venerating a Maraketh Shrine"
+                },
+                "name": {
+                  "zh-Hant": "綻放之",
+                  "zh-Hans": "旺盛之",
+                  "en": "of Bloom"
+                },
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "group": "SanctumRevealExtraRoomEachFloor",
+            "text": {
+              "zh-Hant": "試煉地圖額外揭露#個房間",
+              "zh-Hans": "试炼地图上揭晓 # 个额外的房间",
+              "en": "# additional Rooms are revealed on the Trial Map"
+            },
+            "tags": [],
+            "bases": [
+              "amphora_relic",
+              "vase_relic",
+              "coffer_relic",
+              "tapestry_relic",
+              "incense_relic"
+            ],
+            "tiers": [
+              {
+                "ilvl": 1,
+                "text": {
+                  "zh-Hant": "試煉地圖額外揭露1個房間",
+                  "zh-Hans": "试炼地图上揭晓 1 个额外的房间",
+                  "en": "1 additional Rooms are revealed on the Trial Map"
+                },
+                "name": {
+                  "zh-Hant": "照明之",
+                  "zh-Hans": "启迪之",
+                  "en": "of Illumination"
+                },
+                "bases": [
+                  "amphora_relic",
+                  "tapestry_relic"
+                ],
+                "weight": 1
+              },
+              {
+                "ilvl": 76,
+                "text": {
+                  "zh-Hant": "試煉地圖額外揭露2個房間",
+                  "zh-Hans": "试炼地图上揭晓 2 个额外的房间",
+                  "en": "2 additional Rooms are revealed on the Trial Map"
+                },
+                "name": {
+                  "zh-Hant": "千里眼之",
+                  "zh-Hans": "洞察之",
+                  "en": "of Clairvoyance"
+                },
+                "bases": [
+                  "amphora_relic",
+                  "tapestry_relic"
+                ],
+                "weight": 1
+              },
+              {
+                "ilvl": 1,
+                "text": {
+                  "zh-Hant": "試煉地圖額外揭露(2—3)個房間",
+                  "zh-Hans": "试炼地图上揭晓 (2—3) 个额外的房间",
+                  "en": "(2—3) additional Rooms are revealed on the Trial Map"
+                },
+                "name": {
+                  "zh-Hant": "照明之",
+                  "zh-Hans": "启迪之",
+                  "en": "of Illumination"
+                },
+                "bases": [
+                  "vase_relic",
+                  "coffer_relic",
+                  "incense_relic"
+                ],
+                "weight": 1
+              },
+              {
+                "ilvl": 76,
+                "text": {
+                  "zh-Hant": "試煉地圖額外揭露4個房間",
+                  "zh-Hans": "试炼地图上揭晓 4 个额外的房间",
+                  "en": "4 additional Rooms are revealed on the Trial Map"
+                },
+                "name": {
+                  "zh-Hant": "千里眼之",
+                  "zh-Hans": "洞察之",
+                  "en": "of Clairvoyance"
+                },
+                "bases": [
+                  "vase_relic",
+                  "coffer_relic",
+                  "incense_relic"
+                ],
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "group": "SanctumGoldOnRoomCompletion",
+            "text": {
+              "zh-Hant": "完成一個房間時，獲得#個聖水",
+              "zh-Hans": "当你完成一个房间时获得 # 圣水",
+              "en": "Gain # Sacred Water when you complete a Room"
+            },
+            "tags": [],
+            "bases": [
+              "vase_relic",
+              "coffer_relic",
+              "incense_relic"
+            ],
+            "tiers": [
+              {
+                "ilvl": 1,
+                "text": {
+                  "zh-Hant": "完成一個房間時，獲得(11—15)個聖水",
+                  "zh-Hans": "当你完成一个房间时获得 (11—15) 圣水",
+                  "en": "Gain (11—15) Sacred Water when you complete a Room"
+                },
+                "name": {
+                  "zh-Hant": "水井之",
+                  "zh-Hans": "水井之",
+                  "en": "of the Well"
+                },
+                "weight": 1
+              },
+              {
+                "ilvl": 56,
+                "text": {
+                  "zh-Hant": "完成一個房間時，獲得(16—20)個聖水",
+                  "zh-Hans": "当你完成一个房间时获得 (16—20) 圣水",
+                  "en": "Gain (16—20) Sacred Water when you complete a Room"
+                },
+                "name": {
+                  "zh-Hant": "噴泉之",
+                  "zh-Hans": "水泉之",
+                  "en": "of the Fountain"
+                },
+                "weight": 1
+              },
+              {
+                "ilvl": 77,
+                "text": {
+                  "zh-Hant": "完成一個房間時，獲得(21—30)個聖水",
+                  "zh-Hans": "当你完成一个房间时获得 (21—30) 圣水",
+                  "en": "Gain (21—30) Sacred Water when you complete a Room"
+                },
+                "name": {
+                  "zh-Hant": "綠洲之",
+                  "zh-Hans": "绿洲之",
+                  "en": "of the Oasis"
+                },
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "group": "SanctumResolveOnRoomComplete",
+            "text": {
+              "zh-Hant": "完成房間時，恢復#榮譽",
+              "zh-Hans": "完成房间时恢复 # 荣誉",
+              "en": "Restore # Honour on room completion"
+            },
+            "tags": [],
+            "bases": [
+              "vase_relic",
+              "coffer_relic",
+              "incense_relic"
+            ],
+            "tiers": [
+              {
+                "ilvl": 60,
+                "text": {
+                  "zh-Hant": "完成房間時，恢復(10—14)榮譽",
+                  "zh-Hans": "完成房间时恢复 (10—14) 荣誉",
+                  "en": "Restore (10—14) Honour on room completion"
+                },
+                "name": {
+                  "zh-Hant": "過程之",
+                  "zh-Hans": "进步之",
+                  "en": "of Progress"
+                },
+                "weight": 1
+              },
+              {
+                "ilvl": 70,
+                "text": {
+                  "zh-Hant": "完成房間時，恢復(15—19)榮譽",
+                  "zh-Hans": "完成房间时恢复 (15—19) 荣誉",
+                  "en": "Restore (15—19) Honour on room completion"
+                },
+                "name": {
+                  "zh-Hant": "先進之",
+                  "zh-Hans": "发展之",
+                  "en": "of Advancement"
+                },
+                "weight": 1
+              },
+              {
+                "ilvl": 75,
+                "text": {
+                  "zh-Hant": "完成房間時，恢復(20—24)榮譽",
+                  "zh-Hans": "完成房间时恢复 (20—24) 荣誉",
+                  "en": "Restore (20—24) Honour on room completion"
+                },
+                "name": {
+                  "zh-Hant": "前進之",
+                  "zh-Hans": "进取之",
+                  "en": "of Headway"
+                },
+                "weight": 1
+              },
+              {
+                "ilvl": 80,
+                "text": {
+                  "zh-Hant": "完成房間時，恢復(25—30)榮譽",
+                  "zh-Hans": "完成房间时恢复 (25—30) 荣誉",
+                  "en": "Restore (25—30) Honour on room completion"
+                },
+                "name": {
+                  "zh-Hant": "改進",
+                  "zh-Hans": "改善之",
+                  "en": "of Betterment"
+                },
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "group": "SanctumAvoidAfflictionChance",
+            "text": {
+              "zh-Hant": "有#%機率避免獲得苦痛",
+              "zh-Hans": "#% 几率避免获得一个痛苦",
+              "en": "#% chance to Avoid gaining an Affliction"
+            },
+            "tags": [],
+            "bases": [
+              "vase_relic",
+              "coffer_relic",
+              "incense_relic"
+            ],
+            "tiers": [
+              {
+                "ilvl": 1,
+                "text": {
+                  "zh-Hant": "有(6—7)%機率避免獲得苦痛",
+                  "zh-Hans": "(6—7)% 几率避免获得一个痛苦",
+                  "en": "(6—7)% chance to Avoid gaining an Affliction"
+                },
+                "name": {
+                  "zh-Hant": "尊嚴之",
+                  "zh-Hans": "尊严之",
+                  "en": "of Dignity"
+                },
+                "weight": 1
+              },
+              {
+                "ilvl": 55,
+                "text": {
+                  "zh-Hant": "有(8—9)%機率避免獲得苦痛",
+                  "zh-Hans": "(8—9)% 几率避免获得一个痛苦",
+                  "en": "(8—9)% chance to Avoid gaining an Affliction"
+                },
+                "name": {
+                  "zh-Hant": "威望之",
+                  "zh-Hans": "声威之",
+                  "en": "of Prestige"
+                },
+                "weight": 1
+              },
+              {
+                "ilvl": 69,
+                "text": {
+                  "zh-Hant": "有(10—11)%機率避免獲得苦痛",
+                  "zh-Hans": "(10—11)% 几率避免获得一个痛苦",
+                  "en": "(10—11)% chance to Avoid gaining an Affliction"
+                },
+                "name": {
+                  "zh-Hant": "榮耀之",
+                  "zh-Hans": "荣耀之",
+                  "en": "of Glory"
+                },
+                "weight": 1
+              },
+              {
+                "ilvl": 78,
+                "text": {
+                  "zh-Hant": "有(12—15)%機率避免獲得苦痛",
+                  "zh-Hans": "(12—15)% 几率避免获得一个痛苦",
+                  "en": "(12—15)% chance to Avoid gaining an Affliction"
+                },
+                "name": {
+                  "zh-Hant": "榮譽之",
+                  "zh-Hans": "荣誉之",
+                  "en": "of Honour"
+                },
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "group": "SanctumHonourOnGainKey",
+            "text": {
+              "zh-Hant": "拾起一把鑰匙時，恢復#榮譽",
+              "zh-Hans": "拾取钥匙时恢复 # 荣誉",
+              "en": "Restore # Honour on picking up a Key"
+            },
+            "tags": [],
+            "bases": [
+              "vase_relic",
+              "coffer_relic",
+              "incense_relic"
+            ],
+            "tiers": [
+              {
+                "ilvl": 1,
+                "text": {
+                  "zh-Hant": "拾起一把鑰匙時，恢復(25—35)榮譽",
+                  "zh-Hans": "拾取钥匙时恢复 (25—35) 荣誉",
+                  "en": "Restore (25—35) Honour on picking up a Key"
+                },
+                "name": {
+                  "zh-Hant": "捐獻之",
+                  "zh-Hans": "捐赠之",
+                  "en": "of Donation"
+                },
+                "weight": 1
+              },
+              {
+                "ilvl": 45,
+                "text": {
+                  "zh-Hant": "拾起一把鑰匙時，恢復(30—39)榮譽",
+                  "zh-Hans": "拾取钥匙时恢复 (30—39) 荣誉",
+                  "en": "Restore (30—39) Honour on picking up a Key"
+                },
+                "name": {
+                  "zh-Hant": "奉獻之",
+                  "zh-Hans": "奉献之",
+                  "en": "of Offering"
+                },
+                "weight": 1
+              },
+              {
+                "ilvl": 60,
+                "text": {
+                  "zh-Hant": "拾起一把鑰匙時，恢復(40—49)榮譽",
+                  "zh-Hans": "拾取钥匙时恢复 (40—49) 荣誉",
+                  "en": "Restore (40—49) Honour on picking up a Key"
+                },
+                "name": {
+                  "zh-Hant": "託付之",
+                  "zh-Hans": "托付之",
+                  "en": "of Entrusting"
+                },
+                "weight": 1
+              },
+              {
+                "ilvl": 72,
+                "text": {
+                  "zh-Hant": "拾起一把鑰匙時，恢復(50—59)榮譽",
+                  "zh-Hans": "拾取钥匙时恢复 (50—59) 荣誉",
+                  "en": "Restore (50—59) Honour on picking up a Key"
+                },
+                "name": {
+                  "zh-Hant": "賜予之",
+                  "zh-Hans": "赐予之",
+                  "en": "of Bestowing"
+                },
+                "weight": 1
+              },
+              {
+                "ilvl": 78,
+                "text": {
+                  "zh-Hant": "拾起一把鑰匙時，恢復(60—75)榮譽",
+                  "zh-Hans": "拾取钥匙时恢复 (60—75) 荣誉",
+                  "en": "Restore (60—75) Honour on picking up a Key"
+                },
+                "name": {
+                  "zh-Hant": "贈遺之",
+                  "zh-Hans": "遗赠之",
+                  "en": "of Bequeathing"
+                },
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "group": "SanctumMaximumHonourResistance",
+            "text": {
+              "zh-Hant": "#%至最大榮譽抗性",
+              "zh-Hans": "荣誉抗性上限 #%",
+              "en": "#% to Maximum Honour Resistance"
+            },
+            "tags": [],
+            "bases": [
+              "vase_relic",
+              "coffer_relic",
+              "incense_relic"
+            ],
+            "tiers": [
+              {
+                "ilvl": 60,
+                "text": {
+                  "zh-Hant": "+(2—3)%至最大榮譽抗性",
+                  "zh-Hans": "荣誉抗性上限 +(2—3)%",
+                  "en": "+(2—3)% to Maximum Honour Resistance"
+                },
+                "name": {
+                  "zh-Hant": "卓越之",
+                  "zh-Hans": "杰出之",
+                  "en": "of Excellence"
+                },
+                "weight": 1
+              },
+              {
+                "ilvl": 78,
+                "text": {
+                  "zh-Hant": "+(4—5)%至最大榮譽抗性",
+                  "zh-Hans": "荣誉抗性上限 +(4—5)%",
+                  "en": "+(4—5)% to Maximum Honour Resistance"
+                },
+                "name": {
+                  "zh-Hant": "輝煌之",
+                  "zh-Hans": "才智之",
+                  "en": "of Brilliance"
+                },
+                "weight": 1
+              }
+            ]
+          }
+        ],
+        "title": {
+          "zh-Hant": "基礎 後綴",
+          "zh-Hans": "基础 后缀",
+          "en": "Base Suffixes"
+        }
+      },
+      {
+        "id": "corrupted",
+        "entries": [
+          {
+            "group": "SanctumResolveRecovery",
+            "text": {
+              "zh-Hant": "增加#%恢復的榮譽",
+              "zh-Hans": "恢复的荣誉提高 #%",
+              "en": "#% increased Honour restored"
+            },
+            "tags": [],
+            "tiers": [
+              {
+                "ilvl": 1,
+                "text": {
+                  "zh-Hant": "增加(8—10)%恢復的榮譽",
+                  "zh-Hans": "恢复的荣誉提高 (8—10)%",
+                  "en": "(8—10)% increased Honour restored"
+                },
+                "name": {
+                  "zh-Hant": "SanctumCorruptionResolveRecovered",
+                  "zh-Hans": "SanctumCorruptionResolveRecovered",
+                  "en": "SanctumCorruptionResolveRecovered"
+                },
+                "weight": 1
+              }
+            ]
+          }
+        ],
+        "title": {
+          "zh-Hant": "瓦爾寶珠",
+          "zh-Hans": "瓦尔宝珠",
+          "en": "Vaal Orb"
+        }
+      },
+      {
+        "id": "sanctified",
+        "entries": [
+          {
+            "group": "ChaosResistance",
+            "text": {
+              "zh-Hant": "#%混沌抗性",
+              "zh-Hans": "混沌抗性 #%",
+              "en": "#% to Chaos Resistance"
+            },
+            "tags": [
+              "chaos",
+              "resistance"
+            ],
+            "tiers": [
+              {
+                "ilvl": 1,
+                "text": {
+                  "zh-Hant": "+(10—13)%混沌抗性",
+                  "zh-Hans": "混沌抗性 +(10—13)%",
+                  "en": "+(10—13)% to Chaos Resistance"
+                },
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "group": "ColdResistance",
+            "text": {
+              "zh-Hant": "#%冰冷抗性",
+              "zh-Hans": "冰霜抗性 #%",
+              "en": "#% to Cold Resistance"
+            },
+            "tags": [
+              "elemental",
+              "cold",
+              "resistance"
+            ],
+            "tiers": [
+              {
+                "ilvl": 1,
+                "text": {
+                  "zh-Hant": "+(15—20)%冰冷抗性",
+                  "zh-Hans": "冰霜抗性 +(15—20)%",
+                  "en": "+(15—20)% to Cold Resistance"
+                },
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "group": "Dexterity",
+            "text": {
+              "zh-Hant": "#點敏捷",
+              "zh-Hans": "# 敏捷",
+              "en": "# to Dexterity"
+            },
+            "tags": [
+              "attribute"
+            ],
+            "tiers": [
+              {
+                "ilvl": 1,
+                "text": {
+                  "zh-Hant": "+(14—16)點敏捷",
+                  "zh-Hans": "+(14—16) 敏捷",
+                  "en": "+(14—16) to Dexterity"
+                },
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "group": "FireResistance",
+            "text": {
+              "zh-Hant": "#%火焰抗性",
+              "zh-Hans": "火焰抗性 #%",
+              "en": "#% to Fire Resistance"
+            },
+            "tags": [
+              "elemental",
+              "fire",
+              "resistance"
+            ],
+            "tiers": [
+              {
+                "ilvl": 1,
+                "text": {
+                  "zh-Hant": "+(15—20)%火焰抗性",
+                  "zh-Hans": "火焰抗性 +(15—20)%",
+                  "en": "+(15—20)% to Fire Resistance"
+                },
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "group": "Intelligence",
+            "text": {
+              "zh-Hant": "#點智慧",
+              "zh-Hans": "# 智慧",
+              "en": "# to Intelligence"
+            },
+            "tags": [
+              "attribute"
+            ],
+            "tiers": [
+              {
+                "ilvl": 1,
+                "text": {
+                  "zh-Hant": "+(14—16)點智慧",
+                  "zh-Hans": "+(14—16) 智慧",
+                  "en": "+(14—16) to Intelligence"
+                },
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "group": "LightningResistance",
+            "text": {
+              "zh-Hant": "#%閃電抗性",
+              "zh-Hans": "闪电抗性 #%",
+              "en": "#% to Lightning Resistance"
+            },
+            "tags": [
+              "elemental",
+              "lightning",
+              "resistance"
+            ],
+            "tiers": [
+              {
+                "ilvl": 1,
+                "text": {
+                  "zh-Hant": "+(15—20)%閃電抗性",
+                  "zh-Hans": "闪电抗性 +(15—20)%",
+                  "en": "+(15—20)% to Lightning Resistance"
+                },
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "group": "Strength",
+            "text": {
+              "zh-Hant": "#點力量",
+              "zh-Hans": "# 力量",
+              "en": "# to Strength"
+            },
+            "tags": [
+              "attribute"
+            ],
+            "tiers": [
+              {
+                "ilvl": 1,
+                "text": {
+                  "zh-Hant": "+(14—16)點力量",
+                  "zh-Hans": "+(14—16) 力量",
+                  "en": "+(14—16) to Strength"
+                },
+                "weight": 1
+              }
+            ]
+          }
+        ],
+        "title": {
+          "zh-Hant": "奉獻寶珠",
+          "zh-Hans": "献祭宝珠",
+          "en": "Sanctified"
+        }
+      }
+    ],
+    "comboLabels": {
+      "urn_relic": {
+        "zh-Hant": "古甕聖物",
+        "zh-Hans": "壶瓮遗物",
+        "en": "Urn Relic"
+      },
+      "amphora_relic": {
+        "zh-Hant": "陶罐聖物",
+        "zh-Hans": "土罐遗物",
+        "en": "Amphora Relic"
+      },
+      "vase_relic": {
+        "zh-Hant": "器皿聖物",
+        "zh-Hans": "花瓶遗物",
+        "en": "Vase Relic"
+      },
+      "seal_relic": {
+        "zh-Hant": "草紙聖物",
+        "zh-Hans": "封印遗物",
+        "en": "Seal Relic"
+      },
+      "coffer_relic": {
+        "zh-Hant": "寶箱聖物",
+        "zh-Hans": "匣柜遗物",
+        "en": "Coffer Relic"
+      },
+      "tapestry_relic": {
+        "zh-Hant": "聖經聖物",
+        "zh-Hans": "挂毯遗物",
+        "en": "Tapestry Relic"
+      },
+      "incense_relic": {
+        "zh-Hant": "香爐聖物",
+        "zh-Hans": "熏香遗物",
+        "en": "Incense Relic"
+      }
+    }
+  }
+}
