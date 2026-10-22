@@ -27,6 +27,16 @@
     "foci": "armor/Foci.json",
     "quivers": "armor/Quivers.json",
     "bucklers": "armor/Bucklers.json",
-    "shields": "armor/Shields.json"
+    "shields": "armor/Shields.json",
+    "necklaces": "jewelry/Amulets.json",
+    "rings": "jewelry/Rings.json",
+    "jewels": "jewelry/Jewels.json",
+    "hpflasks": "jewelry/LifeFlasks.json",
+    "mpflasks": "jewelry/ManaFlasks.json",
+    "charms": "jewelry/Charms.json",
+    "currency_general": "currency/currency_general.json",
+    "currency_league": "currency/currency_league.json",
+    "currency_endgame": "currency/currency_endgame.json",
+    "currency_ascend": "currency/currency_ascend.json"
   }
 }
