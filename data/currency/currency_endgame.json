@@ -1249,6 +1249,90 @@
       },
       "stats": [],
       "affixes": []
+    },
+    {
+      "category": "currency",
+      "subKey": "currency_endgame",
+      "rarity": "currency_mapfragment",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/MapFragments/Simulacrum.webp",
+      "name": {
+        "zh-Hant": "幻像異界",
+        "zh-Hans": "梦魇拟像",
+        "en": "Simulacrum"
+      },
+      "type1": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [],
+      "affixes": [
+        {
+          "zh-Hant": "為一張地圖添加異界幻象",
+          "zh-Hans": "为一张地图添加梦魇拟像",
+          "en": "Adds the Simulacrum to a Map"
+        }
+      ],
+      "imageSrc": "https://cdn.poe2db.tw/image/Art/2DItems/Maps/DeliriumFragment.webp"
+    },
+    {
+      "category": "currency",
+      "subKey": "currency_endgame",
+      "rarity": "currency_mapfragment",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/MapFragments/Sacred_Bloom.webp",
+      "name": {
+        "zh-Hant": "聖綻之花",
+        "zh-Hans": "神圣之花",
+        "en": "Sacred Bloom"
+      },
+      "type1": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [],
+      "affixes": [
+        {
+          "zh-Hant": "為一張地圖和其相鄰的連接地圖添加翠綠荒林",
+          "zh-Hans": "为一张地图及其所有相连的地图添加翠绿荒林",
+          "en": "Adds a Viridian Wildwood to a Map and all Maps connected to it"
+        }
+      ],
+      "imageSrc": "https://cdn.poe2db.tw/image/Art/2DItems/Currency/Harvest/SacredLifeforce.webp"
+    },
+    {
+      "category": "currency",
+      "subKey": "currency_endgame",
+      "rarity": "currency_mapfragment",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/m9588928-maker/PoeII-DataBase--Resources@main/Currency/MapFragments/Simulacrum_Splinter.webp",
+      "name": {
+        "zh-Hant": "幻像斷片",
+        "zh-Hans": "梦魇拟像裂片",
+        "en": "Simulacrum Splinter"
+      },
+      "type1": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "type2": {
+        "zh-Hant": "",
+        "zh-Hans": "",
+        "en": ""
+      },
+      "stats": [],
+      "affixes": [],
+      "imageSrc": "https://cdn.poe2db.tw/image/Art/2DItems/Maps/DeliriumSplinter.webp"
     }
   ],
   "uniqueItems": [
