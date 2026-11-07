@@ -1212,9 +1212,9 @@
           "en": "Used when you kill a Rare or Unique enemy"
         },
         {
-          "zh-Hant": "Possessed by Spirit Of The [Azmeri Spirit] for (10–20) seconds on use",
-          "zh-Hans": "Possessed by Spirit Of The [Azmeri Spirit] for (10–20) seconds on use",
-          "en": "Possessed by Spirit Of The [Azmeri Spirit] for (10–20) seconds on use"
+          "zh-Hant": "使用後被阿茲莫里魂靈附身 10 ~ 20 秒",
+          "zh-Hans": "使用后被阿兹莫里之灵附身 10 ~ 20 秒",
+          "en": "Possessed by Spirit Of The Azmeri Spirit for 10 ~ 20 seconds on use"
         }
       ],
       "flavor": {
@@ -1229,6 +1229,81 @@
         "zh-Hant": "阿茲莫里魂靈",
         "zh-Hans": "阿兹莫里之灵",
         "en": "Azmeri Spirit"
+      },
+      "affixPool": {
+        "entries": [
+          {
+            "text": {
+              "zh-Hant": "使用時會被熊之魂附身，持續(10—20)秒",
+              "zh-Hans": "使用时被巨熊之灵附身 (10—20) 秒",
+              "en": "Possessed by Spirit Of The Bear for (10—20) seconds on use"
+            }
+          },
+          {
+            "text": {
+              "zh-Hant": "使用時會被野豬之魂附身，持續(10—20)秒",
+              "zh-Hans": "使用时被野猪之灵附身 (10—20) 秒",
+              "en": "Possessed by Spirit Of The Boar for (10—20) seconds on use"
+            }
+          },
+          {
+            "text": {
+              "zh-Hant": "使用時會被貓之魂附身，持續(10—20)秒",
+              "zh-Hans": "使用时被豹之灵附身 (10—20) 秒",
+              "en": "Possessed by Spirit Of The Cat for (10—20) seconds on use"
+            }
+          },
+          {
+            "text": {
+              "zh-Hant": "使用時會被貓頭鷹之魂附身，持續(10—20)秒",
+              "zh-Hans": "使用时被枭之灵附身 (10—20) 秒",
+              "en": "Possessed by Spirit Of The Owl for (10—20) seconds on use"
+            }
+          },
+          {
+            "text": {
+              "zh-Hant": "使用時會被公牛之魂附身，持續(10—20)秒",
+              "zh-Hans": "使用时被蛮牛之灵附身 (10—20) 秒",
+              "en": "Possessed by Spirit Of The Ox for (10—20) seconds on use"
+            }
+          },
+          {
+            "text": {
+              "zh-Hant": "使用時會被猿猴之魂附身，持續(10—20)秒",
+              "zh-Hans": "使用时被狂猿之灵附身 (10—20) 秒",
+              "en": "Possessed by Spirit Of The Primate for (10—20) seconds on use"
+            }
+          },
+          {
+            "text": {
+              "zh-Hant": "使用時，受一個隨機魂靈附身，持續20秒",
+              "zh-Hans": "使用时被一个随机灵体附身 20 秒",
+              "en": "Possessed by a random Spirit for 20 seconds on use"
+            }
+          },
+          {
+            "text": {
+              "zh-Hant": "使用時會被蝮蛇之魂附身，持續(10—20)秒",
+              "zh-Hans": "使用时被蛇之灵附身 (10—20) 秒",
+              "en": "Possessed by Spirit Of The Serpent for (10—20) seconds on use"
+            }
+          },
+          {
+            "text": {
+              "zh-Hant": "使用時會被公鹿之魂附身，持續(10—20)秒",
+              "zh-Hans": "使用时被雄鹿之灵附身 (10—20) 秒",
+              "en": "Possessed by Spirit Of The Stag for (10—20) seconds on use"
+            }
+          },
+          {
+            "text": {
+              "zh-Hant": "使用時會被狼之魂附身，持續(10—20)秒",
+              "zh-Hans": "使用时被头狼之灵附身 (10—20) 秒",
+              "en": "Possessed by Spirit Of The Wolf for (10—20) seconds on use"
+            }
+          }
+        ],
+        "maxLines": 4
       }
     }
   ],
