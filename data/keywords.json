@@ -51863,7 +51863,7 @@
   "kind": "keyword",
   "tw": {
    "name": "換界石",
-   "description": "換界石是可以用來前往輿圖上的地圖的物品。\n換界石有不同的階級，更高的階級意味著要與更高等級的怪物戰鬥。\n遠古、精製、和無瑕換界石各有5個不同階級，而不潔換界石僅有一個階級。\n換界石可以經過修改，提高地圖中遇到的怪物的難度和獎勵。",
+   "description": "換界石是可以用來前往輿圖上的地圖的物品。\n更高階級的換界石可以開啟更高等級的區域，含有更加困難、但也掉落高等級物品的怪物，且可以使用更高等級的輿圖天賦。\n換界石可以經過修改，提高地圖中遇到的怪物的難度和獎勵。",
    "url": "https://poe2db.tw/tw/Waystones",
    "lines": [
     "取代一個換界石上的全部詞綴",
@@ -60563,7 +60563,7 @@
   "kind": "keyword",
   "tw": {
    "name": "癱瘓",
-   "description": "受癱瘓敵人的移動速度減緩 30%，且閃避值減少 15%。如無另外說明，癱瘓持續 4 秒。",
+   "description": "受癱瘓敵人的移動速度緩速 30%，且閃避值減少 15%。如無另外說明，癱瘓持續 4 秒。",
    "url": "https://poe2db.tw/tw/Maim",
    "lines": [
     "佈署一個砲塔圖騰該圖騰會降下一輪會造成釘身和癱瘓的齊射弩箭",
@@ -63427,7 +63427,7 @@
   "kind": "keyword",
   "tw": {
    "name": "撲殺",
-   "description": "撲殺擊中後會立即擊殺生命低於 3５% 的普通敵人、20% 的魔法敵人、10% 的稀有敵人和 5% 的傳奇敵人。這些門檻會在擊中傷害生效前進行判定。",
+   "description": "撲殺擊中後會立即擊殺生命低於 35% 的普通敵人、20% 的魔法敵人、10% 的稀有敵人和 5% 的傳奇敵人。這些門檻會在擊中傷害生效前進行判定。",
    "url": "https://poe2db.tw/tw/Culling_Strike",
    "lines": [
     "以被輔助技能撲殺時獲得撲殺門檻持續秒",
@@ -69651,7 +69651,7 @@
   "kind": "keyword",
   "tw": {
    "name": "殘忍瘋狂",
-   "description": "目標所受到最初的殘忍瘋狂會緩速15%移動速度。\n每一層額外的殘忍瘋狂改為增加10%減益效果的緩速強度，其同時會影響最初的殘忍瘋狂和其他緩速目標的減益效果。\n每一目標最多可以被施加10層殘忍瘋狂。目標在沒有被施加時每2秒失去1層殘忍瘋狂。",
+   "description": "目標所受到最初的殘忍瘋狂會緩速15%移動速度。\n每一層額外的殘忍瘋狂改為增加10%減益效果效果的緩速強度，其同時會影響最初的殘忍瘋狂和其他緩速目標的減益效果效果。\n每一目標最多可以被施加10層殘忍瘋狂。目標在沒有被施加時每2秒失去1層殘忍瘋狂。",
    "url": "https://poe2db.tw/tw/Gruelling_Madness",
    "lines": [
     "以此武器造成的擊中會施加殘忍瘋狂",
@@ -83066,7 +83066,7 @@
   "kind": "keyword",
   "tw": {
    "name": "仙靈之火",
-   "description": "每一層仙靈之火減益都會使受影響目標承受的擊中獲得等同於2%傷害的額外隨機元素傷害。減益持續8秒，且每個目標可以被施加至多10層。",
+   "description": "每一層仙靈之火減益效果都會使受影響目標承受的擊中獲得等同於2%傷害的額外隨機元素傷害。減益效果持續8秒，且每個目標可以被施加至多10層。",
    "url": "https://poe2db.tw/tw/Faerie_Fire",
    "lines": [
     "仙靈之火",
@@ -86163,7 +86163,7 @@
   "kind": "keyword",
   "tw": {
    "name": "物品能量護盾",
-   "description": "一件物品上標註的具體[Energy Shield|能量護盾]值。這意味著品質和物品上的區域詞綴會一併納入計算，但來自其他來源、會直接影響你角色所獲得的[Energy Shield|能量護盾]值將不納入計算。",
+   "description": "一件物品上標註的具體能量護盾值。這意味著品質和物品上的區域詞綴會一併納入計算，但來自其他來源、會直接影響你角色所獲得的能量護盾值將不納入計算。",
    "url": "https://poe2db.tw/tw/Item_Energy_Shield",
    "lines": [
     "已裝備的身體護甲每擁有物品能量護盾獲得精魂",
@@ -87786,7 +87786,7 @@
   "kind": "keyword",
   "tw": {
    "name": "飛龍",
-   "description": "變形成飛龍型態以利用 火焰和閃電轟炸你的敵人，隨後貼近距離擊殺。\n在飛龍型態時，你會獲得：\n• 增加50%暈眩門檻\n• 增加50%元素異常狀態門檻\n• 能量護盾更快開始充能速度加快50%",
+   "description": "變形成飛龍型態以利用 火焰和閃電轟炸你的敵人，隨後貼近距離擊殺。\n \n在飛龍型態時，你會獲得：\n• 增加50%暈眩門檻\n• 增加50%元素異常狀態門檻\n• 能量護盾更快開始充能50%",
    "url": "https://poe2db.tw/tw/Wyvern_Form",
    "lines": [
     "召喚一個變形魂靈容器盟友會使用插槽中巨熊狼人和飛龍技能的複製",
@@ -88609,7 +88609,7 @@
   "kind": "keyword",
   "tw": {
    "name": "生命充能",
-   "description": "失去的生命會在 4 秒基礎延遲後開始充能。後續失去生命會重置此延遲，並中斷充能。\n影響能量護盾充能速度或多快開始的詞綴也會套用至生命充能。",
+   "description": "失去的生命會在 4 秒基礎延遲後以每秒 12.5% 的速率開始充能。後續失去生命會重置此延遲，並中斷充能。\n影響能量護盾充能速度或多快開始的詞綴也會套用至生命充能。",
    "url": "https://poe2db.tw/tw/Life_Recharge",
    "lines": []
   },
@@ -90787,7 +90787,7 @@
   "kind": "keyword",
   "tw": {
    "name": "吞噬之魂",
-   "description": "每吞噬一個靈魂即可獲得技能速度增加 1%，持續 4 秒，最多疊加 50 次。若在過去 4 秒內沒有獲得疊層，則每 0.5 秒會失去一個疊層。",
+   "description": "每一被吞噬的靈魂會賦予增加 1% 技能速度。你可以最多吞噬 50 個靈魂。若在過去 4 秒內沒有獲得疊層，則每 0.5 秒會失去一個疊層。",
    "url": "https://poe2db.tw/tw/Eaten_Souls",
    "lines": []
   },
@@ -90819,7 +90819,7 @@
   "kind": "keyword",
   "tw": {
    "name": "青春永駐",
-   "description": "能量護盾充能改為套用至生命\n50%更少來自藥劑的生命恢復",
+   "description": "能量護盾充能改為生命充能\n50%更少來自藥劑的生命恢復",
    "url": "https://poe2db.tw/tw/Eternal_Youth",
    "lines": [
     "青春永駐"
@@ -91927,7 +91927,7 @@
   "kind": "keyword",
   "tw": {
    "name": "超重",
-   "description": "減緩10%，重新施加此減益疊層並刷新期持續時間。",
+   "description": "緩速10%，重新施加此減益效果疊層並刷新期持續時間。",
    "url": "https://poe2db.tw/tw/Overencumbered",
    "lines": [
     "當你閃避翻滾時獲得超重持續秒",
@@ -92482,7 +92482,7 @@
   "kind": "keyword",
   "tw": {
    "name": "鑽石箭",
-   "description": "鑽石箭的所有擊中為暴擊且 with 60% increased 暴擊傷害加成增加 60%。",
+   "description": "鑽石箭的所有擊中都會暴擊且增加 60% 暴擊傷害加成。",
    "url": "https://poe2db.tw/tw/Diamond_Arrows",
    "lines": []
   },
@@ -92765,7 +92765,7 @@
   "kind": "keyword",
   "tw": {
    "name": "裝甲護盾",
-   "description": "裝甲護盾是會賦予玩家護甲值的護盾，也就是輕盾以外的任何護盾。",
+   "description": "裝甲盾牌是會賦予玩家護甲值的盾牌，也就是輕盾以外的任何盾牌。",
    "url": "https://poe2db.tw/tw/Armoured_Shields",
    "lines": []
   },
@@ -96040,7 +96040,7 @@
   "kind": "keyword",
   "tw": {
    "name": "親和",
-   "description": "元素親和是三相技能給予的增益效果。有三種元素親和：火焰、冰冷和閃電。每一種元素親和最多可以獲得 100 點。\n若在過去 8 秒內沒有獲得特定類型的元素親和，你每秒便會失去 5 點元素親和。",
+   "description": "元素親和是三相技能給予的增益效果。有三種元素親和：火焰、冰冷和閃電。每一種元素親和最多可以獲得 100 點。\n若在過去 8 秒內沒有獲得特定類型的元素親和，你每秒便會失去 10 點元素親和。",
    "url": "https://poe2db.tw/tw/Affinity",
    "lines": [
     "以擊中造成元素傷害時獲得最高元素傷害類型的親和並失去其他類型的親和",
@@ -96087,7 +96087,7 @@
   "kind": "keyword",
   "tw": {
    "name": "缺血",
-   "description": "缺血是一種使目標可被施加超過 10 層腐化之血的減益。缺血的幅度決定了可額外施加的腐化之血層數。",
+   "description": "缺血是一種使目標可被施加超過 10 層腐化之血的減益效果。缺血的幅度決定了可額外施加的腐化之血層數。",
    "url": "https://poe2db.tw/tw/Anaemia",
    "lines": [
     "擊中時施加缺血",
@@ -97397,7 +97397,7 @@
   "kind": "keyword",
   "tw": {
    "name": "狼之魂",
-   "description": "玩家受狼之魂附身時，會增加 10% 技能速度、增加 5% 移動速度，且能造成等同於所造成擊中傷害 10% 的護甲破壞。\n玩家還會週期性地召喚能使出癱瘓衝刺攻擊的狼之魂。",
+   "description": "玩家受孤狼之魂附身時，會增加 10% 技能速度、增加 5% 移動速度，且能造成等同於所造成擊中傷害 10% 的護甲破壞。\n玩家還會週期性地召喚能使出癱瘓衝刺攻擊的孤狼之魂。",
    "url": "https://poe2db.tw/tw/Spirit_Of_The_Wolf",
    "lines": [
     "使用時會被狼之魂附身持續秒",
@@ -99060,7 +99060,7 @@
   "kind": "keyword",
   "tw": {
    "name": "緩速藤蔓",
-   "description": "緩速藤蔓是一種可以疊加的減益效果，每層可以使角色的移動速度減緩 8%。移動會逐漸移除緩速藤蔓的疊層。",
+   "description": "緩速藤蔓是一種可以疊加的減益效果，每層可以使角色的移動速度緩速 8%。移動會逐漸移除緩速藤蔓的疊層。",
    "url": "https://poe2db.tw/tw/Grasping_Vines",
    "lines": [
     "怪物擊中時施加緩速藤蔓",
@@ -103657,7 +103657,7 @@
   "kind": "keyword",
   "tw": {
    "name": "陣地光環",
-   "description": "你設置的圖騰會賦予陣地光環。依據圖騰種類，會給予範圍內玩家不同的光環增益效果：\n火砲砲塔賦予增加 20% 技能速度。\n攻城炮台賦予增加 25% 對受禁錮敵人的傷害。\n迫擊砲所賦予為獲得相當於 15% 傷害的額外火焰傷害。\n震波圖騰賦予增加 30% 範圍效果。\n先祖戰士圖騰賦予增加 40% 榮耀生成。\n黑暗雕像賦予增加 40% 持續傷害。\n法術圖騰賦予增加50%暴擊率。",
+   "description": "你設置的圖騰會賦予陣地光環。依據圖騰種類，會給予範圍內玩家不同的光環增益效果：\n火砲砲塔賦予增加 20% 技能速度。\n攻城炮台賦予增加 25% 對受禁錮敵人的傷害。\n迫擊砲所賦予為獲得相當於 25% 傷害的額外火焰傷害。\n震波圖騰賦予增加 30% 範圍效果。\n先祖戰士圖騰賦予增加 40% 榮耀生成。\n黑暗雕像賦予增加 40% 持續傷害。\n法術圖騰賦予增加50%暴擊率。",
    "url": "https://poe2db.tw/tw/Embankment_Auras",
    "lines": [
     "你設置的圖騰賦予陣地光環",
@@ -104115,7 +104115,7 @@
   "kind": "keyword",
   "tw": {
    "name": "適應",
-   "description": "適應是一種會使你從接下來的擊中中根據適應種類而承受更少傷害的增益效果。\n除非特別說明，否則你可以同時擁有5層適應，且適應沒有持續時間。",
+   "description": "適應是一種會使你從接下來的擊中中根據適應種類而承受更少傷害的增益效果。\n除非特別說明，否則你可以同時擁有 3 層適應，且適應沒有持續時間。",
    "url": "https://poe2db.tw/tw/Adaptation",
    "lines": [
     "根據承受的每一擊中適應最高的元素傷害種類",
@@ -105299,7 +105299,7 @@
   "kind": "keyword",
   "tw": {
    "name": "油滑地面",
-   "description": "站在油滑地面上的敵人移動速度減緩且遭施加曝曬。\n受點燃敵人、點燃地面或引爆技能接觸油時，會使其著火，將敵人點燃而非使其緩速，但仍會施加曝曬效果。",
+   "description": "站在油滑地面上的敵人移動速度緩速且遭施加曝曬。\n受點燃敵人、點燃地面或引爆技能接觸油時，會使其著火，將敵人點燃而非使其緩速，但仍會施加曝曬效果。",
    "url": "https://poe2db.tw/tw/Oil_Ground",
    "lines": [
     "油滑地面",
@@ -105563,7 +105563,7 @@
   "kind": "keyword",
   "tw": {
    "name": "被油纏身",
-   "description": "被油纏身的敵人移動速度減緩、遭施加火焰曝曬，且具有 200% 更多被施加的易燃幅度。\n點燃地面或引爆技能將會點燃被油纏身的敵人並將油移除，但曝曬效果在該點燃持續時間內仍存在。",
+   "description": "被油纏身的敵人移動速度緩速、遭施加火焰曝曬，且具有 200% 更多被施加的易燃幅度。\n點燃地面或引爆技能將會點燃被油纏身的敵人並將油移除，但曝曬效果在該點燃持續時間內仍存在。",
    "url": "https://poe2db.tw/tw/Covered_in_Oil",
    "lines": []
   },
@@ -106580,7 +106580,7 @@
   "kind": "keyword",
   "tw": {
    "name": "先祖魂約",
-   "description": "你可召喚的圖騰數量加倍\n放置圖騰時沒有消耗或充能需求\n每個圖騰保留 75 精魂",
+   "description": "你可召喚的圖騰數量加倍\n放置圖騰時沒有消耗或能量球需求 \n每個圖騰保留 75 精魂",
    "url": "https://poe2db.tw/tw/Ancestral_Bond",
    "lines": []
   },
@@ -108026,7 +108026,7 @@
   "kind": "keyword",
   "tw": {
    "name": "束縛連鎖",
-   "description": "緩速藤蔓是一種疊加的減益效果，每層可以使角色的移動速度減緩 8%。",
+   "description": "緩速藤蔓是一種疊加的減益效果，每層可以使角色的移動速度緩速 8%。",
    "url": "https://poe2db.tw/tw/Binding_Chains",
    "lines": [
     "怪物在擊中時施加束縛連鎖",
@@ -108818,7 +108818,7 @@
   "kind": "keyword",
   "tw": {
    "name": "緋紅攻擊",
-   "description": "你所造成的流血加劇，且基礎流血持續時間為 1 秒。",
+   "description": "加劇你所造成的流血\n基礎流血持續時間為 1 秒\n你所施加的流血擁有 50% 更多幅度",
    "url": "https://poe2db.tw/tw/Crimson_Assault",
    "lines": []
   },
@@ -112375,7 +112375,7 @@
   "kind": "keyword",
   "tw": {
    "name": "火焰符文",
-   "description": "<>{火焰符文}\n{{{怪物獲得：}}}\n{額外火焰傷害}",
+   "description": "<<ExpedRuneFire>><rgb(219,217,206)>{火焰符文}\n<font:'fontin'>{<italic>{<rgb(110,87,66)>{怪物獲得：}}}\n<rgb(135,134,253)>{額外火焰傷害}",
    "url": "https://poe2db.tw/tw/Fire_Rune",
    "lines": []
   },
@@ -112387,7 +112387,7 @@
   },
   "us": {
    "name": "Fire Rune",
-   "description": "<>{Fire Rune}\n{{{Monsters gain:}}}\n{Extra Fire Damage}",
+   "description": "<<ExpedRuneFire>><rgb(219,217,206)>{Fire Rune}\n<font:'fontin'>{<italic>{<rgb(110,87,66)>{Monsters gain:}}}\n<rgb(135,134,253)>{Extra Fire Damage}",
    "url": "https://poe2db.tw/us/Fire_Rune",
    "lines": []
   },
@@ -112404,7 +112404,7 @@
   "kind": "keyword",
   "tw": {
    "name": "冰冷符文",
-   "description": "<>{冰冷符文}\n{{{怪物獲得：}}}\n{額外冰冷傷害}",
+   "description": "<<ExpedRuneCold>><rgb(219,217,206)>{冰冷符文}\n<font:'fontin'>{<italic>{<rgb(110,87,66)>{怪物獲得：}}}\n<rgb(135,134,253)>{額外冰冷傷害}",
    "url": "https://poe2db.tw/tw/Cold_Rune",
    "lines": []
   },
@@ -112416,7 +112416,7 @@
   },
   "us": {
    "name": "Cold Rune",
-   "description": "<>{Cold Rune}\n{{{Monsters gain:}}}\n{Extra Cold Damage}",
+   "description": "<<ExpedRuneCold>><rgb(219,217,206)>{Cold Rune}\n<font:'fontin'>{<italic>{<rgb(110,87,66)>{Monsters gain:}}}\n<rgb(135,134,253)>{Extra Cold Damage}",
    "url": "https://poe2db.tw/us/Cold_Rune",
    "lines": []
   },
@@ -112433,7 +112433,7 @@
   "kind": "keyword",
   "tw": {
    "name": "閃電符文",
-   "description": "<>{閃電符文}\n{{{怪物獲得：}}}\n{額外閃電傷害}",
+   "description": "<<ExpedRuneLightning>><rgb(219,217,206)>{閃電符文}\n<font:'fontin'>{<italic>{<rgb(110,87,66)>{怪物獲得：}}}\n<rgb(135,134,253)>{額外閃電傷害}",
    "url": "https://poe2db.tw/tw/Lightning_Rune",
    "lines": []
   },
@@ -112445,7 +112445,7 @@
   },
   "us": {
    "name": "Lightning Rune",
-   "description": "<>{Lightning Rune}\n{{{Monsters gain:}}}\n{Extra Lightning Damage}",
+   "description": "<<ExpedRuneLightning>><rgb(219,217,206)>{Lightning Rune}\n<font:'fontin'>{<italic>{<rgb(110,87,66)>{Monsters gain:}}}\n<rgb(135,134,253)>{Extra Lightning Damage}",
    "url": "https://poe2db.tw/us/Lightning_Rune",
    "lines": []
   },
@@ -112462,7 +112462,7 @@
   "kind": "keyword",
   "tw": {
    "name": "風暴符文",
-   "description": "<>{風暴符文}\n{{{怪物獲得：}}}\n{無法被感電或冰緩}\n{所有傷害都會貢獻至感電和冰緩幅度}",
+   "description": "<<ExpedRuneTempest>><rgb(219,217,206)>{風暴符文}\n<font:'fontin'>{<italic>{<rgb(110,87,66)>{怪物獲得：}}}\n<rgb(135,134,253)>{無法被感電或冰緩}\n<rgb(135,134,253)>{所有傷害都會貢獻至感電和冰緩幅度}",
    "url": "https://poe2db.tw/tw/Tempest_Rune",
    "lines": []
   },
@@ -112474,7 +112474,7 @@
   },
   "us": {
    "name": "Tempest Rune",
-   "description": "<>{Tempest Rune}\n{{{Monsters gain:}}}\n{Cannot be Shocked or Chilled}\n{All Damage contributes to chance to Shock and Chill Magnitude}",
+   "description": "<<ExpedRuneTempest>><rgb(219,217,206)>{Tempest Rune}\n<font:'fontin'>{<italic>{<rgb(110,87,66)>{Monsters gain:}}}\n<rgb(135,134,253)>{Cannot be Shocked or Chilled}\n<rgb(135,134,253)>{All Damage contributes to chance to Shock and Chill Magnitude}",
    "url": "https://poe2db.tw/us/Tempest_Rune",
    "lines": []
   },
@@ -112491,7 +112491,7 @@
   "kind": "keyword",
   "tw": {
    "name": "氣勢符文",
-   "description": "<>{動能符文}\n{{{怪物獲得：}}}\n{增加移動速度}\n{移動速度無法被減緩至基礎值以下}",
+   "description": "<<ExpedRuneMomentum>><rgb(219,217,206)>{動能符文}\n<font:'fontin'>{<italic>{<rgb(110,87,66)>{怪物獲得：}}}\n<rgb(135,134,253)>{增加移動速度}\n<rgb(135,134,253)>{移動速度無法被減緩至基礎值以下}",
    "url": "https://poe2db.tw/tw/Momentum_Rune",
    "lines": []
   },
@@ -112503,7 +112503,7 @@
   },
   "us": {
    "name": "Momentum Rune",
-   "description": "<>{Momentum Rune}\n{{{Monsters gain:}}}\n{Increased Movement Speed}\n{Movement Speed Cannot be Slowed below base}",
+   "description": "<<ExpedRuneMomentum>><rgb(219,217,206)>{Momentum Rune}\n<font:'fontin'>{<italic>{<rgb(110,87,66)>{Monsters gain:}}}\n<rgb(135,134,253)>{Increased Movement Speed}\n<rgb(135,134,253)>{Movement Speed Cannot be Slowed below base}",
    "url": "https://poe2db.tw/us/Momentum_Rune",
    "lines": []
   },
@@ -112520,7 +112520,7 @@
   "kind": "keyword",
   "tw": {
    "name": "出血符文",
-   "description": "<>{放血符文}\n{{{怪物獲得：}}}\n{生命偷取}\n{生命無法被偷取}\n{擊中時施加腐化之血}",
+   "description": "<<ExpedRuneBloodletting>><rgb(219,217,206)>{放血符文}\n<font:'fontin'>{<italic>{<rgb(110,87,66)>{怪物獲得：}}}\n<rgb(135,134,253)>{生命偷取}\n<rgb(135,134,253)>{生命無法被偷取}\n<rgb(135,134,253)>{擊中時施加腐化之血}",
    "url": "https://poe2db.tw/tw/Bloodletting_Rune",
    "lines": []
   },
@@ -112532,7 +112532,7 @@
   },
   "us": {
    "name": "Bloodletting Rune",
-   "description": "<>{Bloodletting Rune}\n{{{Monsters gain:}}}\n{Life Leech}\n{Cannot have Life Leeched from}\n{Inflicts Corrupted Blood on Hit}",
+   "description": "<<ExpedRuneBloodletting>><rgb(219,217,206)>{Bloodletting Rune}\n<font:'fontin'>{<italic>{<rgb(110,87,66)>{Monsters gain:}}}\n<rgb(135,134,253)>{Life Leech}\n<rgb(135,134,253)>{Cannot have Life Leeched from}\n<rgb(135,134,253)>{Inflicts Corrupted Blood on Hit}",
    "url": "https://poe2db.tw/us/Bloodletting_Rune",
    "lines": []
   },
@@ -112549,7 +112549,7 @@
   "kind": "keyword",
   "tw": {
    "name": "岩石符文",
-   "description": "<>{岩石符文}\n{{{怪物獲得：}}}\n{護甲}\n{增加暈眩門檻}\n{大地牢獄}",
+   "description": "<<ExpedRuneStone>><rgb(219,217,206)>{岩石符文}\n<font:'fontin'>{<italic>{<rgb(110,87,66)>{怪物獲得：}}}\n<rgb(135,134,253)>{護甲}\n<rgb(135,134,253)>{增加暈眩門檻}\n<rgb(135,134,253)>{大地牢獄}",
    "url": "https://poe2db.tw/tw/Stone_Rune",
    "lines": []
   },
@@ -112561,7 +112561,7 @@
   },
   "us": {
    "name": "Stone Rune",
-   "description": "<>{Stone Rune}\n{{{Monsters gain:}}}\n{Armoured}\n{Increased Stun Threshold}\n{Earthly Prison}",
+   "description": "<<ExpedRuneStone>><rgb(219,217,206)>{Stone Rune}\n<font:'fontin'>{<italic>{<rgb(110,87,66)>{Monsters gain:}}}\n<rgb(135,134,253)>{Armoured}\n<rgb(135,134,253)>{Increased Stun Threshold}\n<rgb(135,134,253)>{Earthly Prison}",
    "url": "https://poe2db.tw/us/Stone_Rune",
    "lines": []
   },
@@ -112578,7 +112578,7 @@
   "kind": "keyword",
   "tw": {
    "name": "適應符文",
-   "description": "<>{適應符文}\n{{{怪物獲得：}}}\n{適應}",
+   "description": "<<ExpedRuneAdaptive>><rgb(219,217,206)>{適應符文}\n<font:'fontin'>{<italic>{<rgb(110,87,66)>{怪物獲得：}}}\n<rgb(135,134,253)>{適應}",
    "url": "https://poe2db.tw/tw/Adaptive_Rune",
    "lines": []
   },
@@ -112590,7 +112590,7 @@
   },
   "us": {
    "name": "Adaptive Rune",
-   "description": "<>{Adaptive Rune}\n{{{Monsters gain:}}}\n{Adaptation}",
+   "description": "<<ExpedRuneAdaptive>><rgb(219,217,206)>{Adaptive Rune}\n<font:'fontin'>{<italic>{<rgb(110,87,66)>{Monsters gain:}}}\n<rgb(135,134,253)>{Adaptation}",
    "url": "https://poe2db.tw/us/Adaptive_Rune",
    "lines": []
   },
@@ -112607,7 +112607,7 @@
   "kind": "keyword",
   "tw": {
    "name": "奧術符文",
-   "description": "<>{祕法符文}\n{{{怪物獲得：}}}\n{額外能量護盾}\n{當能量護盾耗盡時觸發暈眩新星}",
+   "description": "<<ExpedRuneArcane>><rgb(219,217,206)>{祕法符文}\n<font:'fontin'>{<italic>{<rgb(110,87,66)>{怪物獲得：}}}\n<rgb(135,134,253)>{額外能量護盾}\n<rgb(135,134,253)>{當能量護盾耗盡時觸發暈眩新星}",
    "url": "https://poe2db.tw/tw/Arcane_Rune",
    "lines": []
   },
@@ -112619,7 +112619,7 @@
   },
   "us": {
    "name": "Arcane Rune",
-   "description": "<>{Arcane Rune}\n{{{Monsters gain:}}}\n{Extra Energy Shield}\n{Trigger a Stunning nova when Energy Shield is depleted}",
+   "description": "<<ExpedRuneArcane>><rgb(219,217,206)>{Arcane Rune}\n<font:'fontin'>{<italic>{<rgb(110,87,66)>{Monsters gain:}}}\n<rgb(135,134,253)>{Extra Energy Shield}\n<rgb(135,134,253)>{Trigger a Stunning nova when Energy Shield is depleted}",
    "url": "https://poe2db.tw/us/Arcane_Rune",
    "lines": []
   },
@@ -112636,7 +112636,7 @@
   "kind": "keyword",
   "tw": {
    "name": "毒素符文",
-   "description": "<>{劇毒符文}\n{{{怪物獲得：}}}\n{擊中時機率施加中毒}\n{死亡時創造中毒易爆體}\n{所有傷害都會貢獻至中毒幅度}",
+   "description": "<<ExpedRuneToxic>><rgb(219,217,206)>{劇毒符文}\n<font:'fontin'>{<italic>{<rgb(110,87,66)>{怪物獲得：}}}\n<rgb(135,134,253)>{擊中時機率施加中毒}\n<rgb(135,134,253)>{死亡時創造中毒易爆體}\n<rgb(135,134,253)>{所有傷害都會貢獻至中毒幅度}",
    "url": "https://poe2db.tw/tw/Toxic_Rune",
    "lines": []
   },
@@ -112648,7 +112648,7 @@
   },
   "us": {
    "name": "Toxic Rune",
-   "description": "<>{Toxic Rune}\n{{{Monsters gain:}}}\n{Chance to Poison on Hit}\n{Chance for Toxic Volatiles on death}\n{All Damage from Hits Contributes to Poison Magnitude}",
+   "description": "<<ExpedRuneToxic>><rgb(219,217,206)>{Toxic Rune}\n<font:'fontin'>{<italic>{<rgb(110,87,66)>{Monsters gain:}}}\n<rgb(135,134,253)>{Chance to Poison on Hit}\n<rgb(135,134,253)>{Chance for Toxic Volatiles on death}\n<rgb(135,134,253)>{All Damage from Hits Contributes to Poison Magnitude}",
    "url": "https://poe2db.tw/us/Toxic_Rune",
    "lines": []
   },
@@ -112665,7 +112665,7 @@
   "kind": "keyword",
   "tw": {
    "name": "觸電符文",
-   "description": "<>{電刑符文}\n{{{怪物獲得：}}}\n{額外閃電傷害}\n{閃電傷害施加觸電}\n{感電地面蹤跡}",
+   "description": "<<ExpedRuneElectrocuting>><rgb(219,217,206)>{電刑符文}\n<font:'fontin'>{<italic>{<rgb(110,87,66)>{怪物獲得：}}}\n<rgb(135,134,253)>{額外閃電傷害}\n<rgb(135,134,253)>{閃電傷害施加觸電}\n<rgb(135,134,253)>{感電地面蹤跡}",
    "url": "https://poe2db.tw/tw/Electrocuting_Rune",
    "lines": []
   },
@@ -112677,7 +112677,7 @@
   },
   "us": {
    "name": "Electrocuting Rune",
-   "description": "<>{Electrocuting Rune}\n{{{Monsters gain:}}}\n{Extra Lightning Damage}\n{Lightning Damage Electrocutes}\n{Shocked Ground Trails}",
+   "description": "<<ExpedRuneElectrocuting>><rgb(219,217,206)>{Electrocuting Rune}\n<font:'fontin'>{<italic>{<rgb(110,87,66)>{Monsters gain:}}}\n<rgb(135,134,253)>{Extra Lightning Damage}\n<rgb(135,134,253)>{Lightning Damage Electrocutes}\n<rgb(135,134,253)>{Shocked Ground Trails}",
    "url": "https://poe2db.tw/us/Electrocuting_Rune",
    "lines": []
   },
@@ -112694,7 +112694,7 @@
   "kind": "keyword",
   "tw": {
    "name": "防護符文",
-   "description": "<>{守護符文}\n{{{怪物獲得：}}}\n{間歇性的獲得維里西姆防護罩}",
+   "description": "<<ExpedRuneProtective>><rgb(219,217,206)>{守護符文}\n<font:'fontin'>{<italic>{<rgb(110,87,66)>{怪物獲得：}}}\n<rgb(135,134,253)>{間歇性的獲得維里西姆防護罩}",
    "url": "https://poe2db.tw/tw/Protective_Rune",
    "lines": []
   },
@@ -112706,7 +112706,7 @@
   },
   "us": {
    "name": "Protective Rune",
-   "description": "<>{Protective Rune}\n{{{Monsters gain:}}}\n{Periodically gain Verisium Proximity Shields}",
+   "description": "<<ExpedRuneProtective>><rgb(219,217,206)>{Protective Rune}\n<font:'fontin'>{<italic>{<rgb(110,87,66)>{Monsters gain:}}}\n<rgb(135,134,253)>{Periodically gain Verisium Proximity Shields}",
    "url": "https://poe2db.tw/us/Protective_Rune",
    "lines": []
   },
@@ -112723,7 +112723,7 @@
   "kind": "keyword",
   "tw": {
    "name": "氣旋符文",
-   "description": "<>{旋風符文}\n{{{怪物獲得：}}}\n{擊中時機率施加曝曬}\n{擊中時破壞護甲}\n{擊中時施加凋零}",
+   "description": "<<ExpedRuneCyclonic>><rgb(219,217,206)>{旋風符文}\n<font:'fontin'>{<italic>{<rgb(110,87,66)>{怪物獲得：}}}\n<rgb(135,134,253)>{擊中時機率施加曝曬}\n<rgb(135,134,253)>{擊中時破壞護甲}\n<rgb(135,134,253)>{擊中時施加凋零}",
    "url": "https://poe2db.tw/tw/Cyclonic_Rune",
    "lines": []
   },
@@ -112735,7 +112735,7 @@
   },
   "us": {
    "name": "Cyclonic Rune",
-   "description": "<>{Cyclonic Rune}\n{{{Monsters gain:}}}\n{Chance to inflict Exposure on Hit}\n{Armour Break on Hit}\n{Wither on Hit}",
+   "description": "<<ExpedRuneCyclonic>><rgb(219,217,206)>{Cyclonic Rune}\n<font:'fontin'>{<italic>{<rgb(110,87,66)>{Monsters gain:}}}\n<rgb(135,134,253)>{Chance to inflict Exposure on Hit}\n<rgb(135,134,253)>{Armour Break on Hit}\n<rgb(135,134,253)>{Wither on Hit}",
    "url": "https://poe2db.tw/us/Cyclonic_Rune",
    "lines": []
   },
@@ -112752,7 +112752,7 @@
   "kind": "keyword",
   "tw": {
    "name": "遠見符文",
-   "description": "<>{視界符文}\n{{{怪物獲得：}}}\n{反射詛咒}\n{機率反射感電}\n{機率反射冰緩}",
+   "description": "<<ExpedRuneVision>><rgb(219,217,206)>{視界符文}\n<font:'fontin'>{<italic>{<rgb(110,87,66)>{怪物獲得：}}}\n<rgb(135,134,253)>{反射詛咒}\n<rgb(135,134,253)>{機率反射感電}\n<rgb(135,134,253)>{機率反射冰緩}",
    "url": "https://poe2db.tw/tw/Vision_Rune",
    "lines": []
   },
@@ -112764,7 +112764,7 @@
   },
   "us": {
    "name": "Vision Rune",
-   "description": "<>{Vision Rune}\n{{{Monsters gain:}}}\n{Reflect Curses}\n{Chance to Reflect Shock}\n{Chance to Reflect Chill}",
+   "description": "<<ExpedRuneVision>><rgb(219,217,206)>{Vision Rune}\n<font:'fontin'>{<italic>{<rgb(110,87,66)>{Monsters gain:}}}\n<rgb(135,134,253)>{Reflect Curses}\n<rgb(135,134,253)>{Chance to Reflect Shock}\n<rgb(135,134,253)>{Chance to Reflect Chill}",
    "url": "https://poe2db.tw/us/Vision_Rune",
    "lines": []
   },
@@ -112781,7 +112781,7 @@
   "kind": "keyword",
   "tw": {
    "name": "潮汐符文",
-   "description": "<>{浪潮符文}\n{{{遺物獲得：}}}\n{引導浪潮}",
+   "description": "<<ExpedRuneTidal>><rgb(219,217,206)>{浪潮符文}\n<font:'fontin'>{<italic>{<rgb(110,87,66)>{遺物獲得：}}}\n<rgb(135,134,253)>{引導浪潮}",
    "url": "https://poe2db.tw/tw/Tidal_Rune",
    "lines": []
   },
@@ -112793,7 +112793,7 @@
   },
   "us": {
    "name": "Tidal Rune",
-   "description": "<>{Tidal Rune}\n{{{Remnant gains:}}}\n{Conjures Tidal Waves}",
+   "description": "<<ExpedRuneTidal>><rgb(219,217,206)>{Tidal Rune}\n<font:'fontin'>{<italic>{<rgb(110,87,66)>{Remnant gains:}}}\n<rgb(135,134,253)>{Conjures Tidal Waves}",
    "url": "https://poe2db.tw/us/Tidal_Rune",
    "lines": []
   },
@@ -112810,7 +112810,7 @@
   "kind": "keyword",
   "tw": {
    "name": "重生符文",
-   "description": "<>{重生符文}\n{{{怪物獲得：}}}\n{死亡時機率重生}",
+   "description": "<<ExpedRuneRebirth>><rgb(219,217,206)>{重生符文}\n<font:'fontin'>{<italic>{<rgb(110,87,66)>{怪物獲得：}}}\n<rgb(135,134,253)>{死亡時機率重生}",
    "url": "https://poe2db.tw/tw/Rebirth_Rune",
    "lines": []
   },
@@ -112822,7 +112822,7 @@
   },
   "us": {
    "name": "Rebirth Rune",
-   "description": "<>{Rebirth Rune}\n{{{Monsters gain:}}}\n{Chance to Rebirth on death}",
+   "description": "<<ExpedRuneRebirth>><rgb(219,217,206)>{Rebirth Rune}\n<font:'fontin'>{<italic>{<rgb(110,87,66)>{Monsters gain:}}}\n<rgb(135,134,253)>{Chance to Rebirth on death}",
    "url": "https://poe2db.tw/us/Rebirth_Rune",
    "lines": []
   },
@@ -112839,7 +112839,7 @@
   "kind": "keyword",
   "tw": {
    "name": "三相符文",
-   "description": "<>{稜彩符文}\n{所有傷害都可以感電}\n{所有傷害都可以冰緩}\n{所有傷害都可以點燃}\n{增加全元素抗性}",
+   "description": "<<ExpedRunePrismatic>><rgb(219,217,206)>{稜彩符文}\n<font:'fontin'>{<italic>{<rgb(110,87,66)>{怪物獲得：}}}\n<rgb(135,134,253)>{所有傷害都可以感電}\n<rgb(135,134,253)>{所有傷害都可以冰緩}\n<rgb(135,134,253)>{所有傷害都可以點燃}\n<rgb(135,134,253)>{增加全元素抗性}",
    "url": "https://poe2db.tw/tw/Prismatic_Rune",
    "lines": []
   },
@@ -112851,7 +112851,7 @@
   },
   "us": {
    "name": "Prismatic Rune",
-   "description": "<>{Prismatic Rune}\n{{{Monsters gain:}}}\n{All Damage can Shock}\n{All Damage can Chill}\n{All Damage can Ignite}\n{Increased Elemental Resistances}",
+   "description": "<<ExpedRunePrismatic>><rgb(219,217,206)>{Prismatic Rune}\n<font:'fontin'>{<italic>{<rgb(110,87,66)>{Monsters gain:}}}\n<rgb(135,134,253)>{All Damage can Shock}\n<rgb(135,134,253)>{All Damage can Chill}\n<rgb(135,134,253)>{All Damage can Ignite}\n<rgb(135,134,253)>{Increased Elemental Resistances}",
    "url": "https://poe2db.tw/us/Prismatic_Rune",
    "lines": []
   },
@@ -112868,7 +112868,7 @@
   "kind": "keyword",
   "tw": {
    "name": "恐息符文",
-   "description": "<>{火山符文}\n{{{怪物獲得：}}}\n{額外火焰傷害}\n{所有傷害都可以點燃}\n{燃燒地面蹤跡}",
+   "description": "<<ExpedRuneGasp>><rgb(219,217,206)>{火山符文}\n<font:'fontin'>{<italic>{<rgb(110,87,66)>{怪物獲得：}}}\n<rgb(135,134,253)>{額外火焰傷害}\n<rgb(135,134,253)>{所有傷害都可以點燃}\n<rgb(135,134,253)>{燃燒地面蹤跡}",
    "url": "https://poe2db.tw/tw/Gasp_Rune",
    "lines": []
   },
@@ -112880,7 +112880,7 @@
   },
   "us": {
    "name": "Gasp Rune",
-   "description": "<>{Volcanic Rune}\n{{{Monsters gain:}}}\n{Extra Fire Damage}\n{All Damage can Ignite}\n{Ignited Ground Trails}",
+   "description": "<<ExpedRuneGasp>><rgb(219,217,206)>{Volcanic Rune}\n<font:'fontin'>{<italic>{<rgb(110,87,66)>{Monsters gain:}}}\n<rgb(135,134,253)>{Extra Fire Damage}\n<rgb(135,134,253)>{All Damage can Ignite}\n<rgb(135,134,253)>{Ignited Ground Trails}",
    "url": "https://poe2db.tw/us/Gasp_Rune",
    "lines": []
   },
@@ -112897,7 +112897,7 @@
   "kind": "keyword",
   "tw": {
    "name": "月亮符文",
-   "description": "<>{月亮符文}\n{{{遺物獲得：}}}\n{引導映月光束}",
+   "description": "<<ExpedRuneMoon>><rgb(219,217,206)>{月亮符文}\n<font:'fontin'>{<italic>{<rgb(110,87,66)>{遺物獲得：}}}\n<rgb(135,134,253)>{引導映月光束}",
    "url": "https://poe2db.tw/tw/Moon_Rune",
    "lines": []
   },
@@ -112909,7 +112909,7 @@
   },
   "us": {
    "name": "Moon Rune",
-   "description": "<>{Moon Rune}\n{{{Remnant gains:}}}\n{Conjures moon beams}",
+   "description": "<<ExpedRuneMoon>><rgb(219,217,206)>{Moon Rune}\n<font:'fontin'>{<italic>{<rgb(110,87,66)>{Remnant gains:}}}\n<rgb(135,134,253)>{Conjures moon beams}",
    "url": "https://poe2db.tw/us/Moon_Rune",
    "lines": []
   },
@@ -112926,7 +112926,7 @@
   "kind": "keyword",
   "tw": {
    "name": "眾星符文",
-   "description": "<>{星界符文}\n{{{怪物獲得：}}}\n{死亡時機率生成火焰爆炸}\n{死亡時機率生成冰冷爆炸}\n{死亡時機率生成閃電爆炸}",
+   "description": "<<ExpedRuneCelestial>><rgb(219,217,206)>{星界符文}\n<font:'fontin'>{<italic>{<rgb(110,87,66)>{怪物獲得：}}}\n<rgb(135,134,253)>{死亡時機率生成火焰爆炸}\n<rgb(135,134,253)>{死亡時機率生成冰冷爆炸}\n<rgb(135,134,253)>{死亡時機率生成閃電爆炸}",
    "url": "https://poe2db.tw/tw/Celestial_Rune",
    "lines": []
   },
@@ -112938,7 +112938,7 @@
   },
   "us": {
    "name": "Celestial Rune",
-   "description": "<>{Celestial Rune}\n{{{Monsters gain:}}}\n{Chance for a Fire Explosion on Death}\n{Chance for a Cold Explosion on Death}\n{Chance for a Lightning Explosion on Death}",
+   "description": "<<ExpedRuneCelestial>><rgb(219,217,206)>{Celestial Rune}\n<font:'fontin'>{<italic>{<rgb(110,87,66)>{Monsters gain:}}}\n<rgb(135,134,253)>{Chance for a Fire Explosion on Death}\n<rgb(135,134,253)>{Chance for a Cold Explosion on Death}\n<rgb(135,134,253)>{Chance for a Lightning Explosion on Death}",
    "url": "https://poe2db.tw/us/Celestial_Rune",
    "lines": []
   },
@@ -112955,7 +112955,7 @@
   "kind": "keyword",
   "tw": {
    "name": "奢靡符文",
-   "description": "<>{奢華符文}\n{{{怪物獲得：}}}\n{增加怪物稀有度}",
+   "description": "<<ExpedRuneOpulent>><rgb(219,217,206)>{奢華符文}\n<font:'fontin'>{<italic>{<rgb(110,87,66)>{怪物獲得：}}}\n<rgb(135,134,253)>{增加怪物稀有度}",
    "url": "https://poe2db.tw/tw/Opulent_Rune",
    "lines": []
   },
@@ -112967,7 +112967,7 @@
   },
   "us": {
    "name": "Opulent Rune",
-   "description": "<>{Opulent Rune}\n{{{Monsters gain:}}}\n{Increased Monster Rarity}",
+   "description": "<<ExpedRuneOpulent>><rgb(219,217,206)>{Opulent Rune}\n<font:'fontin'>{<italic>{<rgb(110,87,66)>{Monsters gain:}}}\n<rgb(135,134,253)>{Increased Monster Rarity}",
    "url": "https://poe2db.tw/us/Opulent_Rune",
    "lines": []
   },
@@ -112984,7 +112984,7 @@
   "kind": "keyword",
   "tw": {
    "name": "盛怒符文",
-   "description": "<>{憤怒符文}\n{{{怪物獲得：}}}\n{週期性激怒}",
+   "description": "<<ExpedRuneRage>><rgb(219,217,206)>{憤怒符文}\n<font:'fontin'>{<italic>{<rgb(110,87,66)>{怪物獲得：}}}\n<rgb(135,134,253)>{週期性激怒}",
    "url": "https://poe2db.tw/tw/Rage_Rune",
    "lines": []
   },
@@ -112996,7 +112996,7 @@
   },
   "us": {
    "name": "Rage Rune",
-   "description": "<>{Rage Rune}\n{{{Monsters gain:}}}\n{Periodically Enrage}",
+   "description": "<<ExpedRuneRage>><rgb(219,217,206)>{Rage Rune}\n<font:'fontin'>{<italic>{<rgb(110,87,66)>{Monsters gain:}}}\n<rgb(135,134,253)>{Periodically Enrage}",
    "url": "https://poe2db.tw/us/Rage_Rune",
    "lines": []
   },
@@ -113013,7 +113013,7 @@
   "kind": "keyword",
   "tw": {
    "name": "智慧符文",
-   "description": "<>{智慧符文}\n{{{怪物獲得：}}}\n{增加經驗值}",
+   "description": "<<ExpedRuneWisdom>><rgb(219,217,206)>{智慧符文}\n<font:'fontin'>{<italic>{<rgb(110,87,66)>{怪物獲得：}}}\n<rgb(135,134,253)>{增加經驗值}",
    "url": "https://poe2db.tw/tw/Wisdom_Rune",
    "lines": []
   },
@@ -113025,7 +113025,7 @@
   },
   "us": {
    "name": "Wisdom Rune",
-   "description": "<>{Wisdom Rune}\n{{{Monsters gain:}}}\n{Increased Experience}",
+   "description": "<<ExpedRuneWisdom>><rgb(219,217,206)>{Wisdom Rune}\n<font:'fontin'>{<italic>{<rgb(110,87,66)>{Monsters gain:}}}\n<rgb(135,134,253)>{Increased Experience}",
    "url": "https://poe2db.tw/us/Wisdom_Rune",
    "lines": []
   },
@@ -113042,7 +113042,7 @@
   "kind": "keyword",
   "tw": {
    "name": "天空符文",
-   "description": "<>{天空符文}\n{{{遺物獲得：}}}\n{引導元素龍捲風}",
+   "description": "<<ExpedRuneSky>><rgb(219,217,206)>{天空符文}\n<font:'fontin'>{<italic>{<rgb(110,87,66)>{遺物獲得：}}}\n<rgb(135,134,253)>{引導元素龍捲風}",
    "url": "https://poe2db.tw/tw/Sky_Rune",
    "lines": []
   },
@@ -113054,7 +113054,7 @@
   },
   "us": {
    "name": "Sky Rune",
-   "description": "<>{Sky Rune}\n{{{Remnant gains:}}}\n{Conjures Elemental Tornados}",
+   "description": "<<ExpedRuneSky>><rgb(219,217,206)>{Sky Rune}\n<font:'fontin'>{<italic>{<rgb(110,87,66)>{Remnant gains:}}}\n<rgb(135,134,253)>{Conjures Elemental Tornados}",
    "url": "https://poe2db.tw/us/Sky_Rune",
    "lines": []
   },
@@ -113071,7 +113071,7 @@
   "kind": "keyword",
   "tw": {
    "name": "大地符文",
-   "description": "<>{大地符文}\n{{{遺物獲得：}}}\n{引導大地尖塔}",
+   "description": "<<ExpedRuneEarth>><rgb(219,217,206)>{大地符文}\n<font:'fontin'>{<italic>{<rgb(110,87,66)>{遺物獲得：}}}\n<rgb(135,134,253)>{引導大地尖塔}",
    "url": "https://poe2db.tw/tw/Earth_Rune",
    "lines": []
   },
@@ -113083,7 +113083,7 @@
   },
   "us": {
    "name": "Earth Rune",
-   "description": "<>{Earth Rune}\n{{{Remnant gains:}}}\n{Conjures Earthly Spires}",
+   "description": "<<ExpedRuneEarth>><rgb(219,217,206)>{Earth Rune}\n<font:'fontin'>{<italic>{<rgb(110,87,66)>{Remnant gains:}}}\n<rgb(135,134,253)>{Conjures Earthly Spires}",
    "url": "https://poe2db.tw/us/Earth_Rune",
    "lines": []
   },
@@ -113100,7 +113100,7 @@
   "kind": "keyword",
   "tw": {
    "name": "生命符文",
-   "description": "<>{生命符文}\n{{{怪物獲得：}}}\n{共享生命}",
+   "description": "<<ExpedRuneLife>><rgb(219,217,206)>{生命符文}\n<font:'fontin'>{<italic>{<rgb(110,87,66)>{怪物獲得：}}}\n<rgb(135,134,253)>{共享生命}",
    "url": "https://poe2db.tw/tw/Life_Rune",
    "lines": []
   },
@@ -113112,7 +113112,7 @@
   },
   "us": {
    "name": "Life Rune",
-   "description": "<>{Life Rune}\n{{{Monsters gain:}}}\n{Shared Life}",
+   "description": "<<ExpedRuneLife>><rgb(219,217,206)>{Life Rune}\n<font:'fontin'>{<italic>{<rgb(110,87,66)>{Monsters gain:}}}\n<rgb(135,134,253)>{Shared Life}",
    "url": "https://poe2db.tw/us/Life_Rune",
    "lines": []
   },
@@ -113129,7 +113129,7 @@
   "kind": "keyword",
   "tw": {
    "name": "羈絆符文",
-   "description": "<>{羈絆符文}\n{{{怪物獲得：}}}\n{稀有怪物死亡時可能轉移一條詞綴}\n{{{遺物獲得：}}}\n{機率生成稀有怪物群}\n{稀有怪物擁有更多怪物詞綴機率}",
+   "description": "<<ExpedRuneBond>><rgb(219,217,206)>{羈絆符文}\n<font:'fontin'>{<italic>{<rgb(110,87,66)>{怪物獲得：}}}\n<rgb(135,134,253)>{稀有怪物死亡時可能轉移一條詞綴}\n<font:'fontin'>{<italic>{<rgb(110,87,66)>{遺物獲得：}}}\n<rgb(135,134,253)>{機率生成稀有怪物群}\n<rgb(135,134,253)>{稀有怪物擁有更多怪物詞綴機率}",
    "url": "https://poe2db.tw/tw/Bond_Rune",
    "lines": []
   },
@@ -113141,7 +113141,7 @@
   },
   "us": {
    "name": "Bond Rune",
-   "description": "<>{Bond Rune}\n{{{Monsters gain:}}}\n{Rare Monsters may transfer a Mod on death}\n{{{Remnant gains:}}}\n{Increased chance to spawn Rare Monsters}\n{Rare Monsters have more Monster Modifiers}",
+   "description": "<<ExpedRuneBond>><rgb(219,217,206)>{Bond Rune}\n<font:'fontin'>{<italic>{<rgb(110,87,66)>{Monsters gain:}}}\n<rgb(135,134,253)>{Rare Monsters may transfer a Mod on death}\n<font:'fontin'>{<italic>{<rgb(110,87,66)>{Remnant gains:}}}\n<rgb(135,134,253)>{Increased chance to spawn Rare Monsters}\n<rgb(135,134,253)>{Rare Monsters have more Monster Modifiers}",
    "url": "https://poe2db.tw/us/Bond_Rune",
    "lines": []
   },
@@ -113158,7 +113158,7 @@
   "kind": "keyword",
   "tw": {
    "name": "保護符文",
-   "description": "<>{保護符文}\n{{{怪物獲得：}}}\n{擁有符文保護}",
+   "description": "<<ExpedRuneWard>><rgb(219,217,206)>{保護符文}\n<font:'fontin'>{<italic>{<rgb(110,87,66)>{怪物獲得：}}}\n<rgb(135,134,253)>{擁有符文保護}",
    "url": "https://poe2db.tw/tw/Ward_Rune",
    "lines": []
   },
@@ -113170,7 +113170,7 @@
   },
   "us": {
    "name": "Ward Rune",
-   "description": "<>{Ward Rune}\n{{{Monsters gain:}}}\n{Protected by Runic Ward}",
+   "description": "<<ExpedRuneWard>><rgb(219,217,206)>{Ward Rune}\n<font:'fontin'>{<italic>{<rgb(110,87,66)>{Monsters gain:}}}\n<rgb(135,134,253)>{Protected by Runic Ward}",
    "url": "https://poe2db.tw/us/Ward_Rune",
    "lines": []
   },
@@ -113187,7 +113187,7 @@
   "kind": "keyword",
   "tw": {
    "name": "靈魂符文",
-   "description": "<>{靈魂符文}\n{{{怪物獲得：}}}\n{聚魂}",
+   "description": "<<ExpedRuneSoul>><rgb(219,217,206)>{靈魂符文}\n<font:'fontin'>{<italic>{<rgb(110,87,66)>{怪物獲得：}}}\n<rgb(135,134,253)>{聚魂}",
    "url": "https://poe2db.tw/tw/Soul_Rune",
    "lines": []
   },
@@ -113199,7 +113199,7 @@
   },
   "us": {
    "name": "Soul Rune",
-   "description": "<>{Soul Rune}\n{{{Monsters gain:}}}\n{Union of Souls}",
+   "description": "<<ExpedRuneSoul>><rgb(219,217,206)>{Soul Rune}\n<font:'fontin'>{<italic>{<rgb(110,87,66)>{Monsters gain:}}}\n<rgb(135,134,253)>{Union of Souls}",
    "url": "https://poe2db.tw/us/Soul_Rune",
    "lines": []
   },
@@ -113216,7 +113216,7 @@
   "kind": "keyword",
   "tw": {
    "name": "死亡符文",
-   "description": "<>{死亡符文}\n{{{怪物獲得：}}}\n{被擊殺的怪物會匯聚成更強大的怪物}",
+   "description": "<<ExpedRuneDeath>><rgb(219,217,206)>{死亡符文}\n<font:'fontin'>{<italic>{<rgb(110,87,66)>{怪物獲得：}}}\n<rgb(135,134,253)>{被擊殺的怪物會匯聚成更強大的怪物}",
    "url": "https://poe2db.tw/tw/Death_Rune",
    "lines": []
   },
@@ -113228,7 +113228,7 @@
   },
   "us": {
    "name": "Death Rune",
-   "description": "<>{Death Rune}\n{{{Monsters gain:}}}\n{Slain Monsters may merge into stronger Monsters}",
+   "description": "<<ExpedRuneDeath>><rgb(219,217,206)>{Death Rune}\n<font:'fontin'>{<italic>{<rgb(110,87,66)>{Monsters gain:}}}\n<rgb(135,134,253)>{Slain Monsters may merge into stronger Monsters}",
    "url": "https://poe2db.tw/us/Death_Rune",
    "lines": []
   },
@@ -113245,7 +113245,7 @@
   "kind": "keyword",
   "tw": {
    "name": "誓言符文",
-   "description": "<>{效忠符文}\n{{{怪物獲得：}}}\n{一名怪物將召喚友方}",
+   "description": "<<ExpedRuneOath>><rgb(219,217,206)>{效忠符文}\n<font:'fontin'>{<italic>{<rgb(110,87,66)>{怪物獲得：}}}\n<rgb(135,134,253)>{一名怪物將召喚友方}",
    "url": "https://poe2db.tw/tw/Oath_Rune",
    "lines": []
   },
@@ -113257,7 +113257,7 @@
   },
   "us": {
    "name": "Oath Rune",
-   "description": "<>{Oath Rune}\n{{{Monsters gain:}}}\n{A Monster summons Allies}",
+   "description": "<<ExpedRuneOath>><rgb(219,217,206)>{Oath Rune}\n<font:'fontin'>{<italic>{<rgb(110,87,66)>{Monsters gain:}}}\n<rgb(135,134,253)>{A Monster summons Allies}",
    "url": "https://poe2db.tw/us/Oath_Rune",
    "lines": []
   },
@@ -113274,7 +113274,7 @@
   "kind": "keyword",
   "tw": {
    "name": "時間符文",
-   "description": "<>{時間符文}\n{{{怪物獲得：}}}\n{被擊殺的怪物偶爾會以更高稀有度重生}",
+   "description": "<<ExpedRuneTime>><rgb(219,217,206)>{時間符文}\n<font:'fontin'>{<italic>{<rgb(110,87,66)>{怪物獲得：}}}\n<rgb(135,134,253)>{被擊殺的怪物偶爾會以更高稀有度重生}",
    "url": "https://poe2db.tw/tw/Time_Rune",
    "lines": []
   },
@@ -113286,7 +113286,7 @@
   },
   "us": {
    "name": "Time Rune",
-   "description": "<>{Time Rune}\n{{{Monsters gain:}}}\n{Slain Monsters may respawn as a higher Rarity}",
+   "description": "<<ExpedRuneTime>><rgb(219,217,206)>{Time Rune}\n<font:'fontin'>{<italic>{<rgb(110,87,66)>{Monsters gain:}}}\n<rgb(135,134,253)>{Slain Monsters may respawn as a higher Rarity}",
    "url": "https://poe2db.tw/us/Time_Rune",
    "lines": []
   },
@@ -122129,7 +122129,7 @@
   "kind": "keyword",
   "tw": {
    "name": "噬魂者",
-   "description": "你的存在範圍內有敵人死亡時將被吞噬靈魂 。\n每吞噬一個靈魂即可獲得技能速度增加 1%，持續 4 秒，最多疊加 50 次。若在過去 4 秒內沒有獲得疊層，則每 0.5 秒會失去一個疊層。",
+   "description": "你的存在範圍內有敵人死亡時將被吞噬靈魂 。\n每吞噬一個靈魂即可獲得增加 1% 技能速度。你可以最多吞噬 50 個靈魂。若在過去 4 秒內沒有獲得疊層，則每 0.5 秒會失去一個疊層。",
    "url": "https://poe2db.tw/tw/Soul_Eater",
    "lines": []
   },
@@ -126057,7 +126057,7 @@
   "kind": "keyword",
   "tw": {
    "name": "噬魂者",
-   "description": "每吞噬一個靈魂即可獲得技能速度增加 1%，持續 4 秒，最多疊加 50 次。若在過去 4 秒內沒有獲得疊層，則每 0.5 秒會失去一個疊層。",
+   "description": "每一被吞噬的靈魂會賦予增加 1% 技能速度。你可以最多吞噬 50 個靈魂。若在過去 4 秒內沒有獲得疊層，則每 0.5 秒會失去一個疊層。",
    "url": "https://poe2db.tw/tw/Eaten_Souls",
    "lines": [
     "噬魂者",
