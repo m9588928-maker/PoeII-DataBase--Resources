@@ -245630,7 +245630,8 @@
     "迷霧之遺為一種會閃避值的魔遺",
     "魔遺",
     "黃玉之遺是一種會閃電抗性和最大閃電抗性的魔遺",
-    "黃金之遺是一種會找到物品稀有度的魔遺"
+    "黃金之遺是一種會找到物品稀有度的魔遺",
+    "有個隨機的魔遺"
    ]
   },
   "cn": {
@@ -245639,7 +245640,8 @@
    "url": "https://poe2db.tw/cn/Mages_Legacy",
    "lines": [
     "你每拥有一个重复的法师遗产所有法师遗产效果提高",
-    "法师遗产"
+    "法师遗产",
+    "有个随机的法师遗产"
    ]
   },
   "us": {
@@ -245648,7 +245650,8 @@
    "url": "https://poe2db.tw/us/Mages_Legacy",
    "lines": [
     "allmageslegacieshaveincreasedeffectperduplicatemageslegacyyouhave",
-    "mageslegacies"
+    "mageslegacies",
+    "randommageslegacies"
    ]
   },
   "group": {
