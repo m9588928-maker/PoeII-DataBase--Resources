@@ -185,6 +185,24 @@
       "The_Riverbank",
       "Clearfell",
       "Vastiri_Outskirts"
+     ],
+     "npcs": [
+      {
+       "zh-Hant": "倫利",
+       "en": "Renly"
+      },
+      {
+       "zh-Hant": "烏娜",
+       "en": "Una"
+      },
+      {
+       "zh-Hant": "費恩",
+       "en": "Finn"
+      },
+      {
+       "zh-Hant": "黑衣幽魂",
+       "en": "The Hooded One"
+      }
      ]
     },
     {
@@ -254,11 +272,15 @@
        "done": {
         "icon": "WorldMapContentBossUpgradeDone",
         "d": {
-         "zh-Hant": "即使老嫗已死，這顆狼頭似乎依然具有力量。\n\n<white>{+10% 冰冷抗性}",
-         "en": "This wolf head seems to hold power even after the Crone is dead.\n\n<white>{+10% to Cold Resistance}"
+         "zh-Hant": "即使老嫗已死，這顆狼頭似乎依然具有力量。",
+         "en": "This wolf head seems to hold power even after the Crone is dead."
         }
        },
-       "f": 3733
+       "f": 3733,
+       "b": {
+        "zh-Hant": "+10% 冰冷抗性",
+        "en": "+10% to Cold Resistance"
+       }
       },
       {
        "id": "G1_2_ClearfellChest",
@@ -1284,11 +1306,15 @@
        "done": {
         "icon": "WorldMapContentBossUpgradeDone",
         "d": {
-         "zh-Hant": "雖然怪物已被殺死，但這個地方卻沒有變得更平靜。\n\n<white>{獲得兩點武器套裝天賦點數}",
-         "en": "The monstrosity is slain but this place is no quieter.\n\n<white>{Grants Two Weapon Set Passive Skill Points}"
+         "zh-Hant": "雖然怪物已被殺死，但這個地方卻沒有變得更平靜。",
+         "en": "The monstrosity is slain but this place is no quieter."
         }
        },
-       "f": 3738
+       "f": 3738,
+       "b": {
+        "zh-Hant": "獲得兩點武器套裝天賦點數",
+        "en": "Grants Two Weapon Set Passive Skill Points"
+       }
       },
       {
        "id": "G1_11_Ritual",
@@ -1429,11 +1455,15 @@
        "done": {
         "icon": "WorldMapContentBossUpgradeDone",
         "d": {
-         "zh-Hant": "那是人類嗎？昆蟲？還是其中一棵樹？不管怎樣，它已經死了。\n\n<white>{精魂 +30}",
-         "en": "Was that a man? Insects? One of the trees? Either way its dead now.\n\n<white>{+30 to Spirit}"
+         "zh-Hant": "那是人類嗎？昆蟲？還是其中一棵樹？不管怎樣，它已經死了。",
+         "en": "Was that a man? Insects? One of the trees? Either way its dead now."
         }
        },
-       "f": 4753
+       "f": 4753,
+       "b": {
+        "zh-Hant": "精魂 +30",
+        "en": "+30 to Spirit"
+       }
       }
      ],
      "conn": [
@@ -1518,11 +1548,15 @@
        "done": {
         "icon": "WorldMapContentUnaLuteDone",
         "d": {
-         "zh-Hant": "如此美麗的魔法已經回歸森林之中。\n\n<white>{獲得兩點武器套裝天賦點數}",
-         "en": "Such beautiful music has been returned to the forest.\n\n<white>{Grants Two Weapon Set Passive Skill Points}"
+         "zh-Hant": "如此美麗的魔法已經回歸森林之中。",
+         "en": "Such beautiful music has been returned to the forest."
         }
        },
-       "f": 2940
+       "f": 2940,
+       "b": {
+        "zh-Hant": "獲得兩點武器套裝天賦點數",
+        "en": "Grants Two Weapon Set Passive Skill Points"
+       }
       },
       {
        "id": "G1_13_1_CropCircle",
@@ -1863,11 +1897,15 @@
        "done": {
         "icon": "WorldMapContentBossUpgradeDone",
         "d": {
-         "zh-Hant": "有這樣的野獸潛伏其中，教堂裡面沒有一處稱得上安全。\n\n<white>{最大生命 +20}",
-         "en": "There is no safety in a church when such a beast lurks at the centre of it.\n\n<white>{+20 to maximum Life}"
+         "zh-Hant": "有這樣的野獸潛伏其中，教堂裡面沒有一處稱得上安全。",
+         "en": "There is no safety in a church when such a beast lurks at the centre of it."
         }
        },
-       "f": 3735
+       "f": 3735,
+       "b": {
+        "zh-Hant": "最大生命 +20",
+        "en": "+20 to maximum Life"
+       }
       },
       {
        "id": "G1_15_IronCount",
@@ -4982,6 +5020,28 @@
       "Trial_of_the_Sekhemas",
       "Sandswept_Marsh",
       "Skull_of_the_Titan"
+     ],
+     "npcs": [
+      {
+       "zh-Hant": "札卡",
+       "en": "Zarka"
+      },
+      {
+       "zh-Hant": "絲克瑪．阿薩拉",
+       "en": "Sekhema Asala"
+      },
+      {
+       "zh-Hant": "夏布林",
+       "en": "Shambrin"
+      },
+      {
+       "zh-Hant": "芮蘇",
+       "en": "Risu"
+      },
+      {
+       "zh-Hant": "黑衣幽魂",
+       "en": "The Hooded One"
+      }
      ]
     },
     {
@@ -5267,10 +5327,13 @@
         "icon": "WorldMapContentBossUpgradeDone",
         "d": {
          "zh-Hant": "……她早已知道後果……",
-         "en": "...she knew the consequences...\n\n<white>{Grants Two Weapon Set Passive Skill Points}"
+         "en": "...she knew the consequences..."
         }
        },
-       "f": 4347
+       "f": 4347,
+       "b": {
+        "en": "Grants Two Weapon Set Passive Skill Points"
+       }
       },
       {
        "id": "G2_4_1_Tomb",
@@ -5903,11 +5966,15 @@
        "done": {
         "icon": "WorldMapContentFragmentAltarRightActive",
         "d": {
-         "zh-Hant": "……第三冥約締結之地……\n\n<white>{增加 30% 護符效果持續時間\n+1 護符欄位}",
-         "en": "...where the Third Pact was forged...\n\n<white>{30% increased Charm Effect Duration\n+1 Charm Slot}"
+         "zh-Hant": "……第三冥約締結之地……",
+         "en": "...where the Third Pact was forged..."
         }
        },
-       "f": 4638
+       "f": 4638,
+       "b": {
+        "zh-Hant": "增加 30% 護符效果持續時間\n+1 護符欄位",
+        "en": "30% increased Charm Effect Duration\n+1 Charm Slot"
+       }
       },
       {
        "id": "G2_6_Abyss",
@@ -6166,10 +6233,13 @@
         "icon": "WorldMapContentLetterDone",
         "d": {
          "zh-Hant": "……她會被銘記的。",
-         "en": "...she will be remembered.\n\n<white>{Grants Two Weapon Set Passive Skill Points}"
+         "en": "...she will be remembered."
         }
        },
-       "f": 4333
+       "f": 4333,
+       "b": {
+        "en": "Grants Two Weapon Set Passive Skill Points"
+       }
       },
       {
        "id": "G2_8_TwinBosses",
@@ -6368,10 +6438,13 @@
         "icon": "WorldMapContentLightningShrineDone",
         "d": {
          "zh-Hant": "……創造屬於你的傳說吧……",
-         "en": "...make a legend of yourself...\n\n<white>{+10% to Lightning Resistance}"
+         "en": "...make a legend of yourself..."
         }
        },
-       "f": 4898
+       "f": 4898,
+       "b": {
+        "en": "+10% to Lightning Resistance"
+       }
       },
       {
        "id": "G2_9_2_TorGul",
@@ -9850,6 +9923,24 @@
       "Temple_of_Kopec",
       "Utzaal",
       "The_Drowned_City"
+     ],
+     "npcs": [
+      {
+       "zh-Hant": "艾瓦",
+       "en": "Alva"
+      },
+      {
+       "zh-Hant": "瑟維",
+       "en": "Servi"
+      },
+      {
+       "zh-Hant": "奧斯瓦德",
+       "en": "Oswald"
+      },
+      {
+       "zh-Hant": "黑衣幽魂",
+       "en": "The Hooded One"
+      }
      ]
     },
     {
@@ -10239,10 +10330,13 @@
         "icon": "WorldMapContentBossUpgradeDone",
         "d": {
          "zh-Hant": "……如此雄偉的生物就此殞落，真可惜……",
-         "en": "...a shame that such a majestic creature is gone...\n\n<white>{Grants Two Weapon Set Passive Skill Points}"
+         "en": "...a shame that such a majestic creature is gone..."
         }
        },
-       "f": 4682
+       "f": 4682,
+       "b": {
+        "en": "Grants Two Weapon Set Passive Skill Points"
+       }
       },
       {
        "id": "G3_3_ExplorerCamp",
@@ -10412,10 +10506,13 @@
         "icon": "WorldMapContentSnakePotionBlue",
         "d": {
          "zh-Hant": "……抵禦即將來臨的黑暗……",
-         "en": "...bolstered against the coming darkness...\n\n<white>{25% increased Mana Regeneration Rate}"
+         "en": "...bolstered against the coming darkness..."
         }
        },
-       "f": 3814
+       "f": 3814,
+       "b": {
+        "en": "25% increased Mana Regeneration Rate"
+       }
       },
       {
        "id": "G3_4_Abyss",
@@ -10702,10 +10799,13 @@
         "icon": "WorldMapContentBossUpgradeDone",
         "d": {
          "zh-Hant": "……應該讓他繼續受苦的……",
-         "en": "...should have left him to suffer...\n\n<white>{+10% to Fire Resistance}"
+         "en": "...should have left him to suffer..."
         }
        },
-       "f": 3785
+       "f": 3785,
+       "b": {
+        "en": "+10% to Fire Resistance"
+       }
       }
      ],
      "boss": {
@@ -10941,10 +11041,13 @@
         "icon": "WorldMapContentBossUpgradeDone",
         "d": {
          "zh-Hant": "……叢林裡美好的一天。",
-         "en": "...a good day in the jungle, indeed.\n\n<white>{+30 to Spirit}"
+         "en": "...a good day in the jungle, indeed."
         }
        },
-       "f": 4755
+       "f": 4755,
+       "b": {
+        "en": "+30 to Spirit"
+       }
       },
       {
        "id": "G3_7_ServiRune",
@@ -11643,10 +11746,13 @@
         "icon": "WorldMapContentQuestionMarkUpgradeDone",
         "d": {
          "zh-Hant": "……一股奇怪的力量，但代價是值得的嗎？……",
-         "en": "...a strange power, but worth the price?...\n\n<white>{Grants Two Weapon Set Passive Skill Points}"
+         "en": "...a strange power, but worth the price?..."
         }
        },
-       "f": 4831
+       "f": 4831,
+       "b": {
+        "en": "Grants Two Weapon Set Passive Skill Points"
+       }
       },
       {
        "id": "G3_16_GoliathSoulCore",
@@ -14177,6 +14283,32 @@
       "Arastas",
       "Ngakanu",
       "Plunders_Point"
+     ],
+     "npcs": [
+      {
+       "zh-Hant": "羅德里",
+       "en": "Rhodri"
+      },
+      {
+       "zh-Hant": "丹尼格",
+       "en": "Dannig"
+      },
+      {
+       "zh-Hant": "圖貞",
+       "en": "Tujen"
+      },
+      {
+       "zh-Hant": "羅格",
+       "en": "Rog"
+      },
+      {
+       "zh-Hant": "安潔",
+       "en": "Ange"
+      },
+      {
+       "zh-Hant": "黑衣幽魂",
+       "en": "The Hooded One"
+      }
      ]
     },
     {
@@ -14263,11 +14395,14 @@
        "done": {
         "icon": "WorldMapContentBossDone",
         "d": {
-         "zh-Hant": "……一本黏糊糊的的書……\n\n<white>{獲得兩點武器套裝天賦點數}",
+         "zh-Hant": "……一本黏糊糊的的書……",
          "en": "...even the mightiest must fall..."
         }
        },
-       "f": 873
+       "f": 873,
+       "b": {
+        "zh-Hant": "獲得兩點武器套裝天賦點數"
+       }
       },
       {
        "id": "G4_1_1_MapFragment1",
@@ -14668,11 +14803,15 @@
        "done": {
         "icon": "WorldMapContentBossUpgradeDone",
         "d": {
-         "zh-Hant": "……牠再也無法獵食任何人……\n\n<white>{+15%護甲同時套用至元素傷害}\n\n<white>{獲得等同於12%閃避值的偏斜值}\n\n<white>{+12%能量護盾更快開始充能}",
-         "en": "...won't be eating anyone anymore...\n\n<white>{+15% of Armour also applies to Elemental Damage}\n\n<white>{Gain Deflection Rating equal to 12% of Evasion Rating}\n\n<white>{+12% faster start of Energy Shield Recharge}"
+         "zh-Hant": "……牠再也無法獵食任何人……",
+         "en": "...won't be eating anyone anymore..."
         }
        },
-       "f": 5692
+       "f": 5692,
+       "b": {
+        "zh-Hant": "+15%護甲同時套用至元素傷害\n獲得等同於12%閃避值的偏斜值\n+12%能量護盾更快開始充能",
+        "en": "+15% of Armour also applies to Elemental Damage\nGain Deflection Rating equal to 12% of Evasion Rating\n+12% faster start of Energy Shield Recharge"
+       }
       },
       {
        "id": "G4_3_1_CrabMiniboss",
@@ -14907,11 +15046,15 @@
        "done": {
         "icon": "WorldMapContentQuestionMarkUpgradeDone",
         "d": {
-         "zh-Hant": "娜瓦莉給予追尋者智慧。\n\n<white>{增加 5% 最大魔力}",
-         "en": "Navali offers wisdom to those who seek it.\n\n<white>{5% increased Maximum Mana}"
+         "zh-Hant": "娜瓦莉給予追尋者智慧。",
+         "en": "Navali offers wisdom to those who seek it."
         }
        },
-       "f": 497
+       "f": 497,
+       "b": {
+        "zh-Hant": "增加 5% 最大魔力",
+        "en": "5% increased Maximum Mana"
+       }
       }
      ],
      "conn": [
@@ -14996,11 +15139,15 @@
        "done": {
         "icon": "WorldMapContentBossDone",
         "d": {
-         "zh-Hant": "猴戲已經耍完。向前邁進，和死亡之母會面！\n\n<white>{獲得 2 點武器套裝天賦點}",
-         "en": "Monkey business solved. Step forth to meet the Mother of Death!\n\n<white>{Grants Two Weapon Set Passive Skill Points}"
+         "zh-Hant": "猴戲已經耍完。向前邁進，和死亡之母會面！",
+         "en": "Monkey business solved. Step forth to meet the Mother of Death!"
         }
        },
-       "f": 5206
+       "f": 5206,
+       "b": {
+        "zh-Hant": "獲得 2 點武器套裝天賦點",
+        "en": "Grants Two Weapon Set Passive Skill Points"
+       }
       },
       {
        "id": "G4_4_2_Tattoos",
@@ -15016,11 +15163,15 @@
        "done": {
         "icon": "WorldMapContentBagDone",
         "d": {
-         "zh-Hant": "先祖為你降下祝福。\n\n<white>{獲得額外的能力值和抗性}",
-         "en": "The ancestors favour you.\n\n<white>{Grants Bonus Attributes And Resistances}"
+         "zh-Hant": "先祖為你降下祝福。",
+         "en": "The ancestors favour you."
         }
        },
-       "f": 5212
+       "f": 5212,
+       "b": {
+        "zh-Hant": "獲得額外的能力值和抗性",
+        "en": "Grants Bonus Attributes And Resistances"
+       }
       }
      ],
      "boss": {
@@ -15175,11 +15326,15 @@
        "done": {
         "icon": "WorldMapContentGoddessOfJusticeLeftActive",
         "d": {
-         "zh-Hant": "她的天秤只會衡量真相。\n\n<white>{增加 30% 藥劑的魔力恢復}",
-         "en": "Her scales weigh only truth.\n\n<white>{30% increased Mana Recovery from Flasks}"
+         "zh-Hant": "她的天秤只會衡量真相。",
+         "en": "Her scales weigh only truth."
         }
        },
-       "f": 152
+       "f": 152,
+       "b": {
+        "zh-Hant": "增加 30% 藥劑的魔力恢復",
+        "en": "30% increased Mana Recovery from Flasks"
+       }
       }
      ],
      "conn": [
