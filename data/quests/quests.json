@@ -158,7 +158,17 @@
      },
      "conn": [
       "Clearfell_Encampment"
-     ]
+     ],
+     "mons": {
+      "zh-Hant": [
+       "浮屍",
+       "尖刺蟹"
+      ],
+      "en": [
+       "Drowned",
+       "Porcupine Crab"
+      ]
+     }
     },
     {
      "slug": "Clearfell_Encampment",
@@ -315,7 +325,21 @@
       "Clearfell_Encampment",
       "Mud_Burrow",
       "The_Grelwood"
-     ]
+     ],
+     "mons": {
+      "zh-Hant": [
+       "戕伐亡靈",
+       "惡毒小鬼",
+       "惡毒女巫",
+       "腐爛之狼"
+      ],
+      "en": [
+       "Lumbering Dead",
+       "Vile Imp",
+       "Vile Hag",
+       "Rotten Wolf"
+      ]
+     }
     },
     {
      "slug": "Mud_Burrow",
@@ -390,7 +414,19 @@
      },
      "conn": [
       "Clearfell"
-     ]
+     ],
+     "mons": {
+      "zh-Hant": [
+       "悲淒骷髏",
+       "泥濘虛像",
+       "血肉孵化者"
+      ],
+      "en": [
+       "Wretched Rattler",
+       "Mud Simulacrum",
+       "Flesh Larva"
+      ]
+     }
     },
     {
      "slug": "The_Grelwood",
@@ -553,7 +589,27 @@
       "The_Red_Vale",
       "The_Grim_Tangle",
       "Lost_Catacombs"
-     ]
+     ],
+     "mons": {
+      "zh-Hant": [
+       "群行狼人",
+       "狼人竊賊",
+       "惡毒小鬼",
+       "惡毒女巫",
+       "真菌殭屍",
+       "真菌骷髏",
+       "真菌散播者"
+      ],
+      "en": [
+       "Pack Werewolf",
+       "Werewolf Prowler",
+       "Vile Imp",
+       "Vile Hag",
+       "Fungal Zombie",
+       "Fungal Rattler",
+       "Fungal Proliferator"
+      ]
+     }
     },
     {
      "slug": "Lost_Catacombs",
@@ -627,7 +683,41 @@
      ],
      "conn": [
       "The_Grelwood"
-     ]
+     ],
+     "mons": {
+      "zh-Hant": [
+       "出土的冰封埋屍",
+       "出土的狂暴者",
+       "出土的殭屍",
+       "聖杯牧師",
+       "出土的骷髏劍士",
+       "出土的骷髏戰士",
+       "出土的骷髏弓手",
+       "魔符騎士",
+       "出土的魔符術士",
+       "真菌殭屍",
+       "真菌散播者",
+       "真菌骷髏",
+       "真菌之狼",
+       "真菌火炮"
+      ],
+      "en": [
+       "Unearthed Icebearer",
+       "Unearthed Rampager",
+       "Unearthed Zombie",
+       "Priest of the Chalice",
+       "Unearthed Skeletal Swordsman",
+       "Unearthed Skeletal Warrior",
+       "Unearthed Skeletal Archer",
+       "Runed Knight",
+       "Unearthed Runecaster",
+       "Fungal Zombie",
+       "Fungal Proliferator",
+       "Fungal Rattler",
+       "Fungal Wolf",
+       "Fungal Artillery"
+      ]
+     }
     },
     {
      "slug": "The_Red_Vale",
@@ -706,7 +796,21 @@
      },
      "conn": [
       "The_Grelwood"
-     ]
+     ],
+     "mons": {
+      "zh-Hant": [
+       "綻放蝮蛇",
+       "遠古艾茲麥人",
+       "喚起的鋼弩手",
+       "裂齒惡魔"
+      ],
+      "en": [
+       "Bloom Serpent",
+       "Ancient Ezomyte",
+       "Risen Arbalest",
+       "Maw Demon"
+      ]
+     }
     },
     {
      "slug": "The_Grim_Tangle",
@@ -812,7 +916,23 @@
      "conn": [
       "The_Grelwood",
       "Cemetery_of_the_Eternals"
-     ]
+     ],
+     "mons": {
+      "zh-Hant": [
+       "真菌殭屍",
+       "真菌散播者",
+       "真菌骷髏",
+       "真菌之狼",
+       "真菌火炮"
+      ],
+      "en": [
+       "Fungal Zombie",
+       "Fungal Proliferator",
+       "Fungal Rattler",
+       "Fungal Wolf",
+       "Fungal Artillery"
+      ]
+     }
     },
     {
      "slug": "Cemetery_of_the_Eternals",
@@ -920,7 +1040,25 @@
       "Mausoleum_of_the_Praetor",
       "Hunting_Grounds",
       "Tomb_of_the_Consort"
-     ]
+     ],
+     "mons": {
+      "zh-Hant": [
+       "冰霜惡靈",
+       "饑餓懼靈",
+       "懺悔者",
+       "死亡騎士",
+       "喚起的骷髏",
+       "送葬者"
+      ],
+      "en": [
+       "Frost Wraith",
+       "Hungering Stalker",
+       "Bearer of Penitence",
+       "Death Knight",
+       "Risen Rattler",
+       "Undertaker"
+      ]
+     }
     },
     {
      "slug": "Mausoleum_of_the_Praetor",
@@ -1036,7 +1174,29 @@
      },
      "conn": [
       "Cemetery_of_the_Eternals"
-     ]
+     ],
+     "mons": {
+      "zh-Hant": [
+       "喚起的骷髏",
+       "雷電惡靈",
+       "永恆騎士",
+       "鮮血侏儒",
+       "花魁",
+       "輪縛女巫",
+       "狡猾活屍",
+       "活屍指揮官"
+      ],
+      "en": [
+       "Risen Rattler",
+       "Lightning Wraith",
+       "Eternal Knight",
+       "Blood Cretin",
+       "Courtesan",
+       "Wheelbound Hag",
+       "Skulking Ghoul",
+       "Ghoul Commander"
+      ]
+     }
     },
     {
      "slug": "Tomb_of_the_Consort",
@@ -1146,7 +1306,23 @@
      },
      "conn": [
       "Cemetery_of_the_Eternals"
-     ]
+     ],
+     "mons": {
+      "zh-Hant": [
+       "喚起的骷髏",
+       "恐懼服侍",
+       "永恆騎士",
+       "孱弱騎士",
+       "骷髏之影"
+      ],
+      "en": [
+       "Risen Rattler",
+       "Dread Servant",
+       "Eternal Knight",
+       "Knight-Gaunt",
+       "Bone Stalker"
+      ]
+     }
     },
     {
      "slug": "Root_Hollow",
@@ -1389,7 +1565,25 @@
       "Cemetery_of_the_Eternals",
       "Ogham_Farmlands",
       "Freythorn"
-     ]
+     ],
+     "mons": {
+      "zh-Hant": [
+       "毒蟹",
+       "毒蟹之母",
+       "刺荊狂猿",
+       "刺荊巨獸",
+       "刺荊地穴掘者",
+       "刺荊恐喙鳥"
+      ],
+      "en": [
+       "Venomous Crab",
+       "Venomous Crab Matriarch",
+       "Bramble Ape",
+       "Bramble Hulk",
+       "Bramble Burrower",
+       "Bramble Rhoa"
+      ]
+     }
     },
     {
      "slug": "Freythorn",
@@ -1468,7 +1662,29 @@
      ],
      "conn": [
       "Hunting_Grounds"
-     ]
+     ],
+     "mons": {
+      "zh-Hant": [
+       "骷髏保衛者",
+       "邪教戰士",
+       "邪教暴徒",
+       "邪教射手",
+       "邪教女巫",
+       "邪教匕首舞者",
+       "骷髏射手",
+       "脊椎搶奪者"
+      ],
+      "en": [
+       "Skeleton Spriggan",
+       "Cultist Warrior",
+       "Cultist Brute",
+       "Cultist Archer",
+       "Cultist Witch",
+       "Cultist Daggerdancer",
+       "Skullslinger",
+       "Spinesnatcher"
+      ]
+     }
     },
     {
      "slug": "Ogham_Farmlands",
@@ -1602,7 +1818,33 @@
      "conn": [
       "Hunting_Grounds",
       "Ogham_Village"
-     ]
+     ],
+     "mons": {
+      "zh-Hant": [
+       "衰朽傭兵",
+       "鐵之大奇術師",
+       "鍛鐵守衛",
+       "貪婪狼人",
+       "群行狼人",
+       "狼人竊賊",
+       "腐敗之鴉",
+       "稻草人之獸",
+       "喚起的農工",
+       "瘋犬"
+      ],
+      "en": [
+       "Decrepit Mercenary",
+       "Iron Thaumaturgist",
+       "Iron Guard",
+       "Voracious Werewolf",
+       "Pack Werewolf",
+       "Werewolf Prowler",
+       "Rotting Crow",
+       "Scarecrow Beast",
+       "Risen Farmhand",
+       "Rabid Dog"
+      ]
+     }
     },
     {
      "slug": "Ogham_Village",
@@ -1742,7 +1984,25 @@
      "conn": [
       "Ogham_Farmlands",
       "The_Manor_Ramparts"
-     ]
+     ],
+     "mons": {
+      "zh-Hant": [
+       "貪婪狼人",
+       "狼人竊賊",
+       "鮮血侏儒",
+       "鮮血收集者",
+       "燃燒亡者",
+       "衰朽傭兵"
+      ],
+      "en": [
+       "Voracious Werewolf",
+       "Werewolf Prowler",
+       "Blood Cretin",
+       "Blood Collector",
+       "Burning Dead",
+       "Decrepit Mercenary"
+      ]
+     }
     },
     {
      "slug": "The_Manor_Ramparts",
@@ -1817,7 +2077,33 @@
      "conn": [
       "Ogham_Village",
       "Ogham_Manor"
-     ]
+     ],
+     "mons": {
+      "zh-Hant": [
+       "衰朽傭兵",
+       "死亡騎士",
+       "石像惡魔",
+       "鮮血負載者",
+       "鮮血侏儒",
+       "鮮血收集者",
+       "花魁",
+       "鐵之大奇術師",
+       "鍛鐵長矛兵",
+       "鍛鐵守衛"
+      ],
+      "en": [
+       "Decrepit Mercenary",
+       "Death Knight",
+       "Gargoyle Demon",
+       "Blood Carrier",
+       "Blood Cretin",
+       "Blood Collector",
+       "Courtesan",
+       "Iron Thaumaturgist",
+       "Iron Spearman",
+       "Iron Guard"
+      ]
+     }
     },
     {
      "slug": "Ogham_Manor",
@@ -1940,7 +2226,35 @@
      },
      "conn": [
       "The_Manor_Ramparts"
-     ]
+     ],
+     "mons": {
+      "zh-Hant": [
+       "鮮血負載者",
+       "鮮血侏儒",
+       "鮮血收集者",
+       "花魁",
+       "觸手竊賊",
+       "觸手守望",
+       "鍛鐵長矛兵",
+       "鐵之大奇術師",
+       "鍛鐵神槍手",
+       "鍛鐵執行官",
+       "鍛鐵守衛"
+      ],
+      "en": [
+       "Blood Carrier",
+       "Blood Cretin",
+       "Blood Collector",
+       "Courtesan",
+       "Tendril Prowler",
+       "Tendril Sentinel",
+       "Iron Spearman",
+       "Iron Thaumaturgist",
+       "Iron Sharpshooter",
+       "Iron Enforcer",
+       "Iron Guard"
+      ]
+     }
     }
    ],
    "quests": [
@@ -4985,7 +5299,25 @@
      "conn": [
       "Clearfell_Encampment",
       "The_Ardura_Caravan"
-     ]
+     ],
+     "mons": {
+      "zh-Hant": [
+       "惡魔土狼",
+       "太陽部落食腐者",
+       "硫石蟹",
+       "崖行獸",
+       "砂拂亡者",
+       "腐敗巨獸"
+      ],
+      "en": [
+       "Hyena Demon",
+       "Sun Clan Scavenger",
+       "Brimstone Crab",
+       "Crag Leaper",
+       "Sandscoured Dead",
+       "Rotting Hulk"
+      ]
+     }
     },
     {
      "slug": "The_Ardura_Caravan",
@@ -5145,7 +5477,27 @@
      "conn": [
       "The_Ardura_Caravan",
       "The_Halani_Gates"
-     ]
+     ],
+     "mons": {
+      "zh-Hant": [
+       "喚起的馬拉克斯人",
+       "喚起的鋼弩手",
+       "乾燥巫妖",
+       "寶庫潛伏者",
+       "疾跑魔像",
+       "震地魔像",
+       "墓室尖嘯者"
+      ],
+      "en": [
+       "Risen Maraketh",
+       "Risen Arbalest",
+       "Desiccated Lich",
+       "Vault Lurker",
+       "Skitter Golem",
+       "Quake Golem",
+       "Tombshrieker"
+      ]
+     }
     },
     {
      "slug": "The_Halani_Gates",
@@ -5245,7 +5597,35 @@
      "conn": [
       "Traitors_Passage",
       "The_Ardura_Caravan"
-     ]
+     ],
+     "mons": {
+      "zh-Hant": [
+       "法里登標槍士",
+       "法里登長矛女士",
+       "法里登劍士",
+       "法里登新兵",
+       "法里登舞劍者",
+       "法里登長矛士",
+       "法里登重步兵",
+       "法里登步兵",
+       "法里登破風士",
+       "法里登訓練兵",
+       "石垣蟻"
+      ],
+      "en": [
+       "Faridun Javelineer",
+       "Faridun Spearwoman",
+       "Faridun Swordsman",
+       "Faridun Neophyte",
+       "Faridun Bladedancer",
+       "Faridun Spearman",
+       "Faridun Heavy Infantry",
+       "Faridun Infantry",
+       "Faridun Wind-slicer",
+       "Faridun Fledgling",
+       "Boulder Ant"
+      ]
+     }
     },
     {
      "slug": "Keth",
@@ -5387,7 +5767,27 @@
      "conn": [
       "The_Ardura_Caravan",
       "The_Lost_City"
-     ]
+     ],
+     "mons": {
+      "zh-Hant": [
+       "玷污甲蟲",
+       "玷污聖甲蟲",
+       "蝮蛇部落",
+       "蝮蛇薩滿",
+       "喚起的馬拉克斯人",
+       "砂靈",
+       "乾燥巫妖"
+      ],
+      "en": [
+       "Tarnished Beetle",
+       "Tarnished Scarab",
+       "Serpent Clan",
+       "Serpent Shaman",
+       "Risen Maraketh",
+       "Living Sand",
+       "Desiccated Lich"
+      ]
+     }
     },
     {
      "slug": "The_Lost_City",
@@ -5485,7 +5885,31 @@
      "conn": [
       "Keth",
       "Buried_Shrines"
-     ]
+     ],
+     "mons": {
+      "zh-Hant": [
+       "蝮蛇部落",
+       "蝮蛇薩滿",
+       "喚起的馬拉克斯人",
+       "喚起的鋼弩手",
+       "喚起的賢者",
+       "華麗甲蟲",
+       "玷污甲蟲",
+       "華麗聖甲蟲",
+       "砂之精魂"
+      ],
+      "en": [
+       "Serpent Clan",
+       "Serpent Shaman",
+       "Risen Maraketh",
+       "Risen Arbalest",
+       "Risen Magi",
+       "Adorned Beetle",
+       "Tarnished Beetle",
+       "Adorned Scarab",
+       "Sand Spirit"
+      ]
+     }
     },
     {
      "slug": "Buried_Shrines",
@@ -5624,7 +6048,23 @@
      },
      "conn": [
       "The_Lost_City"
-     ]
+     ],
+     "mons": {
+      "zh-Hant": [
+       "砂之精魂",
+       "喚起的馬拉克斯人",
+       "腐敗信徒",
+       "喚起的鋼弩手",
+       "晚霞蝙蝠"
+      ],
+      "en": [
+       "Sand Spirit",
+       "Risen Maraketh",
+       "Mar Acolyte",
+       "Risen Arbalest",
+       "Vesper Bat"
+      ]
+     }
     },
     {
      "slug": "Mastodon_Badlands",
@@ -5723,7 +6163,29 @@
       "The_Ardura_Caravan",
       "The_Bone_Pits",
       "Lightless_Passage"
-     ]
+     ],
+     "mons": {
+      "zh-Hant": [
+       "金耀眼鏡蛇",
+       "迷失狂熱者",
+       "骷髏射手",
+       "肋骨震動者",
+       "脊椎搶奪者",
+       "迷失死靈法師",
+       "迷失巨獸",
+       "灰燼蜘蛛"
+      ],
+      "en": [
+       "Gilded Cobra",
+       "Lost-men Zealot",
+       "Skullslinger",
+       "Ribrattle",
+       "Spinesnatcher",
+       "Lost-men Necromancer",
+       "Lost-men Brute",
+       "Sabre Spider"
+      ]
+     }
     },
     {
      "slug": "The_Bone_Pits",
@@ -5837,7 +6299,35 @@
      },
      "conn": [
       "Mastodon_Badlands"
-     ]
+     ],
+     "mons": {
+      "zh-Hant": [
+       "金耀眼鏡蛇",
+       "迷失狂熱者",
+       "骷髏射手",
+       "肋骨震動者",
+       "脊椎搶奪者",
+       "迷失死靈法師",
+       "迷失巨獸",
+       "惡魔土狼",
+       "太陽部落食腐者",
+       "迷失征服者",
+       "歐席頓苦工"
+      ],
+      "en": [
+       "Gilded Cobra",
+       "Lost-men Zealot",
+       "Skullslinger",
+       "Ribrattle",
+       "Spinesnatcher",
+       "Lost-men Necromancer",
+       "Lost-men Brute",
+       "Hyena Demon",
+       "Sun Clan Scavenger",
+       "Lost-men Subjugator",
+       "Drudge Osseodon"
+      ]
+     }
     },
     {
      "slug": "Lightless_Passage",
@@ -5868,7 +6358,47 @@
      "conn": [
       "Mastodon_Badlands",
       "The_Well_of_Souls"
-     ]
+     ],
+     "mons": {
+      "zh-Hant": [
+       "深淵行者",
+       "深淵跛屍",
+       "深淵扼殺者",
+       "黑血者侏儒",
+       "黑血者之吻",
+       "黑血者精英",
+       "黯光者復仇之翼",
+       "黯光者蝮蛇",
+       "黯光者之鰻",
+       "巨坑之菌",
+       "巨坑疾行者",
+       "迷失狂熱者",
+       "迷失征服者",
+       "迷失巨獸",
+       "黑血者熾泡",
+       "血肉孵化者",
+       "巨型孵化者"
+      ],
+      "en": [
+       "Abyssal Walker",
+       "Abyssal Shambler",
+       "Abyssal Strangler",
+       "Blackblooded Cretin",
+       "Blackblooded Proboscite",
+       "Blackblooded Elite",
+       "Lightless Vengewing",
+       "Lightless Serpent",
+       "Lightless Moray",
+       "Fungoid of the Pit",
+       "Strider of the Pit",
+       "Lost-men Zealot",
+       "Lost-men Subjugator",
+       "Lost-men Brute",
+       "Blackblooded Blisterboil",
+       "Flesh Larva",
+       "Gargantuan Larva"
+      ]
+     }
     },
     {
      "slug": "The_Well_of_Souls",
@@ -6020,7 +6550,27 @@
      "conn": [
       "The_Ardura_Caravan",
       "The_Titan_Grotto"
-     ]
+     ],
+     "mons": {
+      "zh-Hant": [
+       "喚起的馬拉克斯人",
+       "喚起的鋼弩手",
+       "乾燥巫妖",
+       "行走巨獸",
+       "疾跑魔像",
+       "震地魔像",
+       "沙丘潛伏者"
+      ],
+      "en": [
+       "Risen Maraketh",
+       "Risen Arbalest",
+       "Desiccated Lich",
+       "Walking Goliath",
+       "Skitter Golem",
+       "Quake Golem",
+       "Dune Lurker"
+      ]
+     }
     },
     {
      "slug": "The_Titan_Grotto",
@@ -6148,7 +6698,29 @@
      },
      "conn": [
       "Valley_of_the_Titans"
-     ]
+     ],
+     "mons": {
+      "zh-Hant": [
+       "砂之骷髏",
+       "砂之戰士",
+       "砂之法師",
+       "維利幻影",
+       "漆黑疾行者",
+       "幽懼之翼",
+       "邪獸",
+       "赤陶狂信者"
+      ],
+      "en": [
+       "Sandflesh Skeleton",
+       "Sandflesh Warrior",
+       "Sandflesh Mage",
+       "Vril Apparition",
+       "Black Strider",
+       "Winged Horror",
+       "Goliath",
+       "Terracotta Fanatic"
+      ]
+     }
     },
     {
      "slug": "Deshar",
@@ -6305,7 +6877,23 @@
      "conn": [
       "The_Ardura_Caravan",
       "Path_of_Mourning"
-     ]
+     ],
+     "mons": {
+      "zh-Hant": [
+       "反芻禿鷹",
+       "鼓噪食腐者",
+       "不死的馬拉克斯",
+       "惡魔禿鷹",
+       "針背巨獸"
+      ],
+      "en": [
+       "Regurgitating Vulture",
+       "Rasp Scavenger",
+       "Maraketh Undead",
+       "Vile Vulture",
+       "Porcupine Goliath"
+      ]
+     }
     },
     {
      "slug": "Path_of_Mourning",
@@ -6368,7 +6956,19 @@
      "conn": [
       "Deshar",
       "The_Spires_of_Deshar"
-     ]
+     ],
+     "mons": {
+      "zh-Hant": [
+       "喚起的馬拉克斯人",
+       "不死的馬拉克斯",
+       "喚起的說書女"
+      ],
+      "en": [
+       "Risen Maraketh",
+       "Maraketh Undead",
+       "Risen Tale-woman"
+      ]
+     }
     },
     {
      "slug": "The_Spires_of_Deshar",
@@ -6477,7 +7077,39 @@
      },
      "conn": [
       "Path_of_Mourning"
-     ]
+     ],
+     "mons": {
+      "zh-Hant": [
+       "法里登劍士",
+       "法里登舞劍者",
+       "法里登穿刺者",
+       "法里登重步兵",
+       "法里登長矛女士",
+       "法里登標槍士",
+       "法里登長矛士",
+       "法里登步兵",
+       "法里登破風士",
+       "法里登新兵",
+       "法里登訓練兵",
+       "不死的馬拉克斯",
+       "魔翼獸"
+      ],
+      "en": [
+       "Faridun Swordsman",
+       "Faridun Bladedancer",
+       "Faridun Impaler",
+       "Faridun Heavy Infantry",
+       "Faridun Spearwoman",
+       "Faridun Javelineer",
+       "Faridun Spearman",
+       "Faridun Infantry",
+       "Faridun Wind-slicer",
+       "Faridun Neophyte",
+       "Faridun Fledgling",
+       "Maraketh Undead",
+       "Winged Fiend"
+      ]
+     }
     },
     {
      "slug": "Mawdun_Quarry",
@@ -6569,7 +7201,27 @@
      "conn": [
       "The_Ardura_Caravan",
       "Mawdun_Mine"
-     ]
+     ],
+     "mons": {
+      "zh-Hant": [
+       "法里登潛伏者",
+       "受汙染屍體",
+       "疫源蟲群",
+       "疫源收割者",
+       "裝甲雛鳥",
+       "遺忘巨獸",
+       "遺落的礦工"
+      ],
+      "en": [
+       "Faridun Crawler",
+       "Corrupted Corpse",
+       "Plague Swarm",
+       "Plague Harvester",
+       "Armoured Rhex",
+       "Forsaken Hulk",
+       "Forsaken Miner"
+      ]
+     }
     },
     {
      "slug": "Mawdun_Mine",
@@ -6668,7 +7320,29 @@
      },
      "conn": [
       "Mawdun_Quarry"
-     ]
+     ],
+     "mons": {
+      "zh-Hant": [
+       "法里登潛伏者",
+       "受汙染屍體",
+       "疫源幼蟲",
+       "遺落的礦工",
+       "鐮鼠",
+       "被遺忘的食腐蟲",
+       "被遺忘的懼靈",
+       "被遺忘的薩特"
+      ],
+      "en": [
+       "Faridun Crawler",
+       "Corrupted Corpse",
+       "Plague Nymph",
+       "Forsaken Miner",
+       "Mantis Rat",
+       "Forgotten Crawler",
+       "Forgotten Stalker",
+       "Forgotten Satyr"
+      ]
+     }
     },
     {
      "slug": "Dreadnought",
@@ -6746,7 +7420,43 @@
      },
      "conn": [
       "The_Ardura_Caravan"
-     ]
+     ],
+     "mons": {
+      "zh-Hant": [
+       "法里登潛伏者",
+       "疫源蟲群",
+       "法里登疫源",
+       "疫源收割者",
+       "法里登屠斧",
+       "法里登劍士",
+       "法里登舞劍者",
+       "法里登長矛士",
+       "法里登重步兵",
+       "法里登長矛女士",
+       "法里登標槍士",
+       "法里登步兵",
+       "法里登破風士",
+       "法里登新兵",
+       "法里登訓練兵"
+      ],
+      "en": [
+       "Faridun Crawler",
+       "Plague Swarm",
+       "Faridun Plaguebringer",
+       "Plague Harvester",
+       "Faridun Butcher",
+       "Faridun Swordsman",
+       "Faridun Bladedancer",
+       "Faridun Spearman",
+       "Faridun Heavy Infantry",
+       "Faridun Spearwoman",
+       "Faridun Javelineer",
+       "Faridun Infantry",
+       "Faridun Wind-slicer",
+       "Faridun Neophyte",
+       "Faridun Fledgling"
+      ]
+     }
     },
     {
      "slug": "Trial_of_the_Sekhemas",
@@ -6871,7 +7581,37 @@
      ],
      "conn": [
       "The_Ardura_Caravan"
-     ]
+     ],
+     "mons": {
+      "zh-Hant": [
+       "出土的骷髏劍士",
+       "出土的骷髏戰士",
+       "出土的骷髏弓手",
+       "黑鐮弩兵",
+       "出土的冰封埋屍",
+       "出土的狂暴者",
+       "出土的殭屍",
+       "黑鐮傭兵",
+       "寶庫潛伏者",
+       "疾跑魔像",
+       "震地魔像",
+       "墓室尖嘯者"
+      ],
+      "en": [
+       "Unearthed Skeletal Swordsman",
+       "Unearthed Skeletal Warrior",
+       "Unearthed Skeletal Archer",
+       "Black Scythe Arbalest",
+       "Unearthed Icebearer",
+       "Unearthed Rampager",
+       "Unearthed Zombie",
+       "Black Scythe Mercenary",
+       "Vault Lurker",
+       "Skitter Golem",
+       "Quake Golem",
+       "Tombshrieker"
+      ]
+     }
     }
    ],
    "quests": [
@@ -9894,7 +10634,33 @@
      "conn": [
       "The_Ardura_Caravan",
       "Ziggurat_Encampment"
-     ]
+     ],
+     "mons": {
+      "zh-Hant": [
+       "沼澤殞命的奴隸",
+       "沼澤殞命的百姓",
+       "清淤獸",
+       "竊血黃蜂",
+       "竊血之后",
+       "腐敗巨獸",
+       "歐洛克狩獵者",
+       "歐洛克穿軀者",
+       "歐洛克割喉者",
+       "歐洛克薩滿"
+      ],
+      "en": [
+       "Bogfelled Slave",
+       "Bogfelled Commoner",
+       "Dredge Fiend",
+       "Bloodthief Wasp",
+       "Bloodthief Queen",
+       "Rotting Hulk",
+       "Orok Hunter",
+       "Orok Fleshstabber",
+       "Orok Throatcutter",
+       "Orok Shaman"
+      ]
+     }
     },
     {
      "slug": "Ziggurat_Encampment",
@@ -10024,7 +10790,21 @@
       "Jungle_Ruins",
       "Chimeral_Wetlands",
       "Mystic_Refuge"
-     ]
+     ],
+     "mons": {
+      "zh-Hant": [
+       "滅魂樹苗",
+       "蟻蛉衝鋒者",
+       "不幸的探索者",
+       "恐牙野豬"
+      ],
+      "en": [
+       "Bane Sapling",
+       "Antlion Charger",
+       "Ill-fated Explorer",
+       "Diretusk Boar"
+      ]
+     }
     },
     {
      "slug": "Mystic_Refuge",
@@ -10089,7 +10869,33 @@
      ],
      "conn": [
       "Infested_Barrens"
-     ]
+     ],
+     "mons": {
+      "zh-Hant": [
+       "出土的魔符術士",
+       "出土的士兵",
+       "破碎環之德魯伊",
+       "出土的亡靈",
+       "蛇吻跛屍",
+       "臟腑跛屍",
+       "拘束跛屍",
+       "拘束噴吐者",
+       "纏繞巨獸",
+       "腐鼠"
+      ],
+      "en": [
+       "Unearthed Runecaster",
+       "Unearthed Soldier",
+       "Druid of the Broken Circle",
+       "Unearthed Urchin",
+       "Snakethroat Shambler",
+       "Entrailhome Shambler",
+       "Constricted Shambler",
+       "Constricted Spitter",
+       "Entwined Hulk",
+       "Rotted Rat"
+      ]
+     }
     },
     {
      "slug": "The_Matlan_Waterways",
@@ -10242,7 +11048,33 @@
      "conn": [
       "Jungle_Ruins",
       "The_Azak_Bog"
-     ]
+     ],
+     "mons": {
+      "zh-Hant": [
+       "阿札克野蠻人",
+       "阿札克穿軀者",
+       "阿札克薩滿",
+       "阿札克懼靈",
+       "阿札克割喉者",
+       "阿札克擲矛者",
+       "阿札克混種大師",
+       "啃咬混種獸",
+       "食糜沙蛛",
+       "河川飛龍"
+      ],
+      "en": [
+       "Azak Brute",
+       "Azak Fleshstabber",
+       "Azak Shaman",
+       "Azak Stalker",
+       "Azak Throatcutter",
+       "Azak Spearthrower",
+       "Azak Mongrelmaster",
+       "Chaw Mongrel",
+       "Chyme Skitterer",
+       "River Drake"
+      ]
+     }
     },
     {
      "slug": "Jungle_Ruins",
@@ -10412,7 +11244,31 @@
       "Infested_Barrens",
       "The_Matlan_Waterways",
       "The_Venom_Crypts"
-     ]
+     ],
+     "mons": {
+      "zh-Hant": [
+       "四手巨獸",
+       "靈長類幻獸",
+       "野性靈長類",
+       "拘束跛屍",
+       "拘束噴吐者",
+       "蛇吻跛屍",
+       "纏繞巨獸",
+       "滅魂樹苗",
+       "蟻蛉衝鋒者"
+      ],
+      "en": [
+       "Quadrilla",
+       "Alpha Primate",
+       "Feral Primate",
+       "Constricted Shambler",
+       "Constricted Spitter",
+       "Snakethroat Shambler",
+       "Entwined Hulk",
+       "Bane Sapling",
+       "Antlion Charger"
+      ]
+     }
     },
     {
      "slug": "The_Venom_Crypts",
@@ -10577,7 +11433,37 @@
      ],
      "conn": [
       "Jungle_Ruins"
-     ]
+     ],
+     "mons": {
+      "zh-Hant": [
+       "歐洛克狩獵者",
+       "歐洛克穿軀者",
+       "歐洛克割喉者",
+       "歐洛克薩滿",
+       "蛇吻跛屍",
+       "拘束噴吐者",
+       "拘束跛屍",
+       "纏繞巨獸",
+       "臟腑跛屍",
+       "爬行噴吐者",
+       "腐鼠",
+       "蠍猴"
+      ],
+      "en": [
+       "Orok Hunter",
+       "Orok Fleshstabber",
+       "Orok Throatcutter",
+       "Orok Shaman",
+       "Snakethroat Shambler",
+       "Constricted Spitter",
+       "Constricted Shambler",
+       "Entwined Hulk",
+       "Entrailhome Shambler",
+       "Slitherspitter",
+       "Rotted Rat",
+       "Scorpion Monkey"
+      ]
+     }
     },
     {
      "slug": "Chimeral_Wetlands",
@@ -10735,7 +11621,23 @@
      "conn": [
       "Infested_Barrens",
       "Jiquanis_Machinarium"
-     ]
+     ],
+     "mons": {
+      "zh-Hant": [
+       "河川飛龍",
+       "潛行龍蜥",
+       "不幸的探索者",
+       "綻放蝮蛇",
+       "恐牙野豬"
+      ],
+      "en": [
+       "River Drake",
+       "Prowling Chimeral",
+       "Ill-fated Explorer",
+       "Bloom Serpent",
+       "Diretusk Boar"
+      ]
+     }
     },
     {
      "slug": "Jiquanis_Machinarium",
@@ -10819,7 +11721,31 @@
      "conn": [
       "Chimeral_Wetlands",
       "Jiquanis_Sanctum"
-     ]
+     ],
+     "mons": {
+      "zh-Hant": [
+       "瓦爾骷髏戰士",
+       "瓦爾骷髏侍從",
+       "瓦爾骷髏牧師",
+       "瓦爾骷髏弓手",
+       "腐鼠",
+       "蒼白縫合懼靈",
+       "鏽斑重構者",
+       "鏽斑魔像",
+       "潛行守望"
+      ],
+      "en": [
+       "Vaal Skeletal Warrior",
+       "Vaal Skeletal Squire",
+       "Vaal Skeletal Priest",
+       "Vaal Skeletal Archer",
+       "Rotted Rat",
+       "Pale-stitched Stalker",
+       "Rusted Reconstructor",
+       "Rusted Dyna Golem",
+       "Crawler Sentinel"
+      ]
+     }
     },
     {
      "slug": "Jiquanis_Sanctum",
@@ -10959,7 +11885,29 @@
      },
      "conn": [
       "Jiquanis_Machinarium"
-     ]
+     ],
+     "mons": {
+      "zh-Hant": [
+       "瓦爾骷髏戰士",
+       "瓦爾骷髏侍從",
+       "瓦爾骷髏弓手",
+       "瓦爾骷髏牧師",
+       "蒼白縫合懼靈",
+       "不死瓦爾舞劍師",
+       "不死瓦爾守衛",
+       "潛行影魅"
+      ],
+      "en": [
+       "Vaal Skeletal Warrior",
+       "Vaal Skeletal Squire",
+       "Vaal Skeletal Archer",
+       "Vaal Skeletal Priest",
+       "Pale-stitched Stalker",
+       "Undead Vaal Bladedancer",
+       "Undead Vaal Guard",
+       "Prowling Shade"
+      ]
+     }
     },
     {
      "slug": "The_Azak_Bog",
@@ -11080,7 +12028,33 @@
      },
      "conn": [
       "The_Matlan_Waterways"
-     ]
+     ],
+     "mons": {
+      "zh-Hant": [
+       "阿札克割喉者",
+       "阿札克穿軀者",
+       "阿札克野蠻人",
+       "阿札克幼雛",
+       "啃咬混種獸",
+       "阿札克懼靈",
+       "阿札克薩滿",
+       "阿札克重錘手",
+       "阿札克持炬者",
+       "阿札克擲矛者"
+      ],
+      "en": [
+       "Azak Throatcutter",
+       "Azak Fleshstabber",
+       "Azak Brute",
+       "Azak Fledgling",
+       "Chaw Mongrel",
+       "Azak Stalker",
+       "Azak Shaman",
+       "Azak Mauler",
+       "Azak Torchbearer",
+       "Azak Spearthrower"
+      ]
+     }
     },
     {
      "slug": "The_Drowned_City",
@@ -11115,7 +12089,41 @@
       "Ziggurat_Encampment",
       "The_Molten_Vault",
       "Apex_of_Filth"
-     ]
+     ],
+     "mons": {
+      "zh-Hant": [
+       "駝背的持棍者",
+       "骯髒愚者",
+       "骯髒的初始之子",
+       "平頭族戰士",
+       "惡靈哲人",
+       "惡靈鐵匠",
+       "惡靈重錘",
+       "骯髒的老嫗",
+       "平頭族持棍者",
+       "食糜沙蛛",
+       "河川飛龍",
+       "探索者浮屍",
+       "河之女巫",
+       "浮屍食腐蟲"
+      ],
+      "en": [
+       "Hunchback Clubber",
+       "Filthy Lobber",
+       "Filthy First-born",
+       "Flathead Warrior",
+       "Foul Sage",
+       "Foul Blacksmith",
+       "Foul Mauler",
+       "Filthy Crone",
+       "Flathead Clubber",
+       "Chyme Skitterer",
+       "River Drake",
+       "Drowned Explorer",
+       "River Hag",
+       "Drowned Crawler"
+      ]
+     }
     },
     {
      "slug": "The_Molten_Vault",
@@ -11235,7 +12243,27 @@
      },
      "conn": [
       "The_Drowned_City"
-     ]
+     ],
+     "mons": {
+      "zh-Hant": [
+       "熔金跛屍",
+       "熔金鐵匠",
+       "瓦爾永生斧鉞士",
+       "瓦爾永生盜賊",
+       "瓦爾永生長矛士",
+       "瓦爾永生弓手",
+       "熔金守望"
+      ],
+      "en": [
+       "Gold-Melted Shambler",
+       "Gold-melted Blacksmith",
+       "Vaal Embalmed Axeman",
+       "Vaal Embalmed Rogue",
+       "Vaal Embalmed Spearman",
+       "Vaal Embalmed Archer",
+       "Gold-Melted Sentinel"
+      ]
+     }
     },
     {
      "slug": "The_Trial_of_Chaos",
@@ -11433,7 +12461,35 @@
      },
      "conn": [
       "The_Drowned_City"
-     ]
+     ],
+     "mons": {
+      "zh-Hant": [
+       "平頭族戰士",
+       "駝背的持棍者",
+       "惡靈哲人",
+       "平頭族幼體",
+       "火菇培育者",
+       "骯髒的老嫗",
+       "惡靈鐵匠",
+       "平頭族持棍者",
+       "骯髒的初始之子",
+       "骯髒愚者",
+       "惡靈重錘"
+      ],
+      "en": [
+       "Flathead Warrior",
+       "Hunchback Clubber",
+       "Foul Sage",
+       "Flathead Youngling",
+       "Pyromushroom Cultivator",
+       "Filthy Crone",
+       "Foul Blacksmith",
+       "Flathead Clubber",
+       "Filthy First-born",
+       "Filthy Lobber",
+       "Foul Mauler"
+      ]
+     }
     },
     {
      "slug": "Temple_of_Kopec",
@@ -11511,7 +12567,21 @@
      },
      "conn": [
       "Ziggurat_Encampment"
-     ]
+     ],
+     "mons": {
+      "zh-Hant": [
+       "血祭軍衛",
+       "血祭牧師",
+       "華麗的古靈實驗者",
+       "豔陽牧師"
+      ],
+      "en": [
+       "Bloodrite Guard",
+       "Bloodrite Priest",
+       "Adorned Miscreation",
+       "Priest of the Sun"
+      ]
+     }
     },
     {
      "slug": "Utzaal",
@@ -11649,7 +12719,29 @@
      "conn": [
       "Ziggurat_Encampment",
       "Aggorat"
-     ]
+     ],
+     "mons": {
+      "zh-Hant": [
+       "邪魔毒蛇軍團",
+       "瓦爾守衛",
+       "瓦爾責難者",
+       "忠誠獵豹",
+       "混沌狂熱者",
+       "瓦爾監督者",
+       "瓦爾巨獸",
+       "極寒狂熱者"
+      ],
+      "en": [
+       "Viper Legionnaire",
+       "Vaal Guard",
+       "Vaal Excoriator",
+       "Loyal Jaguar",
+       "Chaotic Zealot",
+       "Vaal Overseer",
+       "Vaal Goliath",
+       "Gelid Zealot"
+      ]
+     }
     },
     {
      "slug": "Aggorat",
@@ -11798,7 +12890,31 @@
      "conn": [
       "Utzaal",
       "The_Black_Chambers"
-     ]
+     ],
+     "mons": {
+      "zh-Hant": [
+       "瓦爾斧鉞士",
+       "瓦爾巨獸",
+       "極寒狂熱者",
+       "混沌狂熱者",
+       "瓦爾變形者",
+       "鮮血狂熱者",
+       "血腥祭司",
+       "鮮血女祭司",
+       "熾炎狂熱者"
+      ],
+      "en": [
+       "Vaal Axeman",
+       "Vaal Goliath",
+       "Gelid Zealot",
+       "Chaotic Zealot",
+       "Vaal Formshifter",
+       "Blood Zealot",
+       "Blood Priest",
+       "Blood Priestess",
+       "Fiery Zealot"
+      ]
+     }
     },
     {
      "slug": "The_Black_Chambers",
@@ -11890,7 +13006,29 @@
      },
      "conn": [
       "Aggorat"
-     ]
+     ],
+     "mons": {
+      "zh-Hant": [
+       "多里亞尼的精英戰士",
+       "殘暴超越者",
+       "外科實驗專家",
+       "超越者弓手",
+       "戰士超凡者",
+       "斬刃超凡者",
+       "融合劍士",
+       "巨大超凡者"
+      ],
+      "en": [
+       "Doryani's Elite",
+       "Brutal Transcendent",
+       "Surgical Experimentalist",
+       "Archer Transcendent",
+       "Warrior Transcendent",
+       "Bladelash Transcendent",
+       "Fused Swordsman",
+       "Goliath Transcendent"
+      ]
+     }
     }
    ],
    "quests": [
@@ -14476,7 +15614,31 @@
      "conn": [
       "Kingsmarch",
       "Volcanic_Warrens"
-     ]
+     ],
+     "mons": {
+      "zh-Hant": [
+       "骷髏族裔",
+       "野性族裔",
+       "曲牙族裔",
+       "巫者族裔",
+       "長行族裔",
+       "長矛族裔",
+       "炎背蟹",
+       "遭制服的巨靈",
+       "石垣蟻"
+      ],
+      "en": [
+       "Skulltop Kin",
+       "Feral Kin",
+       "Tuskbearer Kin",
+       "Shaman Kin",
+       "Tallwalker Kin",
+       "Spearbearer Kin",
+       "Cinderback Crab",
+       "Subdued Behemoth",
+       "Boulder Ant"
+      ]
+     }
     },
     {
      "slug": "Volcanic_Warrens",
@@ -14581,7 +15743,35 @@
      },
      "conn": [
       "Isle_of_Kin"
-     ]
+     ],
+     "mons": {
+      "zh-Hant": [
+       "骷髏族裔",
+       "野性族裔",
+       "曲牙族裔",
+       "持炬者族裔",
+       "巫者族裔",
+       "長行族裔",
+       "長矛族裔",
+       "遭制服的巨靈",
+       "火山魔像",
+       "震波魔像",
+       "熔岩惡魔"
+      ],
+      "en": [
+       "Skulltop Kin",
+       "Feral Kin",
+       "Tuskbearer Kin",
+       "Torchbearer Kin",
+       "Shaman Kin",
+       "Tallwalker Kin",
+       "Spearbearer Kin",
+       "Subdued Behemoth",
+       "Volcanic Golem",
+       "Tectonic Golem",
+       "Molten Imp"
+      ]
+     }
     },
     {
      "slug": "Kedge_Bay",
@@ -14653,7 +15843,31 @@
      "conn": [
       "Kingsmarch",
       "Journeys_End"
-     ]
+     ],
+     "mons": {
+      "zh-Hant": [
+       "刺穿的水手",
+       "海蝕骷髏",
+       "海蝕狙擊手",
+       "浮腫錨手",
+       "搬運者浮屍",
+       "海蝕魚叉手",
+       "探索者浮屍",
+       "浮屍食腐蟲",
+       "反芻伯勞鳥"
+      ],
+      "en": [
+       "Impaled Mutineer",
+       "Searot Skeleton",
+       "Searot Sniper",
+       "Bloated Anchorman",
+       "Drowned Bearer",
+       "Searot Harpooner",
+       "Drowned Explorer",
+       "Drowned Crawler",
+       "Gull Shrike"
+      ]
+     }
     },
     {
      "slug": "Journeys_End",
@@ -14726,7 +15940,27 @@
      },
      "conn": [
       "Kedge_Bay"
-     ]
+     ],
+     "mons": {
+      "zh-Hant": [
+       "刺穿的水手",
+       "戰艦",
+       "探索者浮屍",
+       "腐朽的擲彈手",
+       "腐朽的靈魂捕捉者",
+       "腐朽的破壞者",
+       "腐朽的砲手"
+      ],
+      "en": [
+       "Impaled Mutineer",
+       "Man o' War",
+       "Drowned Explorer",
+       "Rotting Grenadier",
+       "Rotting Soulcatcher",
+       "Rotting Demolitionist",
+       "Rotting Cannoneer"
+      ]
+     }
     },
     {
      "slug": "Whakapanu_Island",
@@ -14865,7 +16099,29 @@
      "conn": [
       "Kingsmarch",
       "Singing_Caverns"
-     ]
+     ],
+     "mons": {
+      "zh-Hant": [
+       "蠍猴",
+       "飛刺蟹",
+       "象龜",
+       "椰子蟹",
+       "棘刺潛伏",
+       "腐蝕之蟹",
+       "變色飛龍",
+       "岩背恐喙鳥"
+      ],
+      "en": [
+       "Scorpion Monkey",
+       "Quill Crab",
+       "Elephant Tortoise",
+       "Coconut Crab",
+       "Spiked Scuttler",
+       "Caustic Crab",
+       "Chameleon Drake",
+       "Stoneback Rhoa"
+      ]
+     }
     },
     {
      "slug": "Singing_Caverns",
@@ -14999,7 +16255,29 @@
      },
      "conn": [
       "Whakapanu_Island"
-     ]
+     ],
+     "mons": {
+      "zh-Hant": [
+       "鮮明棘魚",
+       "刺魟",
+       "巨大裂齒獸",
+       "疾跑毒蟹",
+       "兩棲徘徊者",
+       "鹽風少女",
+       "幽暗海妖",
+       "珊瑚冠骷髏"
+      ],
+      "en": [
+       "Luminous Spinefish",
+       "Spiked Ray",
+       "Giant Maw",
+       "Skittering Jellycrab",
+       "Amphibious Prowler",
+       "Brine Maiden",
+       "Ghastly Siren",
+       "Coral-crowned Skeleton"
+      ]
+     }
     },
     {
      "slug": "Eye_of_Hinekora",
@@ -15060,7 +16338,19 @@
      "conn": [
       "Kingsmarch",
       "Halls_of_the_Dead"
-     ]
+     ],
+     "mons": {
+      "zh-Hant": [
+       "守護之龜",
+       "原始魂靈",
+       "守護蜥蜴"
+      ],
+      "en": [
+       "Guardian Turtle",
+       "Primal Spirit",
+       "Guardian Lizard"
+      ]
+     }
     },
     {
      "slug": "Halls_of_the_Dead",
@@ -15185,7 +16475,25 @@
      "conn": [
       "Eye_of_Hinekora",
       "Trial_of_the_Ancestors"
-     ]
+     ],
+     "mons": {
+      "zh-Hant": [
+       "先祖引導者",
+       "先祖守護者",
+       "先祖斬顱者",
+       "先祖號角手",
+       "先祖戰士",
+       "先祖弓手"
+      ],
+      "en": [
+       "Ancestral Channeler",
+       "Ancestral Guardian",
+       "Ancestral Headtaker",
+       "Ancestral Hornbearer",
+       "Ancestral Warrior",
+       "Ancestral Archer"
+      ]
+     }
     },
     {
      "slug": "Trial_of_the_Ancestors",
@@ -15340,7 +16648,33 @@
      "conn": [
       "Kingsmarch",
       "Solitary_Confinement"
-     ]
+     ],
+     "mons": {
+      "zh-Hant": [
+       "永恆施刑者",
+       "喚起的骷髏",
+       "刺脊死靈法師",
+       "靈魂看守者．弗瑞爾",
+       "遭啃食的鼠屍",
+       "焦躁絞刑架",
+       "永恆牢犯",
+       "潛行骷髏",
+       "永恆軍衛",
+       "墮落軍需官"
+      ],
+      "en": [
+       "Eternal Torturer",
+       "Risen Rattler",
+       "Spined Necromancer",
+       "Forael, the Soulkeeper",
+       "Eaten Rat",
+       "Rattling Gibbet",
+       "Eternal Prisoner",
+       "Prowling Skeleton",
+       "Eternal Guard",
+       "Fallen Quartermaster"
+      ]
+     }
     },
     {
      "slug": "Solitary_Confinement",
@@ -15413,7 +16747,35 @@
      },
      "conn": [
       "Abandoned_Prison"
-     ]
+     ],
+     "mons": {
+      "zh-Hant": [
+       "永恆軍衛",
+       "潛行骷髏",
+       "珊瑚冠骷髏",
+       "刺脊死靈法師",
+       "洞窟懼靈",
+       "蒼白滅潮者",
+       "球莖裂齒獸",
+       "蒼白誘拐者",
+       "蒼白斬潮者",
+       "蒼白步潮者",
+       "裂齒鮟鱇魚"
+      ],
+      "en": [
+       "Eternal Guard",
+       "Prowling Skeleton",
+       "Coral-crowned Skeleton",
+       "Spined Necromancer",
+       "Slimy Stalker",
+       "Pale Tidecrasher",
+       "Bulbous Maw",
+       "Pale Abductor",
+       "Pale Brinesplitter",
+       "Pale Waterwalker",
+       "Angler Maw"
+      ]
+     }
     },
     {
      "slug": "Shrike_Island",
@@ -15518,7 +16880,29 @@
      },
      "conn": [
       "Kingsmarch"
-     ]
+     ],
+     "mons": {
+      "zh-Hant": [
+       "漆黑伯勞鳥",
+       "反芻伯勞鳥",
+       "惡涎反芻鳥",
+       "食人伯勞鳥",
+       "巨型伯勞鳥",
+       "拼湊骷髏",
+       "食腐反芻鳥",
+       "惡魔禿鷹"
+      ],
+      "en": [
+       "Raven Shrike",
+       "Gull Shrike",
+       "Vilespit Gull",
+       "Manshrike",
+       "Goliath Shrike",
+       "Scavenged Skeleton",
+       "Carrion Gull",
+       "Vile Vulture"
+      ]
+     }
     },
     {
      "slug": "Arastas",
@@ -15663,6 +17047,32 @@
       ],
       "en": [
        "Benedictus, First Herald of Utopia"
+      ]
+     },
+     "mons": {
+      "zh-Hant": [
+       "黎明教團士兵",
+       "黎明教團軍官",
+       "正義的執斧者",
+       "忠誠的戰士",
+       "忠誠的弓箭手",
+       "狂熱守衛",
+       "狂熱電擊衛者",
+       "狂熱毀柱者",
+       "狂熱獵手",
+       "狂熱挖掘者"
+      ],
+      "en": [
+       "Twilight Order Soldier",
+       "Twilight Order Officer",
+       "Righteous Axewielder",
+       "Faithful Warrior",
+       "Faithful Archer",
+       "Zealous Guard",
+       "Zealous Shockwarden",
+       "Zealous Pillarcrusher",
+       "Zealous Courser",
+       "Zealous Excavator"
       ]
      }
     },
@@ -15826,6 +17236,30 @@
       ],
       "en": [
        "Tavakai, the Chieftain"
+      ]
+     },
+     "mons": {
+      "zh-Hant": [
+       "血熱鐵鉤手",
+       "血熱斧鉞士",
+       "血熱酒息者",
+       "血熱戰士",
+       "血熱錘手",
+       "血熱縱火狂",
+       "血熱長矛手",
+       "血熱瘟疫散播者",
+       "血熱女智者"
+      ],
+      "en": [
+       "Blood-fevered Hookman",
+       "Blood-fevered Axeman",
+       "Blood-fevered Brew-breather",
+       "Blood-fevered Warrior",
+       "Blood-fevered Maceman",
+       "Blood-fevered Arsonist",
+       "Blood-fevered Spearman",
+       "Blood-fevered Plaguespreader",
+       "Blood-fevered Wisewoman"
       ]
      }
     },
